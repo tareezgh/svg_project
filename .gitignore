@@ -1,2 +1,10 @@
 /segmented_svgs
 /repeated
+/huggingface_svgs
+/segmented_huggingface_svgs
+/highlighted_pngs
+/highlighted_svgs
+/gemini_responses
+/__pycache__
+
+*.html

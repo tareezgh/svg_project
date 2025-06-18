@@ -18,7 +18,7 @@ def extract_segments_info(svg_dir):
     processed_files = set()  # Track processed files to avoid duplicates
 
     # First, find all original SVGs in the root directories
-    original_dirs = ['svgs', 'svgs2', '3dColorful']
+    original_dirs = ['hugging-1000',]# 'svgs2', '3dColorful']
     for original_dir in original_dirs:
         original_root = os.path.join(os.path.dirname(svg_dir), original_dir)
         if not os.path.exists(original_root):
@@ -32,7 +32,7 @@ def extract_segments_info(svg_dir):
                 originals_map[original_name] = original_path
 
     # Then process segments
-    for parent_dir in ['svgs', 'svgs2', '3dColorful']:
+    for parent_dir in ["hugging-1000"]:#'svgs', 'svgs2', '3dColorful']:
         segments_dir = os.path.join(svg_dir, parent_dir)
         if not os.path.exists(segments_dir):
             continue
@@ -223,13 +223,13 @@ def create_preview_page(svg_dir, output_dir):
     """
     
     # Add navigation items
-    for original_name in sorted(segments_map.keys()):
+    for idx, original_name in enumerate(sorted(segments_map.keys()), 1):
         if original_name in originals_map:  # Only show SVGs that have originals
             original_path = originals_map[original_name]
             folder_name = Path(original_path).parent.name
             html_content += f"""
                         <li>
-                            <button onclick="loadOriginalSVG('{original_name}')">{folder_name} / {original_name}</button>
+                            <button onclick="loadOriginalSVG('{original_name}')">{idx}. {folder_name} / {original_name}</button>
                         </li>
             """
     
