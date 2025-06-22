@@ -6,6 +6,8 @@ from pathlib import Path
 import inquirer
 from tqdm import tqdm
 from convert_svg_highlights_to_png import convert_svg_folder
+import cairosvg
+
 
 def apply_transparency(svg_element, opacity):
     """
@@ -174,6 +176,32 @@ def add_black_overlay(svg_root, highlighted_group, opacity=0.9):
     svg_root.append(overlay)
     svg_root.append(highlighted_group)
 
+def convert_full_svg_to_png(originals_dir, selected_folder, svg_id, output_folder):
+    """
+    Converts full SVG from svgs/{selected_folder}/{svg_id}.svg to PNG as
+    highlighted_pngs/{selected_folder}/{svg_id}/{svg_id}-full.png
+    """
+    svg_path = Path(".") / selected_folder / f"{svg_id}.svg"
+    output_path = Path(output_folder) / selected_folder / svg_id / f"{svg_id}-full.png"
+
+    if not svg_path.exists():
+        print(f"⚠️ Full SVG not found at: {svg_path}")
+        return
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    try:
+        import cairosvg
+        cairosvg.svg2png(
+            url=str(svg_path),
+            write_to=str(output_path),
+            output_width=512,
+            output_height=512
+        )
+        print(f"✅ Saved full PNG: {output_path}")
+    except Exception as e:
+        print(f"❌ Failed to convert full SVG to PNG for {svg_id}: {e}")
+
 
 def main():
     originals_dir = 'svgs'
@@ -216,6 +244,23 @@ def main():
     output_png_folder = Path(png_output_dir) / selected_folder
     convert_svg_folder(input_highlighted_folder, output_png_folder)
     print(f"🎉 PNGs saved in: {png_output_dir}")
+
+    # Convert full SVGs for each svg_id (i.e. each subfolder)
+    segmented_subfolders = Path(segments_dir) / selected_folder
+    for svg_subdir in segmented_subfolders.iterdir():
+        if not svg_subdir.is_dir():
+            continue
+
+        svg_id = svg_subdir.name  # e.g. 'authentication-5'
+
+        convert_full_svg_to_png(
+            originals_dir=originals_dir,
+            selected_folder=selected_folder,
+            svg_id=svg_id,
+            output_folder=png_output_dir
+        )
+
+
 
 if __name__ == "__main__":
     main()

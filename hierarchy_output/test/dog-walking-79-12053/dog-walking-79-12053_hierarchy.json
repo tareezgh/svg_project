@@ -1,0 +1,411 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full dog-walking-79-12053",
+      "parent": -1,
+      "mask_path": null,
+      "description": "A woman walks her dog along a path through a park with trees and lampposts."
+    },
+    {
+      "id": 1,
+      "filename": "dog-walking-79-12053_element_1.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_1_highlighted.png",
+      "description": "The flat, green grassy area around the path."
+    },
+    {
+      "id": 2,
+      "filename": "dog-walking-79-12053_element_10.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_10_highlighted.png",
+      "description": "A grey paved path through a park."
+    },
+    {
+      "id": 3,
+      "filename": "dog-walking-79-12053_element_11.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_11_highlighted.png",
+      "description": "A pale blue round street light."
+    },
+    {
+      "id": 4,
+      "filename": "dog-walking-79-12053_element_12.svg",
+      "parent": 3,
+      "mask_path": "dog-walking-79-12053_element_12_highlighted.png",
+      "description": "A white round street light."
+    },
+    {
+      "id": 5,
+      "filename": "dog-walking-79-12053_element_13.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_13_highlighted.png",
+      "description": "A dark green tree with an oval shape."
+    },
+    {
+      "id": 6,
+      "filename": "dog-walking-79-12053_element_14.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_14_highlighted.png",
+      "description": "A dark grey, cylindrical lamp post base."
+    },
+    {
+      "id": 7,
+      "filename": "dog-walking-79-12053_element_15.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_15_highlighted.png",
+      "description": "A short, rectangular, brown tree trunk."
+    },
+    {
+      "id": 8,
+      "filename": "dog-walking-79-12053_element_16.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_16_highlighted.png",
+      "description": "A soft white cylindrical lamp post."
+    },
+    {
+      "id": 9,
+      "filename": "dog-walking-79-12053_element_17.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_17_highlighted.png",
+      "description": "A reddish-brown tree trunk."
+    },
+    {
+      "id": 10,
+      "filename": "dog-walking-79-12053_element_18.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_18_highlighted.png",
+      "description": "The leafy green part of a tree."
+    },
+    {
+      "id": 11,
+      "filename": "dog-walking-79-12053_element_19.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_19_highlighted.png",
+      "description": "A reddish-brown tree trunk."
+    },
+    {
+      "id": 12,
+      "filename": "dog-walking-79-12053_element_2.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_2_highlighted.png",
+      "description": "A light grey curved path, probably concrete."
+    },
+    {
+      "id": 13,
+      "filename": "dog-walking-79-12053_element_20.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_20_highlighted.png",
+      "description": "The leafy green part of a tree."
+    },
+    {
+      "id": 14,
+      "filename": "dog-walking-79-12053_element_21.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_21_highlighted.png",
+      "description": "The leafy blue part of a tree."
+    },
+    {
+      "id": 15,
+      "filename": "dog-walking-79-12053_element_22.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_22_highlighted.png",
+      "description": "The leafy blue part of a tree."
+    },
+    {
+      "id": 16,
+      "filename": "dog-walking-79-12053_element_23.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_23_highlighted.png",
+      "description": "A reddish-brown tree trunk."
+    },
+    {
+      "id": 17,
+      "filename": "dog-walking-79-12053_element_24.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_24_highlighted.png",
+      "description": "The leafy green part of a tree."
+    },
+    {
+      "id": 18,
+      "filename": "dog-walking-79-12053_element_25.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_25_highlighted.png",
+      "description": "A red-brown dachshund dog on a leash."
+    },
+    {
+      "id": 19,
+      "filename": "dog-walking-79-12053_element_26.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_26_highlighted.png",
+      "description": "A hand holding the leash, with a phone visible."
+    },
+    {
+      "id": 20,
+      "filename": "dog-walking-79-12053_element_27.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_27_highlighted.png",
+      "description": "A paved, curved sidewalk."
+    },
+    {
+      "id": 21,
+      "filename": "dog-walking-79-12053_element_28.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_28_highlighted.png",
+      "description": "A curved, paved sidewalk in a park."
+    },
+    {
+      "id": 22,
+      "filename": "dog-walking-79-12053_element_29.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_29_highlighted.png",
+      "description": "The heel of a shoe."
+    },
+    {
+      "id": 23,
+      "filename": "dog-walking-79-12053_element_3.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_3_highlighted.png",
+      "description": "There is nothing highlighted in the image"
+    },
+    {
+      "id": 24,
+      "filename": "dog-walking-79-12053_element_30.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_30_highlighted.png",
+      "description": "A black leash that connects to the dog."
+    },
+    {
+      "id": 25,
+      "filename": "dog-walking-79-12053_element_31.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_31_highlighted.png",
+      "description": "The shoe of a person walking."
+    },
+    {
+      "id": 26,
+      "filename": "dog-walking-79-12053_element_32.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_32_highlighted.png",
+      "description": "A brown dachshund on a leash."
+    },
+    {
+      "id": 27,
+      "filename": "dog-walking-79-12053_element_33.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_33_highlighted.png",
+      "description": "A brown dachshund on a black leash."
+    },
+    {
+      "id": 28,
+      "filename": "dog-walking-79-12053_element_34.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_34_highlighted.png",
+      "description": "A section of turquoise fabric of a wide leg pants"
+    },
+    {
+      "id": 29,
+      "filename": "dog-walking-79-12053_element_35.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_35_highlighted.png",
+      "description": "A section of turquoise fabric of a wide leg pants"
+    },
+    {
+      "id": 30,
+      "filename": "dog-walking-79-12053_element_36.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_36_highlighted.png",
+      "description": "A pink torso of a long-sleeved top."
+    },
+    {
+      "id": 31,
+      "filename": "dog-walking-79-12053_element_37.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_37_highlighted.png",
+      "description": "An orange spot over the ear, maybe from listening device."
+    },
+    {
+      "id": 32,
+      "filename": "dog-walking-79-12053_element_38.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_38_highlighted.png",
+      "description": "A purple beanie."
+    },
+    {
+      "id": 33,
+      "filename": "dog-walking-79-12053_element_39.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_39_highlighted.png",
+      "description": "A hand holding a black leash."
+    },
+    {
+      "id": 34,
+      "filename": "dog-walking-79-12053_element_4.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_4_highlighted.png",
+      "description": "The top of a lamp post, which has a spherical light"
+    },
+    {
+      "id": 35,
+      "filename": "dog-walking-79-12053_element_40.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_40_highlighted.png",
+      "description": "A blueish/white spot over the ear, maybe from listening device."
+    },
+    {
+      "id": 36,
+      "filename": "dog-walking-79-12053_element_41.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_41_highlighted.png",
+      "description": "A blue headband"
+    },
+    {
+      "id": 37,
+      "filename": "dog-walking-79-12053_element_42.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_42_highlighted.png",
+      "description": "The back of a dark pink coat"
+    },
+    {
+      "id": 38,
+      "filename": "dog-walking-79-12053_element_43.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_43_highlighted.png",
+      "description": "The back of a dark pink coat"
+    },
+    {
+      "id": 39,
+      "filename": "dog-walking-79-12053_element_44.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_44_highlighted.png",
+      "description": "The torso of a dark pink coat"
+    },
+    {
+      "id": 40,
+      "filename": "dog-walking-79-12053_element_45.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_45_highlighted.png",
+      "description": "The torso of a dark pink coat"
+    },
+    {
+      "id": 41,
+      "filename": "dog-walking-79-12053_element_46.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_46_highlighted.png",
+      "description": "A small orange dog collar"
+    },
+    {
+      "id": 42,
+      "filename": "dog-walking-79-12053_element_47.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_47_highlighted.png",
+      "description": "A small orange dog collar"
+    },
+    {
+      "id": 43,
+      "filename": "dog-walking-79-12053_element_48.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_48_highlighted.png",
+      "description": "A dachshund dog's entire body"
+    },
+    {
+      "id": 44,
+      "filename": "dog-walking-79-12053_element_49.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_49_highlighted.png",
+      "description": "A red dachshund dog torso."
+    },
+    {
+      "id": 45,
+      "filename": "dog-walking-79-12053_element_5.svg",
+      "parent": 34,
+      "mask_path": "dog-walking-79-12053_element_5_highlighted.png",
+      "description": "The top of a lamp post, which has a spherical light."
+    },
+    {
+      "id": 46,
+      "filename": "dog-walking-79-12053_element_50.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_50_highlighted.png",
+      "description": "An orange dog toy."
+    },
+    {
+      "id": 47,
+      "filename": "dog-walking-79-12053_element_51.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_51_highlighted.png",
+      "description": "A crescent shape on the end of a dog leash."
+    },
+    {
+      "id": 48,
+      "filename": "dog-walking-79-12053_element_52.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_52_highlighted.png",
+      "description": "The top of a dachshund dog's head."
+    },
+    {
+      "id": 49,
+      "filename": "dog-walking-79-12053_element_53.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_53_highlighted.png",
+      "description": "A red collar around the neck of a dog."
+    },
+    {
+      "id": 50,
+      "filename": "dog-walking-79-12053_element_54.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_54_highlighted.png",
+      "description": "A circular object on the dachshund\u2019s head."
+    },
+    {
+      "id": 51,
+      "filename": "dog-walking-79-12053_element_55.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_55_highlighted.png",
+      "description": "A red dachshund nose."
+    },
+    {
+      "id": 52,
+      "filename": "dog-walking-79-12053_element_56.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_56_highlighted.png",
+      "description": "A dachshund dog's chest."
+    },
+    {
+      "id": 53,
+      "filename": "dog-walking-79-12053_element_57.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_57_highlighted.png",
+      "description": "A smooth, light-grey pedestrian path."
+    },
+    {
+      "id": 54,
+      "filename": "dog-walking-79-12053_element_6.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_6_highlighted.png",
+      "description": "There is nothing highlighted in the image"
+    },
+    {
+      "id": 55,
+      "filename": "dog-walking-79-12053_element_7.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_7_highlighted.png",
+      "description": "A small cone-shaped light fixture."
+    },
+    {
+      "id": 56,
+      "filename": "dog-walking-79-12053_element_8.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_8_highlighted.png",
+      "description": "There is nothing highlighted in the image"
+    },
+    {
+      "id": 57,
+      "filename": "dog-walking-79-12053_element_9.svg",
+      "parent": 0,
+      "mask_path": "dog-walking-79-12053_element_9_highlighted.png",
+      "description": "A brown dachshund dog on a leash."
+    }
+  ]
+}

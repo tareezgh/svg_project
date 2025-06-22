@@ -51,20 +51,8 @@ def send_images_with_prompt(image_paths, prompt):
             }
         })
 
-        # parts.append({
-        #     "text": f"The image above is **{image_path.name}**"
-        # })
         parts.append({ "text": f"The image just above is named: **{image_path.name}**. Only describe what is visible in it." })
 
-
-
-    # for encoded_image in base64_images:
-    #     parts.append({
-    #         "inlineData": {
-    #             "mimeType": "image/png",
-    #             "data": encoded_image
-    #         }
-    #     })
 
     payload = {
         "contents": [
@@ -166,20 +154,100 @@ def chunk_list(lst, chunk_size):
     for i in range(0, len(lst), chunk_size):
         yield lst[i:i + chunk_size]
 
+def send_full_scene_image(full_png_path):
+    """
+    Sends the full scene PNG image to Gemini to get a global description and style.
+    """
+    # prompt = (
+    #     "You are given a full scene image. Describe the overall content, layout, and visual style. "
+    #     "Return the result in JSON format with two fields:\n"
+    #     "- global_style: a short description of the scene's artistic style (e.g., 'minimalist', 'realistic cartoon')\n"
+    #     "- description: a rich, high-level summary of what the scene depicts overall as text-to-image model\n"
+    #     "Example:\n"
+    #     "{ \"global_style\": \"minimalist vector art\", \"description\": \"A login screen on a laptop with a person sitting in front.\" }"
+    # )
+
+    prompt = (
+        "You are given a full scene image. Your job is to analyze its visual style and describe what the scene shows.\n\n"
+        "1. Describe the **artistic style** in a short, precise phrase. Be specific, using labels such as:\n"
+        "- isometric vector illustration (3D-like with depth and angled walls)\n"
+        "- flat 2D illustration (no depth or perspective)\n"
+        "- cartoon-style vector\n"
+        "- infographic diagram\n"
+        "- hand-drawn comic style\n"
+        "- pixel art\n"
+        "- photorealistic rendering\n"
+        "Base this on the layout, depth cues, shadows, angles, and design style — not just color or subject.\n\n"
+        "2. Provide a high-level scene description (not too detailed) that tells what is happening or shown.\n\n"
+        "Respond strictly in this JSON format:\n"
+        "{\n"
+        "  \"global_style\": \"...\",\n"
+        "  \"description\": \"...\"\n"
+        "}"
+    )
+
+
+    with open(full_png_path, "rb") as f:
+        encoded_image = base64.b64encode(f.read()).decode("utf-8")
+
+    payload = {
+        "contents": [
+            {
+                "parts": [
+                    {"text": prompt},
+                    {
+                        "inlineData": {
+                            "mimeType": "image/png",
+                            "data": encoded_image
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+
+    url = f"{GEMINI_API_URL}?key={GEMINI_API_KEY}"
+
+    try:
+        response = requests.post(
+            url,
+            headers={"Content-Type": "application/json"},
+            json=payload
+        )
+        response.raise_for_status()
+        content = response.json()
+        text = content["candidates"][0]["content"]["parts"][0].get("text", "")
+        if not text:
+            raise ValueError("Empty response text from Gemini.")
+        
+        text = text.strip().removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+
+        try:
+            parsed = json.loads(text)
+        except json.JSONDecodeError as e:
+            print(f"⚠️ Gemini response is not valid JSON:\n{text}")
+            raise e
+
+        return parsed
+
+    except Exception as e:
+        print(f"❌ Failed to describe full scene image {full_png_path.name}: {e}")
+        return {"global_style": "", "description": ""}
+
 def send_grouped_pngs(input_dir, output_json_dir, prompt, chunk_size=8):
     """
-    Groups PNGs by their parent directory and sends each group in chunks to Gemini AI.
-    Saves all responses in a single JSON file per group.
+    Sends the full scene image FIRST, then sends grouped segmented PNGs to Gemini.
+    Saves full scene metadata and chunked responses separately for each group.
     """
     input_dir = Path(input_dir)
     output_json_dir = Path(output_json_dir)
-    
+
     # Group PNGs by their immediate parent folder name
     grouped_pngs = {}
     for png_file in input_dir.rglob("*.png"):
         parent_folder = png_file.parent.relative_to(input_dir)
         grouped_pngs.setdefault(parent_folder, []).append(png_file)
-    
+
     if not grouped_pngs:
         print(f"⚠️ No PNG files found in {input_dir}")
         return
@@ -187,10 +255,29 @@ def send_grouped_pngs(input_dir, output_json_dir, prompt, chunk_size=8):
     print(f"🚀 Sending {len(grouped_pngs)} groups of PNGs from {input_dir} to Gemini AI...")
 
     for group_name, png_files in tqdm(grouped_pngs.items(), desc="Sending groups", unit="group"):
-        sorted_png_files = sorted(png_files, key=lambda x: extract_element_number(x.name))
-        all_formatted_responses = []
+        full_png_path = next((f for f in png_files if f.name.endswith("-full.png")), None)
+        response_dir = output_json_dir / group_name
+        response_dir.mkdir(parents=True, exist_ok=True)
 
-        for i, image_chunk in enumerate(chunk_list(sorted_png_files, chunk_size)):
+        # 1. Send full PNG first
+        full_info = {"global_style": "", "description": ""}
+        if full_png_path and full_png_path.exists():
+            full_info = send_full_scene_image(full_png_path)
+            metadata_path = response_dir / "scene_metadata.json"
+            with open(metadata_path, "w") as f:
+                json.dump(full_info, f, indent=2)
+            tqdm.write(f"📝 Saved scene metadata: {metadata_path}")
+        else:
+            tqdm.write(f"⚠️ No full PNG found for {group_name}, skipping full scene description.")
+
+        # 2. Send segmented PNGs (excluding the full PNG)
+        segmented_pngs = sorted(
+            [f for f in png_files if not f.name.endswith("-full.png")],
+            key=lambda x: extract_element_number(x.name)
+        )
+
+        all_formatted_responses = []
+        for i, image_chunk in enumerate(chunk_list(segmented_pngs, chunk_size)):
             response = send_images_with_prompt(image_chunk, prompt)
             if response is not None:
                 formatted_chunk = parse_and_format_response(image_chunk, response)
@@ -203,11 +290,11 @@ def send_grouped_pngs(input_dir, output_json_dir, prompt, chunk_size=8):
                 all_formatted_responses.extend(fallback_chunk)
                 print(f"⚠️ Skipped chunk {group_name}/{i} due to an error.")
 
-        output_path = output_json_dir / group_name / "response.json"
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-        with open(output_path, "w") as f:
+        # 3. Save segmented descriptions
+        response_path = response_dir / "response.json"
+        with open(response_path, "w") as f:
             json.dump(all_formatted_responses, f, indent=2)
-        tqdm.write(f"✅ Saved combined response: {output_path}")
+        tqdm.write(f"✅ Saved combined response: {response_path}")
 
     print(f"🎉 Completed sending all PNG groups. Responses saved in {output_json_dir}")
 

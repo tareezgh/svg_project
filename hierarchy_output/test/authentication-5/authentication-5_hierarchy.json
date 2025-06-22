@@ -1,0 +1,355 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full authentication-5",
+      "parent": -1,
+      "mask_path": null,
+      "description": "A person sits in a chair, using a tablet, next to a large laptop displaying a password entry screen with a lock icon."
+    },
+    {
+      "id": 1,
+      "filename": "authentication-5_element_116.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_116_highlighted.png",
+      "description": "An orange desk surface, likely made of wood."
+    },
+    {
+      "id": 2,
+      "filename": "authentication-5_element_117.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_117_highlighted.png",
+      "description": "A small green houseplant with rounded leaves."
+    },
+    {
+      "id": 3,
+      "filename": "authentication-5_element_118.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_118_highlighted.png",
+      "description": "A short brown cylindrical plant stem."
+    },
+    {
+      "id": 4,
+      "filename": "authentication-5_element_119.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_119_highlighted.png",
+      "description": "Several long dark-green, pointy houseplant leaves"
+    },
+    {
+      "id": 5,
+      "filename": "authentication-5_element_120.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_120_highlighted.png",
+      "description": "A small yellow, round decoration or table lamp."
+    },
+    {
+      "id": 6,
+      "filename": "authentication-5_element_121.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_121_highlighted.png",
+      "description": "A blue outline of the laptop screen"
+    },
+    {
+      "id": 7,
+      "filename": "authentication-5_element_122.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_122_highlighted.png",
+      "description": "The white keys of a laptop keyboard."
+    },
+    {
+      "id": 8,
+      "filename": "authentication-5_element_123.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_123_highlighted.png",
+      "description": "The bright blue display of a laptop screen."
+    },
+    {
+      "id": 9,
+      "filename": "authentication-5_element_124.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_124_highlighted.png",
+      "description": "A rectangular, glowing blue laptop touchpad."
+    },
+    {
+      "id": 10,
+      "filename": "authentication-5_element_125.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_125_highlighted.png",
+      "description": "The laptop screen is bright blue, with a password entry screen displayed."
+    },
+    {
+      "id": 11,
+      "filename": "authentication-5_element_126.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_126_highlighted.png",
+      "description": "A tiny, illuminated green circle indicating something on the person's hand, perhaps a button or light."
+    },
+    {
+      "id": 12,
+      "filename": "authentication-5_element_127.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_127_highlighted.png",
+      "description": "A blue highlight on one of the woman's shoes."
+    },
+    {
+      "id": 13,
+      "filename": "authentication-5_element_128.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_128_highlighted.png",
+      "description": "The woman's shin is glowing lime green."
+    },
+    {
+      "id": 14,
+      "filename": "authentication-5_element_129.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_129_highlighted.png",
+      "description": "The person's back and upper arm glows light green, likely part of her clothing."
+    },
+    {
+      "id": 15,
+      "filename": "authentication-5_element_130.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_130_highlighted.png",
+      "description": "The back of the character's head is lit"
+    },
+    {
+      "id": 16,
+      "filename": "authentication-5_element_131.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_131_highlighted.png",
+      "description": "A light-blue phone screen with a rounded camera outline."
+    },
+    {
+      "id": 17,
+      "filename": "authentication-5_element_132.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_132_highlighted.png",
+      "description": "A lit-up laptop screen with a lock icon and an avatar next to a text field."
+    },
+    {
+      "id": 18,
+      "filename": "authentication-5_element_133.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_133_highlighted.png",
+      "description": "The small screen of a mobile phone held by a person."
+    },
+    {
+      "id": 19,
+      "filename": "authentication-5_element_134.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_134_highlighted.png",
+      "description": "The lenses and frame of a pair of glasses."
+    },
+    {
+      "id": 20,
+      "filename": "authentication-5_element_135.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_135_highlighted.png",
+      "description": "The top portion of a mobile phone, held by a person."
+    },
+    {
+      "id": 21,
+      "filename": "authentication-5_element_136.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_136_highlighted.png",
+      "description": "A pinky finger pressing on a mobile phone screen."
+    },
+    {
+      "id": 22,
+      "filename": "authentication-5_element_137.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_137_highlighted.png",
+      "description": "A bright blue mobile phone screen, held in someone's hands."
+    },
+    {
+      "id": 23,
+      "filename": "authentication-5_element_138.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_138_highlighted.png",
+      "description": "The screen of a cell phone, with its rear-facing camera visible."
+    },
+    {
+      "id": 24,
+      "filename": "authentication-5_element_139.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_139_highlighted.png",
+      "description": "The top of the person's head."
+    },
+    {
+      "id": 25,
+      "filename": "authentication-5_element_140.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_140_highlighted.png",
+      "description": "The screen of a laptop displaying a password input prompt with a lock icon."
+    },
+    {
+      "id": 26,
+      "filename": "authentication-5_element_141.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_141_highlighted.png",
+      "description": "The upper body of a person sitting on a beanbag chair, holding a phone."
+    },
+    {
+      "id": 27,
+      "filename": "authentication-5_element_142.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_142_highlighted.png",
+      "description": "The smartphone in a person's hands."
+    },
+    {
+      "id": 28,
+      "filename": "authentication-5_element_143.svg",
+      "parent": 27,
+      "mask_path": "authentication-5_element_143_highlighted.png",
+      "description": "A small white checkmark on the screen of the smartphone."
+    },
+    {
+      "id": 29,
+      "filename": "authentication-5_element_144.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_144_highlighted.png",
+      "description": "A yellow beanbag chair."
+    },
+    {
+      "id": 30,
+      "filename": "authentication-5_element_145.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_145_highlighted.png",
+      "description": "A rectangular framed picture hanging on the wall."
+    },
+    {
+      "id": 31,
+      "filename": "authentication-5_element_146.svg",
+      "parent": 0,
+      "mask_path": "authentication-5_element_146_highlighted.png",
+      "description": "The same rectangular framed picture hanging on the wall as the previous image."
+    },
+    {
+      "id": 32,
+      "filename": "authentication-5_element_147.svg",
+      "parent": 8,
+      "mask_path": "authentication-5_element_147_highlighted.png",
+      "description": "The screen of a laptop."
+    },
+    {
+      "id": 33,
+      "filename": "authentication-5_element_148.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_148_highlighted.png",
+      "description": "A white, rectangular bar is visible on the laptop screen, likely for typing in an authentication code."
+    },
+    {
+      "id": 34,
+      "filename": "authentication-5_element_149.svg",
+      "parent": 33,
+      "mask_path": "authentication-5_element_149_highlighted.png",
+      "description": "A small, light blue dot is on the laptop screen, likely part of a password input field."
+    },
+    {
+      "id": 35,
+      "filename": "authentication-5_element_150.svg",
+      "parent": 33,
+      "mask_path": "authentication-5_element_150_highlighted.png",
+      "description": "A small, light blue dot is on the laptop screen, likely part of a password input field."
+    },
+    {
+      "id": 36,
+      "filename": "authentication-5_element_151.svg",
+      "parent": 33,
+      "mask_path": "authentication-5_element_151_highlighted.png",
+      "description": "A small, light blue dot is on the laptop screen, likely part of a password input field."
+    },
+    {
+      "id": 37,
+      "filename": "authentication-5_element_152.svg",
+      "parent": 33,
+      "mask_path": "authentication-5_element_152_highlighted.png",
+      "description": "A small, light blue dot is on the laptop screen, likely part of a password input field."
+    },
+    {
+      "id": 38,
+      "filename": "authentication-5_element_153.svg",
+      "parent": 33,
+      "mask_path": "authentication-5_element_153_highlighted.png",
+      "description": "A small, light blue dot is on the laptop screen, likely part of a password input field."
+    },
+    {
+      "id": 39,
+      "filename": "authentication-5_element_154.svg",
+      "parent": 33,
+      "mask_path": "authentication-5_element_154_highlighted.png",
+      "description": "A small, light blue dot is on the laptop screen, likely part of a password input field."
+    },
+    {
+      "id": 40,
+      "filename": "authentication-5_element_155.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_155_highlighted.png",
+      "description": "A large, white, stylized \"C\" is visible on the laptop screen."
+    },
+    {
+      "id": 41,
+      "filename": "authentication-5_element_156.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_156_highlighted.png",
+      "description": "A small turquoise circle representing data being processed on the screen."
+    },
+    {
+      "id": 42,
+      "filename": "authentication-5_element_157.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_157_highlighted.png",
+      "description": "A small turquoise circle on a computer screen, probably indicating processing."
+    },
+    {
+      "id": 43,
+      "filename": "authentication-5_element_158.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_158_highlighted.png",
+      "description": "A light grey dash representing a character of the password on the screen."
+    },
+    {
+      "id": 44,
+      "filename": "authentication-5_element_159.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_159_highlighted.png",
+      "description": "A light grey dash representing a password character on the screen."
+    },
+    {
+      "id": 45,
+      "filename": "authentication-5_element_160.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_160_highlighted.png",
+      "description": "A small, upright, angular, turquoise line representing a typed character in the password field on the laptop screen."
+    },
+    {
+      "id": 46,
+      "filename": "authentication-5_element_161.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_161_highlighted.png",
+      "description": "A turquoise square representing the lock icon on the laptop screen."
+    },
+    {
+      "id": 47,
+      "filename": "authentication-5_element_162.svg",
+      "parent": 32,
+      "mask_path": "authentication-5_element_162_highlighted.png",
+      "description": "An unlocked lock icon on the laptop screen."
+    },
+    {
+      "id": 48,
+      "filename": "authentication-5_element_163.svg",
+      "parent": 46,
+      "mask_path": "authentication-5_element_163_highlighted.png",
+      "description": "A dark grey padlock icon on the laptop screen."
+    },
+    {
+      "id": 49,
+      "filename": "authentication-5_element_164.svg",
+      "parent": 46,
+      "mask_path": "authentication-5_element_164_highlighted.png",
+      "description": "A black padlock icon with a thin white highlight, displayed on a laptop screen."
+    }
+  ]
+}

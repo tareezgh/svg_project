@@ -1,0 +1,306 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full financial-analyst-74",
+      "parent": -1,
+      "mask_path": null,
+      "description": "An isometric view of a person sitting at a desk in an office. There is a graph, money, and other charts around the room."
+    },
+    {
+      "id": 1,
+      "filename": "financial-analyst-74_element_100.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_100_highlighted.png",
+      "description": "An orange ear and cheek."
+    },
+    {
+      "id": 2,
+      "filename": "financial-analyst-74_element_101.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_101_highlighted.png",
+      "description": "A white shirt."
+    },
+    {
+      "id": 3,
+      "filename": "financial-analyst-74_element_102.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_102_highlighted.png",
+      "description": "A blue chest."
+    },
+    {
+      "id": 4,
+      "filename": "financial-analyst-74_element_103.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_103_highlighted.png",
+      "description": "A blue necktie."
+    },
+    {
+      "id": 5,
+      "filename": "financial-analyst-74_element_104.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_104_highlighted.png",
+      "description": "Long, red hair."
+    },
+    {
+      "id": 6,
+      "filename": "financial-analyst-74_element_105.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_105_highlighted.png",
+      "description": "A turquoise chair back."
+    },
+    {
+      "id": 7,
+      "filename": "financial-analyst-74_element_106.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_106_highlighted.png",
+      "description": "The flat orange surface of a desk with rounded corners."
+    },
+    {
+      "id": 8,
+      "filename": "financial-analyst-74_element_107.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_107_highlighted.png",
+      "description": "A stack of three gold-colored coins."
+    },
+    {
+      "id": 9,
+      "filename": "financial-analyst-74_element_108.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_108_highlighted.png",
+      "description": "A teal and dark blue rectangular monitor or whiteboard."
+    },
+    {
+      "id": 10,
+      "filename": "financial-analyst-74_element_109.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_109_highlighted.png",
+      "description": "A downward curving, thin, dark blue line against a dark teal background, likely a graph on a monitor."
+    },
+    {
+      "id": 11,
+      "filename": "financial-analyst-74_element_110.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_110_highlighted.png",
+      "description": "A vertical thin blue line against a dark teal background, likely a graph on a monitor."
+    },
+    {
+      "id": 12,
+      "filename": "financial-analyst-74_element_111.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_111_highlighted.png",
+      "description": "Two curved white lines against a dark teal background, likely a graph on a monitor."
+    },
+    {
+      "id": 13,
+      "filename": "financial-analyst-74_element_112.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_112_highlighted.png",
+      "description": "A small white circle on a dark teal background, likely part of a graph on a monitor."
+    },
+    {
+      "id": 14,
+      "filename": "financial-analyst-74_element_113.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_113_highlighted.png",
+      "description": "A small white circle on a dark teal background, likely part of a graph on a monitor."
+    },
+    {
+      "id": 15,
+      "filename": "financial-analyst-74_element_114.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_114_highlighted.png",
+      "description": "An orange desk surface with two piles of documents."
+    },
+    {
+      "id": 16,
+      "filename": "financial-analyst-74_element_115.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_115_highlighted.png",
+      "description": "A graphic screen showing a white dot moving along a curved line."
+    },
+    {
+      "id": 17,
+      "filename": "financial-analyst-74_element_74.svg",
+      "parent": 0,
+      "mask_path": "financial-analyst-74_element_74_highlighted.png",
+      "description": "A red flat surface, likely a rug or floor."
+    },
+    {
+      "id": 18,
+      "filename": "financial-analyst-74_element_75.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_75_highlighted.png",
+      "description": "A gold-colored coin with an embossed dollar sign."
+    },
+    {
+      "id": 19,
+      "filename": "financial-analyst-74_element_76.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_76_highlighted.png",
+      "description": "A gold-colored coin with an embossed dollar sign."
+    },
+    {
+      "id": 20,
+      "filename": "financial-analyst-74_element_77.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_77_highlighted.png",
+      "description": "A gold-colored coin with an embossed dollar sign."
+    },
+    {
+      "id": 21,
+      "filename": "financial-analyst-74_element_78.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_78_highlighted.png",
+      "description": "A gold-colored coin with an embossed dollar sign."
+    },
+    {
+      "id": 22,
+      "filename": "financial-analyst-74_element_79.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_79_highlighted.png",
+      "description": "The edge of a golden coin with an embossed dollar sign."
+    },
+    {
+      "id": 23,
+      "filename": "financial-analyst-74_element_80.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_80_highlighted.png",
+      "description": "The edge of a gold-colored coin with an embossed dollar sign."
+    },
+    {
+      "id": 24,
+      "filename": "financial-analyst-74_element_81.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_81_highlighted.png",
+      "description": "A gold-colored coin with an embossed dollar sign."
+    },
+    {
+      "id": 25,
+      "filename": "financial-analyst-74_element_82.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_82_highlighted.png",
+      "description": "A small round side table with an orange surface."
+    },
+    {
+      "id": 26,
+      "filename": "financial-analyst-74_element_83.svg",
+      "parent": 27,
+      "mask_path": "financial-analyst-74_element_83_highlighted.png",
+      "description": "Three gold coin icons."
+    },
+    {
+      "id": 27,
+      "filename": "financial-analyst-74_element_84.svg",
+      "parent": 25,
+      "mask_path": "financial-analyst-74_element_84_highlighted.png",
+      "description": "A small round side table with an orange surface."
+    },
+    {
+      "id": 28,
+      "filename": "financial-analyst-74_element_85.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_85_highlighted.png",
+      "description": "Two gold coin icons stacked slightly overlapping."
+    },
+    {
+      "id": 29,
+      "filename": "financial-analyst-74_element_86.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_86_highlighted.png",
+      "description": "Two gold coin icons stacked slightly overlapping."
+    },
+    {
+      "id": 30,
+      "filename": "financial-analyst-74_element_87.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_87_highlighted.png",
+      "description": "Two gold coin icons stacked slightly overlapping."
+    },
+    {
+      "id": 31,
+      "filename": "financial-analyst-74_element_88.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_88_highlighted.png",
+      "description": "Two gold coin icons stacked slightly overlapping."
+    },
+    {
+      "id": 32,
+      "filename": "financial-analyst-74_element_89.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_89_highlighted.png",
+      "description": "Two gold coin icons stacked slightly overlapping."
+    },
+    {
+      "id": 33,
+      "filename": "financial-analyst-74_element_90.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_90_highlighted.png",
+      "description": "A stack of three gold coins on the floor."
+    },
+    {
+      "id": 34,
+      "filename": "financial-analyst-74_element_91.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_91_highlighted.png",
+      "description": "The orange surface of a wooden desk with four legs."
+    },
+    {
+      "id": 35,
+      "filename": "financial-analyst-74_element_92.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_92_highlighted.png",
+      "description": "An orange, rectangular desk surface."
+    },
+    {
+      "id": 36,
+      "filename": "financial-analyst-74_element_93.svg",
+      "parent": 35,
+      "mask_path": "financial-analyst-74_element_93_highlighted.png",
+      "description": "A white rectangular piece of paper or notebook on a desk."
+    },
+    {
+      "id": 37,
+      "filename": "financial-analyst-74_element_94.svg",
+      "parent": 35,
+      "mask_path": "financial-analyst-74_element_94_highlighted.png",
+      "description": "A glowing blue tablet or screen on a desk."
+    },
+    {
+      "id": 38,
+      "filename": "financial-analyst-74_element_95.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_95_highlighted.png",
+      "description": "A white shoe on a person's foot."
+    },
+    {
+      "id": 39,
+      "filename": "financial-analyst-74_element_96.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_96_highlighted.png",
+      "description": "Blue pants on a person sitting in a chair."
+    },
+    {
+      "id": 40,
+      "filename": "financial-analyst-74_element_97.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_97_highlighted.png",
+      "description": "The orange screen of a cellular phone in a person's hands."
+    },
+    {
+      "id": 41,
+      "filename": "financial-analyst-74_element_98.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_98_highlighted.png",
+      "description": "A light brown desk surface."
+    },
+    {
+      "id": 42,
+      "filename": "financial-analyst-74_element_99.svg",
+      "parent": 17,
+      "mask_path": "financial-analyst-74_element_99_highlighted.png",
+      "description": "An orange hand holding a tablet."
+    }
+  ]
+}
