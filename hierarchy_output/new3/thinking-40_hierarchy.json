@@ -1,0 +1,563 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full thinking-40",
+      "parent": -1,
+      "description": "A man is sitting at a desk with a laptop, a plant, and a coffee mug. He is in a thoughtful pose, with a thought bubble above his head."
+    },
+    {
+      "id": 1,
+      "filename": "thinking-40_element_1345.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1345_highlighted.png",
+      "description": "A yellow laptop screen.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "thinking-40_element_1346.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1346_highlighted.png",
+      "description": "A small potted plant with two green leaves.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "thinking-40_element_1347.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1347_highlighted.png",
+      "description": "A yellow laptop.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "thinking-40_element_1348.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1348_highlighted.png",
+      "description": "A light blue t-shirt.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "thinking-40_element_1349.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1349_highlighted.png",
+      "description": "The light peach-colored hand of a person.",
+      "color": "rgba(244, 162, 140, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "thinking-40_element_1350.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1350_highlighted.png",
+      "description": "The person's yellow laptop.",
+      "color": "rgba(0, 0, 1, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "thinking-40_element_1351.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1351_highlighted.png",
+      "description": "The person's upper arm, wearing a t-shirt.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "thinking-40_element_1352.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1352_highlighted.png",
+      "description": "The person's t-shirt sleeve.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "thinking-40_element_1353.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1353_highlighted.png",
+      "description": "A person's peach-colored face and neck.",
+      "color": "rgba(244, 162, 140, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "thinking-40_element_1354.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1354_highlighted.png",
+      "description": "A person's blue hair.",
+      "color": "rgba(36, 40, 91, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "thinking-40_element_1355.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1355_highlighted.png",
+      "description": "A bright pink ear, on the side of someone's head.",
+      "color": "rgba(244, 162, 140, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "thinking-40_element_1356.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1356_highlighted.png",
+      "description": "A dark blue tie, worn around someone's neck.",
+      "color": "rgba(0, 0, 1, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "thinking-40_element_1357.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1357_highlighted.png",
+      "description": "A bright pink cheek and chin, on someone's face.",
+      "color": "rgba(244, 162, 140, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "thinking-40_element_1358.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1358_highlighted.png",
+      "description": "A bright pink chin, supported by a hand.",
+      "color": "rgba(244, 162, 140, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "thinking-40_element_1359.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1359_highlighted.png",
+      "description": "An outstretched pink arm, reaching for a cup.",
+      "color": "rgba(244, 162, 140, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "thinking-40_element_1360.svg",
+      "parent": 4,
+      "mask_path": "thinking-40_element_1360_highlighted.png",
+      "description": "A white circle, the logo on the back of a yellow laptop screen.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "thinking-40_element_1361.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1361_highlighted.png",
+      "description": "A long white rectangular desk surface.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "thinking-40_element_1362.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1362_highlighted.png",
+      "description": "A cylindrical mug with a handle, probably used for a hot drink.",
+      "color": "rgba(165, 165, 165, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "thinking-40_element_1363.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1363_highlighted.png",
+      "description": "The rounded edge of a light gray mug.",
+      "color": "rgba(165, 165, 165, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "thinking-40_element_1364.svg",
+      "parent": 18,
+      "mask_path": "thinking-40_element_1364_highlighted.png",
+      "description": "A small, white round object, possibly a button or logo on a mug.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "thinking-40_element_1365.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1365_highlighted.png",
+      "description": "Steam coming from a mug.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "thinking-40_element_1366.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1366_highlighted.png",
+      "description": "A white cloud-shaped thought bubble.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "thinking-40_element_1367.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1367_highlighted.png",
+      "description": "A small white thought bubble.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "thinking-40_element_1368.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1368_highlighted.png",
+      "description": "A small white thought bubble.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "thinking-40_element_1369.svg",
+      "parent": 0,
+      "mask_path": "thinking-40_element_1369_highlighted.png",
+      "description": "A dark blue rectangle.",
+      "color": "rgba(36, 40, 91, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "thinking-40_element_1370.svg",
+      "parent": 25,
+      "mask_path": "thinking-40_element_1370_highlighted.png",
+      "description": "A yellow dot.",
+      "color": "rgba(255, 210, 0, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "thinking-40_element_1371.svg",
+      "parent": 25,
+      "mask_path": "thinking-40_element_1371_highlighted.png",
+      "description": "A yellow dot.",
+      "color": "rgba(255, 210, 0, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "thinking-40_element_1372.svg",
+      "parent": 25,
+      "mask_path": "thinking-40_element_1372_highlighted.png",
+      "description": "A yellow dot.",
+      "color": "rgba(255, 210, 0, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "thinking_Item_32.svg",
+      "parent": 30,
+      "mask_path": "thinking_Item_32_highlighted.png",
+      "description": "A single, yellow dot inside a rectangular box.",
+      "color": null
+    },
+    {
+      "id": 30,
+      "filename": "thinking_Item_26.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_26_highlighted.png",
+      "description": "A yellow, open laptop on a desk.",
+      "color": null
+    },
+    {
+      "id": 31,
+      "filename": "thinking_Item_7.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_7_highlighted.png",
+      "description": "A white left sleeve.",
+      "color": null
+    },
+    {
+      "id": 32,
+      "filename": "thinking_Item_6.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_6_highlighted.png",
+      "description": "A white upper arm.",
+      "color": null
+    },
+    {
+      "id": 33,
+      "filename": "thinking_Item_27.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_27_highlighted.png",
+      "description": "A small, white, circular highlight on the side of a gray mug.",
+      "color": null
+    },
+    {
+      "id": 34,
+      "filename": "thinking_Item_33.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_33_highlighted.png",
+      "description": "A yellow dot within a message bubble.",
+      "color": null
+    },
+    {
+      "id": 35,
+      "filename": "thinking_Item_25.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_25_highlighted.png",
+      "description": "A white ceramic coffee mug.",
+      "color": null
+    },
+    {
+      "id": 36,
+      "filename": "thinking_Item_31.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_31_highlighted.png",
+      "description": "A dark blue, rectangular text box shape.",
+      "color": null
+    },
+    {
+      "id": 37,
+      "filename": "thinking_Item_19.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_19_highlighted.png",
+      "description": "The tip of a pink finger touching the cheek.",
+      "color": null
+    },
+    {
+      "id": 38,
+      "filename": "thinking_Item_4.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_4_highlighted.png",
+      "description": "A short, blue plant pot",
+      "color": null
+    },
+    {
+      "id": 39,
+      "filename": "thinking_Item_5.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_5_highlighted.png",
+      "description": "A yellow laptop screen with a white cursor.",
+      "color": null
+    },
+    {
+      "id": 40,
+      "filename": "thinking_Item_18.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_18_highlighted.png",
+      "description": "The salmon-colored tip of a finger pointing upwards.",
+      "color": null
+    },
+    {
+      "id": 41,
+      "filename": "thinking_Item_30.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_30_highlighted.png",
+      "description": "A white cloud-shaped thought bubble.",
+      "color": null
+    },
+    {
+      "id": 42,
+      "filename": "thinking_Item_24.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_24_highlighted.png",
+      "description": "A light gray stream of steam rising from a gray mug.",
+      "color": null
+    },
+    {
+      "id": 43,
+      "filename": "thinking_Item_1.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_1_highlighted.png",
+      "description": "A light blue plant leaf.",
+      "color": null
+    },
+    {
+      "id": 44,
+      "filename": "thinking_Item_20.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_20_highlighted.png",
+      "description": "A peach-colored right forearm of a person.",
+      "color": null
+    },
+    {
+      "id": 45,
+      "filename": "thinking_Item_34.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_34_highlighted.png",
+      "description": "A yellow dot.",
+      "color": null
+    },
+    {
+      "id": 46,
+      "filename": "thinking_Item_21.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_21_highlighted.png",
+      "description": "The yellow screen of a laptop.",
+      "color": null
+    },
+    {
+      "id": 47,
+      "filename": "thinking_Item_2.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_2_highlighted.png",
+      "description": "A cyan leaf on a plant.",
+      "color": null
+    },
+    {
+      "id": 48,
+      "filename": "thinking_Item_23.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_23_highlighted.png",
+      "description": "The light gray surface of the desk.",
+      "color": null
+    },
+    {
+      "id": 49,
+      "filename": "thinking_Item_22.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_22_highlighted.png",
+      "description": "A yellow laptop screen with a white cursor.",
+      "color": null
+    },
+    {
+      "id": 50,
+      "filename": "thinking_Item_3.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_3_highlighted.png",
+      "description": "Light blue plant leaves.",
+      "color": null
+    },
+    {
+      "id": 51,
+      "filename": "thinking_Item_13.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_13_highlighted.png",
+      "description": "A light blue sleeve of a shirt.",
+      "color": null
+    },
+    {
+      "id": 52,
+      "filename": "thinking_Item_12.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_12_highlighted.png",
+      "description": "A cyan-colored left sleeve of a person's shirt.",
+      "color": null
+    },
+    {
+      "id": 53,
+      "filename": "thinking_Item_10.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_10_highlighted.png",
+      "description": "The salmon-colored sleeve of a shirt covering an arm as it rests on a desk.",
+      "color": null
+    },
+    {
+      "id": 54,
+      "filename": "thinking_Item_11.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_11_highlighted.png",
+      "description": "The light pink neck.",
+      "color": null
+    },
+    {
+      "id": 55,
+      "filename": "thinking_Item_29.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_29_highlighted.png",
+      "description": "A small white cloud in a string of darker cloud shapes.",
+      "color": null
+    },
+    {
+      "id": 56,
+      "filename": "thinking_Item_8.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_8_highlighted.png",
+      "description": "A black neck and head.",
+      "color": null
+    },
+    {
+      "id": 57,
+      "filename": "thinking_Item_15.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_15_highlighted.png",
+      "description": "A patch of short blue hair.",
+      "color": null
+    },
+    {
+      "id": 58,
+      "filename": "thinking.svg",
+      "parent": 29,
+      "mask_path": "thinking_highlighted.png",
+      "description": "A yellow laptop screen with a white cursor.",
+      "color": null
+    },
+    {
+      "id": 59,
+      "filename": "thinking_Item_14.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_14_highlighted.png",
+      "description": "A peach-colored face and neck.",
+      "color": null
+    },
+    {
+      "id": 60,
+      "filename": "thinking_Item_9.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_9_highlighted.png",
+      "description": "The light blue torso of a seated person.",
+      "color": null
+    },
+    {
+      "id": 61,
+      "filename": "thinking_Item_28.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_28_highlighted.png",
+      "description": "A small white fluffy cloud in a series of dark clouds.",
+      "color": null
+    },
+    {
+      "id": 62,
+      "filename": "thinking_Item_16.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_16_highlighted.png",
+      "description": "The side of a pink face touching a hand.",
+      "color": null
+    },
+    {
+      "id": 63,
+      "filename": "thinking_Item_17.svg",
+      "parent": 29,
+      "mask_path": "thinking_Item_17_highlighted.png",
+      "description": "The salmon-colored tip of a finger pointing upwards.",
+      "color": null
+    },
+    {
+      "id": 64,
+      "filename": "Layer 36.svg",
+      "parent": 29,
+      "mask_path": "Layer 36_highlighted.png",
+      "description": "A light gray mug with a thin handle.",
+      "color": null
+    },
+    {
+      "id": 65,
+      "filename": "Layer 37.svg",
+      "parent": 29,
+      "mask_path": "Layer 37_highlighted.png",
+      "description": "A light blue plant with three leaves in a dark blue pot.",
+      "color": null
+    },
+    {
+      "id": 66,
+      "filename": "Layer 38.svg",
+      "parent": 29,
+      "mask_path": "Layer 38_highlighted.png",
+      "description": "A yellow laptop screen with a white cursor.",
+      "color": null
+    },
+    {
+      "id": 67,
+      "filename": "Layer 39.svg",
+      "parent": 29,
+      "mask_path": "Layer 39_highlighted.png",
+      "description": "The light blue shirt on a person",
+      "color": null
+    },
+    {
+      "id": 68,
+      "filename": "Layer 40.svg",
+      "parent": 29,
+      "mask_path": "Layer 40_highlighted.png",
+      "description": "A white, fluffy cloud shape.",
+      "color": null
+    },
+    {
+      "id": 69,
+      "filename": "Layer 41.svg",
+      "parent": 29,
+      "mask_path": "Layer 41_highlighted.png",
+      "description": "A dark blue chat bubble with three yellow dots inside.",
+      "color": null
+    }
+  ]
+}

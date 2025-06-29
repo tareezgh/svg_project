@@ -148,7 +148,6 @@ class SVGSegmenter:
                 filename = re.sub(r'[<>:"/\\|?*]', '_', f"{base_filename}_{new_element.get('id')}.svg")
                 filepath = os.path.join(segment_dir, filename)
                 ET.ElementTree(new_svg).write(filepath, encoding='utf-8', xml_declaration=True)
-                # logging.info(f"Saved segment: {filepath}")
 
             # logging.info(f"Processed {svg_path}")
 
@@ -167,10 +166,15 @@ def process_directory(input_dir: str, output_dir: str):
         segmenter.process_svg_file(str(svg_path), output_dir)
 
 def main():
-    base_input_dir = '.' 
-    available_dirs = [d for d in os.listdir(base_input_dir) if os.path.isdir(os.path.join(base_input_dir, d))]
+    base_input_dir = './inputs'
+    output_base_dir = 'segmented_svgs'
+
+    available_dirs = [
+        d for d in os.listdir(base_input_dir)
+        if os.path.isdir(os.path.join(base_input_dir, d))
+    ]
     if not available_dirs:
-        logging.error("No directories found to select from.")
+        logging.error("No subdirectories found in 'inputs/'")
         return
 
     questions = [
@@ -185,17 +189,19 @@ def main():
         logging.warning("No folder selected. Exiting.")
         return
 
-    input_dir = answers["selected_dir"]
+    selected_folder = answers["selected_dir"]
+    input_dir = os.path.join(base_input_dir, selected_folder)
+    output_dir = os.path.join(output_base_dir, selected_folder)
 
-    output_dir = 'segmented_svgs'
     logging.info("Starting SVG segmentation process...")
+    logging.info(f"Processing from: {input_dir}")
+    logging.info(f"Saving results to: {output_dir}")
 
     if os.path.exists(input_dir):
-        logging.info(f"Processing directory: {input_dir}")
-        process_directory(input_dir, os.path.join(output_dir, input_dir))
+        process_directory(input_dir, output_dir)
     else:
         logging.warning(f"Directory not found: {input_dir}")
-        
+
     logging.info("SVG segmentation process completed!")
 
 if __name__ == "__main__":

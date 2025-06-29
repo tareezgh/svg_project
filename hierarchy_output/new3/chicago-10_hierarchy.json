@@ -1,0 +1,3443 @@
+{
+  "global_style": "",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full chicago-10",
+      "parent": -1,
+      "description": ""
+    },
+    {
+      "id": 1,
+      "filename": "chicago-10_element_943.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_943_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(22, 167, 158, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "chicago-10_element_944.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_944_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(137, 195, 239, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "chicago-10_element_945.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_945_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "chicago-10_element_946.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_946_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "chicago-10_element_947.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_947_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "chicago-10_element_948.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_948_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "chicago-10_element_949.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_949_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "chicago-10_element_950.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_950_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "chicago-10_element_951.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_951_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "chicago-10_element_952.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_952_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "chicago-10_element_953.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_953_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "chicago-10_element_954.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_954_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "chicago-10_element_955.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_955_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "chicago-10_element_956.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_956_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "chicago-10_element_957.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_957_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "chicago-10_element_958.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_958_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "chicago-10_element_959.svg",
+      "parent": 15,
+      "mask_path": "chicago-10_element_959_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "chicago-10_element_960.svg",
+      "parent": 15,
+      "mask_path": "chicago-10_element_960_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "chicago-10_element_961.svg",
+      "parent": 15,
+      "mask_path": "chicago-10_element_961_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "chicago-10_element_962.svg",
+      "parent": 15,
+      "mask_path": "chicago-10_element_962_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "chicago-10_element_963.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_963_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "chicago-10_element_964.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_964_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "chicago-10_element_965.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_965_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "chicago-10_element_966.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_966_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "chicago-10_element_967.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_967_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "chicago-10_element_968.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_968_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "chicago-10_element_969.svg",
+      "parent": 22,
+      "mask_path": "chicago-10_element_969_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "chicago-10_element_970.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_970_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "chicago-10_element_971.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_971_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "chicago-10_element_972.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_972_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "chicago-10_element_973.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_973_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "chicago-10_element_974.svg",
+      "parent": 12,
+      "mask_path": "chicago-10_element_974_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 33,
+      "filename": "chicago-10_element_975.svg",
+      "parent": 12,
+      "mask_path": "chicago-10_element_975_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "chicago-10_element_976.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_976_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 35,
+      "filename": "chicago-10_element_977.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_977_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 36,
+      "filename": "chicago-10_element_978.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_978_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 37,
+      "filename": "chicago-10_element_979.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_979_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 38,
+      "filename": "chicago-10_element_980.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_980_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 39,
+      "filename": "chicago-10_element_981.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_981_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 40,
+      "filename": "chicago-10_element_982.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_982_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 41,
+      "filename": "chicago-10_element_983.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_983_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 42,
+      "filename": "chicago-10_element_984.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_984_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 43,
+      "filename": "chicago-10_element_985.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_985_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 44,
+      "filename": "chicago-10_element_986.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_986_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 45,
+      "filename": "chicago-10_element_987.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_987_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 46,
+      "filename": "chicago-10_element_988.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_988_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 47,
+      "filename": "chicago-10_element_989.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_989_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 48,
+      "filename": "chicago-10_element_990.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_990_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 49,
+      "filename": "chicago-10_element_991.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_991_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 50,
+      "filename": "chicago-10_element_992.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_992_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 51,
+      "filename": "chicago-10_element_993.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_993_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 52,
+      "filename": "chicago-10_element_994.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_994_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 53,
+      "filename": "chicago-10_element_995.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_995_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 54,
+      "filename": "chicago-10_element_996.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_996_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 55,
+      "filename": "chicago-10_element_997.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_997_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 56,
+      "filename": "chicago-10_element_998.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_998_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 57,
+      "filename": "chicago-10_element_999.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_999_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 58,
+      "filename": "chicago-10_element_1000.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1000_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 59,
+      "filename": "chicago-10_element_1001.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1001_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 60,
+      "filename": "chicago-10_element_1002.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1002_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 61,
+      "filename": "chicago-10_element_1003.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1003_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 62,
+      "filename": "chicago-10_element_1004.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1004_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 63,
+      "filename": "chicago-10_element_1005.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1005_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 64,
+      "filename": "chicago-10_element_1006.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1006_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 65,
+      "filename": "chicago-10_element_1007.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1007_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 66,
+      "filename": "chicago-10_element_1008.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1008_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 67,
+      "filename": "chicago-10_element_1009.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1009_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 68,
+      "filename": "chicago-10_element_1010.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1010_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 69,
+      "filename": "chicago-10_element_1011.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1011_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 70,
+      "filename": "chicago-10_element_1012.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1012_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 71,
+      "filename": "chicago-10_element_1013.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1013_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 72,
+      "filename": "chicago-10_element_1014.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1014_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 73,
+      "filename": "chicago-10_element_1015.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1015_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 74,
+      "filename": "chicago-10_element_1016.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1016_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 75,
+      "filename": "chicago-10_element_1017.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1017_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 76,
+      "filename": "chicago-10_element_1018.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1018_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 77,
+      "filename": "chicago-10_element_1019.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1019_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 78,
+      "filename": "chicago-10_element_1020.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1020_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 79,
+      "filename": "chicago-10_element_1021.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1021_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 80,
+      "filename": "chicago-10_element_1022.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1022_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 81,
+      "filename": "chicago-10_element_1023.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1023_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 82,
+      "filename": "chicago-10_element_1024.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1024_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 83,
+      "filename": "chicago-10_element_1025.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1025_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 84,
+      "filename": "chicago-10_element_1026.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1026_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 85,
+      "filename": "chicago-10_element_1027.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1027_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 86,
+      "filename": "chicago-10_element_1028.svg",
+      "parent": 69,
+      "mask_path": "chicago-10_element_1028_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 87,
+      "filename": "chicago-10_element_1029.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1029_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 88,
+      "filename": "chicago-10_element_1030.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1030_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 89,
+      "filename": "chicago-10_element_1031.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1031_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 90,
+      "filename": "chicago-10_element_1032.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1032_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 91,
+      "filename": "chicago-10_element_1033.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1033_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 92,
+      "filename": "chicago-10_element_1034.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1034_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 93,
+      "filename": "chicago-10_element_1035.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1035_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 94,
+      "filename": "chicago-10_element_1036.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1036_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 95,
+      "filename": "chicago-10_element_1037.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1037_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 96,
+      "filename": "chicago-10_element_1038.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1038_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 97,
+      "filename": "chicago-10_element_1039.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1039_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 98,
+      "filename": "chicago-10_element_1040.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1040_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 99,
+      "filename": "chicago-10_element_1041.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1041_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 100,
+      "filename": "chicago-10_element_1042.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1042_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 101,
+      "filename": "chicago-10_element_1043.svg",
+      "parent": 68,
+      "mask_path": "chicago-10_element_1043_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 102,
+      "filename": "chicago-10_element_1044.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1044_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 103,
+      "filename": "chicago-10_element_1045.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1045_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 104,
+      "filename": "chicago-10_element_1046.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1046_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 105,
+      "filename": "chicago-10_element_1047.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1047_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 106,
+      "filename": "chicago-10_element_1048.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1048_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 107,
+      "filename": "chicago-10_element_1049.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1049_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 108,
+      "filename": "chicago-10_element_1050.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1050_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 109,
+      "filename": "chicago-10_element_1051.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1051_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 110,
+      "filename": "chicago-10_element_1052.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1052_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 111,
+      "filename": "chicago-10_element_1053.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1053_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 112,
+      "filename": "chicago-10_element_1054.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1054_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 217, 182, 1.0)"
+    },
+    {
+      "id": 113,
+      "filename": "chicago-10_element_1055.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1055_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 114,
+      "filename": "chicago-10_element_1056.svg",
+      "parent": 111,
+      "mask_path": "chicago-10_element_1056_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 115,
+      "filename": "chicago-10_element_1057.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1057_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 116,
+      "filename": "chicago-10_element_1058.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1058_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 117,
+      "filename": "chicago-10_element_1059.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1059_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 118,
+      "filename": "chicago-10_element_1060.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1060_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 119,
+      "filename": "chicago-10_element_1061.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1061_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 120,
+      "filename": "chicago-10_element_1062.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1062_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 121,
+      "filename": "chicago-10_element_1063.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1063_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 122,
+      "filename": "chicago-10_element_1064.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1064_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 123,
+      "filename": "chicago-10_element_1065.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1065_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 124,
+      "filename": "chicago-10_element_1066.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1066_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 125,
+      "filename": "chicago-10_element_1067.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1067_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 126,
+      "filename": "chicago-10_element_1068.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1068_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 127,
+      "filename": "chicago-10_element_1069.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1069_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 128,
+      "filename": "chicago-10_element_1070.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1070_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 129,
+      "filename": "chicago-10_element_1071.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1071_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 130,
+      "filename": "chicago-10_element_1072.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1072_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 131,
+      "filename": "chicago-10_element_1073.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1073_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 132,
+      "filename": "chicago-10_element_1074.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1074_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 133,
+      "filename": "chicago-10_element_1075.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1075_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 134,
+      "filename": "chicago-10_element_1076.svg",
+      "parent": 111,
+      "mask_path": "chicago-10_element_1076_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 135,
+      "filename": "chicago-10_element_1077.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1077_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 136,
+      "filename": "chicago-10_element_1078.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1078_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 137,
+      "filename": "chicago-10_element_1079.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1079_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 138,
+      "filename": "chicago-10_element_1080.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1080_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 139,
+      "filename": "chicago-10_element_1081.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1081_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 140,
+      "filename": "chicago-10_element_1082.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1082_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 141,
+      "filename": "chicago-10_element_1083.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1083_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 142,
+      "filename": "chicago-10_element_1084.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1084_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 143,
+      "filename": "chicago-10_element_1085.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1085_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 144,
+      "filename": "chicago-10_element_1086.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1086_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 145,
+      "filename": "chicago-10_element_1087.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1087_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 146,
+      "filename": "chicago-10_element_1088.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1088_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 147,
+      "filename": "chicago-10_element_1089.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1089_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 148,
+      "filename": "chicago-10_element_1090.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1090_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 149,
+      "filename": "chicago-10_element_1091.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1091_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 150,
+      "filename": "chicago-10_element_1092.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1092_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 151,
+      "filename": "chicago-10_element_1093.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1093_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 152,
+      "filename": "chicago-10_element_1094.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1094_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 153,
+      "filename": "chicago-10_element_1095.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1095_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 154,
+      "filename": "chicago-10_element_1096.svg",
+      "parent": 111,
+      "mask_path": "chicago-10_element_1096_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 155,
+      "filename": "chicago-10_element_1097.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1097_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 156,
+      "filename": "chicago-10_element_1098.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1098_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 157,
+      "filename": "chicago-10_element_1099.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1099_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 158,
+      "filename": "chicago-10_element_1100.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1100_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 159,
+      "filename": "chicago-10_element_1101.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1101_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 160,
+      "filename": "chicago-10_element_1102.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1102_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 161,
+      "filename": "chicago-10_element_1103.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1103_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 162,
+      "filename": "chicago-10_element_1104.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1104_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 163,
+      "filename": "chicago-10_element_1105.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1105_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 164,
+      "filename": "chicago-10_element_1106.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1106_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 165,
+      "filename": "chicago-10_element_1107.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1107_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 166,
+      "filename": "chicago-10_element_1108.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1108_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 167,
+      "filename": "chicago-10_element_1109.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1109_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 168,
+      "filename": "chicago-10_element_1110.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1110_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 169,
+      "filename": "chicago-10_element_1111.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1111_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 170,
+      "filename": "chicago-10_element_1112.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1112_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 171,
+      "filename": "chicago-10_element_1113.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1113_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 172,
+      "filename": "chicago-10_element_1114.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1114_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 173,
+      "filename": "chicago-10_element_1115.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1115_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 174,
+      "filename": "chicago-10_element_1116.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1116_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 175,
+      "filename": "chicago-10_element_1117.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1117_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 176,
+      "filename": "chicago-10_element_1118.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1118_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 177,
+      "filename": "chicago-10_element_1119.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1119_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 178,
+      "filename": "chicago-10_element_1120.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1120_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 179,
+      "filename": "chicago-10_element_1121.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1121_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 180,
+      "filename": "chicago-10_element_1122.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1122_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 181,
+      "filename": "chicago-10_element_1123.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1123_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 182,
+      "filename": "chicago-10_element_1124.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1124_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 183,
+      "filename": "chicago-10_element_1125.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1125_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 184,
+      "filename": "chicago-10_element_1126.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1126_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 185,
+      "filename": "chicago-10_element_1127.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1127_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 186,
+      "filename": "chicago-10_element_1128.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1128_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 187,
+      "filename": "chicago-10_element_1129.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1129_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 188,
+      "filename": "chicago-10_element_1130.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1130_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 189,
+      "filename": "chicago-10_element_1131.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1131_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 190,
+      "filename": "chicago-10_element_1132.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1132_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 191,
+      "filename": "chicago-10_element_1133.svg",
+      "parent": 110,
+      "mask_path": "chicago-10_element_1133_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 192,
+      "filename": "chicago-10_element_1134.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1134_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 193,
+      "filename": "chicago-10_element_1135.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1135_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 194,
+      "filename": "chicago-10_element_1136.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1136_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 195,
+      "filename": "chicago-10_element_1137.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1137_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 196,
+      "filename": "chicago-10_element_1138.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1138_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 197,
+      "filename": "chicago-10_element_1139.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1139_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 198,
+      "filename": "chicago-10_element_1140.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1140_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 199,
+      "filename": "chicago-10_element_1141.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1141_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 200,
+      "filename": "chicago-10_element_1142.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1142_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 201,
+      "filename": "chicago-10_element_1143.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1143_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 202,
+      "filename": "chicago-10_element_1144.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1144_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 203,
+      "filename": "chicago-10_element_1145.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1145_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 204,
+      "filename": "chicago-10_element_1146.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1146_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 205,
+      "filename": "chicago-10_element_1147.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1147_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 206,
+      "filename": "chicago-10_element_1148.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1148_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 207,
+      "filename": "chicago-10_element_1149.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1149_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 208,
+      "filename": "chicago-10_element_1150.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1150_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 209,
+      "filename": "chicago-10_element_1151.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1151_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 210,
+      "filename": "chicago-10_element_1152.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1152_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 211,
+      "filename": "chicago-10_element_1153.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1153_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 212,
+      "filename": "chicago-10_element_1154.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1154_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 213,
+      "filename": "chicago-10_element_1155.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1155_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 214,
+      "filename": "chicago-10_element_1156.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1156_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 215,
+      "filename": "chicago-10_element_1157.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1157_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 216,
+      "filename": "chicago-10_element_1158.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1158_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 217,
+      "filename": "chicago-10_element_1159.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1159_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 218,
+      "filename": "chicago-10_element_1160.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1160_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 219,
+      "filename": "chicago-10_element_1161.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1161_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 220,
+      "filename": "chicago-10_element_1162.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1162_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 221,
+      "filename": "chicago-10_element_1163.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1163_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 222,
+      "filename": "chicago-10_element_1164.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1164_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 223,
+      "filename": "chicago-10_element_1165.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1165_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 224,
+      "filename": "chicago-10_element_1166.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1166_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 225,
+      "filename": "chicago-10_element_1167.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1167_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 226,
+      "filename": "chicago-10_element_1168.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1168_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 227,
+      "filename": "chicago-10_element_1169.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1169_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 228,
+      "filename": "chicago-10_element_1170.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1170_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 229,
+      "filename": "chicago-10_element_1171.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1171_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 230,
+      "filename": "chicago-10_element_1172.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1172_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 231,
+      "filename": "chicago-10_element_1173.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1173_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 232,
+      "filename": "chicago-10_element_1174.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1174_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 233,
+      "filename": "chicago-10_element_1175.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1175_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 234,
+      "filename": "chicago-10_element_1176.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1176_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 235,
+      "filename": "chicago-10_element_1177.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1177_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 236,
+      "filename": "chicago-10_element_1178.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1178_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 237,
+      "filename": "chicago-10_element_1179.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1179_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 238,
+      "filename": "chicago-10_element_1180.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1180_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 239,
+      "filename": "chicago-10_element_1181.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1181_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 240,
+      "filename": "chicago-10_element_1182.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1182_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 241,
+      "filename": "chicago-10_element_1183.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1183_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 242,
+      "filename": "chicago-10_element_1184.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1184_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 243,
+      "filename": "chicago-10_element_1185.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1185_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 244,
+      "filename": "chicago-10_element_1186.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1186_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 245,
+      "filename": "chicago-10_element_1187.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1187_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 246,
+      "filename": "chicago-10_element_1188.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1188_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 247,
+      "filename": "chicago-10_element_1189.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1189_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 248,
+      "filename": "chicago-10_element_1190.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1190_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 249,
+      "filename": "chicago-10_element_1191.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1191_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 250,
+      "filename": "chicago-10_element_1192.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1192_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 251,
+      "filename": "chicago-10_element_1193.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1193_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 252,
+      "filename": "chicago-10_element_1194.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1194_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 253,
+      "filename": "chicago-10_element_1195.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1195_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 254,
+      "filename": "chicago-10_element_1196.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1196_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 255,
+      "filename": "chicago-10_element_1197.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1197_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 256,
+      "filename": "chicago-10_element_1198.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1198_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 257,
+      "filename": "chicago-10_element_1199.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1199_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 258,
+      "filename": "chicago-10_element_1200.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1200_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 259,
+      "filename": "chicago-10_element_1201.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1201_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 260,
+      "filename": "chicago-10_element_1202.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1202_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 261,
+      "filename": "chicago-10_element_1203.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1203_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 262,
+      "filename": "chicago-10_element_1204.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1204_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 263,
+      "filename": "chicago-10_element_1205.svg",
+      "parent": 107,
+      "mask_path": "chicago-10_element_1205_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 264,
+      "filename": "chicago-10_element_1206.svg",
+      "parent": 112,
+      "mask_path": "chicago-10_element_1206_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 265,
+      "filename": "chicago-10_element_1207.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1207_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 266,
+      "filename": "chicago-10_element_1208.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1208_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 267,
+      "filename": "chicago-10_element_1209.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1209_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 268,
+      "filename": "chicago-10_element_1210.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1210_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 269,
+      "filename": "chicago-10_element_1211.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1211_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 270,
+      "filename": "chicago-10_element_1212.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1212_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 271,
+      "filename": "chicago-10_element_1213.svg",
+      "parent": 266,
+      "mask_path": "chicago-10_element_1213_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 272,
+      "filename": "chicago-10_element_1214.svg",
+      "parent": 266,
+      "mask_path": "chicago-10_element_1214_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 273,
+      "filename": "chicago-10_element_1215.svg",
+      "parent": 266,
+      "mask_path": "chicago-10_element_1215_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 274,
+      "filename": "chicago-10_element_1216.svg",
+      "parent": 266,
+      "mask_path": "chicago-10_element_1216_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 275,
+      "filename": "chicago-10_element_1217.svg",
+      "parent": 266,
+      "mask_path": "chicago-10_element_1217_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 276,
+      "filename": "chicago-10_element_1218.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1218_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 277,
+      "filename": "chicago-10_element_1219.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1219_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 278,
+      "filename": "chicago-10_element_1220.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1220_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 279,
+      "filename": "chicago-10_element_1221.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1221_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 280,
+      "filename": "chicago-10_element_1222.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1222_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 281,
+      "filename": "chicago-10_element_1223.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1223_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 282,
+      "filename": "chicago-10_element_1224.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1224_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 283,
+      "filename": "chicago-10_element_1225.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1225_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 284,
+      "filename": "chicago-10_element_1226.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1226_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 285,
+      "filename": "chicago-10_element_1227.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1227_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 286,
+      "filename": "chicago-10_element_1228.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1228_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 287,
+      "filename": "chicago-10_element_1229.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1229_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 288,
+      "filename": "chicago-10_element_1230.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1230_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 289,
+      "filename": "chicago-10_element_1231.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1231_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 290,
+      "filename": "chicago-10_element_1232.svg",
+      "parent": 265,
+      "mask_path": "chicago-10_element_1232_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 291,
+      "filename": "chicago-10_element_1233.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1233_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 292,
+      "filename": "chicago-10_element_1234.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1234_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 293,
+      "filename": "chicago-10_element_1235.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1235_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 294,
+      "filename": "chicago-10_element_1236.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1236_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 295,
+      "filename": "chicago-10_element_1237.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1237_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 296,
+      "filename": "chicago-10_element_1238.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1238_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 297,
+      "filename": "chicago-10_element_1239.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1239_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 298,
+      "filename": "chicago-10_element_1240.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1240_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(204, 204, 206, 1.0)"
+    },
+    {
+      "id": 299,
+      "filename": "chicago-10_element_1241.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1241_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 300,
+      "filename": "chicago-10_element_1242.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1242_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 301,
+      "filename": "chicago-10_element_1243.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1243_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 302,
+      "filename": "chicago-10_element_1244.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1244_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 303,
+      "filename": "chicago-10_element_1245.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1245_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 304,
+      "filename": "chicago-10_element_1246.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1246_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 305,
+      "filename": "chicago-10_element_1247.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1247_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 306,
+      "filename": "chicago-10_element_1248.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1248_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 307,
+      "filename": "chicago-10_element_1249.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1249_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 308,
+      "filename": "chicago-10_element_1250.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1250_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 309,
+      "filename": "chicago-10_element_1251.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1251_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 310,
+      "filename": "chicago-10_element_1252.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1252_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 311,
+      "filename": "chicago-10_element_1253.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1253_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 312,
+      "filename": "chicago-10_element_1254.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1254_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 313,
+      "filename": "chicago-10_element_1255.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1255_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 314,
+      "filename": "chicago-10_element_1256.svg",
+      "parent": 297,
+      "mask_path": "chicago-10_element_1256_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 315,
+      "filename": "chicago-10_element_1257.svg",
+      "parent": 266,
+      "mask_path": "chicago-10_element_1257_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 316,
+      "filename": "chicago-10_element_1258.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1258_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 317,
+      "filename": "chicago-10_element_1259.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1259_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 318,
+      "filename": "chicago-10_element_1260.svg",
+      "parent": 266,
+      "mask_path": "chicago-10_element_1260_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 319,
+      "filename": "chicago-10_element_1261.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1261_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 320,
+      "filename": "chicago-10_element_1262.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1262_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 321,
+      "filename": "chicago-10_element_1263.svg",
+      "parent": 266,
+      "mask_path": "chicago-10_element_1263_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 322,
+      "filename": "chicago-10_element_1264.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1264_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 323,
+      "filename": "chicago-10_element_1265.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1265_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 324,
+      "filename": "chicago-10_element_1266.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1266_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 325,
+      "filename": "chicago-10_element_1267.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1267_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 326,
+      "filename": "chicago-10_element_1268.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1268_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 327,
+      "filename": "chicago-10_element_1269.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1269_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 328,
+      "filename": "chicago-10_element_1270.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1270_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 329,
+      "filename": "chicago-10_element_1271.svg",
+      "parent": 296,
+      "mask_path": "chicago-10_element_1271_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 330,
+      "filename": "chicago-10_element_1272.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1272_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 331,
+      "filename": "chicago-10_element_1273.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1273_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 332,
+      "filename": "chicago-10_element_1274.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1274_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 333,
+      "filename": "chicago-10_element_1275.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1275_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 334,
+      "filename": "chicago-10_element_1276.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1276_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 335,
+      "filename": "chicago-10_element_1277.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1277_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 336,
+      "filename": "chicago-10_element_1278.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1278_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 337,
+      "filename": "chicago-10_element_1279.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1279_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 338,
+      "filename": "chicago-10_element_1280.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1280_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 339,
+      "filename": "chicago-10_element_1281.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1281_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 340,
+      "filename": "chicago-10_element_1282.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1282_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 341,
+      "filename": "chicago-10_element_1283.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1283_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 342,
+      "filename": "chicago-10_element_1284.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1284_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 343,
+      "filename": "chicago-10_element_1285.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1285_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 344,
+      "filename": "chicago-10_element_1286.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1286_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 345,
+      "filename": "chicago-10_element_1287.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1287_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 346,
+      "filename": "chicago-10_element_1288.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1288_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 347,
+      "filename": "chicago-10_element_1289.svg",
+      "parent": 346,
+      "mask_path": "chicago-10_element_1289_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 348,
+      "filename": "chicago-10_element_1290.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1290_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 349,
+      "filename": "chicago-10_element_1291.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1291_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 350,
+      "filename": "chicago-10_element_1292.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1292_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 351,
+      "filename": "chicago-10_element_1293.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1293_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 352,
+      "filename": "chicago-10_element_1294.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1294_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 353,
+      "filename": "chicago-10_element_1295.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_1295_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 354,
+      "filename": "chicago-10_element_1296.svg",
+      "parent": 353,
+      "mask_path": "chicago-10_element_1296_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 355,
+      "filename": "chicago-10_element_1297.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_1297_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 356,
+      "filename": "chicago-10_element_1298.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1298_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 357,
+      "filename": "chicago-10_element_1299.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1299_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 358,
+      "filename": "chicago-10_element_1300.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1300_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 359,
+      "filename": "chicago-10_element_1301.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1301_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 360,
+      "filename": "chicago-10_element_1302.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_1302_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 361,
+      "filename": "chicago-10_element_1303.svg",
+      "parent": 360,
+      "mask_path": "chicago-10_element_1303_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 362,
+      "filename": "chicago-10_element_1304.svg",
+      "parent": 2,
+      "mask_path": "chicago-10_element_1304_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 363,
+      "filename": "chicago-10_element_1305.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1305_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 364,
+      "filename": "chicago-10_element_1306.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1306_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 365,
+      "filename": "chicago-10_element_1307.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1307_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 366,
+      "filename": "chicago-10_element_1308.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1308_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 367,
+      "filename": "chicago-10_element_1309.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1309_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 368,
+      "filename": "chicago-10_element_1310.svg",
+      "parent": 367,
+      "mask_path": "chicago-10_element_1310_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 369,
+      "filename": "chicago-10_element_1311.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1311_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 370,
+      "filename": "chicago-10_element_1312.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1312_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 371,
+      "filename": "chicago-10_element_1313.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1313_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 372,
+      "filename": "chicago-10_element_1314.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1314_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 373,
+      "filename": "chicago-10_element_1315.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1315_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(30, 69, 73, 1.0)"
+    },
+    {
+      "id": 374,
+      "filename": "chicago-10_element_1316.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1316_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(242, 234, 232, 1.0)"
+    },
+    {
+      "id": 375,
+      "filename": "chicago-10_element_1317.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1317_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 376,
+      "filename": "chicago-10_element_1318.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1318_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 377,
+      "filename": "chicago-10_element_1319.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1319_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 378,
+      "filename": "chicago-10_element_1320.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1320_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 379,
+      "filename": "chicago-10_element_1321.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1321_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 380,
+      "filename": "chicago-10_element_1322.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1322_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 381,
+      "filename": "chicago-10_element_1323.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1323_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 382,
+      "filename": "chicago-10_element_1324.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1324_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 383,
+      "filename": "chicago-10_element_1325.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1325_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 384,
+      "filename": "chicago-10_element_1326.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1326_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 385,
+      "filename": "chicago-10_element_1327.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1327_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 386,
+      "filename": "chicago-10_element_1328.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1328_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 387,
+      "filename": "chicago-10_element_1329.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1329_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 388,
+      "filename": "chicago-10_element_1330.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1330_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 389,
+      "filename": "chicago-10_element_1331.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1331_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 390,
+      "filename": "chicago-10_element_1332.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1332_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 391,
+      "filename": "chicago-10_element_1333.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1333_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 392,
+      "filename": "chicago-10_element_1334.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1334_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 393,
+      "filename": "chicago-10_element_1335.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1335_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 394,
+      "filename": "chicago-10_element_1336.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1336_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 395,
+      "filename": "chicago-10_element_1337.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1337_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 396,
+      "filename": "chicago-10_element_1338.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1338_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 397,
+      "filename": "chicago-10_element_1339.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1339_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 398,
+      "filename": "chicago-10_element_1340.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1340_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 399,
+      "filename": "chicago-10_element_1341.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1341_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 400,
+      "filename": "chicago-10_element_1342.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1342_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(96, 50, 50, 1.0)"
+    },
+    {
+      "id": 401,
+      "filename": "chicago-10_element_1343.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1343_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 402,
+      "filename": "chicago-10_element_1344.svg",
+      "parent": 0,
+      "mask_path": "chicago-10_element_1344_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 403,
+      "filename": "Item_1.svg",
+      "parent": 404,
+      "mask_path": "Item_1_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 404,
+      "filename": "Item_2.svg",
+      "parent": 403,
+      "mask_path": "Item_2_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 405,
+      "filename": "Item_3.svg",
+      "parent": 403,
+      "mask_path": "Item_3_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 406,
+      "filename": "Item_7.svg",
+      "parent": 403,
+      "mask_path": "Item_7_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 407,
+      "filename": "Item_6.svg",
+      "parent": 403,
+      "mask_path": "Item_6_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 408,
+      "filename": "Item_4.svg",
+      "parent": 403,
+      "mask_path": "Item_4_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 409,
+      "filename": "Item_5.svg",
+      "parent": 403,
+      "mask_path": "Item_5_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 410,
+      "filename": "Layer 1.svg",
+      "parent": 403,
+      "mask_path": "Layer 1_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 411,
+      "filename": "Layer 9.svg",
+      "parent": 403,
+      "mask_path": "Layer 9_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 412,
+      "filename": "Layer 10.svg",
+      "parent": 403,
+      "mask_path": "Layer 10_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 413,
+      "filename": "Layer 11.svg",
+      "parent": 403,
+      "mask_path": "Layer 11_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 414,
+      "filename": "Layer 12.svg",
+      "parent": 403,
+      "mask_path": "Layer 12_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 415,
+      "filename": "Layer 13.svg",
+      "parent": 403,
+      "mask_path": "Layer 13_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 416,
+      "filename": "Layer 14.svg",
+      "parent": 403,
+      "mask_path": "Layer 14_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 417,
+      "filename": "Layer 15.svg",
+      "parent": 403,
+      "mask_path": "Layer 15_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 418,
+      "filename": "Layer 16.svg",
+      "parent": 403,
+      "mask_path": "Layer 16_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 419,
+      "filename": "Layer 17.svg",
+      "parent": 403,
+      "mask_path": "Layer 17_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 420,
+      "filename": "Layer 18.svg",
+      "parent": 403,
+      "mask_path": "Layer 18_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 421,
+      "filename": "Layer 19.svg",
+      "parent": 403,
+      "mask_path": "Layer 19_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 422,
+      "filename": "Layer 20.svg",
+      "parent": 403,
+      "mask_path": "Layer 20_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 423,
+      "filename": "Layer 21.svg",
+      "parent": 403,
+      "mask_path": "Layer 21_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 424,
+      "filename": "Layer 22.svg",
+      "parent": 403,
+      "mask_path": "Layer 22_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 425,
+      "filename": "Layer 23.svg",
+      "parent": 403,
+      "mask_path": "Layer 23_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 426,
+      "filename": "Layer 24.svg",
+      "parent": 403,
+      "mask_path": "Layer 24_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 427,
+      "filename": "Layer 25.svg",
+      "parent": 403,
+      "mask_path": "Layer 25_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 428,
+      "filename": "Layer 26.svg",
+      "parent": 403,
+      "mask_path": "Layer 26_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 429,
+      "filename": "Layer 27.svg",
+      "parent": 403,
+      "mask_path": "Layer 27_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    }
+  ]
+}

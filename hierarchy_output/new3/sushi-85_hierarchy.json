@@ -1,0 +1,1323 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full sushi-85",
+      "parent": -1,
+      "description": "A selection of sushi pieces arranged on a blue wooden board is viewed from an isometric perspective. Chopsticks are positioned near one of the sushi rolls."
+    },
+    {
+      "id": 1,
+      "filename": "sushi-85_element_33.svg",
+      "parent": 0,
+      "mask_path": "sushi-85_element_33_highlighted.png",
+      "description": "An orange, square placemat or tray.",
+      "color": "rgba(178, 88, 27, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "sushi-85_element_34.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_34_highlighted.png",
+      "description": "A light blue, slatted wooden serving tray.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "sushi-85_element_35.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_35_highlighted.png",
+      "description": "The top surface of a wooden, slatted tray.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "sushi-85_element_36.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_36_highlighted.png",
+      "description": "A portion of the border of a serving placemat.",
+      "color": "rgba(178, 88, 27, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "sushi-85_element_37.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_37_highlighted.png",
+      "description": "A part of a slatted sushi plate.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "sushi-85_element_38.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_38_highlighted.png",
+      "description": "The border of a rectangular placemat",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "sushi-85_element_39.svg",
+      "parent": 0,
+      "mask_path": "sushi-85_element_39_highlighted.png",
+      "description": "Part of a wooden sushi serving tray.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "sushi-85_element_40.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_40_highlighted.png",
+      "description": "A rectangular wooden placemat.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "sushi-85_element_41.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_41_highlighted.png",
+      "description": "A portion of a slatted sushi tray.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "sushi-85_element_42.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_42_highlighted.png",
+      "description": "The surface of an orange placemat.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "sushi-85_element_43.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_43_highlighted.png",
+      "description": "The frontmost maki roll, with a black outer layer and a round green filling.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "sushi-85_element_44.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_44_highlighted.png",
+      "description": "Two dark gray chopsticks angled and pointing towards the frontmost maki roll.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "sushi-85_element_45.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_45_highlighted.png",
+      "description": "The light blue, ridged surface of the sushi board.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "sushi-85_element_46.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_46_highlighted.png",
+      "description": "A square, brown surface used as the base for the sushi.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "sushi-85_element_47.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_47_highlighted.png",
+      "description": "A maki roll with a black outer layer and an orange and white filling.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "sushi-85_element_48.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_48_highlighted.png",
+      "description": "A light blue, ridged wooden board on which the sushi is arranged.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "sushi-85_element_49.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_49_highlighted.png",
+      "description": "A maki roll with a black outer layer and green and yellow filling.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "sushi-85_element_50.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_50_highlighted.png",
+      "description": "The light blue, ridged wooden board used for serving the sushi.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "sushi-85_element_51.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_51_highlighted.png",
+      "description": "A maki roll with a black outer layer and a filling made of red flakes.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "sushi-85_element_52.svg",
+      "parent": 0,
+      "mask_path": "sushi-85_element_52_highlighted.png",
+      "description": "The light blue ridged sushi board used to present the food.",
+      "color": "rgba(124, 124, 124, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "sushi-85_element_53.svg",
+      "parent": 0,
+      "mask_path": "sushi-85_element_53_highlighted.png",
+      "description": "A pair of gray chopsticks.",
+      "color": "rgba(124, 124, 124, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "sushi-85_element_54.svg",
+      "parent": 0,
+      "mask_path": "sushi-85_element_54_highlighted.png",
+      "description": "A single gray chopstick.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "sushi-85_element_55.svg",
+      "parent": 0,
+      "mask_path": "sushi-85_element_55_highlighted.png",
+      "description": "The right-side chopstick, gray in color.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "sushi-85_element_56.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_56_highlighted.png",
+      "description": "Two gray chopsticks positioned next to each other.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "sushi-85_element_57.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_57_highlighted.png",
+      "description": "A circular sushi roll with a light green filling.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "sushi-85_element_58.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_58_highlighted.png",
+      "description": "A round sushi roll with a white center.",
+      "color": "rgba(223, 224, 226, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "sushi-85_element_59.svg",
+      "parent": 26,
+      "mask_path": "sushi-85_element_59_highlighted.png",
+      "description": "A round sushi roll containing a light green filling.",
+      "color": "rgba(101, 168, 24, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "sushi-85_element_60.svg",
+      "parent": 27,
+      "mask_path": "sushi-85_element_60_highlighted.png",
+      "description": "A circular sushi roll with an orange center.",
+      "color": "rgba(236, 107, 32, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "sushi-85_element_61.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_61_highlighted.png",
+      "description": "The rightmost sushi roll, filled with dark green.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "sushi-85_element_62.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_62_highlighted.png",
+      "description": "The second sushi roll, which contains light green filling.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "sushi-85_element_63.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_63_highlighted.png",
+      "description": "A piece of sushi with a white topping.",
+      "color": "rgba(223, 224, 226, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "sushi-85_element_64.svg",
+      "parent": 31,
+      "mask_path": "sushi-85_element_64_highlighted.png",
+      "description": "A piece of sushi with a yellow crescent topping.",
+      "color": "rgba(255, 210, 23, 1.0)"
+    },
+    {
+      "id": 33,
+      "filename": "sushi-85_element_65.svg",
+      "parent": 31,
+      "mask_path": "sushi-85_element_65_highlighted.png",
+      "description": "A sushi roll with an orange center.",
+      "color": "rgba(236, 107, 32, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "sushi-85_element_66.svg",
+      "parent": 31,
+      "mask_path": "sushi-85_element_66_highlighted.png",
+      "description": "A sushi roll with a light green topping.",
+      "color": "rgba(101, 168, 24, 1.0)"
+    },
+    {
+      "id": 35,
+      "filename": "sushi-85_element_67.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_67_highlighted.png",
+      "description": "A sushi roll with orange, yellow, and green fillings.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 36,
+      "filename": "sushi-85_element_68.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_68_highlighted.png",
+      "description": "A sushi roll with green, red, and yellow fillings.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 37,
+      "filename": "sushi-85_element_69.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_69_highlighted.png",
+      "description": "A white sushi roll.",
+      "color": "rgba(223, 224, 226, 1.0)"
+    },
+    {
+      "id": 38,
+      "filename": "sushi-85_element_70.svg",
+      "parent": 37,
+      "mask_path": "sushi-85_element_70_highlighted.png",
+      "description": "A sushi roll with a pattern of red stripes on top.",
+      "color": "rgba(85, 45, 46, 1.0)"
+    },
+    {
+      "id": 39,
+      "filename": "sushi-85_element_71.svg",
+      "parent": 37,
+      "mask_path": "sushi-85_element_71_highlighted.png",
+      "description": "A sushi roll with a red topping with three stripes.",
+      "color": "rgba(85, 45, 46, 1.0)"
+    },
+    {
+      "id": 40,
+      "filename": "sushi-85_element_72.svg",
+      "parent": 37,
+      "mask_path": "sushi-85_element_72_highlighted.png",
+      "description": "A dark red sushi roll.",
+      "color": "rgba(85, 45, 46, 1.0)"
+    },
+    {
+      "id": 41,
+      "filename": "sushi-85_element_73.svg",
+      "parent": 37,
+      "mask_path": "sushi-85_element_73_highlighted.png",
+      "description": "A round piece of sushi with dark filling and dark stripes on top.",
+      "color": "rgba(85, 45, 46, 1.0)"
+    },
+    {
+      "id": 42,
+      "filename": "sushi-85_element_74.svg",
+      "parent": 37,
+      "mask_path": "sushi-85_element_74_highlighted.png",
+      "description": "A round piece of sushi containing a green and orange filling.",
+      "color": "rgba(223, 224, 226, 1.0)"
+    },
+    {
+      "id": 43,
+      "filename": "sushi-85_element_75.svg",
+      "parent": 37,
+      "mask_path": "sushi-85_element_75_highlighted.png",
+      "description": "A cylindrical piece of sushi with orange and red pieces of filling.",
+      "color": "rgba(223, 224, 226, 1.0)"
+    },
+    {
+      "id": 44,
+      "filename": "sushi-85_element_76.svg",
+      "parent": 37,
+      "mask_path": "sushi-85_element_76_highlighted.png",
+      "description": "A round piece of sushi with a green filling.",
+      "color": "rgba(223, 224, 226, 1.0)"
+    },
+    {
+      "id": 45,
+      "filename": "sushi-85_element_77.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_77_highlighted.png",
+      "description": "A round piece of sushi with dark filling and dark stripes on top.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 46,
+      "filename": "sushi-85_element_78.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_78_highlighted.png",
+      "description": "A round piece of sushi containing a green and orange filling.",
+      "color": "rgba(2, 24, 12, 1.0)"
+    },
+    {
+      "id": 47,
+      "filename": "sushi-85_element_79.svg",
+      "parent": 69,
+      "mask_path": "sushi-85_element_79_highlighted.png",
+      "description": "A white round piece of sushi.",
+      "color": "rgba(223, 224, 226, 1.0)"
+    },
+    {
+      "id": 48,
+      "filename": "sushi-85_element_80.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_80_highlighted.png",
+      "description": "A round piece of sushi filled with small bright-orange pieces.",
+      "color": "rgba(236, 107, 32, 1.0)"
+    },
+    {
+      "id": 49,
+      "filename": "sushi-85_element_81.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_81_highlighted.png",
+      "description": "A round piece of sushi with red filling.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 50,
+      "filename": "sushi-85_element_82.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_82_highlighted.png",
+      "description": "A round piece of sushi with red filling.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 51,
+      "filename": "sushi-85_element_83.svg",
+      "parent": 48,
+      "mask_path": "sushi-85_element_83_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark outer layer and a lighter coloured filling, placed on a dark blue slatted tray.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 52,
+      "filename": "sushi-85_element_84.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_84_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark outer layer and a light green filling, placed on a dark blue slatted tray.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 53,
+      "filename": "sushi-85_element_85.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_85_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark outer layer and a red filling, placed on a dark blue slatted tray.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 54,
+      "filename": "sushi-85_element_86.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_86_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark outer layer and a light green filling, placed on a dark blue slatted tray.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 55,
+      "filename": "sushi-85_element_87.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_87_highlighted.png",
+      "description": "A chopstick made of dark material.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 56,
+      "filename": "sushi-85_element_88.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_88_highlighted.png",
+      "description": "A dark blue rectangular sushi tray made of parallel slats of wood.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 57,
+      "filename": "sushi-85_element_89.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_89_highlighted.png",
+      "description": "The corner of a brown rectangular sushi board with rounded edges.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 58,
+      "filename": "sushi-85_element_90.svg",
+      "parent": 48,
+      "mask_path": "sushi-85_element_90_highlighted.png",
+      "description": "A chopstick made of dark material.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 59,
+      "filename": "sushi-85_element_91.svg",
+      "parent": 48,
+      "mask_path": "sushi-85_element_91_highlighted.png",
+      "description": "A dark blue rectangular sushi tray made of parallel slats of wood.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 60,
+      "filename": "sushi-85_element_92.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_92_highlighted.png",
+      "description": "The corner of a brown rectangular sushi board with rounded edges.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 61,
+      "filename": "sushi-85_element_93.svg",
+      "parent": 48,
+      "mask_path": "sushi-85_element_93_highlighted.png",
+      "description": "A short piece of sushi with a dark outer layer and a light green filling.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 62,
+      "filename": "sushi-85_element_94.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_94_highlighted.png",
+      "description": "A set of grey-blue parallel wooden bars on a wooden tray.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 63,
+      "filename": "sushi-85_element_95.svg",
+      "parent": 48,
+      "mask_path": "sushi-85_element_95_highlighted.png",
+      "description": "A small pile of red and brown filling in a piece of sushi.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 64,
+      "filename": "sushi-85_element_96.svg",
+      "parent": 48,
+      "mask_path": "sushi-85_element_96_highlighted.png",
+      "description": "A cylindrical sushi piece with a dark outer layer and a dark and light green filling.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 65,
+      "filename": "sushi-85_element_97.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_97_highlighted.png",
+      "description": "The end of a rounded chopstick.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 66,
+      "filename": "sushi-85_element_98.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_98_highlighted.png",
+      "description": "A small pile of red and brown filling in a piece of sushi.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 67,
+      "filename": "sushi-85_element_99.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_99_highlighted.png",
+      "description": "A rounded chopstick, likely made of wood.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 68,
+      "filename": "sushi-85_element_100.svg",
+      "parent": 47,
+      "mask_path": "sushi-85_element_100_highlighted.png",
+      "description": "A cylindrical sushi piece with a dark outer layer and a dark and light green filling.",
+      "color": "rgba(211, 60, 60, 1.0)"
+    },
+    {
+      "id": 69,
+      "filename": "Layer 1_Item_56.svg",
+      "parent": 70,
+      "mask_path": "Layer 1_Item_56_highlighted.png",
+      "description": "A pair of black chopsticks, placed diagonally on a blue slatted surface.",
+      "color": null
+    },
+    {
+      "id": 70,
+      "filename": "Layer 1_Item_42.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_42_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark wrapping, containing a vibrant green ingredient.",
+      "color": null
+    },
+    {
+      "id": 71,
+      "filename": "Layer 1_Item_81.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_81_highlighted.png",
+      "description": "A sushi roll with a dark seaweed wrap, filled with bright red filling.",
+      "color": null
+    },
+    {
+      "id": 72,
+      "filename": "Layer 1_Item_80.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_80_highlighted.png",
+      "description": "A cylindrical piece of sushi with a dark outer layer, filled with a reddish center, and part of a set on a light blue tray.",
+      "color": null
+    },
+    {
+      "id": 73,
+      "filename": "Layer 1_Item_43.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_43_highlighted.png",
+      "description": "A sushi roll with a visible white filling inside the seaweed wrap, on a light blue platter.",
+      "color": null
+    },
+    {
+      "id": 74,
+      "filename": "Layer 1_Item_57.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_57_highlighted.png",
+      "description": "A light blue slatted serving tray.",
+      "color": null
+    },
+    {
+      "id": 75,
+      "filename": "Layer 1_Item_41.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_41_highlighted.png",
+      "description": "A sushi roll with a green filling and a black outer layer.",
+      "color": null
+    },
+    {
+      "id": 76,
+      "filename": "Layer 1_Item_55.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_55_highlighted.png",
+      "description": "A round sushi roll, showing a filling with a visible red ingredient.",
+      "color": null
+    },
+    {
+      "id": 77,
+      "filename": "Layer 1_Item_69.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_69_highlighted.png",
+      "description": "The middle maki roll, filled with red ingredients.",
+      "color": null
+    },
+    {
+      "id": 78,
+      "filename": "Layer 1_Item_82.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_82_highlighted.png",
+      "description": "The granular red filling of a sushi roll.",
+      "color": null
+    },
+    {
+      "id": 79,
+      "filename": "Layer 1.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 80,
+      "filename": "Layer 1_Item_83.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_83_highlighted.png",
+      "description": "A cylindrical piece of sushi with a filling that looks like multiple grains.",
+      "color": null
+    },
+    {
+      "id": 81,
+      "filename": "Layer 1_Item_68.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_68_highlighted.png",
+      "description": "A piece of sushi with a filling that is orange and dark.",
+      "color": null
+    },
+    {
+      "id": 82,
+      "filename": "Layer 1_Item_54.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_54_highlighted.png",
+      "description": "The leftmost maki roll with white filling.",
+      "color": null
+    },
+    {
+      "id": 83,
+      "filename": "Layer 1_Item_40.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_40_highlighted.png",
+      "description": "A slatted, light blue surface serving as a plate.",
+      "color": null
+    },
+    {
+      "id": 84,
+      "filename": "Layer 1_Item_78.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_78_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark wrapping and a filling, positioned on a light blue-green tray.",
+      "color": null
+    },
+    {
+      "id": 85,
+      "filename": "Layer 1_Item_44.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_44_highlighted.png",
+      "description": "A sushi roll with a dark seaweed wrap, filled with bright green filling.",
+      "color": null
+    },
+    {
+      "id": 86,
+      "filename": "Layer 1_Item_50.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_50_highlighted.png",
+      "description": "An orange circular filling on a sushi roll.",
+      "color": null
+    },
+    {
+      "id": 87,
+      "filename": "Layer 1_Item_87.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_87_highlighted.png",
+      "description": "The filling of a sushi roll, appearing as tiny red granules.",
+      "color": null
+    },
+    {
+      "id": 88,
+      "filename": "Layer 1_Item_86.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_86_highlighted.png",
+      "description": "A piece of sushi with dark seaweed wrapping, featuring a red filling.",
+      "color": null
+    },
+    {
+      "id": 89,
+      "filename": "Layer 1_Item_51.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_51_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 90,
+      "filename": "Layer 1_Item_45.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_45_highlighted.png",
+      "description": "A piece of sushi roll with dark outer layer and orange filling, sitting on a blue-green tray, ready to be eaten with chopsticks.",
+      "color": null
+    },
+    {
+      "id": 91,
+      "filename": "Layer 1_Item_79.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_79_highlighted.png",
+      "description": "A sushi roll with a dark seaweed wrap, filled with small orange fillings, placed on a tray next to a pair of chopsticks.",
+      "color": null
+    },
+    {
+      "id": 92,
+      "filename": "Layer 1_Item_53.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_53_highlighted.png",
+      "description": "A sliced maki roll of sushi with green filling.",
+      "color": null
+    },
+    {
+      "id": 93,
+      "filename": "Layer 1_Item_47.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_47_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 94,
+      "filename": "Layer 1_Item_84.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_84_highlighted.png",
+      "description": "A sushi roll with a red filling.",
+      "color": null
+    },
+    {
+      "id": 95,
+      "filename": "Layer 1_Item_85.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_85_highlighted.png",
+      "description": "A sushi roll with red specks on top.",
+      "color": null
+    },
+    {
+      "id": 96,
+      "filename": "Layer 1_Item_46.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_46_highlighted.png",
+      "description": "A cylindrical piece of sushi with a green filling and white topping.",
+      "color": null
+    },
+    {
+      "id": 97,
+      "filename": "Layer 1_Item_52.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_52_highlighted.png",
+      "description": "A sushi roll with dark seaweed wrap, filled with green fish and white rice.",
+      "color": null
+    },
+    {
+      "id": 98,
+      "filename": "Layer 1_Item_35.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_35_highlighted.png",
+      "description": "A partially visible sushi roll, with a dark filling and a white outer layer, being pierced by a chopstick.",
+      "color": null
+    },
+    {
+      "id": 99,
+      "filename": "Layer 1_Item_21.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_21_highlighted.png",
+      "description": "A pair of dark-colored chopsticks, positioned parallel to each other.",
+      "color": null
+    },
+    {
+      "id": 100,
+      "filename": "Layer 1_Item_20.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_20_highlighted.png",
+      "description": "A pair of dark chopsticks.",
+      "color": null
+    },
+    {
+      "id": 101,
+      "filename": "Layer 1_Item_34.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_34_highlighted.png",
+      "description": "Black wooden chopsticks resting on sushi.",
+      "color": null
+    },
+    {
+      "id": 102,
+      "filename": "Layer 1_Item_1.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_1_highlighted.png",
+      "description": "An orange, diamond-shaped surface with three thin, black sticks protruding from it.",
+      "color": null
+    },
+    {
+      "id": 103,
+      "filename": "Layer 1_Item_3.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_3_highlighted.png",
+      "description": "A piece of sushi with visible seaweed wrapping and a filling of what appears to be rice and a dark green ingredient, sitting on a teal sushi platter.",
+      "color": null
+    },
+    {
+      "id": 104,
+      "filename": "Layer 1_Item_22.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_22_highlighted.png",
+      "description": "A sushi roll with a visible light green filling.",
+      "color": null
+    },
+    {
+      "id": 105,
+      "filename": "Layer 1_Item_36.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_36_highlighted.png",
+      "description": "A cylindrical sushi piece with a dark outer layer and a dark and light green filling.",
+      "color": null
+    },
+    {
+      "id": 106,
+      "filename": "Layer 1_Item_37.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_37_highlighted.png",
+      "description": "The rightmost maki roll, held by two chopsticks.",
+      "color": null
+    },
+    {
+      "id": 107,
+      "filename": "Layer 1_Item_23.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_23_highlighted.png",
+      "description": "A sushi roll to the right with green filling.",
+      "color": null
+    },
+    {
+      "id": 108,
+      "filename": "Layer 1_Item_2.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_2_highlighted.png",
+      "description": "The furthest maki roll on the left, bearing textured markings on its top.",
+      "color": null
+    },
+    {
+      "id": 109,
+      "filename": "Layer 1_Item_6.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_6_highlighted.png",
+      "description": "Green filling sticking out of a sushi roll.",
+      "color": null
+    },
+    {
+      "id": 110,
+      "filename": "Layer 1_Item_27.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_27_highlighted.png",
+      "description": "A sushi roll with a dark seaweed wrap, filled with yellow and green filling.",
+      "color": null
+    },
+    {
+      "id": 111,
+      "filename": "Layer 1_Item_33.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_33_highlighted.png",
+      "description": "One of the two chopsticks resting above the pieces of sushi",
+      "color": null
+    },
+    {
+      "id": 112,
+      "filename": "Layer 1_Item_32.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_32_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 113,
+      "filename": "Layer 1_Item_26.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_26_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark wrapping, containing green filling, resting on a blue-green tray.",
+      "color": null
+    },
+    {
+      "id": 114,
+      "filename": "Layer 1_Item_7.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_7_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 115,
+      "filename": "Layer 1_Item_5.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_5_highlighted.png",
+      "description": "The piece of sushi with dark seaweed wrap containing green filling sits on a light blue tray.",
+      "color": null
+    },
+    {
+      "id": 116,
+      "filename": "Layer 1_Item_18.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_18_highlighted.png",
+      "description": "A cylindrical piece of sushi with a green filling.",
+      "color": null
+    },
+    {
+      "id": 117,
+      "filename": "Layer 1_Item_30.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_30_highlighted.png",
+      "description": "The bottom-right corner of a blue-grey slatted serving tray.",
+      "color": null
+    },
+    {
+      "id": 118,
+      "filename": "Layer 1_Item_24.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_24_highlighted.png",
+      "description": "The top layer of a sushi roll, possibly made of cucumber or avocado.",
+      "color": null
+    },
+    {
+      "id": 119,
+      "filename": "Layer 1_Item_25.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_25_highlighted.png",
+      "description": "The cylindrical sushi on the left",
+      "color": null
+    },
+    {
+      "id": 120,
+      "filename": "Layer 1_Item_31.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_31_highlighted.png",
+      "description": "A piece of sushi, rolled with a dark wrapper and filled with a yellowish center, displayed on a blue-green tray.",
+      "color": null
+    },
+    {
+      "id": 121,
+      "filename": "Layer 1_Item_19.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_19_highlighted.png",
+      "description": "A cylindrical piece of sushi, with a dark outer layer.",
+      "color": null
+    },
+    {
+      "id": 122,
+      "filename": "Layer 1_Item_4.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_4_highlighted.png",
+      "description": "A sushi roll with dark seaweed wrap, filled with yellow and green filling.",
+      "color": null
+    },
+    {
+      "id": 123,
+      "filename": "Layer 1_Item_9.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_9_highlighted.png",
+      "description": "The cylindrical sushi on the right",
+      "color": null
+    },
+    {
+      "id": 124,
+      "filename": "Layer 1_Item_14.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_14_highlighted.png",
+      "description": "A cylindrical piece of sushi with a dark wrapper, green filling, and part of a set on a light blue tray.",
+      "color": null
+    },
+    {
+      "id": 125,
+      "filename": "Layer 1_Item_28.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_28_highlighted.png",
+      "description": "A rectangular, light blue sushi plate with black edging.",
+      "color": null
+    },
+    {
+      "id": 126,
+      "filename": "Layer 1_Item_29.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_29_highlighted.png",
+      "description": "A light blue-green slatted sushi tray.",
+      "color": null
+    },
+    {
+      "id": 127,
+      "filename": "Layer 1_Item_15.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_15_highlighted.png",
+      "description": "A sushi roll with a dark seaweed wrap and rice, topped with vertical lines of pink fish.",
+      "color": null
+    },
+    {
+      "id": 128,
+      "filename": "Layer 1_Item_8.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_8_highlighted.png",
+      "description": "A cylindrical piece of sushi, appearing to have vertical stripes on its top.",
+      "color": null
+    },
+    {
+      "id": 129,
+      "filename": "Layer 1_Item_17.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_17_highlighted.png",
+      "description": "Green filling peeking out of a dark sushi roll.",
+      "color": null
+    },
+    {
+      "id": 130,
+      "filename": "Layer 1_Item_16.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_16_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 131,
+      "filename": "Layer 1_Item_12.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_12_highlighted.png",
+      "description": "A brown wooden sushi platter on which sushi is arranged.",
+      "color": null
+    },
+    {
+      "id": 132,
+      "filename": "Layer 1_Item_13.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_13_highlighted.png",
+      "description": "A sliced maki roll with a pattern on top.",
+      "color": null
+    },
+    {
+      "id": 133,
+      "filename": "Layer 1_Item_39.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_39_highlighted.png",
+      "description": "A pair of chopsticks.",
+      "color": null
+    },
+    {
+      "id": 134,
+      "filename": "Layer 1_Item_11.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_11_highlighted.png",
+      "description": "A rectangular brown mat.",
+      "color": null
+    },
+    {
+      "id": 135,
+      "filename": "Layer 1_Item_10.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_10_highlighted.png",
+      "description": "A rectangular, brown surface.",
+      "color": null
+    },
+    {
+      "id": 136,
+      "filename": "Layer 1_Item_38.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_38_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark wrapping, containing a dark green core ingredient.",
+      "color": null
+    },
+    {
+      "id": 137,
+      "filename": "Layer 1_Item_77.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_77_highlighted.png",
+      "description": "A cylindrical roll of sushi with red filling.",
+      "color": null
+    },
+    {
+      "id": 138,
+      "filename": "Layer 1_Item_63.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_63_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 139,
+      "filename": "Layer 1_Item_88.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_88_highlighted.png",
+      "description": "The second-to-last roll filled with red contents.",
+      "color": null
+    },
+    {
+      "id": 140,
+      "filename": "Layer 1_Item_62.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_62_highlighted.png",
+      "description": "A cylindrical piece of sushi showing a cross-section of white filling.",
+      "color": null
+    },
+    {
+      "id": 141,
+      "filename": "Layer 1_Item_76.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_76_highlighted.png",
+      "description": "A cylindrical piece of sushi with a dark outer layer, filled with a reddish center, and part of a set on a light blue tray.",
+      "color": null
+    },
+    {
+      "id": 142,
+      "filename": "Layer 1_Item_60.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_60_highlighted.png",
+      "description": "A sushi roll with red colored fish in the center of its filling.",
+      "color": null
+    },
+    {
+      "id": 143,
+      "filename": "Layer 1_Item_74.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_74_highlighted.png",
+      "description": "A cylindrical piece of sushi with small particles of filling, dark red in color.",
+      "color": null
+    },
+    {
+      "id": 144,
+      "filename": "Layer 1_Item_48.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_48_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 145,
+      "filename": "Layer 1_Item_49.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_49_highlighted.png",
+      "description": "A yellow, circular piece of food on top of a roll.",
+      "color": null
+    },
+    {
+      "id": 146,
+      "filename": "Layer 1_Item_75.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_75_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 147,
+      "filename": "Layer 1_Item_61.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_61_highlighted.png",
+      "description": "A piece of sushi with a dark outer layer and light pink stripes on top, resting on a blue-green tray.",
+      "color": null
+    },
+    {
+      "id": 148,
+      "filename": "Layer 1_Item_59.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_59_highlighted.png",
+      "description": "A sushi roll sitting on a plate with a possible sauce interior.",
+      "color": null
+    },
+    {
+      "id": 149,
+      "filename": "Layer 1_Item_65.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_65_highlighted.png",
+      "description": "A sushi roll with visible green pieces.",
+      "color": null
+    },
+    {
+      "id": 150,
+      "filename": "Layer 1_Item_71.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_71_highlighted.png",
+      "description": "A set of grey-blue parallel wooden bars on a wooden tray.",
+      "color": null
+    },
+    {
+      "id": 151,
+      "filename": "Layer 1_Item_70.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_70_highlighted.png",
+      "description": "The middle maki roll with visible red filling.",
+      "color": null
+    },
+    {
+      "id": 152,
+      "filename": "Layer 1_Item_64.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_64_highlighted.png",
+      "description": "A sushi roll with three white stripes on top.",
+      "color": null
+    },
+    {
+      "id": 153,
+      "filename": "Layer 1_Item_58.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_58_highlighted.png",
+      "description": "A cylindrical piece of sushi showing a cross-section of red filling.",
+      "color": null
+    },
+    {
+      "id": 154,
+      "filename": "Layer 1_Item_72.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_72_highlighted.png",
+      "description": "A sushi roll with small red specks on top, possibly filling.",
+      "color": null
+    },
+    {
+      "id": 155,
+      "filename": "Layer 1_Item_66.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_66_highlighted.png",
+      "description": "A cylindrical piece of sushi with dark wrapping, containing what appears to be a pale yellow ingredient.",
+      "color": null
+    },
+    {
+      "id": 156,
+      "filename": "Layer 1_Item_67.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_67_highlighted.png",
+      "description": "A piece of sushi with white filling.",
+      "color": null
+    },
+    {
+      "id": 157,
+      "filename": "Layer 1_Item_73.svg",
+      "parent": 69,
+      "mask_path": "Layer 1_Item_73_highlighted.png",
+      "description": "A sushi roll with visible red flakes on top.",
+      "color": null
+    },
+    {
+      "id": 158,
+      "filename": "Layer 90.svg",
+      "parent": 69,
+      "mask_path": "Layer 90_highlighted.png",
+      "description": "A pale blue sushi serving tray, featuring a grooved surface with several horizontal bars.",
+      "color": null
+    },
+    {
+      "id": 159,
+      "filename": "Layer 91.svg",
+      "parent": 69,
+      "mask_path": "Layer 91_highlighted.png",
+      "description": "A chopstick with a light gray color.",
+      "color": null
+    },
+    {
+      "id": 160,
+      "filename": "Layer 92.svg",
+      "parent": 69,
+      "mask_path": "Layer 92_highlighted.png",
+      "description": "A white chopstick being used to pick up sushi.",
+      "color": null
+    },
+    {
+      "id": 161,
+      "filename": "Layer 93.svg",
+      "parent": 69,
+      "mask_path": "Layer 93_highlighted.png",
+      "description": "A sushi roll with a white filling topped with red caviar.",
+      "color": null
+    },
+    {
+      "id": 162,
+      "filename": "Layer 94.svg",
+      "parent": 69,
+      "mask_path": "Layer 94_highlighted.png",
+      "description": "A cylindrical piece of sushi with a visible dark green wrapper and orange filling.",
+      "color": null
+    },
+    {
+      "id": 163,
+      "filename": "Layer 95.svg",
+      "parent": 69,
+      "mask_path": "Layer 95_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 164,
+      "filename": "Layer 96.svg",
+      "parent": 69,
+      "mask_path": "Layer 96_highlighted.png",
+      "description": "A circular sushi roll with white rice and dark seaweed wrap, topped with five vertical lines of light pink fish.",
+      "color": null
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full production-line-3",
+      "parent": -1,
+      "description": "An illustration depicting boxes moving along a conveyor belt in a factory or warehouse. One box is being lifted by a robotic arm."
+    },
+    {
+      "id": 1,
+      "filename": "production-line-3_element_900.svg",
+      "parent": 2,
+      "mask_path": "production-line-3_element_900_highlighted.png",
+      "description": "A yellow box, suspended in the air by a mechanical grabber, part of a production line.",
+      "color": "rgba(255, 188, 14, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "production-line-3_element_901.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_901_highlighted.png",
+      "description": "A blue box, suspended in the air by a mechanical grabber, part of a production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "production-line-3_element_902.svg",
+      "parent": 4,
+      "mask_path": "production-line-3_element_902_highlighted.png",
+      "description": "An orange line on a brown box sitting on a production line.",
+      "color": "rgba(245, 97, 50, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "production-line-3_element_903.svg",
+      "parent": 2,
+      "mask_path": "production-line-3_element_903_highlighted.png",
+      "description": "A blue line on a brown box, suspended in the air by a mechanical grabber, part of a production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "production-line-3_element_904.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_904_highlighted.png",
+      "description": "A yellow box on a production line.",
+      "color": "rgba(255, 188, 14, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "production-line-3_element_905.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_905_highlighted.png",
+      "description": "A blue line on a brown box on a production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "production-line-3_element_906.svg",
+      "parent": 8,
+      "mask_path": "production-line-3_element_906_highlighted.png",
+      "description": "An orange line on a brown box, sitting on a production line.",
+      "color": "rgba(245, 97, 50, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "production-line-3_element_907.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_907_highlighted.png",
+      "description": "A blue line on a brown box on a production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "production-line-3_element_908.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_908_highlighted.png",
+      "description": "A yellow box on a production line.",
+      "color": "rgba(255, 188, 14, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "production-line-3_element_909.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_909_highlighted.png",
+      "description": "A blue line on a brown box on a production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "production-line-3_element_910.svg",
+      "parent": 12,
+      "mask_path": "production-line-3_element_910_highlighted.png",
+      "description": "A small orange rectangle on the side of a cardboard box.",
+      "color": "rgba(245, 97, 50, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "production-line-3_element_911.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_911_highlighted.png",
+      "description": "A small blue rectangle on the side of a cardboard box.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "production-line-3_element_912.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_912_highlighted.png",
+      "description": "A short white arrow pointing to the right, above a conveyor belt.",
+      "color": "rgba(223, 234, 239, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "production-line-3_element_913.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_913_highlighted.png",
+      "description": "A short white arrow pointing to the right, above a conveyor belt.",
+      "color": "rgba(223, 234, 239, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "production-line-3_element_914.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_914_highlighted.png",
+      "description": "A short white arrow pointing to the right, below a suspended cardboard box.",
+      "color": "rgba(223, 234, 239, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "production-line-3_element_915.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_915_highlighted.png",
+      "description": "A short white arrow pointing to the right, below a suspended cardboard box.",
+      "color": "rgba(223, 234, 239, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "production-line-3_element_916.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_916_highlighted.png",
+      "description": "The top portion of the cardboard box being carried above a conveyor belt",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "production-line-3_element_917.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_917_highlighted.png",
+      "description": "A U-shaped blue clamp holding a cardboard box.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "production-line-3_element_918.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_918_highlighted.png",
+      "description": "A small blue square connecting a crane to a U-shaped clamp.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "production-line-3_element_919.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_919_highlighted.png",
+      "description": "A small blue square connecting a crane to a U-shaped clamp.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "production-line-3_element_920.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_920_highlighted.png",
+      "description": "A light-blue conveyor belt surface with round black rollers.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "production-line-3_element_921.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_921_highlighted.png",
+      "description": "A blue border around the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "production-line-3_element_922.svg",
+      "parent": 24,
+      "mask_path": "production-line-3_element_922_highlighted.png",
+      "description": "A blue circle or roller on a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "production-line-3_element_923.svg",
+      "parent": 21,
+      "mask_path": "production-line-3_element_923_highlighted.png",
+      "description": "A blue circle, representing a roller on a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "production-line-3_element_924.svg",
+      "parent": 26,
+      "mask_path": "production-line-3_element_924_highlighted.png",
+      "description": "A blue circular roller on a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "production-line-3_element_925.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_925_highlighted.png",
+      "description": "A blue circular roller on a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "production-line-3_element_926.svg",
+      "parent": 28,
+      "mask_path": "production-line-3_element_926_highlighted.png",
+      "description": "A blue roller in the middle of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "production-line-3_element_927.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_927_highlighted.png",
+      "description": "A blue circular roller of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "production-line-3_element_928.svg",
+      "parent": 30,
+      "mask_path": "production-line-3_element_928_highlighted.png",
+      "description": "A blue roller on a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "production-line-3_element_929.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_929_highlighted.png",
+      "description": "A blue roller in a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "production-line-3_element_930.svg",
+      "parent": 32,
+      "mask_path": "production-line-3_element_930_highlighted.png",
+      "description": "A dark blue circle that is part of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "production-line-3_element_931.svg",
+      "parent": 21,
+      "mask_path": "production-line-3_element_931_highlighted.png",
+      "description": "A dark blue circle that is part of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 33,
+      "filename": "production-line-3_element_932.svg",
+      "parent": 44,
+      "mask_path": "production-line-3_element_932_highlighted.png",
+      "description": "A dark blue circle that is part of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "production-line-3_element_933.svg",
+      "parent": 21,
+      "mask_path": "production-line-3_element_933_highlighted.png",
+      "description": "A dark blue circle that is part of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 35,
+      "filename": "production-line-3_element_934.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_934_highlighted.png",
+      "description": "The light blue vertical frame on the side of the production line with two slots that contain green and red lights.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 36,
+      "filename": "production-line-3_element_935.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_935_highlighted.png",
+      "description": "The vertical frame of the production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 37,
+      "filename": "production-line-3_element_936.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_936_highlighted.png",
+      "description": "A light blue vertical frame on the side of the production line.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 38,
+      "filename": "production-line-3_element_937.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_937_highlighted.png",
+      "description": "A dark blue vertical frame on the side of the production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 39,
+      "filename": "production-line-3_element_938.svg",
+      "parent": 40,
+      "mask_path": "production-line-3_element_938_highlighted.png",
+      "description": "A green rectangle light on a machine.",
+      "color": "rgba(112, 204, 64, 1.0)"
+    },
+    {
+      "id": 40,
+      "filename": "production-line-3_element_939.svg",
+      "parent": 37,
+      "mask_path": "production-line-3_element_939_highlighted.png",
+      "description": "A blue rectangle on a machine.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 41,
+      "filename": "production-line-3_element_940.svg",
+      "parent": 42,
+      "mask_path": "production-line-3_element_940_highlighted.png",
+      "description": "A small orange rectangular light on a control panel of an automated production line.",
+      "color": "rgba(245, 97, 50, 1.0)"
+    },
+    {
+      "id": 42,
+      "filename": "production-line-3_element_941.svg",
+      "parent": 37,
+      "mask_path": "production-line-3_element_941_highlighted.png",
+      "description": "A small blue rectangular light on a control panel of an automated production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 43,
+      "filename": "production-line-3_element_942.svg",
+      "parent": 0,
+      "mask_path": "production-line-3_element_942_highlighted.png",
+      "description": "A thin blue horizontal bar atop a gray machine, part of a production line.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 44,
+      "filename": "Item_1.svg",
+      "parent": 45,
+      "mask_path": "Item_1_highlighted.png",
+      "description": "A yellow cardboard box with an orange top, suspended in the air by a claw from a production line.",
+      "color": null
+    },
+    {
+      "id": 45,
+      "filename": "Item_2.svg",
+      "parent": 44,
+      "mask_path": "Item_2_highlighted.png",
+      "description": "A yellow cardboard box with a small brown rectangle on its side.",
+      "color": null
+    },
+    {
+      "id": 46,
+      "filename": "Item_3.svg",
+      "parent": 44,
+      "mask_path": "Item_3_highlighted.png",
+      "description": "A yellow cardboard box with a small brown rectangle on its side.",
+      "color": null
+    },
+    {
+      "id": 47,
+      "filename": "Item_4.svg",
+      "parent": 44,
+      "mask_path": "Item_4_highlighted.png",
+      "description": "A white arrow pointing to the right.",
+      "color": null
+    },
+    {
+      "id": 48,
+      "filename": "Item_5.svg",
+      "parent": 44,
+      "mask_path": "Item_5_highlighted.png",
+      "description": "The entire light-blue automated assembly line, including the boxes, rollers, frame, and control panel.",
+      "color": null
+    },
+    {
+      "id": 49,
+      "filename": "Layer 1.svg",
+      "parent": 44,
+      "mask_path": "Layer 1_highlighted.png",
+      "description": "The dark-gray side panel of the machine.",
+      "color": null
+    },
+    {
+      "id": 50,
+      "filename": "Layer 7.svg",
+      "parent": 44,
+      "mask_path": "Layer 7_highlighted.png",
+      "description": "A round, dark blue conveyor belt roller, the last one on the right.",
+      "color": null
+    },
+    {
+      "id": 51,
+      "filename": "Layer 8.svg",
+      "parent": 44,
+      "mask_path": "Layer 8_highlighted.png",
+      "description": "A dark blue circle on the conveyor belt.",
+      "color": null
+    },
+    {
+      "id": 52,
+      "filename": "Layer 9.svg",
+      "parent": 44,
+      "mask_path": "Layer 9_highlighted.png",
+      "description": "A dark blue circle on the conveyor belt.",
+      "color": null
+    },
+    {
+      "id": 53,
+      "filename": "Layer 10.svg",
+      "parent": 44,
+      "mask_path": "Layer 10_highlighted.png",
+      "description": "A dark blue circle on the conveyor belt.",
+      "color": null
+    },
+    {
+      "id": 54,
+      "filename": "Layer 11.svg",
+      "parent": 44,
+      "mask_path": "Layer 11_highlighted.png",
+      "description": "A dark blue circle on the conveyor belt.",
+      "color": null
+    },
+    {
+      "id": 55,
+      "filename": "Layer 12.svg",
+      "parent": 44,
+      "mask_path": "Layer 12_highlighted.png",
+      "description": "A dark blue circular conveyor roller on a production line.",
+      "color": null
+    },
+    {
+      "id": 56,
+      "filename": "Layer 13.svg",
+      "parent": 44,
+      "mask_path": "Layer 13_highlighted.png",
+      "description": "A small orange rectangular light on a control panel of an automated production line.",
+      "color": null
+    },
+    {
+      "id": 57,
+      "filename": "Layer 14.svg",
+      "parent": 44,
+      "mask_path": "Layer 14_highlighted.png",
+      "description": "A small green rectangular light on a control panel of an automated production line.",
+      "color": null
+    },
+    {
+      "id": 58,
+      "filename": "Layer 15.svg",
+      "parent": 44,
+      "mask_path": "Layer 15_highlighted.png",
+      "description": "A white arrow pointing right above a conveyor belt of a production line.",
+      "color": null
+    },
+    {
+      "id": 59,
+      "filename": "Layer 16.svg",
+      "parent": 44,
+      "mask_path": "Layer 16_highlighted.png",
+      "description": "A white arrow pointing to the right.",
+      "color": null
+    },
+    {
+      "id": 60,
+      "filename": "Layer 17.svg",
+      "parent": 44,
+      "mask_path": "Layer 17_highlighted.png",
+      "description": "A blue claw holding a cardboard box, part of a production line.",
+      "color": null
+    },
+    {
+      "id": 61,
+      "filename": "Layer 18.svg",
+      "parent": 44,
+      "mask_path": "Layer 18_highlighted.png",
+      "description": "A hanging rectangular yellow box with a small brown rectangle near the top.",
+      "color": null
+    },
+    {
+      "id": 62,
+      "filename": "Layer 19.svg",
+      "parent": 44,
+      "mask_path": "Layer 19_highlighted.png",
+      "description": "A small, dark blue mechanism, part of a crane holding a cardboard box.",
+      "color": null
+    }
+  ]
+}

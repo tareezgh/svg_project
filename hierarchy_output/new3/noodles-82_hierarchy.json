@@ -1,0 +1,571 @@
+{
+  "global_style": "",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full noodles-82",
+      "parent": -1,
+      "description": ""
+    },
+    {
+      "id": 1,
+      "filename": "noodles-82_element_2107.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2107_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "noodles-82_element_2108.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2108_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 3,
+      "filename": "noodles-82_element_2109.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2109_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "noodles-82_element_2110.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2110_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 5,
+      "filename": "noodles-82_element_2111.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2111_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(226, 131, 98, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "noodles-82_element_2112.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2112_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "noodles-82_element_2113.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2113_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "noodles-82_element_2114.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2114_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(254, 211, 55, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "noodles-82_element_2115.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2115_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(254, 211, 55, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "noodles-82_element_2116.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2116_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(254, 211, 55, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "noodles-82_element_2117.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2117_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(254, 211, 55, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "noodles-82_element_2118.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2118_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(254, 211, 55, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "noodles-82_element_2119.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2119_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(254, 211, 55, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "noodles-82_element_2120.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2120_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(254, 211, 55, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "noodles-82_element_2121.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2121_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "noodles-82_element_2122.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2122_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "noodles-82_element_2123.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2123_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "noodles-82_element_2124.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2124_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "noodles-82_element_2125.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2125_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "noodles-82_element_2126.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2126_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "noodles-82_element_2127.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2127_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "noodles-82_element_2128.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2128_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "noodles-82_element_2129.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2129_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "noodles-82_element_2130.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2130_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "noodles-82_element_2131.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2131_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(254, 211, 55, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "noodles-82_element_2132.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2132_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "noodles-82_element_2133.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2133_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "noodles-82_element_2134.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2134_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 29,
+      "filename": "noodles-82_element_2135.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2135_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "noodles-82_element_2136.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2136_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "noodles-82_element_2137.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2137_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 242, 212, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "noodles-82_element_2138.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2138_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 33,
+      "filename": "noodles-82_element_2139.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2139_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "noodles-82_element_2140.svg",
+      "parent": 33,
+      "mask_path": "noodles-82_element_2140_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 35,
+      "filename": "noodles-82_element_2141.svg",
+      "parent": 34,
+      "mask_path": "noodles-82_element_2141_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 242, 212, 1.0)"
+    },
+    {
+      "id": 36,
+      "filename": "noodles-82_element_2142.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2142_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 37,
+      "filename": "noodles-82_element_2143.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2143_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 38,
+      "filename": "noodles-82_element_2144.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2144_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 39,
+      "filename": "noodles-82_element_2145.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2145_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 40,
+      "filename": "noodles-82_element_2146.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2146_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 41,
+      "filename": "noodles-82_element_2147.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2147_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 42,
+      "filename": "noodles-82_element_2148.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2148_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 43,
+      "filename": "noodles-82_element_2149.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2149_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 44,
+      "filename": "noodles-82_element_2150.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2150_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 45,
+      "filename": "noodles-82_element_2151.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2151_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 46,
+      "filename": "noodles-82_element_2152.svg",
+      "parent": 13,
+      "mask_path": "noodles-82_element_2152_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 47,
+      "filename": "noodles-82_element_2153.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2153_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 48,
+      "filename": "noodles-82_element_2154.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2154_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 49,
+      "filename": "noodles-82_element_2155.svg",
+      "parent": 14,
+      "mask_path": "noodles-82_element_2155_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 50,
+      "filename": "noodles-82_element_2156.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2156_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 51,
+      "filename": "noodles-82_element_2157.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2157_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 52,
+      "filename": "noodles-82_element_2158.svg",
+      "parent": 13,
+      "mask_path": "noodles-82_element_2158_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 53,
+      "filename": "noodles-82_element_2159.svg",
+      "parent": 14,
+      "mask_path": "noodles-82_element_2159_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(153, 79, 49, 1.0)"
+    },
+    {
+      "id": 54,
+      "filename": "noodles-82_element_2160.svg",
+      "parent": 61,
+      "mask_path": "noodles-82_element_2160_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 55,
+      "filename": "noodles-82_element_2161.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2161_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 56,
+      "filename": "noodles-82_element_2162.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2162_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 57,
+      "filename": "noodles-82_element_2163.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2163_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 58,
+      "filename": "noodles-82_element_2164.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2164_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 59,
+      "filename": "noodles-82_element_2165.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2165_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 60,
+      "filename": "noodles-82_element_2166.svg",
+      "parent": 0,
+      "mask_path": "noodles-82_element_2166_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(85, 130, 61, 1.0)"
+    },
+    {
+      "id": 61,
+      "filename": "Item_1.svg",
+      "parent": 62,
+      "mask_path": "Item_1_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 62,
+      "filename": "Item_2.svg",
+      "parent": 61,
+      "mask_path": "Item_2_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 63,
+      "filename": "Item_3.svg",
+      "parent": 61,
+      "mask_path": "Item_3_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 64,
+      "filename": "Layer 1.svg",
+      "parent": 61,
+      "mask_path": "Layer 1_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 65,
+      "filename": "Layer 5.svg",
+      "parent": 61,
+      "mask_path": "Layer 5_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 66,
+      "filename": "Layer 6.svg",
+      "parent": 61,
+      "mask_path": "Layer 6_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 67,
+      "filename": "Layer 7.svg",
+      "parent": 61,
+      "mask_path": "Layer 7_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 68,
+      "filename": "Layer 8.svg",
+      "parent": 61,
+      "mask_path": "Layer 8_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 69,
+      "filename": "Layer 9.svg",
+      "parent": 61,
+      "mask_path": "Layer 9_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 70,
+      "filename": "Layer 10.svg",
+      "parent": 61,
+      "mask_path": "Layer 10_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    }
+  ]
+}

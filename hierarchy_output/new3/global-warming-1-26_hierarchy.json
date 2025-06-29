@@ -1,0 +1,331 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full global-warming-1-26",
+      "parent": -1,
+      "description": "An illustration depicting a cityscape with factories emitting smoke, a car, and a sun, all sitting on top of the earth."
+    },
+    {
+      "id": 1,
+      "filename": "global-warming-1-26_element_1757.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1757_highlighted.png",
+      "description": "A yellow circular sun in the sky.",
+      "color": "rgba(255, 210, 0, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "global-warming-1-26_element_1758.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1758_highlighted.png",
+      "description": "Gray smoke coming from two chimneys.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "global-warming-1-26_element_1759.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1759_highlighted.png",
+      "description": "The blue facade of a building.",
+      "color": "rgba(36, 40, 91, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "global-warming-1-26_element_1760.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1760_highlighted.png",
+      "description": "A dark blue rectangular shape behind a car, possibly a building part.",
+      "color": "rgba(36, 40, 91, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "global-warming-1-26_element_1761.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1761_highlighted.png",
+      "description": "A white doorway entrance to a building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "global-warming-1-26_element_1762.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1762_highlighted.png",
+      "description": "A white rooftop over a dark building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "global-warming-1-26_element_1763.svg",
+      "parent": 3,
+      "mask_path": "global-warming-1-26_element_1763_highlighted.png",
+      "description": "An orange glowing square window of a building.",
+      "color": "rgba(255, 210, 0, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "global-warming-1-26_element_1764.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1764_highlighted.png",
+      "description": "A square white window on the factory building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "global-warming-1-26_element_1765.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1765_highlighted.png",
+      "description": "A white rectangle that is part of a factory-like building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "global-warming-1-26_element_1766.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1766_highlighted.png",
+      "description": "A white square window in a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "global-warming-1-26_element_1767.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1767_highlighted.png",
+      "description": "A white square window in a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "global-warming-1-26_element_1768.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1768_highlighted.png",
+      "description": "A white square window in a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "global-warming-1-26_element_1769.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1769_highlighted.png",
+      "description": "A white square window in a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "global-warming-1-26_element_1770.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1770_highlighted.png",
+      "description": "A bright yellow car with two visible wheels, appearing to be on a road.",
+      "color": "rgba(255, 210, 0, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "global-warming-1-26_element_1771.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1771_highlighted.png",
+      "description": "A dark blue wheel belonging to a yellow car.",
+      "color": "rgba(36, 40, 91, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "global-warming-1-26_element_1772.svg",
+      "parent": 15,
+      "mask_path": "global-warming-1-26_element_1772_highlighted.png",
+      "description": "A bright white headlight of a yellow car.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "global-warming-1-26_element_1773.svg",
+      "parent": 31,
+      "mask_path": "global-warming-1-26_element_1773_highlighted.png",
+      "description": "The round, violet rear wheel of a yellow car.",
+      "color": "rgba(36, 40, 91, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "global-warming-1-26_element_1774.svg",
+      "parent": 14,
+      "mask_path": "global-warming-1-26_element_1774_highlighted.png",
+      "description": "The small, white windshield of a car.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "global-warming-1-26_element_1775.svg",
+      "parent": 14,
+      "mask_path": "global-warming-1-26_element_1775_highlighted.png",
+      "description": "The black rear wheel of a car.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "global-warming-1-26_element_1776.svg",
+      "parent": 14,
+      "mask_path": "global-warming-1-26_element_1776_highlighted.png",
+      "description": "The yellow body of a car.",
+      "color": "rgba(36, 40, 91, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "global-warming-1-26_element_1777.svg",
+      "parent": 14,
+      "mask_path": "global-warming-1-26_element_1777_highlighted.png",
+      "description": "The white, circular headlight of a yellow car.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "global-warming-1-26_element_1778.svg",
+      "parent": 14,
+      "mask_path": "global-warming-1-26_element_1778_highlighted.png",
+      "description": "A white, circular headlight on a yellow car.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "global-warming-1-26_element_1779.svg",
+      "parent": 17,
+      "mask_path": "global-warming-1-26_element_1779_highlighted.png",
+      "description": "The circular, white headlight of a yellow car.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "global-warming-1-26_element_1780.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1780_highlighted.png",
+      "description": "White smoke emitted from a factory's smokestack.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "global-warming-1-26_element_1781.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1781_highlighted.png",
+      "description": "A white region, likely part of a land mass.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "global-warming-1-26_element_1782.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1782_highlighted.png",
+      "description": "A small, rounded region, colored in light gray.",
+      "color": "rgba(165, 165, 165, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "global-warming-1-26_element_1783.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1783_highlighted.png",
+      "description": "A white land mass region.",
+      "color": "rgba(165, 165, 165, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "global-warming-1-26_element_1784.svg",
+      "parent": 25,
+      "mask_path": "global-warming-1-26_element_1784_highlighted.png",
+      "description": "A small, almost circular light gray spot.",
+      "color": "rgba(165, 165, 165, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "global-warming-1-26_element_1785.svg",
+      "parent": 25,
+      "mask_path": "global-warming-1-26_element_1785_highlighted.png",
+      "description": "A small, round, light gray spot.",
+      "color": "rgba(165, 165, 165, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "global-warming-1-26_element_1786.svg",
+      "parent": 0,
+      "mask_path": "global-warming-1-26_element_1786_highlighted.png",
+      "description": "A light gray patch on the right side, seemingly on a landmass.",
+      "color": "rgba(165, 165, 165, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "Item_1.svg",
+      "parent": 32,
+      "mask_path": "Item_1_highlighted.png",
+      "description": "A light blue factory building with a dark blue entrance.",
+      "color": null
+    },
+    {
+      "id": 32,
+      "filename": "Item_2.svg",
+      "parent": 31,
+      "mask_path": "Item_2_highlighted.png",
+      "description": "A light gray semicircle with white, uneven spots, forming the base of the landscape.",
+      "color": null
+    },
+    {
+      "id": 33,
+      "filename": "Layer 4.svg",
+      "parent": 31,
+      "mask_path": "Layer 4_highlighted.png",
+      "description": "A collection of simplified, geometric buildings, including some with smokestacks.",
+      "color": null
+    },
+    {
+      "id": 34,
+      "filename": "Layer 5.svg",
+      "parent": 31,
+      "mask_path": "Layer 5_highlighted.png",
+      "description": "A tall light blue building with a pointed roof and several windows.",
+      "color": null
+    },
+    {
+      "id": 35,
+      "filename": "Layer 6.svg",
+      "parent": 31,
+      "mask_path": "Layer 6_highlighted.png",
+      "description": "A small, blue, rectangular building with a single lit window.",
+      "color": null
+    },
+    {
+      "id": 36,
+      "filename": "Layer 7.svg",
+      "parent": 31,
+      "mask_path": "Layer 7_highlighted.png",
+      "description": "A light blue factory with a dark blue door and two small square windows.",
+      "color": null
+    },
+    {
+      "id": 37,
+      "filename": "Layer 8.svg",
+      "parent": 31,
+      "mask_path": "Layer 8_highlighted.png",
+      "description": "A small, yellow car.",
+      "color": null
+    },
+    {
+      "id": 38,
+      "filename": "Layer 9.svg",
+      "parent": 31,
+      "mask_path": "Layer 9_highlighted.png",
+      "description": "A column of light blue smoke rising from the factories.",
+      "color": null
+    },
+    {
+      "id": 39,
+      "filename": "Layer 10.svg",
+      "parent": 31,
+      "mask_path": "Layer 10_highlighted.png",
+      "description": "A pale blue plume emanating from a factory smokestack.",
+      "color": null
+    },
+    {
+      "id": 40,
+      "filename": "Layer 11.svg",
+      "parent": 31,
+      "mask_path": "Layer 11_highlighted.png",
+      "description": "A round, yellow sun-like object in the sky above the city.",
+      "color": null
+    }
+  ]
+}

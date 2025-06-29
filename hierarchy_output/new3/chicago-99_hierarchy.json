@@ -1,0 +1,1299 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full chicago-99",
+      "parent": -1,
+      "description": "A black and white city skyline on a light blue background with white clouds."
+    },
+    {
+      "id": 1,
+      "filename": "chicago-99_element_1390.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1390_highlighted.png",
+      "description": "A blue sky background, visible above and around a city skyline.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "chicago-99_element_1391.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1391_highlighted.png",
+      "description": "A white, elongated, cartoon-like cloud in front of a skyscraper.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "chicago-99_element_1392.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1392_highlighted.png",
+      "description": "A fluffy, white cloud formation in the sky.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "chicago-99_element_1393.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1393_highlighted.png",
+      "description": "A cartoon-style cloud, white with rounded edges.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "chicago-99_element_1394.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1394_highlighted.png",
+      "description": "The dark cloud in the night sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "chicago-99_element_1395.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1395_highlighted.png",
+      "description": "The dark cloud in the night sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "chicago-99_element_1396.svg",
+      "parent": 0,
+      "mask_path": "chicago-99_element_1396_highlighted.png",
+      "description": "The dark cloud in the night sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "chicago-99_element_1397.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1397_highlighted.png",
+      "description": "The dark cloud in the night sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "chicago-99_element_1398.svg",
+      "parent": 0,
+      "mask_path": "chicago-99_element_1398_highlighted.png",
+      "description": "A rectangular building block in a city skyline.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "chicago-99_element_1399.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1399_highlighted.png",
+      "description": "Twin spires on top of a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "chicago-99_element_1400.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1400_highlighted.png",
+      "description": "A rectangular building block in a city skyline.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "chicago-99_element_1401.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1401_highlighted.png",
+      "description": "Two small squares on top of a building, possibly lights.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "chicago-99_element_1402.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1402_highlighted.png",
+      "description": "A narrow rectangular building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "chicago-99_element_1403.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1403_highlighted.png",
+      "description": "The top of a dome-shaped building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "chicago-99_element_1404.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1404_highlighted.png",
+      "description": "Two small squares on top of a building, possibly lights.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "chicago-99_element_1405.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1405_highlighted.png",
+      "description": "The blue-grey sky, visible behind the buildings.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "chicago-99_element_1406.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1406_highlighted.png",
+      "description": "A rectangular portion of a building",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "chicago-99_element_1407.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1407_highlighted.png",
+      "description": "An arched skyscraper",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "chicago-99_element_1408.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1408_highlighted.png",
+      "description": "A tall, white skyscraper with a rounded top",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "chicago-99_element_1409.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1409_highlighted.png",
+      "description": "A tall, thin skyscraper.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "chicago-99_element_1410.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1410_highlighted.png",
+      "description": "A curved, white skyscraper.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "chicago-99_element_1411.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1411_highlighted.png",
+      "description": "A thin, rectangular skyscraper",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "chicago-99_element_1412.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1412_highlighted.png",
+      "description": "A tall rectangular building",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "chicago-99_element_1413.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1413_highlighted.png",
+      "description": "A rectangular window of a dark building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "chicago-99_element_1414.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1414_highlighted.png",
+      "description": "A dark blue sky and clouds.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "chicago-99_element_1415.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1415_highlighted.png",
+      "description": "A modern white building with a flat roof.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "chicago-99_element_1416.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1416_highlighted.png",
+      "description": "A dark blue sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "chicago-99_element_1417.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1417_highlighted.png",
+      "description": "A dark blue sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "chicago-99_element_1418.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1418_highlighted.png",
+      "description": "A tall, rectangular white skyscraper.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "chicago-99_element_1419.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1419_highlighted.png",
+      "description": "A dark blue sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "chicago-99_element_1420.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1420_highlighted.png",
+      "description": "A white horizontal line.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "chicago-99_element_1421.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1421_highlighted.png",
+      "description": "A white horizontal line.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 33,
+      "filename": "chicago-99_element_1422.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1422_highlighted.png",
+      "description": "A horizontal light on the side of a skyscraper.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "chicago-99_element_1423.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1423_highlighted.png",
+      "description": "A horizontal light on the side of a skyscraper.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 35,
+      "filename": "chicago-99_element_1424.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1424_highlighted.png",
+      "description": "A horizontal light on the side of a skyscraper.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 36,
+      "filename": "chicago-99_element_1425.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1425_highlighted.png",
+      "description": "A horizontal light on the side of a skyscraper.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 37,
+      "filename": "chicago-99_element_1426.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1426_highlighted.png",
+      "description": "A horizontal light on the side of a skyscraper.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 38,
+      "filename": "chicago-99_element_1427.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1427_highlighted.png",
+      "description": "A horizontal light on the side of a skyscraper.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 39,
+      "filename": "chicago-99_element_1428.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1428_highlighted.png",
+      "description": "A horizontal light on the side of a skyscraper.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 40,
+      "filename": "chicago-99_element_1429.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1429_highlighted.png",
+      "description": "A horizontal light on the side of a skyscraper.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 41,
+      "filename": "chicago-99_element_1430.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1430_highlighted.png",
+      "description": "A small rectangular section of a building, appearing as a window.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 42,
+      "filename": "chicago-99_element_1431.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1431_highlighted.png",
+      "description": "A rectangular building section.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 43,
+      "filename": "chicago-99_element_1432.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1432_highlighted.png",
+      "description": "A tiny vertical section of a low building, appearing as a window.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 44,
+      "filename": "chicago-99_element_1433.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1433_highlighted.png",
+      "description": "A tall, narrow building, possibly an office building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 45,
+      "filename": "chicago-99_element_1434.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1434_highlighted.png",
+      "description": "A tiny vertical section of a tall building, appearing as a window.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 46,
+      "filename": "chicago-99_element_1435.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1435_highlighted.png",
+      "description": "A tall building with a series of vertical lines.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 47,
+      "filename": "chicago-99_element_1436.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1436_highlighted.png",
+      "description": "A tiny vertical section of a tall building, appearing as a window.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 48,
+      "filename": "chicago-99_element_1437.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1437_highlighted.png",
+      "description": "A tiny vertical section of a tall building, appearing as a window.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 49,
+      "filename": "chicago-99_element_1438.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1438_highlighted.png",
+      "description": "A white, vertical stripe of light on the side of a tall, dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 50,
+      "filename": "chicago-99_element_1439.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1439_highlighted.png",
+      "description": "A white, vertical stripe of light on the side of a tall, dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 51,
+      "filename": "chicago-99_element_1440.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1440_highlighted.png",
+      "description": "A white, vertical stripe of light on the side of a tall, dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 52,
+      "filename": "chicago-99_element_1441.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1441_highlighted.png",
+      "description": "A white, vertical stripe of light on the side of a tall, dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 53,
+      "filename": "chicago-99_element_1442.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1442_highlighted.png",
+      "description": "A white, vertical stripe of light on the side of a tall, dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 54,
+      "filename": "chicago-99_element_1443.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1443_highlighted.png",
+      "description": "The side of a grey, rectangular skyscraper.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 55,
+      "filename": "chicago-99_element_1444.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1444_highlighted.png",
+      "description": "The side of a grey, rectangular skyscraper.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 56,
+      "filename": "chicago-99_element_1445.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1445_highlighted.png",
+      "description": "The side of a grey, rectangular skyscraper.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 57,
+      "filename": "chicago-99_element_1446.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1446_highlighted.png",
+      "description": "A dark cloud formation in the sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 58,
+      "filename": "chicago-99_element_1447.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1447_highlighted.png",
+      "description": "The flat roof of a mid-rise building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 59,
+      "filename": "chicago-99_element_1448.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1448_highlighted.png",
+      "description": "The top of a low, square building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 60,
+      "filename": "chicago-99_element_1449.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1449_highlighted.png",
+      "description": "The flat roof of a low building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 61,
+      "filename": "chicago-99_element_1450.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1450_highlighted.png",
+      "description": "The side of a tall, rectangular building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 62,
+      "filename": "chicago-99_element_1451.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1451_highlighted.png",
+      "description": "The top of a low, rectangular building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 63,
+      "filename": "chicago-99_element_1452.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1452_highlighted.png",
+      "description": "A bright, rectangular building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 64,
+      "filename": "chicago-99_element_1453.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1453_highlighted.png",
+      "description": "The front of a mid-rise building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 65,
+      "filename": "chicago-99_element_1454.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1454_highlighted.png",
+      "description": "N/A",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 66,
+      "filename": "chicago-99_element_1455.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1455_highlighted.png",
+      "description": "A white rectangle, part of the building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 67,
+      "filename": "chicago-99_element_1456.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1456_highlighted.png",
+      "description": "N/A",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 68,
+      "filename": "chicago-99_element_1457.svg",
+      "parent": 69,
+      "mask_path": "chicago-99_element_1457_highlighted.png",
+      "description": "White section of a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 69,
+      "filename": "chicago-99_element_1458.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1458_highlighted.png",
+      "description": "N/A",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 70,
+      "filename": "chicago-99_element_1459.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1459_highlighted.png",
+      "description": "A white, rectangular section of a building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 71,
+      "filename": "chicago-99_element_1460.svg",
+      "parent": 0,
+      "mask_path": "chicago-99_element_1460_highlighted.png",
+      "description": "N/A",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 72,
+      "filename": "chicago-99_element_1461.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1461_highlighted.png",
+      "description": "A thin, white rectangle on the corner of a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 73,
+      "filename": "chicago-99_element_1462.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1462_highlighted.png",
+      "description": "A vertical white line on a dark building, suggestive of a window light.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 74,
+      "filename": "chicago-99_element_1463.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1463_highlighted.png",
+      "description": "N/A",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 75,
+      "filename": "chicago-99_element_1464.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1464_highlighted.png",
+      "description": "N/A",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 76,
+      "filename": "chicago-99_element_1465.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1465_highlighted.png",
+      "description": "A thin white horizontal rectangle, likely a light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 77,
+      "filename": "chicago-99_element_1466.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1466_highlighted.png",
+      "description": "A thin white horizontal rectangle, likely a light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 78,
+      "filename": "chicago-99_element_1467.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1467_highlighted.png",
+      "description": "A thin white horizontal rectangle, likely a light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 79,
+      "filename": "chicago-99_element_1468.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1468_highlighted.png",
+      "description": "A thin white horizontal rectangle, likely a light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 80,
+      "filename": "chicago-99_element_1469.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1469_highlighted.png",
+      "description": "A thin white horizontal rectangle, likely a light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 81,
+      "filename": "chicago-99_element_1470.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1470_highlighted.png",
+      "description": "A horizontal line on a building facade, suggesting an illuminated office floor.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 82,
+      "filename": "chicago-99_element_1471.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1471_highlighted.png",
+      "description": "A horizontal line on a building facade, suggesting an illuminated office floor.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 83,
+      "filename": "chicago-99_element_1472.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1472_highlighted.png",
+      "description": "A horizontal line on a building facade, suggesting an illuminated office floor.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 84,
+      "filename": "chicago-99_element_1473.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1473_highlighted.png",
+      "description": "A horizontal line on a building facade, suggesting an illuminated office floor.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 85,
+      "filename": "chicago-99_element_1474.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1474_highlighted.png",
+      "description": "A horizontal line on a building facade, suggesting an illuminated office floor.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 86,
+      "filename": "chicago-99_element_1475.svg",
+      "parent": 29,
+      "mask_path": "chicago-99_element_1475_highlighted.png",
+      "description": "A horizontal line on a building facade, suggesting an illuminated office floor.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 87,
+      "filename": "chicago-99_element_1476.svg",
+      "parent": 44,
+      "mask_path": "chicago-99_element_1476_highlighted.png",
+      "description": "A thin, vertical line indicating light on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 88,
+      "filename": "chicago-99_element_1477.svg",
+      "parent": 44,
+      "mask_path": "chicago-99_element_1477_highlighted.png",
+      "description": "A thin, vertical line indicating light on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 89,
+      "filename": "chicago-99_element_1478.svg",
+      "parent": 44,
+      "mask_path": "chicago-99_element_1478_highlighted.png",
+      "description": "A single, vertical, white light in a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 90,
+      "filename": "chicago-99_element_1479.svg",
+      "parent": 66,
+      "mask_path": "chicago-99_element_1479_highlighted.png",
+      "description": "A single, horizontal, white light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 91,
+      "filename": "chicago-99_element_1480.svg",
+      "parent": 66,
+      "mask_path": "chicago-99_element_1480_highlighted.png",
+      "description": "A single, horizontal, white light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 92,
+      "filename": "chicago-99_element_1481.svg",
+      "parent": 66,
+      "mask_path": "chicago-99_element_1481_highlighted.png",
+      "description": "A single, horizontal, white light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 93,
+      "filename": "chicago-99_element_1482.svg",
+      "parent": 66,
+      "mask_path": "chicago-99_element_1482_highlighted.png",
+      "description": "A single, horizontal, white light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 94,
+      "filename": "chicago-99_element_1483.svg",
+      "parent": 66,
+      "mask_path": "chicago-99_element_1483_highlighted.png",
+      "description": "A single, horizontal, white light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 95,
+      "filename": "chicago-99_element_1484.svg",
+      "parent": 66,
+      "mask_path": "chicago-99_element_1484_highlighted.png",
+      "description": "A single, horizontal, white light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 96,
+      "filename": "chicago-99_element_1485.svg",
+      "parent": 66,
+      "mask_path": "chicago-99_element_1485_highlighted.png",
+      "description": "A single, horizontal, white light in a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 97,
+      "filename": "chicago-99_element_1486.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1486_highlighted.png",
+      "description": "A single, lit window on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 98,
+      "filename": "chicago-99_element_1487.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1487_highlighted.png",
+      "description": "A single, lit window on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 99,
+      "filename": "chicago-99_element_1488.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1488_highlighted.png",
+      "description": "A single, lit window on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 100,
+      "filename": "chicago-99_element_1489.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1489_highlighted.png",
+      "description": "A single, lit window on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 101,
+      "filename": "chicago-99_element_1490.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1490_highlighted.png",
+      "description": "A single, lit window on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 102,
+      "filename": "chicago-99_element_1491.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1491_highlighted.png",
+      "description": "A single, lit window on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 103,
+      "filename": "chicago-99_element_1492.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1492_highlighted.png",
+      "description": "A single, lit window on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 104,
+      "filename": "chicago-99_element_1493.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1493_highlighted.png",
+      "description": "A single, lit window on a building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 105,
+      "filename": "chicago-99_element_1494.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1494_highlighted.png",
+      "description": "A single white window on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 106,
+      "filename": "chicago-99_element_1495.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1495_highlighted.png",
+      "description": "A single white window on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 107,
+      "filename": "chicago-99_element_1496.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1496_highlighted.png",
+      "description": "A single white window on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 108,
+      "filename": "chicago-99_element_1497.svg",
+      "parent": 70,
+      "mask_path": "chicago-99_element_1497_highlighted.png",
+      "description": "A single white window on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 109,
+      "filename": "chicago-99_element_1498.svg",
+      "parent": 5,
+      "mask_path": "chicago-99_element_1498_highlighted.png",
+      "description": "A single white window on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 110,
+      "filename": "chicago-99_element_1499.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1499_highlighted.png",
+      "description": "A single white window on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 111,
+      "filename": "chicago-99_element_1500.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1500_highlighted.png",
+      "description": "A vertical, bright line indicating illuminated windows on a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 112,
+      "filename": "chicago-99_element_1501.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1501_highlighted.png",
+      "description": "A vertical, bright line indicating illuminated windows on a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 113,
+      "filename": "chicago-99_element_1502.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1502_highlighted.png",
+      "description": "A thin vertical white line highlighting one segment of a taller building in the skyline.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 114,
+      "filename": "chicago-99_element_1503.svg",
+      "parent": 24,
+      "mask_path": "chicago-99_element_1503_highlighted.png",
+      "description": "The flat top surface of a mid-sized building in the skyline.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 115,
+      "filename": "chicago-99_element_1504.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1504_highlighted.png",
+      "description": "The thin, dark rectangle representing a tall skyscraper.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 116,
+      "filename": "chicago-99_element_1505.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1505_highlighted.png",
+      "description": "A bright white vertical segment of a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 117,
+      "filename": "chicago-99_element_1506.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1506_highlighted.png",
+      "description": "A blocky flat-top building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 118,
+      "filename": "chicago-99_element_1507.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1507_highlighted.png",
+      "description": "A tall, bright white building with two squares at the top in the skyline.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 119,
+      "filename": "chicago-99_element_1508.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1508_highlighted.png",
+      "description": "A flat, rectangular building in the skyline.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 120,
+      "filename": "chicago-99_element_1509.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1509_highlighted.png",
+      "description": "A dark grey flat, rectangular building in the skyline.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 121,
+      "filename": "chicago-99_element_1510.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1510_highlighted.png",
+      "description": "A cloud silhouette",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 122,
+      "filename": "chicago-99_element_1511.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1511_highlighted.png",
+      "description": "Part of the upper facade of a tall building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 123,
+      "filename": "chicago-99_element_1512.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1512_highlighted.png",
+      "description": "A rectangular block at the top of a building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 124,
+      "filename": "chicago-99_element_1513.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1513_highlighted.png",
+      "description": "A patch of blue sky.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 125,
+      "filename": "chicago-99_element_1514.svg",
+      "parent": 126,
+      "mask_path": "chicago-99_element_1514_highlighted.png",
+      "description": "A rectangular block at the top of a building.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 126,
+      "filename": "chicago-99_element_1515.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1515_highlighted.png",
+      "description": "The side of a dark building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 127,
+      "filename": "chicago-99_element_1516.svg",
+      "parent": 128,
+      "mask_path": "chicago-99_element_1516_highlighted.png",
+      "description": "A cloud silhouette",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 128,
+      "filename": "chicago-99_element_1517.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1517_highlighted.png",
+      "description": "The dark, rectangular top of a building.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 129,
+      "filename": "chicago-99_element_1518.svg",
+      "parent": 130,
+      "mask_path": "chicago-99_element_1518_highlighted.png",
+      "description": "A dark gray building",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 130,
+      "filename": "chicago-99_element_1519.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1519_highlighted.png",
+      "description": "A cloud above a city",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 131,
+      "filename": "chicago-99_element_1520.svg",
+      "parent": 132,
+      "mask_path": "chicago-99_element_1520_highlighted.png",
+      "description": "The top of a tall building with two towers",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 132,
+      "filename": "chicago-99_element_1521.svg",
+      "parent": 161,
+      "mask_path": "chicago-99_element_1521_highlighted.png",
+      "description": "A pointy spire of a tall building",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 133,
+      "filename": "chicago-99_element_1522.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1522_highlighted.png",
+      "description": "A lit window of a dark tower building",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 134,
+      "filename": "chicago-99_element_1523.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1523_highlighted.png",
+      "description": "A lit window of a dark tower building",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 135,
+      "filename": "chicago-99_element_1524.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1524_highlighted.png",
+      "description": "A lit window of a dark tower building",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 136,
+      "filename": "chicago-99_element_1525.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1525_highlighted.png",
+      "description": "A lit window of a dark tower building",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 137,
+      "filename": "chicago-99_element_1526.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1526_highlighted.png",
+      "description": "A horizontal, white stripe on the side of a tall building in a cityscape, likely representing illuminated windows.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 138,
+      "filename": "chicago-99_element_1527.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1527_highlighted.png",
+      "description": "A horizontal, white stripe on the side of a tall building in a cityscape, likely representing illuminated windows.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 139,
+      "filename": "chicago-99_element_1528.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1528_highlighted.png",
+      "description": "A horizontal, white stripe on the side of a tall building in a cityscape, likely representing illuminated windows.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 140,
+      "filename": "chicago-99_element_1529.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1529_highlighted.png",
+      "description": "A horizontal, white stripe on the side of a tall building in a cityscape, likely representing illuminated windows.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 141,
+      "filename": "chicago-99_element_1530.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1530_highlighted.png",
+      "description": "A horizontal, white stripe on the side of a tall building in a cityscape, likely representing illuminated windows.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 142,
+      "filename": "chicago-99_element_1531.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1531_highlighted.png",
+      "description": "A horizontal, white stripe on the side of a tall building in a cityscape, likely representing illuminated windows.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 143,
+      "filename": "chicago-99_element_1532.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1532_highlighted.png",
+      "description": "A horizontal, white stripe on the side of a tall building in a cityscape, likely representing illuminated windows.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 144,
+      "filename": "chicago-99_element_1533.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1533_highlighted.png",
+      "description": "A horizontal, white stripe on the side of a tall building in a cityscape, likely representing illuminated windows.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 145,
+      "filename": "chicago-99_element_1534.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1534_highlighted.png",
+      "description": "A small, horizontal rectangle on the side of a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 146,
+      "filename": "chicago-99_element_1535.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1535_highlighted.png",
+      "description": "A small, horizontal rectangle on the side of a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 147,
+      "filename": "chicago-99_element_1536.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1536_highlighted.png",
+      "description": "A small, horizontal rectangle on the side of a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 148,
+      "filename": "chicago-99_element_1537.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1537_highlighted.png",
+      "description": "A small, horizontal rectangle on the side of a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 149,
+      "filename": "chicago-99_element_1538.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1538_highlighted.png",
+      "description": "A small, horizontal rectangle on the side of a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 150,
+      "filename": "chicago-99_element_1539.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1539_highlighted.png",
+      "description": "A small, horizontal rectangle on the side of a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 151,
+      "filename": "chicago-99_element_1540.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1540_highlighted.png",
+      "description": "A small, horizontal rectangle on the side of a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 152,
+      "filename": "chicago-99_element_1541.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1541_highlighted.png",
+      "description": "A small, horizontal rectangle on the side of a tall building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 153,
+      "filename": "chicago-99_element_1542.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1542_highlighted.png",
+      "description": "A horizontal row of lit windows on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 154,
+      "filename": "chicago-99_element_1543.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1543_highlighted.png",
+      "description": "A horizontal row of lit windows on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 155,
+      "filename": "chicago-99_element_1544.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1544_highlighted.png",
+      "description": "A horizontal row of lit windows on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 156,
+      "filename": "chicago-99_element_1545.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1545_highlighted.png",
+      "description": "A horizontal row of lit windows on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 157,
+      "filename": "chicago-99_element_1546.svg",
+      "parent": 118,
+      "mask_path": "chicago-99_element_1546_highlighted.png",
+      "description": "A horizontal row of lit windows on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 158,
+      "filename": "chicago-99_element_1547.svg",
+      "parent": 123,
+      "mask_path": "chicago-99_element_1547_highlighted.png",
+      "description": "A vertical row of lit windows on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 159,
+      "filename": "chicago-99_element_1548.svg",
+      "parent": 123,
+      "mask_path": "chicago-99_element_1548_highlighted.png",
+      "description": "A vertical row of lit windows on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 160,
+      "filename": "chicago-99_element_1549.svg",
+      "parent": 123,
+      "mask_path": "chicago-99_element_1549_highlighted.png",
+      "description": "A vertical row of lit windows on a dark building.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 161,
+      "filename": "chicago-99_element_1550.svg",
+      "parent": 0,
+      "mask_path": "chicago-99_element_1550_highlighted.png",
+      "description": "The highlighted area is black.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ from pathlib import Path
 import inquirer
 from tqdm import tqdm
 from convert_svg_highlights_to_png import convert_svg_folder
-import cairosvg
+from collections import defaultdict
 
 
 def apply_transparency(svg_element, opacity):
@@ -31,7 +31,7 @@ def find_original_svg(originals_dir, svg_id):
     """
     Search the parent directory of originals_dir for the original SVG file.
     """
-    originals_base_path = Path(originals_dir).parent
+    originals_base_path = Path(originals_dir).parent / "inputs"
     for folder in originals_base_path.iterdir():
         if not folder.is_dir():
             continue
@@ -44,16 +44,96 @@ def find_original_svg(originals_dir, svg_id):
         return direct_candidate.resolve()
     return None
 
+def save_highlight_on_black_background(
+    segment_root: ET.Element,
+    original_root: ET.Element,
+    svg_id: str,
+    selected_folder: str,
+    segment_file_stem: str
+):
+    """
+    Create a version of the highlighted SVG with a solid black background (no transparency or spotlight).
+    This creates a visual like: black background + white/red segment on top.
+    """
+    output_dir = Path("highlighted_svgs_no_overlay") / selected_folder / svg_id
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    svg_ns = 'http://www.w3.org/2000/svg'
+    new_svg = ET.Element(original_root.tag, original_root.attrib)
+
+    # Copy <defs> if any
+    for defs in original_root.findall(f'.//{{{svg_ns}}}defs'):
+        new_svg.append(defs)
+
+    # Add black rectangle covering the whole canvas
+    black_rect = ET.Element(f'{{{svg_ns}}}rect', {
+        'x': '0',
+        'y': '0',
+        'width': '100%',
+        'height': '100%',
+        'fill': 'black'
+    })
+    new_svg.append(black_rect)
+
+    # Create highlight group
+    highlight_group = ET.Element(f'{{{svg_ns}}}g', {'id': 'highlighted-segment'})
+    for child in list(segment_root):
+        if child.tag.endswith('defs'):
+            continue
+
+        # Optional red stroke
+        outer = ET.Element(child.tag, child.attrib.copy())
+
+        # Clean fill (remove stroke from child)
+        original_style = child.attrib.get('style', '')
+        style_parts = [
+            kv for kv in original_style.split(';') if not kv.strip().startswith('stroke')
+        ]
+        child.attrib['style'] = ';'.join(style_parts)
+
+        highlight_group.append(outer)
+        highlight_group.append(child)
+
+    new_svg.append(highlight_group)
+
+    # Save SVG
+    output_path = output_dir / f"{segment_file_stem}_highlighted.svg"
+    try:
+        ET.ElementTree(new_svg).write(output_path)
+    except Exception as e:
+        tqdm.write(f"⚠️ Failed to write black overlay version: {output_path}: {e}")
 
 def highlight_segments(originals_dir, segments_dir, output_dir, selected_folder):
     selected_path = Path(segments_dir) / selected_folder
-    output_folder = Path(output_dir) / selected_folder
+    plus_path = Path("segmented_svgs_plus")
+    highlighted_output_folder = Path("highlighted_svgs") / selected_folder
+    white_output_folder = Path("white_svgs") / selected_folder
 
-    for svg_subdir in selected_path.iterdir():
-        if not svg_subdir.is_dir():
-            continue
+    svg_id_dirs = defaultdict(list)
 
-        svg_id = svg_subdir.name
+    # From segmented_svgs/<selected_folder>/
+    if selected_path.exists():
+        for d in selected_path.iterdir():
+            if d.is_dir():
+                svg_id_dirs[d.name].append(d)
+                print(f"✅ Found in segmented_svgs: {d.name}")
+
+    # From segmented_svg_plus/
+    for svg_id in svg_id_dirs:
+        plus_dir = plus_path / svg_id
+        if plus_dir.exists() and plus_dir.is_dir():
+            svg_id_dirs[svg_id].append(plus_dir)
+            print(f"✅ Also found in segmented_svg_plus: {svg_id}")
+
+    if not svg_id_dirs:
+        print("❌ No SVG segment folders found.")
+        return
+
+    for svg_id, sources in svg_id_dirs.items():
+        print(f"\n🔍 Processing svg_id: {svg_id}")
+        for src in sources:
+            print(f"   └─ Source folder: {src}")
+
         original_path = find_original_svg(originals_dir, svg_id)
         if not original_path:
             print(f"⚠️ Original SVG not found for: {svg_id}")
@@ -66,15 +146,25 @@ def highlight_segments(originals_dir, segments_dir, output_dir, selected_folder)
             print(f"⚠️ Error parsing {original_path.name}: {e}")
             continue
 
-        svg_output_dir = output_folder / svg_id
-        svg_output_dir.mkdir(parents=True, exist_ok=True)
-        
-        segment_files = list(svg_subdir.glob("*.svg"))
+        highlighted_dir = highlighted_output_folder / svg_id
+        white_dir = white_output_folder / svg_id
+        highlighted_dir.mkdir(parents=True, exist_ok=True)
+        white_dir.mkdir(parents=True, exist_ok=True)
+
+
+        # Collect segment files from all sources
+        segment_files = []
+        for source in sources:
+            found_files = list(source.glob("*.svg"))
+            if source.name in plus_path.name:
+                print(f"   🔹 {len(found_files)} segment(s) from segmented_svg_plus/{source.name}")
+            segment_files += found_files
+
         if not segment_files:
             print(f"⚠️ No segments found for: {svg_id}")
             continue
 
-        print(f"📦 Processing {svg_id} ({len(segment_files)} segments)")
+        print(f"📦 Processing {svg_id} ({len(segment_files)} segments from multiple folders)")
         for segment_file in tqdm(segment_files, desc=f"🔧 {svg_id}", unit="segment"):
             try:
                 segment_tree = ET.parse(segment_file)
@@ -123,12 +213,66 @@ def highlight_segments(originals_dir, segments_dir, output_dir, selected_folder)
 
             # Write result
             output_name = f"{segment_file.stem}_highlighted.svg"
-            output_path = svg_output_dir / output_name
+            output_path = highlighted_dir / output_name
 
             try:
                 ET.ElementTree(combined_svg).write(output_path)
             except Exception as e:
                 tqdm.write(f"⚠️ Failed to write {output_path}: {e}")
+
+            save_highlight_on_black_background(
+                segment_root=segment_root,
+                original_root=original_root,
+                svg_id=svg_id,
+                selected_folder=selected_folder,
+                segment_file_stem=segment_file.stem
+            )
+
+            white_svg = ET.Element(original_root.tag, original_root.attrib)
+
+            bg_rect = ET.Element('{http://www.w3.org/2000/svg}rect', {
+                'x': '0', 'y': '0', 'width': '100%', 'height': '100%',
+                'fill': 'black'
+            })
+            white_svg.append(bg_rect)
+
+            white_group = ET.Element('{http://www.w3.org/2000/svg}g', {'id': 'white-shapes'})
+            for child in list(segment_root):
+                if child.tag.endswith('defs'):
+                    continue
+
+                white_shape = ET.Element(child.tag, child.attrib.copy())
+                # white_shape.attrib.pop('stroke', None)
+                # white_shape.attrib['fill'] = 'white'
+                # white_shape.attrib['style'] = 'fill:white'
+                white_shape.attrib.pop('stroke', None)
+                white_shape.attrib['fill'] = 'white'
+
+                # Override style completely to ensure visibility and fill
+                white_shape.attrib['style'] = 'fill:white;display:inline;opacity:1'
+
+
+                white_group.append(white_shape)
+                white_group.attrib['style'] = 'display:inline;opacity:1'
+
+                for elem in white_svg.iter():
+                    style = elem.attrib.get('style', '')
+                    if 'display:none' in style:
+                        new_style = style.replace('display:none', 'display:inline')
+                        elem.attrib['style'] = new_style
+
+
+
+            white_svg.append(white_group)
+
+            white_output_name = f"{segment_file.stem}_highlighted.svg"
+            white_output_path = white_dir / white_output_name
+
+            try:
+                ET.ElementTree(white_svg).write(white_output_path)
+            except Exception as e:
+                tqdm.write(f"⚠️ Failed to write {white_output_path}: {e}")
+
 
 
 def add_black_overlay(svg_root, highlighted_group, opacity=0.9):
@@ -181,7 +325,7 @@ def convert_full_svg_to_png(originals_dir, selected_folder, svg_id, output_folde
     Converts full SVG from svgs/{selected_folder}/{svg_id}.svg to PNG as
     highlighted_pngs/{selected_folder}/{svg_id}/{svg_id}-full.png
     """
-    svg_path = Path(".") / selected_folder / f"{svg_id}.svg"
+    svg_path = Path("./inputs") / selected_folder / f"{svg_id}.svg"
     output_path = Path(output_folder) / selected_folder / svg_id / f"{svg_id}-full.png"
 
     if not svg_path.exists():
@@ -204,29 +348,34 @@ def convert_full_svg_to_png(originals_dir, selected_folder, svg_id, output_folde
 
 
 def main():
-    originals_dir = 'svgs'
-    segments_dir = 'segmented_svgs'
+    originals_dir = 'inputs'
+    SEGMENTS_DIRS = {
+        'segmented_svgs': Path('segmented_svgs'),
+        'segmented_svg_plus': Path('segmented_svg_plus')
+    }
     highlighted_dir = 'highlighted_svgs'
     png_output_dir = 'highlighted_pngs'
 
-    if not os.path.exists(segments_dir):
-        print(f"❌ Segments directory '{segments_dir}' not found.")
-        return
+    # Collect all folders from both sources
+    folder_choices = []
+    folder_source_map = {}
+    for label, base_path in SEGMENTS_DIRS.items():
+        if not base_path.exists():
+            continue
+        for folder in base_path.iterdir():
+            if folder.is_dir():
+                folder_choices.append(f"{label}/{folder.name}")
+                folder_source_map[f"{label}/{folder.name}"] = (base_path, folder.name)
 
-    segmented_folders = [
-        d for d in os.listdir(segments_dir)
-        if os.path.isdir(os.path.join(segments_dir, d))
-    ]
-
-    if not segmented_folders:
-        print(f"❌ No folders found in '{segments_dir}'.")
+    if not folder_choices:
+        print("❌ No segmented folders found.")
         return
 
     questions = [
         inquirer.List(
             'selected_folder',
             message="Select the segmented folder to process:",
-            choices=segmented_folders
+            choices=folder_choices
         )
     ]
     answers = inquirer.prompt(questions)
@@ -234,10 +383,12 @@ def main():
         print("❌ No folder selected. Exiting.")
         return
 
-    selected_folder = answers['selected_folder']
-    print(f"🔍 Processing folder: {selected_folder}")
+    full_selected = answers['selected_folder']
+    base_path, selected_folder = folder_source_map[full_selected]
 
-    highlight_segments(originals_dir, segments_dir, highlighted_dir, selected_folder)
+    print(f"🔍 Processing folder: {selected_folder} from {base_path.name}")
+
+    highlight_segments(originals_dir, str(base_path), highlighted_dir, selected_folder)
     print(f"🎨 Highlighted SVGs saved in: {highlighted_dir}")
 
     input_highlighted_folder = Path(highlighted_dir) / selected_folder
@@ -245,21 +396,30 @@ def main():
     convert_svg_folder(input_highlighted_folder, output_png_folder)
     print(f"🎉 PNGs saved in: {png_output_dir}")
 
+    # Convert no-overlay highlights to PNG
+    no_overlay_input_folder = Path("highlighted_svgs_no_overlay") / selected_folder
+    no_overlay_png_output_folder = Path("highlighted_pngs_no_overlay") / selected_folder
+    convert_svg_folder(no_overlay_input_folder, no_overlay_png_output_folder)
+    print(f"🎉 PNGs saved in: highlighted_pngs_no_overlay/{selected_folder}")
+
+    white_input_folder = Path("white_svgs") / selected_folder
+    white_png_output_folder = Path("white_pngs") / selected_folder
+    convert_svg_folder(white_input_folder, white_png_output_folder)
+    print(f"🎉 White-only PNGs saved in: white_pngs/{selected_folder}")
+
     # Convert full SVGs for each svg_id (i.e. each subfolder)
-    segmented_subfolders = Path(segments_dir) / selected_folder
+    segmented_subfolders = base_path / selected_folder
     for svg_subdir in segmented_subfolders.iterdir():
         if not svg_subdir.is_dir():
             continue
 
-        svg_id = svg_subdir.name  # e.g. 'authentication-5'
-
+        svg_id = svg_subdir.name
         convert_full_svg_to_png(
             originals_dir=originals_dir,
             selected_folder=selected_folder,
             svg_id=svg_id,
             output_folder=png_output_dir
         )
-
 
 
 if __name__ == "__main__":

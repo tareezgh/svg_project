@@ -1,0 +1,283 @@
+{
+  "global_style": "",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full recycling-4-19",
+      "parent": -1,
+      "description": ""
+    },
+    {
+      "id": 1,
+      "filename": "recycling-4-19_element_1787.svg",
+      "parent": 0,
+      "mask_path": "recycling-4-19_element_1787_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "recycling-4-19_element_1788.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1788_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "recycling-4-19_element_1789.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1789_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "recycling-4-19_element_1790.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1790_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "recycling-4-19_element_1791.svg",
+      "parent": 4,
+      "mask_path": "recycling-4-19_element_1791_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "recycling-4-19_element_1792.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1792_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "recycling-4-19_element_1793.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1793_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "recycling-4-19_element_1794.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1794_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "recycling-4-19_element_1795.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1795_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "recycling-4-19_element_1796.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1796_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "recycling-4-19_element_1797.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1797_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "recycling-4-19_element_1798.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1798_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "recycling-4-19_element_1799.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1799_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "recycling-4-19_element_1800.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1800_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "recycling-4-19_element_1801.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1801_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "recycling-4-19_element_1802.svg",
+      "parent": 15,
+      "mask_path": "recycling-4-19_element_1802_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(0, 0, 0, 0.0)"
+    },
+    {
+      "id": 17,
+      "filename": "recycling-4-19_element_1803.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1803_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "recycling-4-19_element_1804.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1804_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(35, 31, 32, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "recycling-4-19_element_1805.svg",
+      "parent": 20,
+      "mask_path": "recycling-4-19_element_1805_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "Item_8.svg",
+      "parent": 21,
+      "mask_path": "Item_8_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 21,
+      "filename": "Item_9.svg",
+      "parent": 20,
+      "mask_path": "Item_9_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 22,
+      "filename": " 0245 recycling 4.svg",
+      "parent": 20,
+      "mask_path": " 0245 recycling 4_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 23,
+      "filename": "Item_1.svg",
+      "parent": 20,
+      "mask_path": "Item_1_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 24,
+      "filename": "Item_2.svg",
+      "parent": 20,
+      "mask_path": "Item_2_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 25,
+      "filename": "Item_3.svg",
+      "parent": 20,
+      "mask_path": "Item_3_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 26,
+      "filename": "Item_7.svg",
+      "parent": 20,
+      "mask_path": "Item_7_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 27,
+      "filename": "Item_6.svg",
+      "parent": 20,
+      "mask_path": "Item_6_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 28,
+      "filename": "Item_4.svg",
+      "parent": 20,
+      "mask_path": "Item_4_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 29,
+      "filename": "Layer 11.svg",
+      "parent": 20,
+      "mask_path": "Layer 11_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 30,
+      "filename": "Layer 12.svg",
+      "parent": 20,
+      "mask_path": "Layer 12_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 31,
+      "filename": "Layer 13.svg",
+      "parent": 20,
+      "mask_path": "Layer 13_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 32,
+      "filename": "Layer 14.svg",
+      "parent": 20,
+      "mask_path": "Layer 14_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 33,
+      "filename": "Layer 15.svg",
+      "parent": 20,
+      "mask_path": "Layer 15_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    },
+    {
+      "id": 34,
+      "filename": "Layer 16.svg",
+      "parent": 20,
+      "mask_path": "Layer 16_highlighted.png",
+      "description": "No description available.",
+      "color": null
+    }
+  ]
+}

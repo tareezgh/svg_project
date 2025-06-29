@@ -1,0 +1,683 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full summer-landscape-48",
+      "parent": -1,
+      "description": "An isometric view of a small tropical island with a sandy beach, palm trees, ocean waves, and birds in the sky."
+    },
+    {
+      "id": 1,
+      "filename": "summer-landscape-48_element_1960.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1960_highlighted.png",
+      "description": "An area of golden-yellow sand.",
+      "color": "rgba(255, 199, 69, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "summer-landscape-48_element_1961.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1961_highlighted.png",
+      "description": "A light blue, winding river.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "summer-landscape-48_element_1962.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1962_highlighted.png",
+      "description": "A flowing blue river.",
+      "color": "rgba(1, 177, 200, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "summer-landscape-48_element_1963.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1963_highlighted.png",
+      "description": "The turquoise water of a river.",
+      "color": "rgba(1, 177, 200, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "summer-landscape-48_element_1964.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1964_highlighted.png",
+      "description": "A bright blue section of the river's edge.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "summer-landscape-48_element_1965.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1965_highlighted.png",
+      "description": "A white stylized bird in flight.",
+      "color": "rgba(99, 101, 96, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "summer-landscape-48_element_1966.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1966_highlighted.png",
+      "description": "A white stylized bird flying.",
+      "color": "rgba(99, 101, 96, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "summer-landscape-48_element_1967.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1967_highlighted.png",
+      "description": "A white, stylized bird in flight.",
+      "color": "rgba(99, 101, 96, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "summer-landscape-48_element_1968.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1968_highlighted.png",
+      "description": "A stylized white bird in flight.",
+      "color": "rgba(99, 101, 96, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "summer-landscape-48_element_1969.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1969_highlighted.png",
+      "description": "A stylized white bird.",
+      "color": "rgba(99, 101, 96, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "summer-landscape-48_element_1970.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1970_highlighted.png",
+      "description": "A small white bird, possibly a seagull, flying in the sky.",
+      "color": "rgba(99, 101, 96, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "summer-landscape-48_element_1971.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1971_highlighted.png",
+      "description": "A small bright green sprout at the top of a palm tree.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "summer-landscape-48_element_1972.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1972_highlighted.png",
+      "description": "A bright green crescent-shaped part of the top of a palm tree.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "summer-landscape-48_element_1973.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1973_highlighted.png",
+      "description": "A bright green flag-shaped part of the top of a palm tree.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "summer-landscape-48_element_1974.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1974_highlighted.png",
+      "description": "The reddish-brown trunk of a palm tree.",
+      "color": "rgba(216, 135, 106, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "summer-landscape-48_element_1975.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1975_highlighted.png",
+      "description": "A bright green partial palm leaf at the top of a palm tree.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "summer-landscape-48_element_1976.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1976_highlighted.png",
+      "description": "A bright green spot on top of a palm tree.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "summer-landscape-48_element_1977.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1977_highlighted.png",
+      "description": "A bright green palm leaf at the top of a palm tree.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "summer-landscape-48_element_1978.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1978_highlighted.png",
+      "description": "A small bright green spot at the top of a palm tree.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "summer-landscape-48_element_1979.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1979_highlighted.png",
+      "description": "A bright green section of palm frond at the top of a palm tree.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "summer-landscape-48_element_1980.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1980_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "summer-landscape-48_element_1981.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1981_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "summer-landscape-48_element_1982.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1982_highlighted.png",
+      "description": "The light brown trunk of a palm tree.",
+      "color": "rgba(216, 135, 106, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "summer-landscape-48_element_1983.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1983_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "summer-landscape-48_element_1984.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1984_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "summer-landscape-48_element_1985.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1985_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "summer-landscape-48_element_1986.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1986_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "summer-landscape-48_element_1987.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1987_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "summer-landscape-48_element_1988.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1988_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "summer-landscape-48_element_1989.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1989_highlighted.png",
+      "description": "A bright green stylized palm frond.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "summer-landscape-48_element_1990.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1990_highlighted.png",
+      "description": "A small, curved, bright green portion of a palm tree trunk.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "summer-landscape-48_element_1991.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1991_highlighted.png",
+      "description": "A circular, dark green treetop of a palm tree.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 33,
+      "filename": "summer-landscape-48_element_1992.svg",
+      "parent": 0,
+      "mask_path": "summer-landscape-48_element_1992_highlighted.png",
+      "description": "A curved, bright green portion of a palm tree trunk.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "summer-landscape-48_element_1993.svg",
+      "parent": 39,
+      "mask_path": "summer-landscape-48_element_1993_highlighted.png",
+      "description": "A small, round, brown rock next to some grass.",
+      "color": "rgba(165, 89, 66, 1.0)"
+    },
+    {
+      "id": 35,
+      "filename": "summer-landscape-48_element_1994.svg",
+      "parent": 39,
+      "mask_path": "summer-landscape-48_element_1994_highlighted.png",
+      "description": "Some long, thin, green grass blades.",
+      "color": "rgba(106, 149, 70, 1.0)"
+    },
+    {
+      "id": 36,
+      "filename": "summer-landscape-48_element_1995.svg",
+      "parent": 39,
+      "mask_path": "summer-landscape-48_element_1995_highlighted.png",
+      "description": "Some long, thin, green grass blades.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 37,
+      "filename": "summer-landscape-48_element_1996.svg",
+      "parent": 39,
+      "mask_path": "summer-landscape-48_element_1996_highlighted.png",
+      "description": "Some long, thin, bright green grass blades.",
+      "color": "rgba(133, 178, 59, 1.0)"
+    },
+    {
+      "id": 38,
+      "filename": "summer-landscape-48_element_1997.svg",
+      "parent": 39,
+      "mask_path": "summer-landscape-48_element_1997_highlighted.png",
+      "description": "A small, round, reddish-brown rock.",
+      "color": "rgba(127, 55, 38, 1.0)"
+    },
+    {
+      "id": 39,
+      "filename": "Layer 1.svg",
+      "parent": 40,
+      "mask_path": "Layer 1_highlighted.png",
+      "description": "Brown rock.",
+      "color": null
+    },
+    {
+      "id": 40,
+      "filename": "Layer 1_Item_40.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_40_highlighted.png",
+      "description": "A round brown boulder.",
+      "color": null
+    },
+    {
+      "id": 41,
+      "filename": "Layer 1_Item_35.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_35_highlighted.png",
+      "description": "A section of a palm tree trunk.",
+      "color": null
+    },
+    {
+      "id": 42,
+      "filename": "Layer 1_Item_21.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_21_highlighted.png",
+      "description": "A single, bright green coconut atop a palm tree.",
+      "color": null
+    },
+    {
+      "id": 43,
+      "filename": "Layer 1_Item_20.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_20_highlighted.png",
+      "description": "A section of bright green palm leaves belonging to a palm tree.",
+      "color": null
+    },
+    {
+      "id": 44,
+      "filename": "Layer 1_Item_34.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_34_highlighted.png",
+      "description": "A small green patch of palm leaves.",
+      "color": null
+    },
+    {
+      "id": 45,
+      "filename": "Layer 1_Item_1.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_1_highlighted.png",
+      "description": "A yellow sandy land area.",
+      "color": null
+    },
+    {
+      "id": 46,
+      "filename": "Layer 1_Item_3.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_3_highlighted.png",
+      "description": "A turquoise-colored body of water, possibly a river or lake, with gently curved edges.",
+      "color": null
+    },
+    {
+      "id": 47,
+      "filename": "Layer 1_Item_22.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_22_highlighted.png",
+      "description": "A section of light green palm tree leaves.",
+      "color": null
+    },
+    {
+      "id": 48,
+      "filename": "Layer 1_Item_36.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_36_highlighted.png",
+      "description": "A small, round, reddish-brown rock.",
+      "color": null
+    },
+    {
+      "id": 49,
+      "filename": "Layer 1_Item_37.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_37_highlighted.png",
+      "description": "Some vertical green blades of grass.",
+      "color": null
+    },
+    {
+      "id": 50,
+      "filename": "Layer 1_Item_23.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_23_highlighted.png",
+      "description": "A section of light green palm tree leaves.",
+      "color": null
+    },
+    {
+      "id": 51,
+      "filename": "Layer 1_Item_2.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_2_highlighted.png",
+      "description": "A bright blue wavy river.",
+      "color": null
+    },
+    {
+      "id": 52,
+      "filename": "Layer 1_Item_6.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_6_highlighted.png",
+      "description": "A portion of light-blue water at the edge of the isometric square.",
+      "color": null
+    },
+    {
+      "id": 53,
+      "filename": "Layer 1_Item_27.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_27_highlighted.png",
+      "description": "A segment of a palm trunk, partially obscured by green leaves.",
+      "color": null
+    },
+    {
+      "id": 54,
+      "filename": "Layer 1_Item_33.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_33_highlighted.png",
+      "description": "Some of the green palm leaves in the tree canopy.",
+      "color": null
+    },
+    {
+      "id": 55,
+      "filename": "Layer 1_Item_32.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_32_highlighted.png",
+      "description": "A bright green coconut sitting on a palm tree.",
+      "color": null
+    },
+    {
+      "id": 56,
+      "filename": "Layer 1_Item_26.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_26_highlighted.png",
+      "description": "The brown sandy part of an island.",
+      "color": null
+    },
+    {
+      "id": 57,
+      "filename": "Layer 1_Item_7.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_7_highlighted.png",
+      "description": "A flying white bird.",
+      "color": null
+    },
+    {
+      "id": 58,
+      "filename": "Layer 1_Item_5.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_5_highlighted.png",
+      "description": "A stretch of wavy blue water.",
+      "color": null
+    },
+    {
+      "id": 59,
+      "filename": "Layer 1_Item_18.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_18_highlighted.png",
+      "description": "A small section of a palm tree trunk, supporting some green leaves.",
+      "color": null
+    },
+    {
+      "id": 60,
+      "filename": "Layer 1_Item_30.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_30_highlighted.png",
+      "description": "A cluster of bright green palm fronds on a tree.",
+      "color": null
+    },
+    {
+      "id": 61,
+      "filename": "Layer 1_Item_24.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_24_highlighted.png",
+      "description": "A bright green coconut near the top of a palm tree.",
+      "color": null
+    },
+    {
+      "id": 62,
+      "filename": "Layer 1_Item_25.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_25_highlighted.png",
+      "description": "The lower portion of a light orange palm tree trunk.",
+      "color": null
+    },
+    {
+      "id": 63,
+      "filename": "Layer 1_Item_31.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_31_highlighted.png",
+      "description": "A small cluster of bright green palm leaves forming part of the crown of the palm tree.",
+      "color": null
+    },
+    {
+      "id": 64,
+      "filename": "Layer 1_Item_19.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_19_highlighted.png",
+      "description": "A single bright green coconut at the top of a palm tree.",
+      "color": null
+    },
+    {
+      "id": 65,
+      "filename": "Layer 1_Item_4.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_4_highlighted.png",
+      "description": "A turquoise blue river or lake surface.",
+      "color": null
+    },
+    {
+      "id": 66,
+      "filename": "Layer 1_Item_9.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_9_highlighted.png",
+      "description": "A single white bird.",
+      "color": null
+    },
+    {
+      "id": 67,
+      "filename": "Layer 1_Item_14.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_14_highlighted.png",
+      "description": "A single spiky green leaf on a tree.",
+      "color": null
+    },
+    {
+      "id": 68,
+      "filename": "Layer 1_Item_28.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_28_highlighted.png",
+      "description": "A small, round, green fruit or nut growing on a palm tree.",
+      "color": null
+    },
+    {
+      "id": 69,
+      "filename": "Layer 1_Item_29.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_29_highlighted.png",
+      "description": "Some bright green palm fronds on a tree.",
+      "color": null
+    },
+    {
+      "id": 70,
+      "filename": "Layer 1_Item_15.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_15_highlighted.png",
+      "description": "A section of the green crown of a palm tree, positioned near the top of the tree.",
+      "color": null
+    },
+    {
+      "id": 71,
+      "filename": "Layer 1_Item_8.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_8_highlighted.png",
+      "description": "A white crescent shape, possibly a moon.",
+      "color": null
+    },
+    {
+      "id": 72,
+      "filename": "Layer 1_Item_17.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_17_highlighted.png",
+      "description": "A light orange palm tree trunk.",
+      "color": null
+    },
+    {
+      "id": 73,
+      "filename": "Layer 1_Item_16.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_16_highlighted.png",
+      "description": "A bright green coconut atop a palm tree.",
+      "color": null
+    },
+    {
+      "id": 74,
+      "filename": "Layer 1_Item_12.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_12_highlighted.png",
+      "description": "An area of dark blue water, likely a river or lake based on the wider scene.",
+      "color": null
+    },
+    {
+      "id": 75,
+      "filename": "Layer 1_Item_13.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_13_highlighted.png",
+      "description": "The sandy beach of an island.",
+      "color": null
+    },
+    {
+      "id": 76,
+      "filename": "Layer 1_Item_39.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_39_highlighted.png",
+      "description": "A small patch of bright green grass or reeds growing next to a pair of rocks.",
+      "color": null
+    },
+    {
+      "id": 77,
+      "filename": "Layer 1_Item_11.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_11_highlighted.png",
+      "description": "A brown sandy land area.",
+      "color": null
+    },
+    {
+      "id": 78,
+      "filename": "Layer 1_Item_10.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_10_highlighted.png",
+      "description": "A thin crescent moon shape.",
+      "color": null
+    },
+    {
+      "id": 79,
+      "filename": "Layer 1_Item_38.svg",
+      "parent": 39,
+      "mask_path": "Layer 1_Item_38_highlighted.png",
+      "description": "A pair of thin, upright green sprouts amongst dark earth, possibly grass.",
+      "color": null
+    },
+    {
+      "id": 80,
+      "filename": "Layer 42.svg",
+      "parent": 39,
+      "mask_path": "Layer 42_highlighted.png",
+      "description": "The light blue water of a river or bay.",
+      "color": null
+    },
+    {
+      "id": 81,
+      "filename": "Layer 43.svg",
+      "parent": 39,
+      "mask_path": "Layer 43_highlighted.png",
+      "description": "A group of upright, thin green leaves.",
+      "color": null
+    },
+    {
+      "id": 82,
+      "filename": "Layer 44.svg",
+      "parent": 39,
+      "mask_path": "Layer 44_highlighted.png",
+      "description": "Two brown rounded stones on an island.",
+      "color": null
+    },
+    {
+      "id": 83,
+      "filename": "Layer 45.svg",
+      "parent": 39,
+      "mask_path": "Layer 45_highlighted.png",
+      "description": "The bright green crown of a palm tree, resting on the top of a light brown trunk.",
+      "color": null
+    },
+    {
+      "id": 84,
+      "filename": "Layer 46.svg",
+      "parent": 39,
+      "mask_path": "Layer 46_highlighted.png",
+      "description": "A green palm tree with brown trunk.",
+      "color": null
+    }
+  ]
+}

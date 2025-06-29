@@ -1,0 +1,731 @@
+{
+  "global_style": "",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full factory-worker-58",
+      "parent": -1,
+      "description": ""
+    },
+    {
+      "id": 1,
+      "filename": "factory-worker-58_element_2382.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2382_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(74, 164, 232, 1.0)"
+    },
+    {
+      "id": 2,
+      "filename": "factory-worker-58_element_2383.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2383_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 3,
+      "filename": "factory-worker-58_element_2384.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2384_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 4,
+      "filename": "factory-worker-58_element_2385.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2385_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 5,
+      "filename": "factory-worker-58_element_2386.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2386_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 6,
+      "filename": "factory-worker-58_element_2387.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2387_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 7,
+      "filename": "factory-worker-58_element_2388.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2388_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 8,
+      "filename": "factory-worker-58_element_2389.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2389_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "factory-worker-58_element_2390.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2390_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "factory-worker-58_element_2391.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2391_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "factory-worker-58_element_2392.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2392_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "factory-worker-58_element_2393.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2393_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "factory-worker-58_element_2394.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2394_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "factory-worker-58_element_2395.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2395_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "factory-worker-58_element_2396.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2396_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "factory-worker-58_element_2397.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2397_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "factory-worker-58_element_2398.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2398_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(237, 164, 33, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "factory-worker-58_element_2399.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2399_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "factory-worker-58_element_2400.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2400_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(237, 164, 33, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "factory-worker-58_element_2401.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2401_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "factory-worker-58_element_2402.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2402_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(237, 164, 33, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "factory-worker-58_element_2403.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2403_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "factory-worker-58_element_2404.svg",
+      "parent": 19,
+      "mask_path": "factory-worker-58_element_2404_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 83, 66, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "factory-worker-58_element_2405.svg",
+      "parent": 19,
+      "mask_path": "factory-worker-58_element_2405_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "factory-worker-58_element_2406.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2406_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 83, 66, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "factory-worker-58_element_2407.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2407_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "factory-worker-58_element_2408.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2408_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "factory-worker-58_element_2409.svg",
+      "parent": 19,
+      "mask_path": "factory-worker-58_element_2409_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 83, 66, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "factory-worker-58_element_2410.svg",
+      "parent": 19,
+      "mask_path": "factory-worker-58_element_2410_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "factory-worker-58_element_2411.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2411_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "factory-worker-58_element_2412.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2412_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(237, 164, 33, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "factory-worker-58_element_2413.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2413_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 33,
+      "filename": "factory-worker-58_element_2414.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2414_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "factory-worker-58_element_2415.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2415_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 35,
+      "filename": "factory-worker-58_element_2416.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2416_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(237, 164, 33, 1.0)"
+    },
+    {
+      "id": 36,
+      "filename": "factory-worker-58_element_2417.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2417_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 37,
+      "filename": "factory-worker-58_element_2418.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2418_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 38,
+      "filename": "factory-worker-58_element_2419.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2419_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 39,
+      "filename": "factory-worker-58_element_2420.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2420_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(237, 164, 33, 1.0)"
+    },
+    {
+      "id": 40,
+      "filename": "factory-worker-58_element_2421.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2421_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 41,
+      "filename": "factory-worker-58_element_2422.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2422_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 42,
+      "filename": "factory-worker-58_element_2423.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2423_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 43,
+      "filename": "factory-worker-58_element_2424.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2424_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 44,
+      "filename": "factory-worker-58_element_2425.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2425_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 45,
+      "filename": "factory-worker-58_element_2426.svg",
+      "parent": 16,
+      "mask_path": "factory-worker-58_element_2426_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 46,
+      "filename": "factory-worker-58_element_2427.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2427_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 47,
+      "filename": "factory-worker-58_element_2428.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2428_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 48,
+      "filename": "factory-worker-58_element_2429.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2429_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 49,
+      "filename": "factory-worker-58_element_2430.svg",
+      "parent": 16,
+      "mask_path": "factory-worker-58_element_2430_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 50,
+      "filename": "factory-worker-58_element_2431.svg",
+      "parent": 16,
+      "mask_path": "factory-worker-58_element_2431_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 51,
+      "filename": "factory-worker-58_element_2432.svg",
+      "parent": 16,
+      "mask_path": "factory-worker-58_element_2432_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 52,
+      "filename": "factory-worker-58_element_2433.svg",
+      "parent": 16,
+      "mask_path": "factory-worker-58_element_2433_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 53,
+      "filename": "factory-worker-58_element_2434.svg",
+      "parent": 16,
+      "mask_path": "factory-worker-58_element_2434_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 54,
+      "filename": "factory-worker-58_element_2435.svg",
+      "parent": 16,
+      "mask_path": "factory-worker-58_element_2435_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 55,
+      "filename": "factory-worker-58_element_2436.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2436_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 56,
+      "filename": "factory-worker-58_element_2437.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2437_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 57,
+      "filename": "factory-worker-58_element_2438.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2438_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 58,
+      "filename": "factory-worker-58_element_2439.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2439_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 59,
+      "filename": "factory-worker-58_element_2440.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2440_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 60,
+      "filename": "factory-worker-58_element_2441.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2441_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 61,
+      "filename": "factory-worker-58_element_2442.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2442_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 62,
+      "filename": "factory-worker-58_element_2443.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2443_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 63,
+      "filename": "factory-worker-58_element_2444.svg",
+      "parent": 15,
+      "mask_path": "factory-worker-58_element_2444_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 64,
+      "filename": "factory-worker-58_element_2445.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2445_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 65,
+      "filename": "factory-worker-58_element_2446.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2446_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(237, 164, 33, 1.0)"
+    },
+    {
+      "id": 66,
+      "filename": "factory-worker-58_element_2447.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2447_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 67,
+      "filename": "factory-worker-58_element_2448.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2448_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 68,
+      "filename": "factory-worker-58_element_2449.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2449_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 69,
+      "filename": "factory-worker-58_element_2450.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2450_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 70,
+      "filename": "factory-worker-58_element_2451.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2451_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 71,
+      "filename": "factory-worker-58_element_2452.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2452_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 72,
+      "filename": "factory-worker-58_element_2453.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2453_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 73,
+      "filename": "factory-worker-58_element_2454.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2454_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 74,
+      "filename": "factory-worker-58_element_2455.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2455_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 75,
+      "filename": "factory-worker-58_element_2456.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2456_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 76,
+      "filename": "factory-worker-58_element_2457.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2457_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 77,
+      "filename": "factory-worker-58_element_2458.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2458_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(255, 200, 169, 1.0)"
+    },
+    {
+      "id": 78,
+      "filename": "factory-worker-58_element_2459.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2459_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 79,
+      "filename": "factory-worker-58_element_2460.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2460_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 80,
+      "filename": "factory-worker-58_element_2461.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2461_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 214, 205, 1.0)"
+    },
+    {
+      "id": 81,
+      "filename": "factory-worker-58_element_2462.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2462_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(58, 57, 53, 1.0)"
+    },
+    {
+      "id": 82,
+      "filename": "factory-worker-58_element_2463.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2463_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 83, 66, 1.0)"
+    },
+    {
+      "id": 83,
+      "filename": "factory-worker-58_element_2464.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2464_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 84,
+      "filename": "factory-worker-58_element_2465.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2465_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(224, 83, 66, 1.0)"
+    },
+    {
+      "id": 85,
+      "filename": "factory-worker-58_element_2466.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2466_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 86,
+      "filename": "factory-worker-58_element_2467.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2467_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 87,
+      "filename": "factory-worker-58_element_2468.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2468_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 88,
+      "filename": "factory-worker-58_element_2469.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2469_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    },
+    {
+      "id": 89,
+      "filename": "factory-worker-58_element_2470.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2470_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(162, 198, 9, 1.0)"
+    },
+    {
+      "id": 90,
+      "filename": "factory-worker-58_element_2471.svg",
+      "parent": 0,
+      "mask_path": "factory-worker-58_element_2471_highlighted.png",
+      "description": "No description available.",
+      "color": "rgba(117, 76, 36, 1.0)"
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full 022-businessman",
+      "parent": -1,
+      "description": "A cartoon illustration of a man in a suit and tie."
+    },
+    {
+      "id": 1,
+      "filename": "Layer 28_highlighted.png",
+      "parent": 0,
+      "mask_path": "Layer 28_highlighted.png",
+      "description": "Light brown, styled hair on a man's head.",
+      "color": null
+    },
+    {
+      "id": 2,
+      "filename": "Layer 29_highlighted.png",
+      "parent": 0,
+      "mask_path": "Layer 29_highlighted.png",
+      "description": "A red tie worn by a man in a suit.",
+      "color": null
+    },
+    {
+      "id": 3,
+      "filename": "Item_1_highlighted.png",
+      "parent": 2,
+      "mask_path": "Item_1_highlighted.png",
+      "description": "The peach-colored upper chest and neck of a person.",
+      "color": null
+    },
+    {
+      "id": 4,
+      "filename": "Item_18_highlighted.png",
+      "parent": 3,
+      "mask_path": "Item_18_highlighted.png",
+      "description": "The light blue right side of a suit jacket.",
+      "color": null
+    },
+    {
+      "id": 5,
+      "filename": "Item_16_highlighted.png",
+      "parent": 3,
+      "mask_path": "Item_16_highlighted.png",
+      "description": "The light blue left side of a suit jacket.",
+      "color": null
+    },
+    {
+      "id": 6,
+      "filename": "Item_11_highlighted.png",
+      "parent": 0,
+      "mask_path": "Item_11_highlighted.png",
+      "description": "Light-yellow hair on the head of a person",
+      "color": null
+    },
+    {
+      "id": 7,
+      "filename": "Item_5_highlighted.png",
+      "parent": 2,
+      "mask_path": "Item_5_highlighted.png",
+      "description": "A peach-colored face of a person",
+      "color": null
+    },
+    {
+      "id": 8,
+      "filename": "Item_13_highlighted.png",
+      "parent": 3,
+      "mask_path": "Item_13_highlighted.png",
+      "description": "A light-blue dress shirt",
+      "color": null
+    },
+    {
+      "id": 9,
+      "filename": "022-businessman_element_90_highlighted.png",
+      "parent": 3,
+      "mask_path": "022-businessman_element_90_highlighted.png",
+      "description": "A light beige square of collar showing between a dark suit and tie.",
+      "color": "rgba(244, 206, 175, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "022-businessman_element_91_highlighted.png",
+      "parent": 2,
+      "mask_path": "022-businessman_element_91_highlighted.png",
+      "description": "A peach-colored rounded ear.",
+      "color": "rgba(242, 193, 148, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "022-businessman_element_92_highlighted.png",
+      "parent": 2,
+      "mask_path": "022-businessman_element_92_highlighted.png",
+      "description": "A peach-colored rounded ear.",
+      "color": "rgba(242, 193, 148, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "022-businessman_element_93_highlighted.png",
+      "parent": 3,
+      "mask_path": "022-businessman_element_93_highlighted.png",
+      "description": "A light beige square of collar showing between a dark suit and tie.",
+      "color": "rgba(242, 193, 148, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "022-businessman_element_94_highlighted.png",
+      "parent": 7,
+      "mask_path": "022-businessman_element_94_highlighted.png",
+      "description": "A black left eye.",
+      "color": "rgba(244, 206, 175, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "022-businessman_element_95_highlighted.png",
+      "parent": 13,
+      "mask_path": "022-businessman_element_95_highlighted.png",
+      "description": "A tan left eye.",
+      "color": "rgba(150, 99, 66, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "022-businessman_element_96_highlighted.png",
+      "parent": 13,
+      "mask_path": "022-businessman_element_96_highlighted.png",
+      "description": "A tan right eye.",
+      "color": "rgba(150, 99, 66, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "022-businessman_element_97_highlighted.png",
+      "parent": 13,
+      "mask_path": "022-businessman_element_97_highlighted.png",
+      "description": "A tan eyebrow.",
+      "color": "rgba(173, 125, 77, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "022-businessman_element_98_highlighted.png",
+      "parent": 13,
+      "mask_path": "022-businessman_element_98_highlighted.png",
+      "description": "A tan eyebrow.",
+      "color": "rgba(173, 125, 77, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "022-businessman_element_99_highlighted.png",
+      "parent": 13,
+      "mask_path": "022-businessman_element_99_highlighted.png",
+      "description": "A light beige mouth.",
+      "color": "rgba(242, 193, 148, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "022-businessman_element_100_highlighted.png",
+      "parent": 6,
+      "mask_path": "022-businessman_element_100_highlighted.png",
+      "description": "Light brown, stylized hair with a curved shape on top of the head.",
+      "color": "rgba(173, 125, 77, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "022-businessman_element_101_highlighted.png",
+      "parent": 13,
+      "mask_path": "022-businessman_element_101_highlighted.png",
+      "description": "A small, peach-colored patch representing the nose.",
+      "color": "rgba(242, 193, 148, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "022-businessman_element_102_highlighted.png",
+      "parent": 8,
+      "mask_path": "022-businessman_element_102_highlighted.png",
+      "description": "A white dress shirt collar underneath a red tie.",
+      "color": "rgba(196, 212, 224, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "022-businessman_element_103_highlighted.png",
+      "parent": 6,
+      "mask_path": "022-businessman_element_103_highlighted.png",
+      "description": "A small patch of light brown hair on the top of the head.",
+      "color": "rgba(150, 99, 66, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "022-businessman_element_104_highlighted.png",
+      "parent": 8,
+      "mask_path": "022-businessman_element_104_highlighted.png",
+      "description": "A red tie, hanging from the neck, presumably made of silk or a similar fabric.",
+      "color": "rgba(228, 75, 77, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "022-businessman_element_105_highlighted.png",
+      "parent": 5,
+      "mask_path": "022-businessman_element_105_highlighted.png",
+      "description": "Part of a light-blue suit jacket.",
+      "color": "rgba(57, 103, 149, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "022-businessman_element_106_highlighted.png",
+      "parent": 5,
+      "mask_path": "022-businessman_element_106_highlighted.png",
+      "description": "Part of a light-blue lapel on a suit jacket.",
+      "color": "rgba(38, 80, 122, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "022-businessman_element_107_highlighted.png",
+      "parent": 4,
+      "mask_path": "022-businessman_element_107_highlighted.png",
+      "description": "Part of a light-blue suit jacket.",
+      "color": "rgba(57, 103, 149, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "022-businessman_element_108_highlighted.png",
+      "parent": 4,
+      "mask_path": "022-businessman_element_108_highlighted.png",
+      "description": "A light blue triangle underneath the tie, part of the shirt.",
+      "color": "rgba(33, 70, 107, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "022-businessman_element_109_highlighted.png",
+      "parent": 4,
+      "mask_path": "022-businessman_element_109_highlighted.png",
+      "description": "Part of a light-blue lapel on a suit jacket.",
+      "color": "rgba(38, 80, 122, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "022-businessman_element_110_highlighted.png",
+      "parent": 24,
+      "mask_path": "022-businessman_element_110_highlighted.png",
+      "description": "A square blue button on a jacket sleeve.",
+      "color": "rgba(38, 80, 122, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "022-businessman_element_111_highlighted.png",
+      "parent": 26,
+      "mask_path": "022-businessman_element_111_highlighted.png",
+      "description": "A square blue button on a jacket sleeve.",
+      "color": "rgba(38, 80, 122, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "022-businessman_element_112_highlighted.png",
+      "parent": 8,
+      "mask_path": "022-businessman_element_112_highlighted.png",
+      "description": "A red necktie beneath a black shirt collar.",
+      "color": "rgba(228, 75, 77, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "022-businessman_element_113_highlighted.png",
+      "parent": 21,
+      "mask_path": "022-businessman_element_113_highlighted.png",
+      "description": "A red necktie beneath a black shirt collar.",
+      "color": "rgba(209, 69, 71, 1.0)"
+    },
+    {
+      "id": 33,
+      "filename": "022-businessman_element_114_highlighted.png",
+      "parent": 3,
+      "mask_path": "022-businessman_element_114_highlighted.png",
+      "description": "The corner of a white shirt collar.",
+      "color": "rgba(166, 178, 188, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "022-businessman_element_115_highlighted.png",
+      "parent": 3,
+      "mask_path": "022-businessman_element_115_highlighted.png",
+      "description": "The corner of a white shirt collar.",
+      "color": "rgba(166, 178, 188, 1.0)"
+    }
+  ]
+}

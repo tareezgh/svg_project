@@ -8,11 +8,146 @@ import inquirer
 import base64
 import re
 from consts import GEMINI_API_KEY, GEMINI_API_URL, DEFAULT_PROMPT
+import time
 
-def send_images_with_prompt(image_paths, prompt):
+import traceback
+import datetime
+import random
+
+def send_images_with_prompt(image_paths, prompt, max_total_wait_minutes=20):
+    group_name = image_paths[0].parent.name
+    print(f"\n📤 Sending chunk to Gemini: {[img.name for img in image_paths]} (Group: {group_name})")
+
+    base64_images = []
+    for image_path in image_paths:
+        with open(image_path, "rb") as f:
+            encoded_image = base64.b64encode(f.read()).decode("utf-8")
+            base64_images.append(encoded_image)
+
+    full_prompt = (
+        f"{prompt.strip()}\n\n"
+        f"You will receive {len(image_paths)} images. After each image, you will be told its filename.\n"
+        f"For each image, provide a **short, specific description** of the **highlighted region**.\n"
+        f"IMPORTANT: Each image will be immediately followed by its filename like this: **filename.png**.\n"
+        f"Only return results in the format:\n"
+        f'**filename.png**\n* description\n\n'
+    )
+
+    parts = [{"text": full_prompt}]
+    for image_path in image_paths:
+        with open(image_path, "rb") as f:
+            encoded_image = base64.b64encode(f.read()).decode("utf-8")
+        parts.append({
+            "inlineData": {
+                "mimeType": "image/png",
+                "data": encoded_image
+            }
+        })
+        parts.append({ "text": f"The image just above is named: **{image_path.name}**. Only describe what is visible in it." })
+
+    payload = {"contents": [{"parts": parts}]}
+    url = f"{GEMINI_API_URL}?key={GEMINI_API_KEY}"
+
+    delay = 6  # Start with 5 seconds
+    total_waited = 0
+
+    while total_waited < max_total_wait_minutes * 60:
+        try:
+            start_time = time.time()
+            response = requests.post(url, headers={"Content-Type": "application/json"}, json=payload)
+            duration = time.time() - start_time
+            print(f"✅ Gemini response status: {response.status_code} (time: {duration:.2f}s)")
+
+            if response.status_code in [429, 503]:
+                raise requests.exceptions.HTTPError(f"{response.status_code} Retryable error")
+
+            response.raise_for_status()
+            time.sleep(4)
+            return response.json()
+
+        except requests.exceptions.RequestException as e:
+            print(f"⚠️ Error ({e}). Retrying in {delay}s...")
+            time.sleep(delay)
+            total_waited += delay
+            delay = min(delay * 2, 300)  # Exponential backoff with max 5min
+            delay += random.uniform(0, 3)  # Add jitter
+
+    print(f"❌ Failed to process group {group_name} after waiting {total_waited // 60:.1f} minutes.")
+    return None
+
+
+def send_images_with_prompt2(image_paths, prompt, max_retries=5, initial_delay=10):
+    group_name = image_paths[0].parent.name
+    print(f"\n📤 Sending chunk to Gemini: {[img.name for img in image_paths]} (Group: {group_name})")
+
+    base64_images = []
+    for image_path in image_paths:
+        with open(image_path, "rb") as f:
+            encoded_image = base64.b64encode(f.read()).decode("utf-8")
+            base64_images.append(encoded_image)
+
+    full_prompt = (
+        f"{prompt.strip()}\n\n"
+        f"You will receive {len(image_paths)} images. After each image, you will be told its filename.\n"
+        f"For each image, provide a **short, specific description** of the **highlighted region**.\n"
+        f"IMPORTANT: Each image will be immediately followed by its filename like this: **filename.png**.\n"
+        f"Only return results in the format:\n"
+        f'**filename.png**\n* description\n\n'
+    )
+
+    parts = [{"text": full_prompt}]
+    for i, image_path in enumerate(image_paths):
+        with open(image_path, "rb") as f:
+            encoded_image = base64.b64encode(f.read()).decode("utf-8")
+        parts.append({
+            "inlineData": {
+                "mimeType": "image/png",
+                "data": encoded_image
+            }
+        })
+        parts.append({ "text": f"The image just above is named: **{image_path.name}**. Only describe what is visible in it." })
+
+    payload = {"contents": [{"parts": parts}]}
+    url = f"{GEMINI_API_URL}?key={GEMINI_API_KEY}"
+
+    for attempt in range(max_retries):
+        try:
+            start_time = time.time()
+            response = requests.post(url, headers={"Content-Type": "application/json"}, json=payload)
+            duration = time.time() - start_time
+            print(f"✅ Gemini response status: {response.status_code} (time: {duration:.2f}s)")
+
+            if response.status_code == 429:
+                raise requests.exceptions.HTTPError("429 Too Many Requests")
+
+            response.raise_for_status()
+            time.sleep(8)
+            return response.json()
+
+        except requests.exceptions.HTTPError as e:
+            if response.status_code == 429:
+                wait_time = initial_delay * (2 ** attempt)
+                print(f"⏳ Rate limit hit (429). Retrying in {wait_time}s... (attempt {attempt + 1}/{max_retries})")
+                time.sleep(wait_time)
+            else:
+                print(f"❌ HTTP error: {e}")
+                break
+        except Exception as e:
+            print(f"❌ Other error: {e}")
+            traceback.print_exc()
+            break
+
+    print(f"❌ Failed to process group {group_name} after {max_retries} attempts.")
+    return None
+
+
+def send_images_with_prompt1(image_paths, prompt):
     """
     Send multiple PNG images and a prompt to Gemini AI and get the response.
     """
+    group_name = image_paths[0].parent.name
+    print(f"\n📤 Sending chunk to Gemini: {[img.name for img in image_paths]} (Group: {group_name})")
+
     # Read and encode images as base64
     base64_images = []
     for image_path in image_paths:
@@ -20,13 +155,6 @@ def send_images_with_prompt(image_paths, prompt):
             encoded_image = base64.b64encode(f.read()).decode("utf-8")
             base64_images.append(encoded_image)
 
-    file_list = "\n".join(f"{i+1}. {img.name}" for i, img in enumerate(image_paths))
-    # full_prompt = (
-    #     f"{prompt}\n\n"
-    #     f"Below are {len(image_paths)} images. Please provide **one description per image**, using the filenames as anchors.\n"
-    #     f"IMPORTANT: Match the description to the correct file name.\n\n"
-    #     f"{file_list}"
-    # )
     full_prompt = (
         f"{prompt.strip()}\n\n"
         f"You will receive {len(image_paths)} images. After each image, you will be told its filename.\n"
@@ -63,15 +191,22 @@ def send_images_with_prompt(image_paths, prompt):
     url = f"{GEMINI_API_URL}?key={GEMINI_API_KEY}"
 
     try:
+        start_time = time.time()
+
         response = requests.post(
             url,
             headers={"Content-Type": "application/json"},
             json=payload
         )
+        duration = time.time() - start_time
+        print(f"✅ Gemini response status: {response.status_code} (time: {duration:.2f}s)")
+            
         response.raise_for_status()
+        time.sleep(5)
         return response.json()
     except Exception as e:
         print(f"❌ Failed to process group {image_paths[0].parent.name}: {e}")
+        time.sleep(5)
         return None
         
 def parse_and_format_response(image_paths, gemini_response, output_path=None):
@@ -82,8 +217,8 @@ def parse_and_format_response(image_paths, gemini_response, output_path=None):
     """
     formatted = []
 
-    print("🔍 Gemini full response:")
-    print(json.dumps(gemini_response["candidates"][0]["content"]["parts"][0]["text"], indent=2))
+    # print("🔍 Gemini full response:")
+    # print(json.dumps(gemini_response["candidates"][0]["content"]["parts"][0]["text"], indent=2))
 
     try:
         text_block = gemini_response["candidates"][0]["content"]["parts"][0]["text"]
@@ -158,14 +293,6 @@ def send_full_scene_image(full_png_path):
     """
     Sends the full scene PNG image to Gemini to get a global description and style.
     """
-    # prompt = (
-    #     "You are given a full scene image. Describe the overall content, layout, and visual style. "
-    #     "Return the result in JSON format with two fields:\n"
-    #     "- global_style: a short description of the scene's artistic style (e.g., 'minimalist', 'realistic cartoon')\n"
-    #     "- description: a rich, high-level summary of what the scene depicts overall as text-to-image model\n"
-    #     "Example:\n"
-    #     "{ \"global_style\": \"minimalist vector art\", \"description\": \"A login screen on a laptop with a person sitting in front.\" }"
-    # )
 
     prompt = (
         "You are given a full scene image. Your job is to analyze its visual style and describe what the scene shows.\n\n"
@@ -215,6 +342,7 @@ def send_full_scene_image(full_png_path):
             json=payload
         )
         response.raise_for_status()
+        time.sleep(5)
         content = response.json()
         text = content["candidates"][0]["content"]["parts"][0].get("text", "")
         if not text:
@@ -234,7 +362,7 @@ def send_full_scene_image(full_png_path):
         print(f"❌ Failed to describe full scene image {full_png_path.name}: {e}")
         return {"global_style": "", "description": ""}
 
-def send_grouped_pngs(input_dir, output_json_dir, prompt, chunk_size=8):
+def send_grouped_pngs(input_dir, output_json_dir, prompt, chunk_size=10):
     """
     Sends the full scene image FIRST, then sends grouped segmented PNGs to Gemini.
     Saves full scene metadata and chunked responses separately for each group.
@@ -297,7 +425,6 @@ def send_grouped_pngs(input_dir, output_json_dir, prompt, chunk_size=8):
         tqdm.write(f"✅ Saved combined response: {response_path}")
 
     print(f"🎉 Completed sending all PNG groups. Responses saved in {output_json_dir}")
-
 
 def select_input_folder(base_dir):
     """

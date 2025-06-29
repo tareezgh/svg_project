@@ -1,0 +1,523 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full dog-walking-79",
+      "parent": -1,
+      "description": "A woman walking a dog through a park with trees and lampposts."
+    },
+    {
+      "id": 1,
+      "filename": "Layer 12_highlighted.png",
+      "parent": 0,
+      "mask_path": "Layer 12_highlighted.png",
+      "description": "A blue spherical street light atop a grey metal pole with a grey base.",
+      "color": null
+    },
+    {
+      "id": 2,
+      "filename": "Layer 13_highlighted.png",
+      "parent": 9,
+      "mask_path": "Layer 13_highlighted.png",
+      "description": "A glowing blue lamp on a street light",
+      "color": null
+    },
+    {
+      "id": 3,
+      "filename": "Layer 14_highlighted.png",
+      "parent": 0,
+      "mask_path": "Layer 14_highlighted.png",
+      "description": "A green tree with a red trunk",
+      "color": null
+    },
+    {
+      "id": 4,
+      "filename": "Layer 15_highlighted.png",
+      "parent": 9,
+      "mask_path": "Layer 15_highlighted.png",
+      "description": "A stylized green tree with a brown trunk.",
+      "color": null
+    },
+    {
+      "id": 5,
+      "filename": "Layer 16_highlighted.png",
+      "parent": 0,
+      "mask_path": "Layer 16_highlighted.png",
+      "description": "A green, stylized tree with a brown trunk.",
+      "color": null
+    },
+    {
+      "id": 6,
+      "filename": "Item_1_highlighted.png",
+      "parent": 8,
+      "mask_path": "Item_1_highlighted.png",
+      "description": "A bright green patch of grass",
+      "color": null
+    },
+    {
+      "id": 7,
+      "filename": "Item_2_highlighted.png",
+      "parent": 0,
+      "mask_path": "Item_2_highlighted.png",
+      "description": "A light blue path winding through a park.",
+      "color": null
+    },
+    {
+      "id": 8,
+      "filename": "dog-walking-79_element_33_highlighted.png",
+      "parent": 0,
+      "mask_path": "dog-walking-79_element_33_highlighted.png",
+      "description": "A section of bright green grass in a park.",
+      "color": "rgba(150, 207, 64, 1.0)"
+    },
+    {
+      "id": 9,
+      "filename": "dog-walking-79_element_34_highlighted.png",
+      "parent": 7,
+      "mask_path": "dog-walking-79_element_34_highlighted.png",
+      "description": "A paved path for walking.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 10,
+      "filename": "dog-walking-79_element_35_highlighted.png",
+      "parent": 1,
+      "mask_path": "dog-walking-79_element_35_highlighted.png",
+      "description": "An area of dark paving used as a pathway.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 11,
+      "filename": "dog-walking-79_element_36_highlighted.png",
+      "parent": 13,
+      "mask_path": "dog-walking-79_element_36_highlighted.png",
+      "description": "The bulb of a streetlamp.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 12,
+      "filename": "dog-walking-79_element_37_highlighted.png",
+      "parent": 11,
+      "mask_path": "dog-walking-79_element_37_highlighted.png",
+      "description": "The spherical lamp of a streetlight.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 13,
+      "filename": "dog-walking-79_element_38_highlighted.png",
+      "parent": 1,
+      "mask_path": "dog-walking-79_element_38_highlighted.png",
+      "description": "The top of a pole supporting a streetlight.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 14,
+      "filename": "dog-walking-79_element_39_highlighted.png",
+      "parent": 1,
+      "mask_path": "dog-walking-79_element_39_highlighted.png",
+      "description": "The light-green base of a street lamp in a park.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 15,
+      "filename": "dog-walking-79_element_40_highlighted.png",
+      "parent": 10,
+      "mask_path": "dog-walking-79_element_40_highlighted.png",
+      "description": "A tree trunk in a park area.",
+      "color": "rgba(85, 85, 95, 1.0)"
+    },
+    {
+      "id": 16,
+      "filename": "dog-walking-79_element_41_highlighted.png",
+      "parent": 14,
+      "mask_path": "dog-walking-79_element_41_highlighted.png",
+      "description": "The top of a cylindrical lamppost base.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 17,
+      "filename": "dog-walking-79_element_42_highlighted.png",
+      "parent": 2,
+      "mask_path": "dog-walking-79_element_42_highlighted.png",
+      "description": "The trunk of a coniferous tree.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 18,
+      "filename": "dog-walking-79_element_43_highlighted.png",
+      "parent": 20,
+      "mask_path": "dog-walking-79_element_43_highlighted.png",
+      "description": "A light blue sphere atop a tall metal post, resembling a lamp.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 19,
+      "filename": "dog-walking-79_element_44_highlighted.png",
+      "parent": 18,
+      "mask_path": "dog-walking-79_element_44_highlighted.png",
+      "description": "A white sphere atop a dark metal post, resembling a lamp.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 20,
+      "filename": "dog-walking-79_element_45_highlighted.png",
+      "parent": 2,
+      "mask_path": "dog-walking-79_element_45_highlighted.png",
+      "description": "The dark grey cylindrical base of a lamp post.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 21,
+      "filename": "dog-walking-79_element_46_highlighted.png",
+      "parent": 2,
+      "mask_path": "dog-walking-79_element_46_highlighted.png",
+      "description": "A dark grey cylindrical base of a lamp post.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 22,
+      "filename": "dog-walking-79_element_47_highlighted.png",
+      "parent": 17,
+      "mask_path": "dog-walking-79_element_47_highlighted.png",
+      "description": "A dark grey cylindrical base of a lamp post.",
+      "color": "rgba(85, 85, 95, 1.0)"
+    },
+    {
+      "id": 23,
+      "filename": "dog-walking-79_element_48_highlighted.png",
+      "parent": 21,
+      "mask_path": "dog-walking-79_element_48_highlighted.png",
+      "description": "A dark grey cylindrical base of a lamp post.",
+      "color": "rgba(62, 62, 74, 1.0)"
+    },
+    {
+      "id": 24,
+      "filename": "dog-walking-79_element_49_highlighted.png",
+      "parent": 5,
+      "mask_path": "dog-walking-79_element_49_highlighted.png",
+      "description": "The reddish-brown trunk of a tree.",
+      "color": "rgba(219, 85, 49, 1.0)"
+    },
+    {
+      "id": 25,
+      "filename": "dog-walking-79_element_50_highlighted.png",
+      "parent": 5,
+      "mask_path": "dog-walking-79_element_50_highlighted.png",
+      "description": "The bright green top portion of a stylized tree.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 26,
+      "filename": "dog-walking-79_element_51_highlighted.png",
+      "parent": 3,
+      "mask_path": "dog-walking-79_element_51_highlighted.png",
+      "description": "The reddish-brown trunk of a tree.",
+      "color": "rgba(219, 85, 49, 1.0)"
+    },
+    {
+      "id": 27,
+      "filename": "dog-walking-79_element_52_highlighted.png",
+      "parent": 3,
+      "mask_path": "dog-walking-79_element_52_highlighted.png",
+      "description": "The bright green top portion of a stylized tree.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 28,
+      "filename": "dog-walking-79_element_53_highlighted.png",
+      "parent": 5,
+      "mask_path": "dog-walking-79_element_53_highlighted.png",
+      "description": "A dachshund dog walking on the path.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 29,
+      "filename": "dog-walking-79_element_54_highlighted.png",
+      "parent": 3,
+      "mask_path": "dog-walking-79_element_54_highlighted.png",
+      "description": "A person wearing trousers.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 30,
+      "filename": "dog-walking-79_element_55_highlighted.png",
+      "parent": 4,
+      "mask_path": "dog-walking-79_element_55_highlighted.png",
+      "description": "A tree trunk.",
+      "color": "rgba(219, 85, 49, 1.0)"
+    },
+    {
+      "id": 31,
+      "filename": "dog-walking-79_element_56_highlighted.png",
+      "parent": 4,
+      "mask_path": "dog-walking-79_element_56_highlighted.png",
+      "description": "The leafy green top of a tree.",
+      "color": "rgba(44, 145, 53, 1.0)"
+    },
+    {
+      "id": 32,
+      "filename": "dog-walking-79_element_57_highlighted.png",
+      "parent": 4,
+      "mask_path": "dog-walking-79_element_57_highlighted.png",
+      "description": "A dark blue tree.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 33,
+      "filename": "dog-walking-79_element_58_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_58_highlighted.png",
+      "description": "A smartphone in the person's hand.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 34,
+      "filename": "dog-walking-79_element_59_highlighted.png",
+      "parent": 33,
+      "mask_path": "dog-walking-79_element_59_highlighted.png",
+      "description": "A person wearing a pink shirt.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 35,
+      "filename": "dog-walking-79_element_60_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_60_highlighted.png",
+      "description": "The path.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 36,
+      "filename": "dog-walking-79_element_61_highlighted.png",
+      "parent": 40,
+      "mask_path": "dog-walking-79_element_61_highlighted.png",
+      "description": "A shoe.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 37,
+      "filename": "dog-walking-79_element_62_highlighted.png",
+      "parent": 0,
+      "mask_path": "dog-walking-79_element_62_highlighted.png",
+      "description": "The path that leads around the park.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 38,
+      "filename": "dog-walking-79_element_63_highlighted.png",
+      "parent": 39,
+      "mask_path": "dog-walking-79_element_63_highlighted.png",
+      "description": "The glowing orange-red light of a shoe sole.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 39,
+      "filename": "dog-walking-79_element_64_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_64_highlighted.png",
+      "description": "A black casual shoe on the path.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 40,
+      "filename": "dog-walking-79_element_65_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_65_highlighted.png",
+      "description": "The flat purple-blue toe of a shoe on the walkway.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 41,
+      "filename": "dog-walking-79_element_66_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_66_highlighted.png",
+      "description": "The pale blue fabric of a long pant leg.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 42,
+      "filename": "dog-walking-79_element_67_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_67_highlighted.png",
+      "description": "A light-blue pant leg, draped around a leg.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 43,
+      "filename": "dog-walking-79_element_68_highlighted.png",
+      "parent": 7,
+      "mask_path": "dog-walking-79_element_68_highlighted.png",
+      "description": "A pink torso representing a shirt or jacket.",
+      "color": "rgba(248, 119, 175, 1.0)"
+    },
+    {
+      "id": 44,
+      "filename": "dog-walking-79_element_69_highlighted.png",
+      "parent": 45,
+      "mask_path": "dog-walking-79_element_69_highlighted.png",
+      "description": "A glowing orange headlamp on top of someone's head.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 45,
+      "filename": "dog-walking-79_element_70_highlighted.png",
+      "parent": 0,
+      "mask_path": "dog-walking-79_element_70_highlighted.png",
+      "description": "A blue-purple knit hat on the head.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 46,
+      "filename": "dog-walking-79_element_71_highlighted.png",
+      "parent": 47,
+      "mask_path": "dog-walking-79_element_71_highlighted.png",
+      "description": "A pair of closed, dark blue headphones over the head.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 47,
+      "filename": "dog-walking-79_element_72_highlighted.png",
+      "parent": 44,
+      "mask_path": "dog-walking-79_element_72_highlighted.png",
+      "description": "The small, glowing-blue light on an earbud or headphone.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 48,
+      "filename": "dog-walking-79_element_73_highlighted.png",
+      "parent": 45,
+      "mask_path": "dog-walking-79_element_73_highlighted.png",
+      "description": "The glowing top section of a streetlamp.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 49,
+      "filename": "dog-walking-79_element_74_highlighted.png",
+      "parent": 42,
+      "mask_path": "dog-walking-79_element_74_highlighted.png",
+      "description": "The glowing wireless headphones of a person.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 50,
+      "filename": "dog-walking-79_element_75_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_75_highlighted.png",
+      "description": "The upper back section of a person's jacket.",
+      "color": "rgba(248, 119, 175, 1.0)"
+    },
+    {
+      "id": 51,
+      "filename": "dog-walking-79_element_76_highlighted.png",
+      "parent": 50,
+      "mask_path": "dog-walking-79_element_76_highlighted.png",
+      "description": "The round head of a streetlamp.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 52,
+      "filename": "dog-walking-79_element_77_highlighted.png",
+      "parent": 42,
+      "mask_path": "dog-walking-79_element_77_highlighted.png",
+      "description": "The round head of a streetlamp.",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 53,
+      "filename": "dog-walking-79_element_78_highlighted.png",
+      "parent": 55,
+      "mask_path": "dog-walking-79_element_78_highlighted.png",
+      "description": "The collar area of a brown dachshund dog.",
+      "color": "rgba(219, 85, 49, 1.0)"
+    },
+    {
+      "id": 54,
+      "filename": "dog-walking-79_element_79_highlighted.png",
+      "parent": 56,
+      "mask_path": "dog-walking-79_element_79_highlighted.png",
+      "description": "The area around the lower neck of a brown dachshund dog.",
+      "color": "rgba(219, 85, 49, 1.0)"
+    },
+    {
+      "id": 55,
+      "filename": "dog-walking-79_element_80_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_80_highlighted.png",
+      "description": "The entire body of a brown dachshund dog.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 56,
+      "filename": "dog-walking-79_element_81_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_81_highlighted.png",
+      "description": "The lower belly of a brown dachshund dog.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 57,
+      "filename": "dog-walking-79_element_82_highlighted.png",
+      "parent": 55,
+      "mask_path": "dog-walking-79_element_82_highlighted.png",
+      "description": "The lower area of the neck of a brown dachshund dog.",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 58,
+      "filename": "dog-walking-79_element_83_highlighted.png",
+      "parent": 55,
+      "mask_path": "dog-walking-79_element_83_highlighted.png",
+      "description": "The orange collar of a brown dachshund dog",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 59,
+      "filename": "dog-walking-79_element_84_highlighted.png",
+      "parent": 60,
+      "mask_path": "dog-walking-79_element_84_highlighted.png",
+      "description": "The orange head of a brown dachshund dog",
+      "color": "rgba(219, 85, 49, 1.0)"
+    },
+    {
+      "id": 60,
+      "filename": "dog-walking-79_element_85_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_85_highlighted.png",
+      "description": "The orange nose of a brown dachshund dog",
+      "color": "rgba(255, 129, 90, 1.0)"
+    },
+    {
+      "id": 61,
+      "filename": "dog-walking-79_element_86_highlighted.png",
+      "parent": 60,
+      "mask_path": "dog-walking-79_element_86_highlighted.png",
+      "description": "The orange head of a brown dachshund dog",
+      "color": "rgba(219, 85, 49, 1.0)"
+    },
+    {
+      "id": 62,
+      "filename": "dog-walking-79_element_87_highlighted.png",
+      "parent": 60,
+      "mask_path": "dog-walking-79_element_87_highlighted.png",
+      "description": "The orange nose of a brown dachshund dog",
+      "color": "rgba(219, 85, 49, 1.0)"
+    },
+    {
+      "id": 63,
+      "filename": "dog-walking-79_element_88_highlighted.png",
+      "parent": 55,
+      "mask_path": "dog-walking-79_element_88_highlighted.png",
+      "description": "A brown dachshund dog",
+      "color": "rgba(17, 18, 36, 1.0)"
+    },
+    {
+      "id": 64,
+      "filename": "dog-walking-79_element_89_highlighted.png",
+      "parent": 9,
+      "mask_path": "dog-walking-79_element_89_highlighted.png",
+      "description": "A brown dachshund dog",
+      "color": "rgba(17, 18, 36, 1.0)"
+    }
+  ]
+}
