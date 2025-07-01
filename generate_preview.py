@@ -1,4 +1,4 @@
-
+# TO GENERATE HTML OFFLINE
 #!/usr/bin/env python3
 
 import os

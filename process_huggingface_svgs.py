@@ -1,3 +1,4 @@
+# JUST TO GET ALL HUGGIINGFACE SVGS
 #!/usr/bin/env python3
 
 import os
@@ -5,7 +6,6 @@ import logging
 from datasets import load_dataset
 from huggingface_hub import login
 from pathlib import Path
-from new import process_directory  
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")

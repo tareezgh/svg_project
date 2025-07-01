@@ -1,3 +1,4 @@
+# GET SEGMENTED SVGS
 #!/usr/bin/env python3
 
 import os
@@ -109,7 +110,7 @@ class SVGSegmenter:
             tree = ET.parse(svg_path)
             root = tree.getroot()
             base_filename = os.path.splitext(os.path.basename(svg_path))[0]
-            segment_dir = os.path.join(output_dir, base_filename)
+            segment_dir = os.path.join(output_dir, base_filename, "segmented_svgs")
             os.makedirs(segment_dir, exist_ok=True)
             style_element = self.extract_styles(root)
 
@@ -167,7 +168,6 @@ def process_directory(input_dir: str, output_dir: str):
 
 def main():
     base_input_dir = './inputs'
-    output_base_dir = 'segmented_svgs'
 
     available_dirs = [
         d for d in os.listdir(base_input_dir)
@@ -191,7 +191,7 @@ def main():
 
     selected_folder = answers["selected_dir"]
     input_dir = os.path.join(base_input_dir, selected_folder)
-    output_dir = os.path.join(output_base_dir, selected_folder)
+    output_dir = os.path.join("outputs")
 
     logging.info("Starting SVG segmentation process...")
     logging.info(f"Processing from: {input_dir}")

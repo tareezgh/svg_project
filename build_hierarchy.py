@@ -1,3 +1,4 @@
+# NOT USED
 from pathlib import Path
 from shapely.geometry import Polygon
 from shapely.ops import unary_union

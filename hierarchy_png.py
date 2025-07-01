@@ -5,18 +5,16 @@ import cv2
 import numpy as np
 import re
 import inquirer
-from matplotlib.colors import to_rgba
 import xml.etree.ElementTree as ET
-from svgpathtools import parse_path
 from shapely.geometry import Polygon, Point
-from shapely.affinity import scale
+from collections import deque
 
 SEGMENTS_DIR = Path("segmented_svgs")
 SEGMENTS_DIR_PLUS = Path("segmented_svgs_plus")
 HIGHLIGHTED_DIR = Path("highlighted_pngs_no_overlay")
 FALLBACK_WHITE_DIR = Path("white_pngs") 
 RESPONSES_DIR = Path("gemini_responses")
-OUTPUT_ROOT = Path("hierarchy_output_from_png")
+OUTPUT_ROOT = Path("hierarchy_output")
 OUTPUT_ROOT.mkdir(exist_ok=True)
 SVG_NS = "http://www.w3.org/2000/svg"
 NSMAP = {"svg": SVG_NS}
@@ -180,17 +178,17 @@ def parse_polygon_from_png(png_path: Path):
 
     return polygon, pixel_area
 
-def load_png_segments(png_folder: Path, svg_segments_root: Path, selected_folder: str):
+def load_png_segments(png_folder: Path, svg_segments_root: Path, svg_segments_root_plus: Path, selected_folder: str):
     segments = []
-    group_name = png_folder.name
-    fallback_dir = FALLBACK_WHITE_DIR / selected_folder / group_name
 
+    full_name = png_folder.parent.name
+    fallback_dir = Path("outputs") / FALLBACK_WHITE_DIR 
     # Add full SVG color segment
-    full_svg_path = Path("inputs") / selected_folder / f"{group_name}.svg"
+    full_svg_path = Path("inputs") / selected_folder / f"{full_name}.svg"
     full_color = extract_svg_fill_color(full_svg_path) if full_svg_path and full_svg_path.exists() else None
     segments.append({
         "id": 0,
-        "filename": f"Full {group_name}",
+        "filename": f"Full {full_name}",
         "polygon": None,
         "pixel_area": None,
         "bbox": None,
@@ -212,6 +210,7 @@ def load_png_segments(png_folder: Path, svg_segments_root: Path, selected_folder
         if white_ratio < 0.05 and not any(k in png_path.name for k in ["Layer", "Item"]):
             fallback_png = fallback_dir / png_path.name
             if fallback_png.exists():
+                print(f"🔁 Using fallback PNG for: {png_path.name}")
                 png_path = fallback_png
                 image = cv2.imread(str(png_path), cv2.IMREAD_UNCHANGED)
                 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -229,8 +228,9 @@ def load_png_segments(png_folder: Path, svg_segments_root: Path, selected_folder
 
         base_name = png_path.name.replace("_highlighted.png", "") if "_highlighted.png" in png_path.name else png_path.stem
         segment_svg_filename = f"{base_name}.svg"
+
         primary_svg_path = svg_segments_root / segment_svg_filename
-        plus_svg_path = Path("segmented_svgs_plus") / group_name / segment_svg_filename
+        plus_svg_path = svg_segments_root_plus / segment_svg_filename
 
         svg_path = primary_svg_path if primary_svg_path.exists() else (plus_svg_path if plus_svg_path.exists() else None)
         color = extract_svg_fill_color(svg_path) if svg_path and svg_path.exists() else None
@@ -345,94 +345,171 @@ def export_hierarchy_json(segments, output_path: Path, group_name: str):
                 "description": entry.get("description")
             }
 
-    result = []
 
-    # Add full image as root
-    full_segment = next((s for s in segments if s["filename"] == f"Full {group_name}"), None)
-    result.append({
-        "id": 0,
-        "filename": f"Full {group_name}",
-        "parent": -1,
-        "description": description,
-        "color": full_segment.get("color") if full_segment else None
-    })
+    all_items = []
 
-    # Sort segments
-    sorted_segments = sorted(segments, key=sort_key)
-
-    # Assign new IDs
-    id_mapping = {seg["id"]: new_id for new_id, seg in enumerate(sorted_segments, start=1)}
-
-    for seg in sorted_segments:
-        old_id = seg["id"]
-        seg["id"] = id_mapping[old_id]
-        seg["parent"] = id_mapping.get(seg["parent"], 0) if seg["parent"] != 0 else 0
-
-
-    for seg in sorted_segments:
+    for seg in segments:
         key = seg["filename"]
-        if "full" in key.lower():
-            continue
         gemini = gemini_index.get(key, {})
-        color_value = seg.get("color")
-        result.append({
+        entry = {
             "id": seg["id"],
             "filename": seg["filename"],
             "parent": seg["parent"],
             "mask_path": gemini.get("mask_path"),
             "description": gemini.get("description"),
-            "color": color_value,
-        })
+            "color": seg.get("color"),
+        }
+        if "full" in key.lower():
+            entry.pop("mask_path", None)
+            entry["parent"] = -1  # force root
+            full_id = seg["id"]
+        all_items.append(entry)
+
+    id_to_item = {item["id"]: item for item in all_items}
+    parent_to_children = {}
+    for item in all_items:
+        parent_to_children.setdefault(item["parent"], []).append(item)
+
+    # ✅ Find the true root (parent == -1)
+    root_items = parent_to_children.get(-1, [])
+    if not root_items:
+        print("❌ No root segment found (parent == -1)")
+        return
+
+    # Start BFS from root segment(s)
+    new_scene = []
+    queue = deque()
+    old_to_new_ids = {}
+    current_id = 0
+
+    for root in root_items:
+        queue.append(root["id"])
+
+        while queue:
+            old_id = queue.popleft()
+            item = id_to_item[old_id]
+
+            new_id = current_id
+            old_to_new_ids[old_id] = new_id
+            current_id += 1
+
+            is_root = item["parent"] == -1
+            entry = {
+                "id": new_id,
+                "filename": item["filename"],
+                "parent": old_to_new_ids.get(item["parent"], -1),
+                "description": description if is_root else item.get("description"),
+                "color": item.get("color")
+            }
+
+            if not is_root:
+                entry["mask_path"] = item.get("mask_path")
+
+            new_scene.append(entry)
+
+            for child in sorted(parent_to_children.get(old_id, []), key=lambda x: x["filename"]):
+                queue.append(child["id"])
+
 
     final_output = {
         "global_style": global_style,
-        "scene": result
+        "scene": new_scene
     }
+ 
+    # Add full image as root
+    # full_segment = next((s for s in segments if s["filename"] == f"Full {group_name}"), None)
+    # result.append({
+    #     "id": 0,
+    #     "filename": f"Full {group_name}",
+    #     "parent": -1,
+    #     "description": description,
+    #     "color": full_segment.get("color") if full_segment else None
+    # })
+
+    # # Sort segments
+    # sorted_segments = sorted(segments, key=sort_key)
+
+    # # Assign new IDs
+    # id_mapping = {seg["id"]: new_id for new_id, seg in enumerate(sorted_segments, start=1)}
+
+    # for seg in sorted_segments:
+    #     old_id = seg["id"]
+    #     seg["id"] = id_mapping[old_id]
+    #     seg["parent"] = id_mapping.get(seg["parent"], 0) if seg["parent"] != 0 else 0
+
+
+    # for seg in sorted_segments:
+    #     key = seg["filename"]
+    #     if "full" in key.lower():
+    #         continue
+    #     gemini = gemini_index.get(key, {})
+    #     color_value = seg.get("color")
+    #     result.append({
+    #         "id": seg["id"],
+    #         "filename": seg["filename"],
+    #         "parent": seg["parent"],
+    #         "mask_path": gemini.get("mask_path"),
+    #         "description": gemini.get("description"),
+    #         "color": color_value,
+    #     })
+
+    # final_output = {
+    #     "global_style": global_style,
+    #     "scene": result
+    # }
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w") as f:
         json.dump(final_output, f, indent=2)
 
 def main():
-    # Prompt user to select a folder in highlighted_pngs
-    folders = [f.name for f in HIGHLIGHTED_DIR.iterdir() if f.is_dir()]
+    inputs_dir = Path("inputs")
+    outputs_dir = Path("outputs")
+
+    # Step 1: Select a folder from inputs/
+    folders = [f.name for f in inputs_dir.iterdir() if f.is_dir()]
     if not folders:
-        print("❌ No folders found in highlighted_pngs/")
+        print("❌ No folders found in inputs/")
         return
 
-    question = [
-        inquirer.List("selected", message="Select a folder to process", choices=folders)
-    ]
-    answers = inquirer.prompt(question)
+    answers = inquirer.prompt([
+        inquirer.List("selected", message="Select an inputs/<folder> to process", choices=folders)
+    ])
     if not answers:
         print("❌ No selection made.")
         return
 
     selected_folder = answers["selected"]
-    selected_path = HIGHLIGHTED_DIR / selected_folder
-    subfolders = [d for d in selected_path.iterdir() if d.is_dir()]
+    svg_files = list((inputs_dir / selected_folder).glob("*.svg"))
+    if not svg_files:
+        print(f"❌ No .svg files found in inputs/{selected_folder}")
+        return
 
-    for group in tqdm(subfolders, desc=f"Processing '{selected_folder}'"):
-        if not group.is_dir():
+    print(f"📁 Selected folder: {selected_folder} — Found {len(svg_files)} SVG files.")
+
+    for svg_file in tqdm(svg_files, desc="Processing SVGs"):
+        svg_id = svg_file.stem
+        print(f"\n🧩 Processing: {svg_id}")
+
+        base_output = outputs_dir / svg_id
+        png_dir = base_output / HIGHLIGHTED_DIR
+        regular_svg_dir = base_output / "segmented_svgs"
+        plus_svg_dir = SEGMENTS_DIR_PLUS / svg_id
+
+        if not png_dir.exists():
+            print(f"⚠️ Skipping {svg_id}: highlighted_pngs_no_overlay not found.")
             continue
 
-        regular_svg_dir = SEGMENTS_DIR / selected_folder / group.name
-        plus_svg_dir = SEGMENTS_DIR_PLUS / selected_folder / group.name
-
-        # Load from both folders if they exist
-        segments = []
-        if regular_svg_dir.exists():
-            segments += load_png_segments(group, regular_svg_dir, selected_folder)
-        if plus_svg_dir.exists():
-            segments += load_png_segments(group, plus_svg_dir, selected_folder)
+        segments = load_png_segments(png_dir, regular_svg_dir, plus_svg_dir, selected_folder)
 
         if not segments:
-            print(f"⚠️ No valid PNGs in {group.name}")
+            print(f"⚠️ No valid segments found for {svg_id}")
             continue
+        
+        print(f"LEN:  {len(segments)}")
         segments_with_parents = build_hierarchy_bbox(segments)
-
-        output_path = OUTPUT_ROOT / selected_folder / f"{group.name}_hierarchy.json"
-        export_hierarchy_json(segments_with_parents, output_path, group.name)
+        output_path = base_output / "hierarchy_output" / f"{svg_id}_hierarchy.json"
+        export_hierarchy_json(segments_with_parents, output_path, svg_id)
         tqdm.write(f"✅ Saved: {output_path}")
 
 if __name__ == "__main__":

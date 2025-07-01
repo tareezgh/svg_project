@@ -1,0 +1,636 @@
+{
+  "global_style": "cartoon-style vector",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full taxi-driver-25",
+      "parent": -1,
+      "description": "A cartoon illustration of a taxi with a driver.",
+      "color": "rgba(193, 72, 52, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Layer 54_highlighted.png",
+      "parent": 0,
+      "description": "The blue surface of a road.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 54_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "taxi driver_Item_1_highlighted.png",
+      "parent": 1,
+      "description": "An overall view of a car and driver.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_1_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "taxi-driver-25_element_1_highlighted.png",
+      "parent": 2,
+      "description": "The rectangular sign on top of a car labeled \"TAXI\".",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_1_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "taxi-driver-25_element_2_highlighted.png",
+      "parent": 2,
+      "description": "The flat surface on the road, directly in front of the car.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_2_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Layer 56_highlighted.png",
+      "parent": 3,
+      "description": "The light bar on top of the car, labelled 'TAXI'.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 56_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "taxi driver_Item_2_highlighted.png",
+      "parent": 4,
+      "description": "A light surface reflecting the taxi's front and the floor nearby.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_2_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "taxi driver_Item_10_highlighted.png",
+      "parent": 5,
+      "description": "A light-blue taxi sign on top of the car with an internal light source.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_10_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "taxi driver_Item_12_highlighted.png",
+      "parent": 5,
+      "description": "Two glowing blue headlights.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_12_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "taxi-driver-25_element_10_highlighted.png",
+      "parent": 5,
+      "description": "The two front headlights of a car.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_10_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "taxi-driver-25_element_11_highlighted.png",
+      "parent": 5,
+      "description": "A light blue, rounded car bumper.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_11_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "taxi-driver-25_element_6_highlighted.png",
+      "parent": 5,
+      "description": "The left side mirror of a car.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_6_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "taxi-driver-25_element_7_highlighted.png",
+      "parent": 5,
+      "description": "The right side mirror of a car.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_7_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "taxi-driver-25_element_9_highlighted.png",
+      "parent": 5,
+      "description": "The front windscreen of a car, through which a driver can be seen.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_9_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "taxi driver_Item_3_highlighted.png",
+      "parent": 6,
+      "description": "A light blue patch on the road in front of the taxi.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_3_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "taxi driver_Item_11_highlighted.png",
+      "parent": 7,
+      "description": "The driver's dark hair.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_11_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "taxi driver_Item_13_highlighted.png",
+      "parent": 8,
+      "description": "The car's front right headlight.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_13_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "taxi driver_Item_16_highlighted.png",
+      "parent": 9,
+      "description": "The taxi's windshield.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_16_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "taxi driver_Item_18_highlighted.png",
+      "parent": 10,
+      "description": "The bottom edge of the taxi's front.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_18_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "taxi driver_Item_6_highlighted.png",
+      "parent": 11,
+      "description": "A side mirror on a car.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_6_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "taxi driver_Item_7_highlighted.png",
+      "parent": 12,
+      "description": "The passenger side mirror.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_7_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "taxi driver_Item_14_highlighted.png",
+      "parent": 13,
+      "description": "The light-blue windshield glass of a car.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_14_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "taxi-driver-25_element_3_highlighted.png",
+      "parent": 14,
+      "description": "The area directly under the front wheels of a car.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_3_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "taxi-driver-25_element_16_highlighted.png",
+      "parent": 15,
+      "description": "A white letter 'T' on a taxi sign.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_16_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "taxi-driver-25_element_17_highlighted.png",
+      "parent": 15,
+      "description": "The letters 'A' and 'X' of the word 'TAXI' on the roof of the car in white.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_17_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "taxi-driver-25_element_18_highlighted.png",
+      "parent": 15,
+      "description": "The letter 'X' on a taxi sign is glowing white.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_18_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "taxi-driver-25_element_19_highlighted.png",
+      "parent": 15,
+      "description": "The letter 'I' on a taxi sign is glowing white.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_19_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "taxi-driver-25_element_8_highlighted.png",
+      "parent": 16,
+      "description": "The upper part of the front grille of a car.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_8_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "taxi-driver-25_element_20_highlighted.png",
+      "parent": 17,
+      "description": "A light blue car bonnet.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_20_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "taxi driver_Item_19_highlighted.png",
+      "parent": 18,
+      "description": "The lower part of the front bumper.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_19_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "taxi-driver-25_element_21_highlighted.png",
+      "parent": 19,
+      "description": "The white sidelight of a vehicle.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_21_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "taxi driver_Item_9_highlighted.png",
+      "parent": 20,
+      "description": "The driver's shoulder inside the car.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_9_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "Layer 55_highlighted.png",
+      "parent": 21,
+      "description": "The driver's orange hair inside the car.",
+      "color": "rgba(193, 72, 52, 1.0)",
+      "mask_path": "Layer 55_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "taxi driver_Item_15_highlighted.png",
+      "parent": 21,
+      "description": "The driver's left shoulder.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_15_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "taxi driver_Item_52_highlighted.png",
+      "parent": 21,
+      "description": "The glass windscreen.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_52_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "taxi driver_Item_27_highlighted.png",
+      "parent": 23,
+      "description": "The white letter 'T' on a sign that reads 'TAXI'.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_27_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "taxi driver_Item_30_highlighted.png",
+      "parent": 24,
+      "description": "The white letters \"TAXI\" on top of the car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_30_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "taxi driver_Item_31_highlighted.png",
+      "parent": 25,
+      "description": "A white, rectangular taxi sign on top of a car roof.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_31_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "taxi driver_Item_32_highlighted.png",
+      "parent": 26,
+      "description": "The letter 'I' on the taxi roof sign.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_32_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "taxi driver_Item_20_highlighted.png",
+      "parent": 27,
+      "description": "A bright white rectangular car grill.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_20_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "taxi-driver-25_element_23_highlighted.png",
+      "parent": 27,
+      "description": "The bright white headlight of a car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_23_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "taxi-driver-25_element_24_highlighted.png",
+      "parent": 27,
+      "description": "The headlight of a car",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_24_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "taxi driver_Item_33_highlighted.png",
+      "parent": 28,
+      "description": "The hood of the taxi.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_33_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "taxi driver_Item_35_highlighted.png",
+      "parent": 30,
+      "description": "A dark t-shirt worn by the driver.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_35_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "taxi-driver-25_element_22_highlighted.png",
+      "parent": 31,
+      "description": "The sign on top of a taxi, with the word 'TAXI' displayed.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_22_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "taxi driver_Item_43_highlighted.png",
+      "parent": 32,
+      "description": "The driver's face, seen through the car's windshield.",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi driver_Item_43_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "taxi-driver-25_element_25_highlighted.png",
+      "parent": 32,
+      "description": "A man's light blue shirt.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi-driver-25_element_25_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "taxi-driver-25_element_30_highlighted.png",
+      "parent": 32,
+      "description": "A person's red hair",
+      "color": "rgba(193, 72, 52, 1.0)",
+      "mask_path": "taxi-driver-25_element_30_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "taxi driver_Item_29_highlighted.png",
+      "parent": 36,
+      "description": "The top of the Taxi sign.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_29_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "taxi driver_Item_21_highlighted.png",
+      "parent": 39,
+      "description": "A glowing blue area, indicating the car's front grill.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_21_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "taxi driver_Item_37_highlighted.png",
+      "parent": 40,
+      "description": "A bright white headlight on a car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_37_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "taxi driver_Item_38_highlighted.png",
+      "parent": 41,
+      "description": "A white headlight on a car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_38_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "taxi driver_Item_34_highlighted.png",
+      "parent": 42,
+      "description": "The letter 'T' in the word 'TAXI' on top of the vehicle.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_34_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "taxi driver_Item_36_highlighted.png",
+      "parent": 44,
+      "description": "The illuminated \"TAXI\" letters on a car's roof sign.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_36_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "taxi-driver-25_element_27_highlighted.png",
+      "parent": 45,
+      "description": "A person's hair",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi-driver-25_element_27_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "taxi driver_Item_39_highlighted.png",
+      "parent": 46,
+      "description": "The driver's bright blue shirt, visible behind the steering wheel.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "taxi driver_Item_39_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "taxi driver_Item_46_highlighted.png",
+      "parent": 47,
+      "description": "The driver's red hair.",
+      "color": "rgba(193, 72, 52, 1.0)",
+      "mask_path": "taxi driver_Item_46_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "taxi driver_Item_22_highlighted.png",
+      "parent": 49,
+      "description": "The taxi's right headlight.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_22_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "taxi driver_Item_41_highlighted.png",
+      "parent": 54,
+      "description": "The driver's smartphone is lit up in his hand.",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi driver_Item_41_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "taxi-driver-25_element_28_highlighted.png",
+      "parent": 54,
+      "description": "A person's left eye and eyebrow",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi-driver-25_element_28_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "taxi-driver-25_element_29_highlighted.png",
+      "parent": 54,
+      "description": "A person's right ear",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi-driver-25_element_29_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "taxi driver_Item_40_highlighted.png",
+      "parent": 55,
+      "description": "The driver's face.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_40_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "taxi driver_Item_47_highlighted.png",
+      "parent": 56,
+      "description": "The lower part of the taxi car.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_47_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "taxi driver_Item_48_highlighted.png",
+      "parent": 56,
+      "description": "The dark rear-view mirror on the taxi.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_48_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "taxi driver_Item_23_highlighted.png",
+      "parent": 57,
+      "description": "A horizontal white bar across the front grille of the car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_23_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "taxi driver_Item_24_highlighted.png",
+      "parent": 57,
+      "description": "A horizontal white bar across the front grille of the car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_24_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "taxi-driver-25_element_12_highlighted.png",
+      "parent": 57,
+      "description": "A small, horizontal white line on the grill of a car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_12_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "taxi-driver-25_element_13_highlighted.png",
+      "parent": 57,
+      "description": "A short, horizontal white line on the grill of a car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_13_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "taxi-driver-25_element_14_highlighted.png",
+      "parent": 57,
+      "description": "A single white horizontal line on the car grill.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi-driver-25_element_14_highlighted.png"
+    },
+    {
+      "id": 69,
+      "filename": "taxi-driver-25_element_26_highlighted.png",
+      "parent": 58,
+      "description": "A person's neck",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi-driver-25_element_26_highlighted.png"
+    },
+    {
+      "id": 70,
+      "filename": "taxi driver_Item_44_highlighted.png",
+      "parent": 59,
+      "description": "The driver's ear.",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi driver_Item_44_highlighted.png"
+    },
+    {
+      "id": 71,
+      "filename": "taxi driver_Item_45_highlighted.png",
+      "parent": 60,
+      "description": "The driver's ear inside the car.",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi driver_Item_45_highlighted.png"
+    },
+    {
+      "id": 72,
+      "filename": "taxi driver_Item_49_highlighted.png",
+      "parent": 61,
+      "description": "The driver's left shoulder and neck.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_49_highlighted.png"
+    },
+    {
+      "id": 73,
+      "filename": "taxi-driver-25_element_31_highlighted.png",
+      "parent": 61,
+      "description": "The person's right hand that is behind the steering wheel.",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi-driver-25_element_31_highlighted.png"
+    },
+    {
+      "id": 74,
+      "filename": "taxi driver_Item_25_highlighted.png",
+      "parent": 68,
+      "description": "The central grille of the taxi.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "taxi driver_Item_25_highlighted.png"
+    },
+    {
+      "id": 75,
+      "filename": "taxi driver_Item_42_highlighted.png",
+      "parent": 69,
+      "description": "The grill on the front of a car.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "taxi driver_Item_42_highlighted.png"
+    },
+    {
+      "id": 76,
+      "filename": "taxi-driver-25_element_32_highlighted.png",
+      "parent": 72,
+      "description": "The person's left hand that is behind the steering wheel.",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi-driver-25_element_32_highlighted.png"
+    },
+    {
+      "id": 77,
+      "filename": "taxi driver_Item_50_highlighted.png",
+      "parent": 73,
+      "description": "The taxi driver's face.",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi driver_Item_50_highlighted.png"
+    },
+    {
+      "id": 78,
+      "filename": "taxi driver_Item_51_highlighted.png",
+      "parent": 76,
+      "description": "The taxi driver's right wrist and the sleeve of his black shirt.",
+      "color": "rgba(255, 170, 113, 1.0)",
+      "mask_path": "taxi driver_Item_51_highlighted.png"
+    }
+  ]
+}

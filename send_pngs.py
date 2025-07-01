@@ -1,3 +1,4 @@
+# SEND PNG TO GEMINI TO GET DESCRIPTIONS
 #!/usr/bin/env python3
 
 import requests
@@ -449,17 +450,52 @@ def select_input_folder(base_dir):
     return None
 
 def main():
-    highlighted_base_dir = "highlighted_pngs"          # PNG input folder
-    output_json_dir = "gemini_responses"    # JSON output folder
+    inputs_dir = Path("inputs")
+    outputs_dir = Path("outputs")
 
-    selected_input_dir = select_input_folder(highlighted_base_dir)
-    if selected_input_dir is None:
+    # Step 1: Let user pick a folder from inputs/
+    input_folders = [f.name for f in inputs_dir.iterdir() if f.is_dir()]
+    if not input_folders:
+        print("❌ No folders found in 'inputs/'.")
+        return
+
+    answers = inquirer.prompt([
+        inquirer.List(
+            'selected_folder',
+            message="Select a folder from inputs/ to process all its SVGs:",
+            choices=input_folders
+        )
+    ])
+    if not answers:
         print("❌ No folder selected. Exiting.")
         return
-    
+
+    selected_input_folder = answers['selected_folder']
+    selected_input_path = inputs_dir / selected_input_folder
+    svg_files = list(selected_input_path.glob("*.svg"))
+
+    if not svg_files:
+        print(f"❌ No SVG files found in: inputs/{selected_input_folder}")
+        return
+
+    print(f"\n📁 Selected input folder: {selected_input_folder}")
+    print(f"🔍 Found {len(svg_files)} SVG files to process.")
+
     prompt = DEFAULT_PROMPT
 
-    send_grouped_pngs(selected_input_dir, output_json_dir, prompt)
+    for svg_path in svg_files:
+        svg_id = svg_path.stem
+        print(f"\n=== 🧠 Sending for: {svg_id} ===")
+
+        highlighted_png_dir = outputs_dir / svg_id / "highlighted_pngs"
+        output_json_dir = outputs_dir / svg_id / "gemini_responses"
+
+        if not highlighted_png_dir.exists():
+            print(f"⚠️ Skipping {svg_id} — folder not found: {highlighted_png_dir}")
+            continue
+
+        send_grouped_pngs(highlighted_png_dir, output_json_dir, prompt)
+
 
 if __name__ == "__main__":
     main()
