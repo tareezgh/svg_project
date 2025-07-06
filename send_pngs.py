@@ -11,8 +11,6 @@ import re
 from consts import GEMINI_API_KEY, GEMINI_API_URL, DEFAULT_PROMPT
 import time
 
-import traceback
-import datetime
 import random
 
 def send_images_with_prompt(image_paths, prompt, max_total_wait_minutes=20):
@@ -76,7 +74,7 @@ def send_images_with_prompt(image_paths, prompt, max_total_wait_minutes=20):
     print(f"❌ Failed to process group {group_name} after waiting {total_waited // 60:.1f} minutes.")
     return None
 
-   
+
 def parse_and_format_response(image_paths, gemini_response, output_path=None):
     """
     Parses Gemini response with Markdown-like structure and maps descriptions to exact image filenames.
@@ -84,9 +82,6 @@ def parse_and_format_response(image_paths, gemini_response, output_path=None):
     If no match is found, logs a warning.
     """
     formatted = []
-
-    # print("🔍 Gemini full response:")
-    # print(json.dumps(gemini_response["candidates"][0]["content"]["parts"][0]["text"], indent=2))
 
     try:
         text_block = gemini_response["candidates"][0]["content"]["parts"][0]["text"]

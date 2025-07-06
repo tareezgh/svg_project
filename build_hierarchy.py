@@ -13,7 +13,6 @@ from svgpathtools import parse_path
 from shapely.geometry import Polygon, Point
 from shapely.affinity import scale
 
-from typing import List, Dict
 
 SEGMENTS_DIR = Path("segmented_svgs")
 SEGMENTS_PLUS_DIR = Path("segmented_svgs_plus")
@@ -45,7 +44,6 @@ def parse_svg_color_to_rgba(color_str):
         return f"rgba({r}, {g}, {b}, {a})"
     except Exception:
         return None
-
 
 
 def parse_polygon_from_svg(svg_path):
@@ -174,92 +172,6 @@ def build_hierarchy(segments):
 
     return segments
 
-
-def build_hierarchy3(segments):
-    """
-    Assigns each non-layer segment to the smallest containing parent.
-    If none contains it, uses intersects. Falls back to root if needed.
-    """
-
-    # Initialize all to root
-    for s in segments:
-        s["parent"] = 0
-
-    for child in segments:
-        child_poly = child["polygon"]
-        child_id = child["id"]
-
-        best_parent = None
-        smallest_area = float("inf")
-
-        for candidate in segments:
-            if candidate["id"] == child_id:
-                continue  # Don't compare to self
-
-            candidate_poly = candidate["polygon"]
-            candidate_area = candidate_poly.area
-
-            # Must be strictly larger
-            if candidate_area <= child_poly.area:
-                continue
-
-            # Prefer contains (stricter), fallback to intersects
-            if candidate_poly.contains(child_poly) or candidate_poly.intersects(child_poly):
-                if candidate_area < smallest_area:
-                    best_parent = candidate["id"]
-                    smallest_area = candidate_area
-
-        # Assign the best match (or 0 = root)
-        child["parent"] = best_parent if best_parent is not None else 0
-
-    return segments
-
-def build_hierarchy2(segments):
-    # Pre-categorize layer segments
-    layer_segments = [s for s in segments if "Layer" in s["filename"]]
-    other_segments = [s for s in segments if "Layer" not in s["filename"]]
-
-    # Start fresh
-    for s in segments:
-        s["parent"] = 0
-
-    # Build hierarchy for non-layer elements
-    for inner in other_segments:
-        best_parent = None
-        best_area = float('inf')
-
-        for outer in segments:
-            if outer["id"] == inner["id"]:
-                continue
-            if outer["polygon"].contains(inner["polygon"]):
-                if outer["polygon"].area < best_area:
-                    best_area = outer["polygon"].area
-                    best_parent = outer["id"]
-
-        if best_parent is not None:
-            inner["parent"] = best_parent
-        else:
-            # Fallback: assign to first Layer if any, otherwise root
-            inner["parent"] = layer_segments[0]["id"] if layer_segments else 0
-
-    return segments
-
-
-def build_hierarchy1(segments):
-    for seg in segments:
-        seg["parent"] = 0  # default
-
-    for i, outer in enumerate(segments):
-        for j, inner in enumerate(segments):
-            if i == j:
-                continue
-            if outer["polygon"].contains(inner["polygon"]):
-                # Check if it's the closest parent (smallest containing polygon)
-                if segments[j]["parent"] == 0 or outer["polygon"].area < segments[segments[j]["parent"]]["polygon"].area:
-                    segments[j]["parent"] = i
-
-    return segments
-
 def load_gemini_responses(svg_name: str):
     response_path = RESPONSES_DIR / svg_name / "response.json"
     
@@ -309,17 +221,6 @@ def export_hierarchy_json(segments, output_path, svg_name):
         except Exception as e:
             print(f"⚠️ Failed to load scene metadata from {metadata_path}: {e}")
 
-    # Index gemini data by numeric id extracted from 'id' (fallback if 'mask_path' is missing)
-    # gemini_index = {}
-    # for entry in gemini_data:
-    #     filename = entry.get("mask_path") or entry.get("id")
-    #     if not filename:
-    #         continue
-    #     idx = extract_index_from_filename(filename)
-    #     gemini_index[idx] = {
-    #         "mask_path": filename,
-    #         "description": entry.get("description")
-    #     }
 
     # Index gemini data by full filename
     gemini_index = {}
