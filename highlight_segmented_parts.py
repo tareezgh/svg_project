@@ -150,129 +150,138 @@ def convert_full_svg_to_png(originals_dir, selected_folder, svg_id):
 
 
 def highlight_segments(originals_dir, selected_folder, svg_id):
-    from collections import defaultdict
-
-    plus_path = Path("segmented_svgs_plus")
     base_output = Path("outputs") / svg_id
-
-    # Segment sources
-    svg_id_dirs = defaultdict(list)
-
-    seg_dir = base_output / "segmented_svgs"
-    if seg_dir.exists() and seg_dir.is_dir():
-        svg_id_dirs[svg_id].append(seg_dir)
-        print(f"✅ Found in outputs/{svg_id}/segmented_svgs")
-
-    plus_dir = plus_path / svg_id
-    if plus_dir.exists() and plus_dir.is_dir():
-        if any(plus_dir.glob("*.svg")):
-            svg_id_dirs[svg_id].append(plus_dir)
-            print(f"✅ Also found in segmented_svg_plus/{svg_id}")
-        else:
-            print(f"⚠️ No SVGs in segmented_svg_plus/{svg_id}")
-
-
-    if not svg_id_dirs:
-        print(f"❌ No segment folders found for: {svg_id}")
-        return
-
-    original_path = Path(originals_dir) / selected_folder / f"{svg_id}.svg"
-    if not original_path.exists():
-        print(f"⚠️ Original SVG not found: {original_path}")
-        return
-
-    try:
-        original_tree = ET.parse(original_path)
-        original_root = original_tree.getroot()
-    except ET.ParseError as e:
-        print(f"⚠️ Failed to parse original SVG {svg_id}: {e}")
-        return
-
-    highlighted_dir = base_output / "highlighted_svgs"
-    white_dir = base_output / "white_svgs"
-    no_overlay_dir = base_output / "highlighted_svgs_no_overlay"
-    highlighted_dir.mkdir(parents=True, exist_ok=True)
-    white_dir.mkdir(parents=True, exist_ok=True)
-    no_overlay_dir.mkdir(parents=True, exist_ok=True)
-
-    all_sources = svg_id_dirs[svg_id]
-    segment_files = []
-    for source in all_sources:
-        found = list(source.glob("*.svg"))
-        if found:
-            print(f"   🔹 Found {len(found)} segments in {source}")
-            segment_files.extend(found)
-
+    highlighted_dir, white_dir, no_overlay_dir = prepare_output_dirs(base_output)
+    
+    segment_files = collect_segment_files(svg_id, base_output)
     if not segment_files:
         print(f"⚠️ No segment files found for: {svg_id}")
         return
 
+    original_root = load_original_svg(originals_dir, selected_folder, svg_id)
+    if original_root is None:
+        return
+
     print(f"📦 Processing {svg_id} ({len(segment_files)} segments)")
-
     for segment_file in tqdm(segment_files, desc=f"🔧 {svg_id}", unit="segment"):
-        try:
-            segment_tree = ET.parse(segment_file)
-            segment_root = segment_tree.getroot()
-        except ET.ParseError as e:
-            print(f"⚠️ Error parsing {segment_file.name}: {e}")
-            continue
-
-        # ---- Highlighted with overlay ----
-        combined_svg = ET.Element(original_root.tag, original_root.attrib)
-        for defs in original_root.findall('.//{http://www.w3.org/2000/svg}defs'):
-            combined_svg.append(defs)
-        for child in list(original_root):
-            if not child.tag.endswith('defs'):
-                combined_svg.append(child)
-
-        highlighted_group = ET.Element('{http://www.w3.org/2000/svg}g', {'id': 'highlighted-segment'})
-        for child in list(segment_root):
-            if child.tag.endswith('defs'):
-                continue
-            outer = ET.Element(child.tag, child.attrib.copy())
-
-            style = child.attrib.get('style', '')
-            clean_style = ';'.join(kv for kv in style.split(';') if not kv.strip().startswith('stroke')).strip(';')
-            child.attrib['style'] = clean_style
-
-            highlighted_group.append(outer)
-            highlighted_group.append(child)
-
-        add_black_overlay(combined_svg, highlighted_group)
-
-        highlighted_path = highlighted_dir / f"{segment_file.stem}_highlighted.svg"
-        ET.ElementTree(combined_svg).write(highlighted_path)
-
-        # ---- Highlighted without overlay ----
-        save_highlight_on_black_background(
-            segment_root=segment_root,
-            original_root=original_root,
-            svg_id=svg_id,
-            selected_folder=svg_id,
-            segment_file_stem=segment_file.stem
+        process_segment_file(
+            segment_file,
+            original_root,
+            svg_id,
+            selected_folder,
+            highlighted_dir,
+            white_dir,
+            no_overlay_dir
         )
 
-        # ---- White mask ----
-        white_svg = ET.Element(original_root.tag, original_root.attrib)
-        bg_rect = ET.Element('{http://www.w3.org/2000/svg}rect', {
-            'x': '0', 'y': '0', 'width': '100%', 'height': '100%',
-            'fill': 'black'
-        })
-        white_svg.append(bg_rect)
+def prepare_output_dirs(base_output):
+    highlighted_dir = base_output / "highlighted_svgs"
+    white_dir = base_output / "white_svgs"
+    no_overlay_dir = base_output / "highlighted_svgs_no_overlay"
+    for path in [highlighted_dir, white_dir, no_overlay_dir]:
+        path.mkdir(parents=True, exist_ok=True)
+    return highlighted_dir, white_dir, no_overlay_dir
 
-        white_group = ET.Element('{http://www.w3.org/2000/svg}g', {'id': 'white-shapes', 'style': 'display:inline;opacity:1'})
-        for child in list(segment_root):
-            if child.tag.endswith('defs'):
-                continue
-            white_shape = ET.Element(child.tag, child.attrib.copy())
-            white_shape.attrib.pop('stroke', None)
-            white_shape.attrib['fill'] = 'white'
-            white_shape.attrib['style'] = 'fill:white;display:inline;opacity:1'
-            white_group.append(white_shape)
+def collect_segment_files(svg_id, base_output):
+    plus_dir = Path("segmented_svgs_plus") / svg_id
+    seg_dir = base_output / "segmented_svgs"
 
-        white_svg.append(white_group)
-        white_path = white_dir / f"{segment_file.stem}_highlighted.svg"
-        ET.ElementTree(white_svg).write(white_path)
+    segment_dirs = []
+    if seg_dir.exists() and seg_dir.is_dir():
+        segment_dirs.append(seg_dir)
+        print(f"✅ Found in outputs/{svg_id}/segmented_svgs")
+    if plus_dir.exists() and any(plus_dir.glob("*.svg")):
+        segment_dirs.append(plus_dir)
+        print(f"✅ Also found in segmented_svg_plus/{svg_id}")
+    elif plus_dir.exists():
+        print(f"⚠️ No SVGs in segmented_svg_plus/{svg_id}")
+
+    segment_files = []
+    for source in segment_dirs:
+        found = list(source.glob("*.svg"))
+        if found:
+            print(f"   🔹 Found {len(found)} segments in {source}")
+            segment_files.extend(found)
+    return segment_files
+
+def load_original_svg(originals_dir, selected_folder, svg_id):
+    original_path = Path(originals_dir) / selected_folder / f"{svg_id}.svg"
+    if not original_path.exists():
+        print(f"⚠️ Original SVG not found: {original_path}")
+        return None
+    try:
+        return ET.parse(original_path).getroot()
+    except ET.ParseError as e:
+        print(f"⚠️ Failed to parse original SVG {svg_id}: {e}")
+        return None
+
+def process_segment_file(segment_file, original_root, svg_id, selected_folder, highlighted_dir, white_dir, no_overlay_dir):
+    try:
+        segment_tree = ET.parse(segment_file)
+        segment_root = segment_tree.getroot()
+    except ET.ParseError as e:
+        print(f"⚠️ Error parsing {segment_file.name}: {e}")
+        return
+
+    # Create overlay version
+    combined_svg = create_combined_svg_with_overlay(original_root, segment_root)
+    highlighted_path = highlighted_dir / f"{segment_file.stem}_highlighted.svg"
+    ET.ElementTree(combined_svg).write(highlighted_path)
+
+    # Create no-overlay version
+    save_highlight_on_black_background(segment_root, original_root, svg_id, selected_folder, segment_file.stem)
+
+    # Create white mask version
+    white_svg = create_white_mask_svg(original_root, segment_root)
+    white_path = white_dir / f"{segment_file.stem}_highlighted.svg"
+    ET.ElementTree(white_svg).write(white_path)
+
+def create_combined_svg_with_overlay(original_root, segment_root):
+    svg_ns = 'http://www.w3.org/2000/svg'
+    combined_svg = ET.Element(original_root.tag, original_root.attrib)
+    for defs in original_root.findall(f'.//{{{svg_ns}}}defs'):
+        combined_svg.append(defs)
+    for child in list(original_root):
+        if not child.tag.endswith('defs'):
+            combined_svg.append(child)
+
+    highlighted_group = ET.Element(f'{{{svg_ns}}}g', {'id': 'highlighted-segment'})
+    for child in list(segment_root):
+        if child.tag.endswith('defs'):
+            continue
+        outer = ET.Element(child.tag, child.attrib.copy())
+        style = child.attrib.get('style', '')
+        clean_style = ';'.join(kv for kv in style.split(';') if not kv.strip().startswith('stroke')).strip(';')
+        child.attrib['style'] = clean_style
+        highlighted_group.append(outer)
+        highlighted_group.append(child)
+
+    add_black_overlay(combined_svg, highlighted_group)
+    return combined_svg
+
+def create_white_mask_svg(original_root, segment_root):
+    svg_ns = 'http://www.w3.org/2000/svg'
+    white_svg = ET.Element(original_root.tag, original_root.attrib)
+    bg_rect = ET.Element(f'{{{svg_ns}}}rect', {
+        'x': '0', 'y': '0', 'width': '100%', 'height': '100%', 'fill': 'black'
+    })
+    white_svg.append(bg_rect)
+
+    white_group = ET.Element(f'{{{svg_ns}}}g', {
+        'id': 'white-shapes',
+        'style': 'display:inline;opacity:1'
+    })
+    for child in list(segment_root):
+        if child.tag.endswith('defs'):
+            continue
+        white_shape = ET.Element(child.tag, child.attrib.copy())
+        white_shape.attrib.pop('stroke', None)
+        white_shape.attrib['fill'] = 'white'
+        white_shape.attrib['style'] = 'fill:white;display:inline;opacity:1'
+        white_group.append(white_shape)
+
+    white_svg.append(white_group)
+    return white_svg
 
 def main():
     originals_root = Path("inputs")
@@ -317,10 +326,10 @@ def main():
         if seg_dir.exists() and any(seg_dir.iterdir()):
             segment_sources.append(seg_dir)
 
-        plus_dir = Path("segmented_svg_plus") / svg_id
+        plus_dir = Path("segmented_svgs_plus") / svg_id
         if plus_dir.exists() and any(plus_dir.iterdir()):
             segment_sources.append(plus_dir)
-            print(f"✅ Found: segmented_svg_plus/{svg_id}")
+            print(f"✅ Found: segmented_svgs_plus/{svg_id}")
 
         if not segment_sources:
             print(f"⚠️ No segmented sources found for '{svg_id}'. Skipping.")
@@ -329,8 +338,8 @@ def main():
         # Run full pipeline for each svg_id
         highlight_segments(
             originals_dir="inputs",
-            selected_folder=selected_folder,  # e.g., "sample"
-            svg_id=svg_id                     # e.g., "taxi-driver-25"
+            selected_folder=selected_folder,
+            svg_id=svg_id                     
         )
 
         base_output = Path("outputs") / svg_id
