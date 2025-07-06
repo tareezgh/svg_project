@@ -1,0 +1,540 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full thinking-40",
+      "parent": -1,
+      "description": "A person is sitting at a desk with a laptop, coffee mug, and small plant. They are looking thoughtful, indicated by a thinking bubble above their head.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Layer 36_highlighted.png",
+      "parent": 0,
+      "description": "A gray mug.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 36_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Layer 37_highlighted.png",
+      "parent": 0,
+      "description": "A small blue potted plant with three light blue leaves.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 37_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Layer 39_highlighted.png",
+      "parent": 0,
+      "description": "A light blue, short-sleeved shirt on a person.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "Layer 39_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Layer 40_highlighted.png",
+      "parent": 0,
+      "description": "A white, puffy thought bubble above a person's head.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 40_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "thinking-40_element_85_highlighted.png",
+      "parent": 0,
+      "description": "An off-white desk surface.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking-40_element_85_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "thinking-40_element_93_highlighted.png",
+      "parent": 0,
+      "description": "A dark blue, rounded rectangle, possibly representing a message notification.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "thinking-40_element_93_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "thinking_Item_23_highlighted.png",
+      "parent": 0,
+      "description": "A white desk surface.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking_Item_23_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "thinking-40_element_86_highlighted.png",
+      "parent": 1,
+      "description": "The body of a mug, perhaps made of ceramic.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "thinking-40_element_86_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "thinking-40_element_87_highlighted.png",
+      "parent": 1,
+      "description": "The white handle of a mug, presumably to hold hot beverages.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "thinking-40_element_87_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "thinking-40_element_89_highlighted.png",
+      "parent": 1,
+      "description": "A wisp of white steam rising from a mug, presumably filled with a hot drink on the desk.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking-40_element_89_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "thinking_Item_25_highlighted.png",
+      "parent": 1,
+      "description": "A white ceramic mug.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "thinking_Item_25_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "thinking-40_element_69_highlighted.png",
+      "parent": 2,
+      "description": "A yellow laptop computer.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking-40_element_69_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "thinking-40_element_70_highlighted.png",
+      "parent": 2,
+      "description": "A blue-leaved plant in a gray pot.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking-40_element_70_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "thinking-40_element_71_highlighted.png",
+      "parent": 2,
+      "description": "A gray ceramic mug.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking-40_element_71_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "thinking_Item_4_highlighted.png",
+      "parent": 2,
+      "description": "A small blue plant pot.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "thinking_Item_4_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "Layer 38_highlighted.png",
+      "parent": 3,
+      "description": "A bright yellow laptop screen with a small white dot in the center, likely representing the power indicator.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "Layer 38_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "thinking-40_element_75_highlighted.png",
+      "parent": 3,
+      "description": "A white short sleeve.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "thinking-40_element_75_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "thinking-40_element_78_highlighted.png",
+      "parent": 3,
+      "description": "A person's blue hair.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "thinking-40_element_78_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "thinking-40_element_81_highlighted.png",
+      "parent": 3,
+      "description": "The right ear and cheek.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking-40_element_81_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "thinking-40_element_83_highlighted.png",
+      "parent": 3,
+      "description": "The right hand, presumably holding the cup of coffee",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking-40_element_83_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "thinking_Item_10_highlighted.png",
+      "parent": 3,
+      "description": "A person's forearm, light pink in color, resting on a desk.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking_Item_10_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "thinking_Item_13_highlighted.png",
+      "parent": 3,
+      "description": "A light blue upper arm.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking_Item_13_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "thinking_Item_14_highlighted.png",
+      "parent": 3,
+      "description": "A peach colored face and neck.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking_Item_14_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "thinking_Item_20_highlighted.png",
+      "parent": 3,
+      "description": "A light-orange colored forearm resting on a desk.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking_Item_20_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "thinking_Item_21_highlighted.png",
+      "parent": 3,
+      "description": "A yellow laptop screen.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "thinking_Item_21_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "thinking_Item_6_highlighted.png",
+      "parent": 3,
+      "description": "A white shirt sleeve.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "thinking_Item_6_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "thinking_Item_9_highlighted.png",
+      "parent": 3,
+      "description": "A light blue human torso.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking_Item_9_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "thinking-40_element_90_highlighted.png",
+      "parent": 4,
+      "description": "A white, fluffy cloud shape, presumably symbolizing a thought bubble.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking-40_element_90_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "thinking-40_element_91_highlighted.png",
+      "parent": 4,
+      "description": "A small, gray cloud, part of a group of thought bubbles.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking-40_element_91_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "thinking-40_element_92_highlighted.png",
+      "parent": 4,
+      "description": "A small, white cloud, part of a group of thought bubbles.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking-40_element_92_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "thinking_Item_29_highlighted.png",
+      "parent": 4,
+      "description": "A small white puff of smoke.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking_Item_29_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "Layer 41_highlighted.png",
+      "parent": 6,
+      "description": "A dark blue message bubble with three yellow dots.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "Layer 41_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "thinking_Item_31_highlighted.png",
+      "parent": 6,
+      "description": "A navy blue rectangular chat bubble.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "thinking_Item_31_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "thinking_Item_26_highlighted.png",
+      "parent": 9,
+      "description": "A yellow laptop screen.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "thinking_Item_26_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "thinking_Item_24_highlighted.png",
+      "parent": 10,
+      "description": "A wisp of white steam rises from a mug.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking_Item_24_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "thinking-40_element_88_highlighted.png",
+      "parent": 11,
+      "description": "A round white circle, probably reflecting light from the surface of a dark mug.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking-40_element_88_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "thinking_Item_27_highlighted.png",
+      "parent": 11,
+      "description": "A small white circular dot on a gray mug.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking_Item_27_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "thinking_Item_2_highlighted.png",
+      "parent": 12,
+      "description": "A teal-colored plant with three leaves in a dark pot, sitting on a desk.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking_Item_2_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "thinking_Item_1_highlighted.png",
+      "parent": 13,
+      "description": "Blue plant leaves.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking_Item_1_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "thinking_Item_3_highlighted.png",
+      "parent": 14,
+      "description": "A bright light blue plant.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking_Item_3_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "thinking_Item_12_highlighted.png",
+      "parent": 17,
+      "description": "A light blue rounded edge of a sleeve on a person's arm.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking_Item_12_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "thinking_Item_7_highlighted.png",
+      "parent": 17,
+      "description": "A white upper arm of a person.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "thinking_Item_7_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "thinking_Item_15_highlighted.png",
+      "parent": 18,
+      "description": "Dark blue hair on top of a person's head.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "thinking_Item_15_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "thinking_Item_17_highlighted.png",
+      "parent": 19,
+      "description": "A person's light-pink ear and cheek.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking_Item_17_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "thinking-40_element_73_highlighted.png",
+      "parent": 21,
+      "description": "A person's right hand.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking-40_element_73_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "thinking-40_element_77_highlighted.png",
+      "parent": 23,
+      "description": "A person's face.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking-40_element_77_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "thinking-40_element_79_highlighted.png",
+      "parent": 23,
+      "description": "A yellow laptop screen, presumably displaying content.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking-40_element_79_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "thinking-40_element_84_highlighted.png",
+      "parent": 25,
+      "description": "A small round white light on the back of the laptop screen.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "thinking-40_element_84_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "thinking_Item_22_highlighted.png",
+      "parent": 25,
+      "description": "A slightly open laptop with a yellowish screen and a small circular badge in the middle.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "thinking_Item_22_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "thinking-40_element_76_highlighted.png",
+      "parent": 26,
+      "description": "A white short sleeve.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "thinking-40_element_76_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "thinking-40_element_72_highlighted.png",
+      "parent": 27,
+      "description": "A blue shirt.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "thinking-40_element_72_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "thinking_Item_30_highlighted.png",
+      "parent": 28,
+      "description": "A white thought bubble.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking_Item_30_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "thinking_Item_28_highlighted.png",
+      "parent": 30,
+      "description": "A small, white thought bubble near a larger, darker thought bubble.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "thinking_Item_28_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "thinking-40_element_94_highlighted.png",
+      "parent": 33,
+      "description": "A yellow dot, part of a set of three dots, potentially a notification or visual cue.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "thinking-40_element_94_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "thinking-40_element_95_highlighted.png",
+      "parent": 33,
+      "description": "A bright yellow dot, part of a set of three dots, potentially a notification or visual cue.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "thinking-40_element_95_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "thinking-40_element_96_highlighted.png",
+      "parent": 33,
+      "description": "A bright yellow dot, part of a set of three dots, potentially a notification or visual cue.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "thinking-40_element_96_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "thinking_Item_33_highlighted.png",
+      "parent": 33,
+      "description": "A dark grey message bubble with three dots colored in a light yellow.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "thinking_Item_33_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "thinking_Item_34_highlighted.png",
+      "parent": 33,
+      "description": "A bright yellow dot, part of a set of three dots, potentially a notification or visual cue.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "thinking_Item_34_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "thinking_Item_16_highlighted.png",
+      "parent": 47,
+      "description": "The person's light pink ear is visible.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking_Item_16_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "thinking-40_element_80_highlighted.png",
+      "parent": 51,
+      "description": "A dark-colored tie.",
+      "color": "rgba(0, 0, 1, 1.0)",
+      "mask_path": "thinking-40_element_80_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "thinking_Item_11_highlighted.png",
+      "parent": 51,
+      "description": "The person's light pink neck and jaw.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking_Item_11_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "thinking_Item_32_highlighted.png",
+      "parent": 54,
+      "description": "The first dot in a row of three is bright yellow.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "thinking_Item_32_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "thinking-40_element_74_highlighted.png",
+      "parent": 61,
+      "description": "A yellow laptop computer.",
+      "color": "rgba(0, 0, 1, 1.0)",
+      "mask_path": "thinking-40_element_74_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "thinking_Item_18_highlighted.png",
+      "parent": 63,
+      "description": "A person's light-pink fingertip touching their face.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking_Item_18_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "thinking_Item_19_highlighted.png",
+      "parent": 63,
+      "description": "A person's light pink index finger is resting on their chin.",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking_Item_19_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "thinking-40_element_82_highlighted.png",
+      "parent": 64,
+      "description": "Right cheek and fingers",
+      "color": "rgba(244, 162, 140, 1.0)",
+      "mask_path": "thinking-40_element_82_highlighted.png"
+    }
+  ]
+}

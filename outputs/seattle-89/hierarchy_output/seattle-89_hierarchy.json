@@ -1,0 +1,1932 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full seattle-89",
+      "parent": -1,
+      "description": "An isometric view of a city with a large tower, skyscrapers, a park, a pier, and boats on the water.",
+      "color": "rgba(95, 201, 99, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Item_1_highlighted.png",
+      "parent": 0,
+      "description": "A green area with gray roads, a blue waterfront, and a tan beach.",
+      "color": "rgba(200, 190, 188, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Item_6_highlighted.png",
+      "parent": 0,
+      "description": "A futuristic blue tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_6_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Layer 13_highlighted.png",
+      "parent": 0,
+      "description": "A cube-shaped building with illuminated windows.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 13_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Layer 14_highlighted.png",
+      "parent": 0,
+      "description": "A light blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 14_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Layer 12_highlighted.png",
+      "parent": 1,
+      "description": "A mountain range behind a city.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 12_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "seattle-89_element_136_highlighted.png",
+      "parent": 1,
+      "description": "A green grass surface that is part of the city.",
+      "color": "rgba(0, 109, 41, 1.0)",
+      "mask_path": "seattle-89_element_136_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "seattle-89_element_138_highlighted.png",
+      "parent": 1,
+      "description": "Blue ocean water next to a dock.",
+      "color": "rgba(57, 141, 231, 1.0)",
+      "mask_path": "seattle-89_element_138_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "seattle-89_element_139_highlighted.png",
+      "parent": 1,
+      "description": "A tan sandy beach next to the ocean.",
+      "color": "rgba(249, 177, 118, 1.0)",
+      "mask_path": "seattle-89_element_139_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "seattle-89_element_140_highlighted.png",
+      "parent": 1,
+      "description": "Gray roads connecting the different parts of the city.",
+      "color": "rgba(200, 190, 188, 1.0)",
+      "mask_path": "seattle-89_element_140_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "seattle-89_element_314_highlighted.png",
+      "parent": 2,
+      "description": "A wider, blue support structure at the base of a tower",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_314_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "seattle-89_element_315_highlighted.png",
+      "parent": 2,
+      "description": "A cylindrical base of a tower with a glowing blue light ring around it.",
+      "color": "rgba(57, 141, 231, 1.0)",
+      "mask_path": "seattle-89_element_315_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "seattle-89_element_322_highlighted.png",
+      "parent": 2,
+      "description": "The bottom part of the cylindrical base of a tall tower with a glowing light ring.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_322_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "seattle-89_element_323_highlighted.png",
+      "parent": 2,
+      "description": "The observation deck of a tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_323_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "seattle-89_element_324_highlighted.png",
+      "parent": 2,
+      "description": "The glowing light ring around the base of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_324_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "seattle-89_element_325_highlighted.png",
+      "parent": 2,
+      "description": "A series of vertical pillars which supports a circular platform above",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_325_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "seattle-89_element_326_highlighted.png",
+      "parent": 2,
+      "description": "The center vertical structure of a tall tower, showing a light path or elevator track.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_326_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "seattle-89_element_334_highlighted.png",
+      "parent": 2,
+      "description": "The light of an exterior elevator shaft running up the middle of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_334_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "seattle-89_element_342_highlighted.png",
+      "parent": 2,
+      "description": "A bright blue ring on the top of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_342_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "seattle-89_element_349_highlighted.png",
+      "parent": 2,
+      "description": "A white spire at the top of a tower.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_349_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "Layer 15_highlighted.png",
+      "parent": 3,
+      "description": "A spherical green tree, with a cylindrical brown trunk.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 15_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "seattle-89_element_207_highlighted.png",
+      "parent": 3,
+      "description": "A dark blue rectangle forming a skyscraper.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_207_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "seattle-89_element_208_highlighted.png",
+      "parent": 3,
+      "description": "The light blue center part of a tall building, divided into rectangular stories.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_208_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "seattle-89_element_209_highlighted.png",
+      "parent": 3,
+      "description": "The top of a building, colored white.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_209_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "seattle-89_element_229_highlighted.png",
+      "parent": 3,
+      "description": "A light blue edge of a building, suggesting the corner of a glass facade.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_229_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "seattle-89_element_230_highlighted.png",
+      "parent": 3,
+      "description": "A light blue window section on a multi-story building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_230_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "seattle-89_element_231_highlighted.png",
+      "parent": 3,
+      "description": "A light blue sidewalk running along the edge of the waterfront.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_231_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "seattle-89_element_232_highlighted.png",
+      "parent": 4,
+      "description": "A light blue facade section of a skyscraper.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_232_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "seattle-89_element_233_highlighted.png",
+      "parent": 4,
+      "description": "The glowing light blue glass facade of a skyscraper.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_233_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "seattle-89_element_235_highlighted.png",
+      "parent": 4,
+      "description": "A blue communication and observation tower",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_235_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "seattle-89_element_236_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on the top of a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_236_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "seattle-89_element_237_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_237_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "seattle-89_element_238_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_238_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "seattle-89_element_239_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_239_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "seattle-89_element_240_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_240_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "seattle-89_element_241_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_241_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "seattle-89_element_242_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_242_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "seattle-89_element_243_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_243_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "seattle-89_element_244_highlighted.png",
+      "parent": 4,
+      "description": "A white illuminated stripe on a dark blue skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_244_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "seattle-89_element_245_highlighted.png",
+      "parent": 4,
+      "description": "A white, horizontal light strip on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_245_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "seattle-89_element_246_highlighted.png",
+      "parent": 4,
+      "description": "A white, diagonal light strip on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_246_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "seattle-89_element_247_highlighted.png",
+      "parent": 4,
+      "description": "A white, diagonal light strip on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_247_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "seattle-89_element_248_highlighted.png",
+      "parent": 4,
+      "description": "A white, horizontal light strip on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_248_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "seattle-89_element_135_highlighted.png",
+      "parent": 5,
+      "description": "A blue mountain range behind the city.",
+      "color": "rgba(57, 141, 231, 1.0)",
+      "mask_path": "seattle-89_element_135_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "Layer 10_highlighted.png",
+      "parent": 7,
+      "description": "A white boat with several tiers.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 10_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "Layer 9_highlighted.png",
+      "parent": 7,
+      "description": "A white boat on the water.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 9_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "Layer 21_highlighted.png",
+      "parent": 8,
+      "description": "A blue street lamp.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 21_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "Layer 22_highlighted.png",
+      "parent": 8,
+      "description": "A blue street lamp on a short pole.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 22_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "Layer 24_highlighted.png",
+      "parent": 8,
+      "description": "A blue street light.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 24_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "Layer 25_highlighted.png",
+      "parent": 8,
+      "description": "A blue street light with a round lamp.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 25_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "Layer 6_highlighted.png",
+      "parent": 8,
+      "description": "A white boat on the water.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 6_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "Layer 7_highlighted.png",
+      "parent": 8,
+      "description": "A white boat with several tiers.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 7_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "Layer 8_highlighted.png",
+      "parent": 8,
+      "description": "A white boat.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 8_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "seattle-89_element_191_highlighted.png",
+      "parent": 8,
+      "description": "A dark red wooden dock extending into the water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_191_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "Item_5_highlighted.png",
+      "parent": 9,
+      "description": "A blue street lamp on a short pole.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Item_5_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "Layer 20_highlighted.png",
+      "parent": 9,
+      "description": "A blue street lamp on a short pole.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 20_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "seattle-89_element_143_highlighted.png",
+      "parent": 9,
+      "description": "A road next to a building.",
+      "color": "rgba(200, 190, 188, 1.0)",
+      "mask_path": "seattle-89_element_143_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "seattle-89_element_313_highlighted.png",
+      "parent": 11,
+      "description": "A short blue tube at the base of a tower",
+      "color": "rgba(57, 141, 231, 1.0)",
+      "mask_path": "seattle-89_element_313_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "seattle-89_element_317_highlighted.png",
+      "parent": 11,
+      "description": "The cylindrical base of a tall tower.",
+      "color": "rgba(57, 141, 231, 1.0)",
+      "mask_path": "seattle-89_element_317_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "seattle-89_element_330_highlighted.png",
+      "parent": 12,
+      "description": "A small dot of light on the side of a tall building",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_330_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "seattle-89_element_331_highlighted.png",
+      "parent": 12,
+      "description": "A light on the side of a tower structure",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_331_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "seattle-89_element_338_highlighted.png",
+      "parent": 12,
+      "description": "A blue square window on the side of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_338_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "seattle-89_element_339_highlighted.png",
+      "parent": 12,
+      "description": "A blue square window on the side of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_339_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "seattle-89_element_329_highlighted.png",
+      "parent": 14,
+      "description": "A small light on the side of a tall tower structure",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_329_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "seattle-89_element_337_highlighted.png",
+      "parent": 14,
+      "description": "A blue square window on the side of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_337_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "seattle-89_element_328_highlighted.png",
+      "parent": 15,
+      "description": "A small dot or light on the side of a tall tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_328_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "seattle-89_element_336_highlighted.png",
+      "parent": 15,
+      "description": "A blue square window on the side of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_336_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "seattle-89_element_257_highlighted.png",
+      "parent": 16,
+      "description": "A dark-red colored wooden dock.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_257_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "seattle-89_element_327_highlighted.png",
+      "parent": 16,
+      "description": "The middle segment of a tall tower, possibly a track for an elevator",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_327_highlighted.png"
+    },
+    {
+      "id": 69,
+      "filename": "seattle-89_element_335_highlighted.png",
+      "parent": 17,
+      "description": "A bright blue vertical beam on the side of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_335_highlighted.png"
+    },
+    {
+      "id": 70,
+      "filename": "seattle-89_element_343_highlighted.png",
+      "parent": 18,
+      "description": "Nothing is highlighted.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_343_highlighted.png"
+    },
+    {
+      "id": 71,
+      "filename": "seattle-89_element_345_highlighted.png",
+      "parent": 18,
+      "description": "A blue illuminated observation deck and top of a tower.",
+      "color": "rgba(57, 141, 231, 1.0)",
+      "mask_path": "seattle-89_element_345_highlighted.png"
+    },
+    {
+      "id": 72,
+      "filename": "seattle-89_element_258_highlighted.png",
+      "parent": 20,
+      "description": "A small, glowing street light.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_258_highlighted.png"
+    },
+    {
+      "id": 73,
+      "filename": "seattle-89_element_259_highlighted.png",
+      "parent": 20,
+      "description": "A glowing green window on the side of a building.",
+      "color": "rgba(95, 201, 99, 1.0)",
+      "mask_path": "seattle-89_element_259_highlighted.png"
+    },
+    {
+      "id": 74,
+      "filename": "seattle-89_element_260_highlighted.png",
+      "parent": 20,
+      "description": "A winding road.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_260_highlighted.png"
+    },
+    {
+      "id": 75,
+      "filename": "seattle-89_element_210_highlighted.png",
+      "parent": 23,
+      "description": "The main gray body of a short building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_210_highlighted.png"
+    },
+    {
+      "id": 76,
+      "filename": "seattle-89_element_216_highlighted.png",
+      "parent": 24,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_216_highlighted.png"
+    },
+    {
+      "id": 77,
+      "filename": "seattle-89_element_225_highlighted.png",
+      "parent": 24,
+      "description": "A white square on a multi-story building indicating a lit room.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_225_highlighted.png"
+    },
+    {
+      "id": 78,
+      "filename": "seattle-89_element_226_highlighted.png",
+      "parent": 24,
+      "description": "The light blue pole and glass globe of a street lamp.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_226_highlighted.png"
+    },
+    {
+      "id": 79,
+      "filename": "seattle-89_element_227_highlighted.png",
+      "parent": 24,
+      "description": "A simple brown wooden pier extending out over the water.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_227_highlighted.png"
+    },
+    {
+      "id": 80,
+      "filename": "seattle-89_element_219_highlighted.png",
+      "parent": 25,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_219_highlighted.png"
+    },
+    {
+      "id": 81,
+      "filename": "seattle-89_element_228_highlighted.png",
+      "parent": 25,
+      "description": "The light blue hull of a small boat near the shore.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_228_highlighted.png"
+    },
+    {
+      "id": 82,
+      "filename": "seattle-89_element_213_highlighted.png",
+      "parent": 26,
+      "description": "A single, lit window on a high building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_213_highlighted.png"
+    },
+    {
+      "id": 83,
+      "filename": "seattle-89_element_214_highlighted.png",
+      "parent": 26,
+      "description": "The small lit window of a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_214_highlighted.png"
+    },
+    {
+      "id": 84,
+      "filename": "seattle-89_element_215_highlighted.png",
+      "parent": 26,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_215_highlighted.png"
+    },
+    {
+      "id": 85,
+      "filename": "seattle-89_element_222_highlighted.png",
+      "parent": 26,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_222_highlighted.png"
+    },
+    {
+      "id": 86,
+      "filename": "seattle-89_element_223_highlighted.png",
+      "parent": 26,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_223_highlighted.png"
+    },
+    {
+      "id": 87,
+      "filename": "seattle-89_element_224_highlighted.png",
+      "parent": 26,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_224_highlighted.png"
+    },
+    {
+      "id": 88,
+      "filename": "Layer 23_highlighted.png",
+      "parent": 28,
+      "description": "A turquoise street light.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 23_highlighted.png"
+    },
+    {
+      "id": 89,
+      "filename": "Item_3_highlighted.png",
+      "parent": 43,
+      "description": "A tall, rectangular office building with many blue windows.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 90,
+      "filename": "Layer 16_highlighted.png",
+      "parent": 43,
+      "description": "A small green fir tree.",
+      "color": "rgba(95, 201, 99, 1.0)",
+      "mask_path": "Layer 16_highlighted.png"
+    },
+    {
+      "id": 91,
+      "filename": "Layer 18_highlighted.png",
+      "parent": 43,
+      "description": "A small green pine tree with a red star on top.",
+      "color": "rgba(95, 201, 99, 1.0)",
+      "mask_path": "Layer 18_highlighted.png"
+    },
+    {
+      "id": 92,
+      "filename": "seattle-89_element_141_highlighted.png",
+      "parent": 43,
+      "description": "A rectangular building in the city.",
+      "color": "rgba(200, 190, 188, 1.0)",
+      "mask_path": "seattle-89_element_141_highlighted.png"
+    },
+    {
+      "id": 93,
+      "filename": "seattle-89_element_142_highlighted.png",
+      "parent": 43,
+      "description": "A parking lot near a road in the city.",
+      "color": "rgba(200, 190, 188, 1.0)",
+      "mask_path": "seattle-89_element_142_highlighted.png"
+    },
+    {
+      "id": 94,
+      "filename": "seattle-89_element_144_highlighted.png",
+      "parent": 43,
+      "description": "The peak of a mountain next to the city.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_144_highlighted.png"
+    },
+    {
+      "id": 95,
+      "filename": "seattle-89_element_190_highlighted.png",
+      "parent": 43,
+      "description": "A mountain range.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_190_highlighted.png"
+    },
+    {
+      "id": 96,
+      "filename": "seattle-89_element_255_highlighted.png",
+      "parent": 43,
+      "description": "The top of the Space Needle, with a round saucer shape and a spire on top.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_255_highlighted.png"
+    },
+    {
+      "id": 97,
+      "filename": "seattle-89_element_145_highlighted.png",
+      "parent": 44,
+      "description": "A light blue cylindrical structure with a wide top, part of the city's Space Needle.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_145_highlighted.png"
+    },
+    {
+      "id": 98,
+      "filename": "seattle-89_element_146_highlighted.png",
+      "parent": 44,
+      "description": "A small white boat on water.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_146_highlighted.png"
+    },
+    {
+      "id": 99,
+      "filename": "seattle-89_element_155_highlighted.png",
+      "parent": 45,
+      "description": "A white motorboat.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_155_highlighted.png"
+    },
+    {
+      "id": 100,
+      "filename": "seattle-89_element_278_highlighted.png",
+      "parent": 46,
+      "description": "A turquoise colored street light, with a rounded shade.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_278_highlighted.png"
+    },
+    {
+      "id": 101,
+      "filename": "seattle-89_element_281_highlighted.png",
+      "parent": 46,
+      "description": "A turquoise colored street light, with a rounded shade.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_281_highlighted.png"
+    },
+    {
+      "id": 102,
+      "filename": "seattle-89_element_282_highlighted.png",
+      "parent": 46,
+      "description": "A turquoise colored street light, with a rounded shade.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_282_highlighted.png"
+    },
+    {
+      "id": 103,
+      "filename": "seattle-89_element_285_highlighted.png",
+      "parent": 47,
+      "description": "A street light.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_285_highlighted.png"
+    },
+    {
+      "id": 104,
+      "filename": "seattle-89_element_288_highlighted.png",
+      "parent": 47,
+      "description": "A street light.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_288_highlighted.png"
+    },
+    {
+      "id": 105,
+      "filename": "seattle-89_element_289_highlighted.png",
+      "parent": 47,
+      "description": "A street light.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_289_highlighted.png"
+    },
+    {
+      "id": 106,
+      "filename": "seattle-89_element_292_highlighted.png",
+      "parent": 48,
+      "description": "A street light.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_292_highlighted.png"
+    },
+    {
+      "id": 107,
+      "filename": "seattle-89_element_295_highlighted.png",
+      "parent": 48,
+      "description": "A dark blue mountain side",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_295_highlighted.png"
+    },
+    {
+      "id": 108,
+      "filename": "seattle-89_element_296_highlighted.png",
+      "parent": 48,
+      "description": "A cyan-colored street light",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_296_highlighted.png"
+    },
+    {
+      "id": 109,
+      "filename": "seattle-89_element_299_highlighted.png",
+      "parent": 49,
+      "description": "A grey street light",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_299_highlighted.png"
+    },
+    {
+      "id": 110,
+      "filename": "seattle-89_element_302_highlighted.png",
+      "parent": 49,
+      "description": "A grey street light",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_302_highlighted.png"
+    },
+    {
+      "id": 111,
+      "filename": "seattle-89_element_303_highlighted.png",
+      "parent": 49,
+      "description": "A cyan-colored street light",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_303_highlighted.png"
+    },
+    {
+      "id": 112,
+      "filename": "seattle-89_element_173_highlighted.png",
+      "parent": 50,
+      "description": "A small, white boat floating on water",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_173_highlighted.png"
+    },
+    {
+      "id": 113,
+      "filename": "seattle-89_element_164_highlighted.png",
+      "parent": 51,
+      "description": "A white boat.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_164_highlighted.png"
+    },
+    {
+      "id": 114,
+      "filename": "seattle-89_element_182_highlighted.png",
+      "parent": 52,
+      "description": "A white boat docked at the pier.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_182_highlighted.png"
+    },
+    {
+      "id": 115,
+      "filename": "Layer 11_highlighted.png",
+      "parent": 53,
+      "description": "A red-brown pier.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "Layer 11_highlighted.png"
+    },
+    {
+      "id": 116,
+      "filename": "seattle-89_element_264_highlighted.png",
+      "parent": 54,
+      "description": "A small brown boat in the water.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_264_highlighted.png"
+    },
+    {
+      "id": 117,
+      "filename": "seattle-89_element_267_highlighted.png",
+      "parent": 54,
+      "description": "A light blue street lamp.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_267_highlighted.png"
+    },
+    {
+      "id": 118,
+      "filename": "seattle-89_element_268_highlighted.png",
+      "parent": 54,
+      "description": "A light blue street lamp.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_268_highlighted.png"
+    },
+    {
+      "id": 119,
+      "filename": "seattle-89_element_271_highlighted.png",
+      "parent": 55,
+      "description": "A light blue street lamp.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_271_highlighted.png"
+    },
+    {
+      "id": 120,
+      "filename": "seattle-89_element_274_highlighted.png",
+      "parent": 55,
+      "description": "A light blue street lamp.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_274_highlighted.png"
+    },
+    {
+      "id": 121,
+      "filename": "seattle-89_element_275_highlighted.png",
+      "parent": 55,
+      "description": "A turquoise colored street light, with a rounded shade.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_275_highlighted.png"
+    },
+    {
+      "id": 122,
+      "filename": "Item_4_highlighted.png",
+      "parent": 56,
+      "description": "A round green tree crown.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Item_4_highlighted.png"
+    },
+    {
+      "id": 123,
+      "filename": "seattle-89_element_316_highlighted.png",
+      "parent": 58,
+      "description": "The spire of a tall tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_316_highlighted.png"
+    },
+    {
+      "id": 124,
+      "filename": "seattle-89_element_320_highlighted.png",
+      "parent": 58,
+      "description": "The glowing light ring around the base of the tower.",
+      "color": "rgba(57, 141, 231, 1.0)",
+      "mask_path": "seattle-89_element_320_highlighted.png"
+    },
+    {
+      "id": 125,
+      "filename": "seattle-89_element_332_highlighted.png",
+      "parent": 58,
+      "description": "A light on the side of a tall tower",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_332_highlighted.png"
+    },
+    {
+      "id": 126,
+      "filename": "seattle-89_element_340_highlighted.png",
+      "parent": 58,
+      "description": "A blue square window on the side of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_340_highlighted.png"
+    },
+    {
+      "id": 127,
+      "filename": "Layer 19_highlighted.png",
+      "parent": 67,
+      "description": "A small red and green fir tree.",
+      "color": "rgba(95, 201, 99, 1.0)",
+      "mask_path": "Layer 19_highlighted.png"
+    },
+    {
+      "id": 128,
+      "filename": "seattle-89_element_344_highlighted.png",
+      "parent": 70,
+      "description": "Nothing is highlighted.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_344_highlighted.png"
+    },
+    {
+      "id": 129,
+      "filename": "seattle-89_element_348_highlighted.png",
+      "parent": 71,
+      "description": "The blue illuminated observation deck and top of a tower.",
+      "color": "rgba(57, 141, 231, 1.0)",
+      "mask_path": "seattle-89_element_348_highlighted.png"
+    },
+    {
+      "id": 130,
+      "filename": "seattle-89_element_218_highlighted.png",
+      "parent": 73,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_218_highlighted.png"
+    },
+    {
+      "id": 131,
+      "filename": "seattle-89_element_217_highlighted.png",
+      "parent": 74,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_217_highlighted.png"
+    },
+    {
+      "id": 132,
+      "filename": "seattle-89_element_211_highlighted.png",
+      "parent": 75,
+      "description": "The single, lit window of a tall building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_211_highlighted.png"
+    },
+    {
+      "id": 133,
+      "filename": "seattle-89_element_212_highlighted.png",
+      "parent": 75,
+      "description": "The single, lit window of a dark tall building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_212_highlighted.png"
+    },
+    {
+      "id": 134,
+      "filename": "seattle-89_element_220_highlighted.png",
+      "parent": 75,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_220_highlighted.png"
+    },
+    {
+      "id": 135,
+      "filename": "seattle-89_element_221_highlighted.png",
+      "parent": 75,
+      "description": "A rectangular, white window in a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_221_highlighted.png"
+    },
+    {
+      "id": 136,
+      "filename": "seattle-89_element_306_highlighted.png",
+      "parent": 88,
+      "description": "A small brown wooden pier extending into the water",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_306_highlighted.png"
+    },
+    {
+      "id": 137,
+      "filename": "seattle-89_element_309_highlighted.png",
+      "parent": 88,
+      "description": "A green cylindrical tree top",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_309_highlighted.png"
+    },
+    {
+      "id": 138,
+      "filename": "seattle-89_element_310_highlighted.png",
+      "parent": 88,
+      "description": "A small turquoise star-shaped decoration",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_310_highlighted.png"
+    },
+    {
+      "id": 139,
+      "filename": "seattle-89_element_192_highlighted.png",
+      "parent": 89,
+      "description": "A narrow, tan beach.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_192_highlighted.png"
+    },
+    {
+      "id": 140,
+      "filename": "seattle-89_element_193_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular blue building with vertical windows.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_193_highlighted.png"
+    },
+    {
+      "id": 141,
+      "filename": "seattle-89_element_194_highlighted.png",
+      "parent": 89,
+      "description": "The top of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_194_highlighted.png"
+    },
+    {
+      "id": 142,
+      "filename": "seattle-89_element_195_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_195_highlighted.png"
+    },
+    {
+      "id": 143,
+      "filename": "seattle-89_element_196_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_196_highlighted.png"
+    },
+    {
+      "id": 144,
+      "filename": "seattle-89_element_197_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_197_highlighted.png"
+    },
+    {
+      "id": 145,
+      "filename": "seattle-89_element_198_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_198_highlighted.png"
+    },
+    {
+      "id": 146,
+      "filename": "seattle-89_element_199_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_199_highlighted.png"
+    },
+    {
+      "id": 147,
+      "filename": "seattle-89_element_200_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_200_highlighted.png"
+    },
+    {
+      "id": 148,
+      "filename": "seattle-89_element_202_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_202_highlighted.png"
+    },
+    {
+      "id": 149,
+      "filename": "seattle-89_element_203_highlighted.png",
+      "parent": 89,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_203_highlighted.png"
+    },
+    {
+      "id": 150,
+      "filename": "seattle-89_element_205_highlighted.png",
+      "parent": 89,
+      "description": "A tall dark blue tower with a white top.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_205_highlighted.png"
+    },
+    {
+      "id": 151,
+      "filename": "seattle-89_element_234_highlighted.png",
+      "parent": 89,
+      "description": "The very top of the tower with a circular 'saucer' feature.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_234_highlighted.png"
+    },
+    {
+      "id": 152,
+      "filename": "seattle-89_element_137_highlighted.png",
+      "parent": 90,
+      "description": "The tower of the Space Needle.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_137_highlighted.png"
+    },
+    {
+      "id": 153,
+      "filename": "seattle-89_element_256_highlighted.png",
+      "parent": 91,
+      "description": "A calm body of water, possibly an ocean or lake.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_256_highlighted.png"
+    },
+    {
+      "id": 154,
+      "filename": "Layer 17_highlighted.png",
+      "parent": 96,
+      "description": "A green Christmas tree with a red star on top.",
+      "color": "rgba(95, 201, 99, 1.0)",
+      "mask_path": "Layer 17_highlighted.png"
+    },
+    {
+      "id": 155,
+      "filename": "seattle-89_element_147_highlighted.png",
+      "parent": 97,
+      "description": "An area of dark blue water.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_147_highlighted.png"
+    },
+    {
+      "id": 156,
+      "filename": "seattle-89_element_154_highlighted.png",
+      "parent": 99,
+      "description": "A small grey boat sitting on water.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_154_highlighted.png"
+    },
+    {
+      "id": 157,
+      "filename": "seattle-89_element_283_highlighted.png",
+      "parent": 100,
+      "description": "A small, white streetlight glowing.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_283_highlighted.png"
+    },
+    {
+      "id": 158,
+      "filename": "seattle-89_element_279_highlighted.png",
+      "parent": 101,
+      "description": "A turquoise colored street light, with a rounded shade.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_279_highlighted.png"
+    },
+    {
+      "id": 159,
+      "filename": "seattle-89_element_284_highlighted.png",
+      "parent": 102,
+      "description": "A turquoise colored street light, with a rounded shade.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_284_highlighted.png"
+    },
+    {
+      "id": 160,
+      "filename": "seattle-89_element_287_highlighted.png",
+      "parent": 103,
+      "description": "A street light.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_287_highlighted.png"
+    },
+    {
+      "id": 161,
+      "filename": "seattle-89_element_290_highlighted.png",
+      "parent": 103,
+      "description": "A street light.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_290_highlighted.png"
+    },
+    {
+      "id": 162,
+      "filename": "seattle-89_element_286_highlighted.png",
+      "parent": 104,
+      "description": "A street light.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_286_highlighted.png"
+    },
+    {
+      "id": 163,
+      "filename": "seattle-89_element_291_highlighted.png",
+      "parent": 105,
+      "description": "A street light.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_291_highlighted.png"
+    },
+    {
+      "id": 164,
+      "filename": "seattle-89_element_294_highlighted.png",
+      "parent": 106,
+      "description": "A street light.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_294_highlighted.png"
+    },
+    {
+      "id": 165,
+      "filename": "seattle-89_element_297_highlighted.png",
+      "parent": 106,
+      "description": "A small white street light",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_297_highlighted.png"
+    },
+    {
+      "id": 166,
+      "filename": "seattle-89_element_293_highlighted.png",
+      "parent": 107,
+      "description": "A street light.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_293_highlighted.png"
+    },
+    {
+      "id": 167,
+      "filename": "seattle-89_element_298_highlighted.png",
+      "parent": 108,
+      "description": "A cyan-colored street light",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_298_highlighted.png"
+    },
+    {
+      "id": 168,
+      "filename": "seattle-89_element_304_highlighted.png",
+      "parent": 109,
+      "description": "A white street light",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_304_highlighted.png"
+    },
+    {
+      "id": 169,
+      "filename": "seattle-89_element_300_highlighted.png",
+      "parent": 110,
+      "description": "A cyan-colored street light",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_300_highlighted.png"
+    },
+    {
+      "id": 170,
+      "filename": "seattle-89_element_305_highlighted.png",
+      "parent": 111,
+      "description": "Dark blue waters of a bay",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_305_highlighted.png"
+    },
+    {
+      "id": 171,
+      "filename": "seattle-89_element_172_highlighted.png",
+      "parent": 112,
+      "description": "A small, dark blue boat floating on water",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_172_highlighted.png"
+    },
+    {
+      "id": 172,
+      "filename": "seattle-89_element_174_highlighted.png",
+      "parent": 112,
+      "description": "A small, dark blue boat floating on water",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_174_highlighted.png"
+    },
+    {
+      "id": 173,
+      "filename": "seattle-89_element_165_highlighted.png",
+      "parent": 113,
+      "description": "A small, dark blue boat floating on water",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_165_highlighted.png"
+    },
+    {
+      "id": 174,
+      "filename": "seattle-89_element_183_highlighted.png",
+      "parent": 114,
+      "description": "A small, light grey boat in the water.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_183_highlighted.png"
+    },
+    {
+      "id": 175,
+      "filename": "seattle-89_element_269_highlighted.png",
+      "parent": 116,
+      "description": "A light blue street lamp.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_269_highlighted.png"
+    },
+    {
+      "id": 176,
+      "filename": "seattle-89_element_265_highlighted.png",
+      "parent": 117,
+      "description": "A light blue street lamp.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_265_highlighted.png"
+    },
+    {
+      "id": 177,
+      "filename": "seattle-89_element_270_highlighted.png",
+      "parent": 118,
+      "description": "A light blue street lamp.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_270_highlighted.png"
+    },
+    {
+      "id": 178,
+      "filename": "seattle-89_element_276_highlighted.png",
+      "parent": 119,
+      "description": "A small, white streetlight glowing.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_276_highlighted.png"
+    },
+    {
+      "id": 179,
+      "filename": "seattle-89_element_272_highlighted.png",
+      "parent": 120,
+      "description": "A light blue street lamp.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_272_highlighted.png"
+    },
+    {
+      "id": 180,
+      "filename": "seattle-89_element_277_highlighted.png",
+      "parent": 121,
+      "description": "A turquoise colored street light, with a rounded shade.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_277_highlighted.png"
+    },
+    {
+      "id": 181,
+      "filename": "seattle-89_element_261_highlighted.png",
+      "parent": 122,
+      "description": "A small, glowing street light.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_261_highlighted.png"
+    },
+    {
+      "id": 182,
+      "filename": "seattle-89_element_262_highlighted.png",
+      "parent": 122,
+      "description": "A round, leafy green tree.",
+      "color": "rgba(95, 201, 99, 1.0)",
+      "mask_path": "seattle-89_element_262_highlighted.png"
+    },
+    {
+      "id": 183,
+      "filename": "seattle-89_element_263_highlighted.png",
+      "parent": 122,
+      "description": "The side of a green grassy area with a small brown curved border.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_263_highlighted.png"
+    },
+    {
+      "id": 184,
+      "filename": "seattle-89_element_333_highlighted.png",
+      "parent": 123,
+      "description": "A small blue light source on the side of a tower",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_333_highlighted.png"
+    },
+    {
+      "id": 185,
+      "filename": "seattle-89_element_341_highlighted.png",
+      "parent": 123,
+      "description": "A blue square window on the side of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_341_highlighted.png"
+    },
+    {
+      "id": 186,
+      "filename": "seattle-89_element_319_highlighted.png",
+      "parent": 124,
+      "description": "The observation deck of a tall tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_319_highlighted.png"
+    },
+    {
+      "id": 187,
+      "filename": "seattle-89_element_321_highlighted.png",
+      "parent": 124,
+      "description": "The midsection of a tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_321_highlighted.png"
+    },
+    {
+      "id": 188,
+      "filename": "seattle-89_element_254_highlighted.png",
+      "parent": 127,
+      "description": "A small, orange light on the side of a road.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_254_highlighted.png"
+    },
+    {
+      "id": 189,
+      "filename": "seattle-89_element_347_highlighted.png",
+      "parent": 129,
+      "description": "The top segment of a tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_347_highlighted.png"
+    },
+    {
+      "id": 190,
+      "filename": "seattle-89_element_308_highlighted.png",
+      "parent": 136,
+      "description": "A white dot marking the edge of a paved street",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_308_highlighted.png"
+    },
+    {
+      "id": 191,
+      "filename": "seattle-89_element_311_highlighted.png",
+      "parent": 136,
+      "description": "A small white dot on the side of a building",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_311_highlighted.png"
+    },
+    {
+      "id": 192,
+      "filename": "seattle-89_element_307_highlighted.png",
+      "parent": 137,
+      "description": "A pale blue, stylized street lamp",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "seattle-89_element_307_highlighted.png"
+    },
+    {
+      "id": 193,
+      "filename": "seattle-89_element_312_highlighted.png",
+      "parent": 138,
+      "description": "A light green treetop in the city",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_312_highlighted.png"
+    },
+    {
+      "id": 194,
+      "filename": "seattle-89_element_201_highlighted.png",
+      "parent": 148,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_201_highlighted.png"
+    },
+    {
+      "id": 195,
+      "filename": "seattle-89_element_204_highlighted.png",
+      "parent": 149,
+      "description": "A rectangular white window on a dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_204_highlighted.png"
+    },
+    {
+      "id": 196,
+      "filename": "seattle-89_element_206_highlighted.png",
+      "parent": 150,
+      "description": "A white V shape on a dark blue tall building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_206_highlighted.png"
+    },
+    {
+      "id": 197,
+      "filename": "seattle-89_element_252_highlighted.png",
+      "parent": 153,
+      "description": "A small, orange light on the side of a road.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_252_highlighted.png"
+    },
+    {
+      "id": 198,
+      "filename": "seattle-89_element_249_highlighted.png",
+      "parent": 154,
+      "description": "A small, orange light on the side of a road.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_249_highlighted.png"
+    },
+    {
+      "id": 199,
+      "filename": "seattle-89_element_250_highlighted.png",
+      "parent": 154,
+      "description": "A small, orange light on the side of a road.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_250_highlighted.png"
+    },
+    {
+      "id": 200,
+      "filename": "seattle-89_element_148_highlighted.png",
+      "parent": 155,
+      "description": "A small white boat on water.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_148_highlighted.png"
+    },
+    {
+      "id": 201,
+      "filename": "seattle-89_element_153_highlighted.png",
+      "parent": 155,
+      "description": "A small cyan boat on water.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_153_highlighted.png"
+    },
+    {
+      "id": 202,
+      "filename": "seattle-89_element_156_highlighted.png",
+      "parent": 156,
+      "description": "Two small teal boats.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_156_highlighted.png"
+    },
+    {
+      "id": 203,
+      "filename": "seattle-89_element_280_highlighted.png",
+      "parent": 158,
+      "description": "A small, white streetlight glowing.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_280_highlighted.png"
+    },
+    {
+      "id": 204,
+      "filename": "seattle-89_element_301_highlighted.png",
+      "parent": 169,
+      "description": "A grey street light",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_301_highlighted.png"
+    },
+    {
+      "id": 205,
+      "filename": "seattle-89_element_180_highlighted.png",
+      "parent": 171,
+      "description": "A small, light grey boat in the water.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_180_highlighted.png"
+    },
+    {
+      "id": 206,
+      "filename": "seattle-89_element_175_highlighted.png",
+      "parent": 172,
+      "description": "An elongated, reddish-brown wooden pier.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_175_highlighted.png"
+    },
+    {
+      "id": 207,
+      "filename": "seattle-89_element_163_highlighted.png",
+      "parent": 173,
+      "description": "Two grey boats.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_163_highlighted.png"
+    },
+    {
+      "id": 208,
+      "filename": "seattle-89_element_166_highlighted.png",
+      "parent": 173,
+      "description": "A small, white boat floating on water",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_166_highlighted.png"
+    },
+    {
+      "id": 209,
+      "filename": "seattle-89_element_181_highlighted.png",
+      "parent": 174,
+      "description": "A small, light grey boat in the water.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_181_highlighted.png"
+    },
+    {
+      "id": 210,
+      "filename": "seattle-89_element_184_highlighted.png",
+      "parent": 174,
+      "description": "A small, light grey boat in the water.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_184_highlighted.png"
+    },
+    {
+      "id": 211,
+      "filename": "seattle-89_element_266_highlighted.png",
+      "parent": 176,
+      "description": "A light blue street lamp.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_266_highlighted.png"
+    },
+    {
+      "id": 212,
+      "filename": "seattle-89_element_273_highlighted.png",
+      "parent": 179,
+      "description": "A light blue street lamp.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "seattle-89_element_273_highlighted.png"
+    },
+    {
+      "id": 213,
+      "filename": "seattle-89_element_318_highlighted.png",
+      "parent": 186,
+      "description": "The central shaft of a tall tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_318_highlighted.png"
+    },
+    {
+      "id": 214,
+      "filename": "seattle-89_element_253_highlighted.png",
+      "parent": 188,
+      "description": "A small, orange light on the side of a road.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_253_highlighted.png"
+    },
+    {
+      "id": 215,
+      "filename": "seattle-89_element_346_highlighted.png",
+      "parent": 189,
+      "description": "A white spire at the top of a blue tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_346_highlighted.png"
+    },
+    {
+      "id": 216,
+      "filename": "seattle-89_element_251_highlighted.png",
+      "parent": 197,
+      "description": "A small, orange light on the side of a road.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_251_highlighted.png"
+    },
+    {
+      "id": 217,
+      "filename": "seattle-89_element_152_highlighted.png",
+      "parent": 200,
+      "description": "A red stern light on a grey boat sitting on water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_152_highlighted.png"
+    },
+    {
+      "id": 218,
+      "filename": "seattle-89_element_149_highlighted.png",
+      "parent": 201,
+      "description": "A small grey boat sitting on water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_149_highlighted.png"
+    },
+    {
+      "id": 219,
+      "filename": "seattle-89_element_157_highlighted.png",
+      "parent": 202,
+      "description": "A white boat.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "seattle-89_element_157_highlighted.png"
+    },
+    {
+      "id": 220,
+      "filename": "seattle-89_element_162_highlighted.png",
+      "parent": 202,
+      "description": "Two teal boats",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_162_highlighted.png"
+    },
+    {
+      "id": 221,
+      "filename": "seattle-89_element_176_highlighted.png",
+      "parent": 205,
+      "description": "A small, light grey boat in the water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_176_highlighted.png"
+    },
+    {
+      "id": 222,
+      "filename": "seattle-89_element_177_highlighted.png",
+      "parent": 206,
+      "description": "Dark blue water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_177_highlighted.png"
+    },
+    {
+      "id": 223,
+      "filename": "seattle-89_element_178_highlighted.png",
+      "parent": 206,
+      "description": "A sandy brown path along the water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_178_highlighted.png"
+    },
+    {
+      "id": 224,
+      "filename": "seattle-89_element_171_highlighted.png",
+      "parent": 207,
+      "description": "A small, dark blue boat floating on water",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_171_highlighted.png"
+    },
+    {
+      "id": 225,
+      "filename": "seattle-89_element_169_highlighted.png",
+      "parent": 208,
+      "description": "A small, dark boat floating on water",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_169_highlighted.png"
+    },
+    {
+      "id": 226,
+      "filename": "seattle-89_element_189_highlighted.png",
+      "parent": 209,
+      "description": "A small, light blue boat.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "seattle-89_element_189_highlighted.png"
+    },
+    {
+      "id": 227,
+      "filename": "seattle-89_element_188_highlighted.png",
+      "parent": 210,
+      "description": "A small, dark red light, likely a running light on a boat.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_188_highlighted.png"
+    },
+    {
+      "id": 228,
+      "filename": "seattle-89_element_150_highlighted.png",
+      "parent": 217,
+      "description": "A red stern light on a grey boat sitting on water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_150_highlighted.png"
+    },
+    {
+      "id": 229,
+      "filename": "seattle-89_element_151_highlighted.png",
+      "parent": 217,
+      "description": "A red stern light on a grey boat sitting on water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_151_highlighted.png"
+    },
+    {
+      "id": 230,
+      "filename": "seattle-89_element_161_highlighted.png",
+      "parent": 219,
+      "description": "A small brown boat.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_161_highlighted.png"
+    },
+    {
+      "id": 231,
+      "filename": "seattle-89_element_179_highlighted.png",
+      "parent": 222,
+      "description": "An elongated, light grey boat in the water.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_179_highlighted.png"
+    },
+    {
+      "id": 232,
+      "filename": "seattle-89_element_167_highlighted.png",
+      "parent": 224,
+      "description": "A small, dark orange flame",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_167_highlighted.png"
+    },
+    {
+      "id": 233,
+      "filename": "seattle-89_element_170_highlighted.png",
+      "parent": 225,
+      "description": "A small, dark boat floating on water",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_170_highlighted.png"
+    },
+    {
+      "id": 234,
+      "filename": "seattle-89_element_186_highlighted.png",
+      "parent": 226,
+      "description": "A small, dark red light, likely a running light on a boat.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_186_highlighted.png"
+    },
+    {
+      "id": 235,
+      "filename": "seattle-89_element_160_highlighted.png",
+      "parent": 230,
+      "description": "A small brown boat.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_160_highlighted.png"
+    },
+    {
+      "id": 236,
+      "filename": "seattle-89_element_168_highlighted.png",
+      "parent": 232,
+      "description": "A small, dark boat floating on water",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_168_highlighted.png"
+    },
+    {
+      "id": 237,
+      "filename": "seattle-89_element_185_highlighted.png",
+      "parent": 234,
+      "description": "A small, dark red light, likely a running light on a boat.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_185_highlighted.png"
+    },
+    {
+      "id": 238,
+      "filename": "seattle-89_element_187_highlighted.png",
+      "parent": 234,
+      "description": "A small, dark red light, likely a running light on a boat.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_187_highlighted.png"
+    },
+    {
+      "id": 239,
+      "filename": "seattle-89_element_158_highlighted.png",
+      "parent": 235,
+      "description": "A small brown boat.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_158_highlighted.png"
+    },
+    {
+      "id": 240,
+      "filename": "seattle-89_element_159_highlighted.png",
+      "parent": 235,
+      "description": "A small brown boat.",
+      "color": "rgba(135, 50, 48, 1.0)",
+      "mask_path": "seattle-89_element_159_highlighted.png"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full fast-food-1-79",
+      "parent": -1,
+      "description": "A set meal of fast food: a hotdog, fries, and a soda.",
+      "color": "rgba(255, 255, 255, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Item_1_highlighted.png",
+      "parent": 0,
+      "description": "A blue soda can with a white top and bottom, and a dark blue circle in its center.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Item_2_highlighted.png",
+      "parent": 0,
+      "description": "A light blue rectangular container holding yellow french fries.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Item_3_highlighted.png",
+      "parent": 0,
+      "description": "A yellow hotdog in a darker orange bun, topped with white wavy sauce.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "fast-food-1-79_element_530_highlighted.png",
+      "parent": 0,
+      "description": "A dark blue horizontal line, representing the surface for the displayed food.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_530_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "fast-food-1-79_element_492_highlighted.png",
+      "parent": 1,
+      "description": "The side of a beverage can",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_492_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "fast-food-1-79_element_495_highlighted.png",
+      "parent": 1,
+      "description": "The top edge of a drink can",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_495_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "fast-food-1-79_element_497_highlighted.png",
+      "parent": 2,
+      "description": "A single french fry",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_497_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "fast-food-1-79_element_498_highlighted.png",
+      "parent": 2,
+      "description": "A group of fries in a carton",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_498_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "fast-food-1-79_element_500_highlighted.png",
+      "parent": 2,
+      "description": "A yellow-colored french fry in a blue container.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_500_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "fast-food-1-79_element_501_highlighted.png",
+      "parent": 2,
+      "description": "A tan-colored french fry in a blue container.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_501_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "fast-food-1-79_element_502_highlighted.png",
+      "parent": 2,
+      "description": "A yellow-colored french fry in a blue container.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_502_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "fast-food-1-79_element_503_highlighted.png",
+      "parent": 2,
+      "description": "A tan-colored french fry in a blue container.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_503_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "fast-food-1-79_element_505_highlighted.png",
+      "parent": 2,
+      "description": "A tan-colored french fry in a blue container.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_505_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "fast-food-1-79_element_509_highlighted.png",
+      "parent": 2,
+      "description": "A dark yellow hotdog in a bun with red sauce on top.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_509_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "fast-food-1-79_element_511_highlighted.png",
+      "parent": 2,
+      "description": "The corner edge of a blue french fries box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_511_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "fast-food-1-79_element_513_highlighted.png",
+      "parent": 2,
+      "description": "The corner edge of a blue french fries box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_513_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "fast-food-1-79_element_514_highlighted.png",
+      "parent": 2,
+      "description": "Yellow sauce on top of a hotdog.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_514_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "fast-food-1-79_element_517_highlighted.png",
+      "parent": 2,
+      "description": "The right edge of a blue french fries box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_517_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "fast-food-1-79_element_490_highlighted.png",
+      "parent": 3,
+      "description": "A small square, likely the corner of the label of a drink can",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_490_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "fast-food-1-79_element_519_highlighted.png",
+      "parent": 3,
+      "description": "A wavy layer of orange mustard on a hotdog.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_519_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "fast-food-1-79_element_521_highlighted.png",
+      "parent": 3,
+      "description": "The light blue top outline of a hotdog bun.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_521_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "fast-food-1-79_element_523_highlighted.png",
+      "parent": 3,
+      "description": "The blue underside of a hotdog bun.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_523_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "Item_5_highlighted.png",
+      "parent": 4,
+      "description": "A white horizontal line, representing the surface for the displayed food.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_5_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "fast-food-1-79_element_491_highlighted.png",
+      "parent": 5,
+      "description": "A beverage can",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "fast-food-1-79_element_491_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "fast-food-1-79_element_494_highlighted.png",
+      "parent": 6,
+      "description": "The top of a drink can",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "fast-food-1-79_element_494_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "fast-food-1-79_element_496_highlighted.png",
+      "parent": 7,
+      "description": "One french fry",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_496_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "fast-food-1-79_element_499_highlighted.png",
+      "parent": 8,
+      "description": "A tan-colored french fry in a blue container.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_499_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "fast-food-1-79_element_508_highlighted.png",
+      "parent": 14,
+      "description": "A yellow-colored french fry in a blue container.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_508_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "fast-food-1-79_element_510_highlighted.png",
+      "parent": 15,
+      "description": "An orange french fry inside a box.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_510_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "fast-food-1-79_element_515_highlighted.png",
+      "parent": 17,
+      "description": "The corner edge of a blue french fries box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_515_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "Item_4_highlighted.png",
+      "parent": 18,
+      "description": "A small white container filled with a dark orange sauce.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_4_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "fast-food-1-79_element_506_highlighted.png",
+      "parent": 18,
+      "description": "A yellow-colored french fry in a blue container.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_506_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "fast-food-1-79_element_507_highlighted.png",
+      "parent": 18,
+      "description": "A tan-colored french fry in a blue container.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_507_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "fast-food-1-79_element_516_highlighted.png",
+      "parent": 18,
+      "description": "A light blue cardboard container holding fries.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "fast-food-1-79_element_516_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "fast-food-1-79_element_489_highlighted.png",
+      "parent": 19,
+      "description": "A small white region indicating a bread roll",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "fast-food-1-79_element_489_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "fast-food-1-79_element_518_highlighted.png",
+      "parent": 20,
+      "description": "A layer of yellow sauce on top of a hotdog.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_518_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "fast-food-1-79_element_520_highlighted.png",
+      "parent": 21,
+      "description": "The sausage filling in a hotdog.",
+      "color": "rgba(245, 97, 50, 1.0)",
+      "mask_path": "fast-food-1-79_element_520_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "fast-food-1-79_element_522_highlighted.png",
+      "parent": 22,
+      "description": "The yellow bottom half of a hotdog bun.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_522_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "fast-food-1-79_element_529_highlighted.png",
+      "parent": 23,
+      "description": "A white horizontal line, representing the surface for the displayed food.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "fast-food-1-79_element_529_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "fast-food-1-79_element_493_highlighted.png",
+      "parent": 24,
+      "description": "A circular logo on the side of a drink can",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_493_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "fast-food-1-79_element_526_highlighted.png",
+      "parent": 31,
+      "description": "A container filled with blue ketchup.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_526_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "fast-food-1-79_element_528_highlighted.png",
+      "parent": 31,
+      "description": "A small, blue ketchup container.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "fast-food-1-79_element_528_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "fast-food-1-79_element_504_highlighted.png",
+      "parent": 34,
+      "description": "A yellow-colored french fry in a blue container.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_504_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "fast-food-1-79_element_512_highlighted.png",
+      "parent": 34,
+      "description": "Yellow sauce on top of a hotdog.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "fast-food-1-79_element_512_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "fast-food-1-79_element_524_highlighted.png",
+      "parent": 37,
+      "description": "A curvy, white squiggle of mayonnaise on a hotdog.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "fast-food-1-79_element_524_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "fast-food-1-79_element_525_highlighted.png",
+      "parent": 41,
+      "description": "A container filled with orange ketchup.",
+      "color": "rgba(245, 97, 50, 1.0)",
+      "mask_path": "fast-food-1-79_element_525_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "fast-food-1-79_element_527_highlighted.png",
+      "parent": 42,
+      "description": "A white sauce container.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "fast-food-1-79_element_527_highlighted.png"
+    }
+  ]
+}

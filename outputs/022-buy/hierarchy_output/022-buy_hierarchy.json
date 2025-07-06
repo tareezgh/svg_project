@@ -1,0 +1,100 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full 022-buy",
+      "parent": -1,
+      "description": "A light blue button is being pointed to by a yellow cursor arrow.",
+      "color": "rgba(173, 238, 250, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "022-buy_element_6_highlighted.png",
+      "parent": 0,
+      "description": "A black chat bubble on a screen.",
+      "color": null,
+      "mask_path": "022-buy_element_6_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "022-buy_element_7_highlighted.png",
+      "parent": 1,
+      "description": "A black screen.",
+      "color": null,
+      "mask_path": "022-buy_element_7_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Item_1_highlighted.png",
+      "parent": 1,
+      "description": "A rectangular light blue screen.",
+      "color": "rgba(173, 238, 250, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Item_2_highlighted.png",
+      "parent": 1,
+      "description": "A dark button with rounded corners.",
+      "color": "rgba(255, 236, 128, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Layer 9_highlighted.png",
+      "parent": 1,
+      "description": "A dark button with rounded corners.",
+      "color": "rgba(255, 236, 128, 1.0)",
+      "mask_path": "Layer 9_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Layer 10_highlighted.png",
+      "parent": 3,
+      "description": "A light blue button with rounded corners.",
+      "color": "rgba(173, 238, 250, 1.0)",
+      "mask_path": "Layer 10_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "022-buy_element_2_highlighted.png",
+      "parent": 4,
+      "description": "A black rounded button.",
+      "color": "rgba(255, 236, 128, 1.0)",
+      "mask_path": "022-buy_element_2_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "022-buy_element_1_highlighted.png",
+      "parent": 6,
+      "description": "A light blue smartphone screen.",
+      "color": "rgba(173, 238, 250, 1.0)",
+      "mask_path": "022-buy_element_1_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "022-buy_element_3_highlighted.png",
+      "parent": 8,
+      "description": "A black rounded button with the letter B on it.",
+      "color": null,
+      "mask_path": "022-buy_element_3_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "022-buy_element_4_highlighted.png",
+      "parent": 8,
+      "description": "A black rounded button with the letter Y on it.",
+      "color": null,
+      "mask_path": "022-buy_element_4_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "022-buy_element_5_highlighted.png",
+      "parent": 8,
+      "description": "A black rounded button with the letter U on it.",
+      "color": null,
+      "mask_path": "022-buy_element_5_highlighted.png"
+    }
+  ]
+}

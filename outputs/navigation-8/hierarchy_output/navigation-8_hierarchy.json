@@ -1,0 +1,508 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full navigation-8",
+      "parent": -1,
+      "description": "A man walks across a map while looking at his phone, with a blue map pin in the background.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Item_3_highlighted.png",
+      "parent": 0,
+      "description": "A person with a light blue shirt, dark blue pants, and brown hair, holding a dark object in their hand and smiling.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "navigation-8_element_22_highlighted.png",
+      "parent": 0,
+      "description": "A dark blue border around a rectangular map.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_22_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "navigation-8_element_42_highlighted.png",
+      "parent": 0,
+      "description": "A navy-blue map pin marking a location.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_42_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "navigation-8_element_44_highlighted.png",
+      "parent": 1,
+      "description": "The right arm of a person holding a phone.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_44_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "navigation-8_element_46_highlighted.png",
+      "parent": 1,
+      "description": "A hand holding a phone.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_46_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "navigation-8_element_48_highlighted.png",
+      "parent": 1,
+      "description": "A hand holding a phone.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_48_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "navigation-8_element_50_highlighted.png",
+      "parent": 1,
+      "description": "The left leg of a person walking.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_50_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "navigation-8_element_52_highlighted.png",
+      "parent": 1,
+      "description": "A pair of blue pants.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_52_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "navigation-8_element_54_highlighted.png",
+      "parent": 1,
+      "description": "The outline of a shoulder and upper arm.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_54_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "navigation-8_element_55_highlighted.png",
+      "parent": 1,
+      "description": "Pink hair on a person's head.",
+      "color": "rgba(114, 88, 88, 1.0)",
+      "mask_path": "navigation-8_element_55_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "navigation-8_element_60_highlighted.png",
+      "parent": 1,
+      "description": "A blue earbud.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_60_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "navigation-8_element_62_highlighted.png",
+      "parent": 1,
+      "description": "A dark navy blue outline of a face with a smile.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_62_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "navigation-8_element_69_highlighted.png",
+      "parent": 1,
+      "description": "A small, blue curved shape positioned on the left ear.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_69_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "navigation-8_element_76_highlighted.png",
+      "parent": 1,
+      "description": "The wrist and sleeve of a long-sleeve shirt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_76_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "navigation-8_element_78_highlighted.png",
+      "parent": 1,
+      "description": "The outline of a long-sleeve shirt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_78_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "Item_1_highlighted.png",
+      "parent": 2,
+      "description": "A large map with a white border, featuring a light-blue road marked with white dashes, and colored regions in yellow, green, red, and light blue.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "Item_2_highlighted.png",
+      "parent": 3,
+      "description": "A location pin with a rounded top and tapered bottom.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "navigation-8_element_43_highlighted.png",
+      "parent": 4,
+      "description": "The right arm and hand of a person holding a phone.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "navigation-8_element_43_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "navigation-8_element_45_highlighted.png",
+      "parent": 5,
+      "description": "The hand of a person holding a phone.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "navigation-8_element_45_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "navigation-8_element_47_highlighted.png",
+      "parent": 6,
+      "description": "A hand holding a phone.",
+      "color": "rgba(255, 201, 176, 1.0)",
+      "mask_path": "navigation-8_element_47_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "navigation-8_element_49_highlighted.png",
+      "parent": 8,
+      "description": "The right leg and foot of a person walking.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_49_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "navigation-8_element_51_highlighted.png",
+      "parent": 8,
+      "description": "An area on a paper map with a dark-yellow border.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_51_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "navigation-8_element_53_highlighted.png",
+      "parent": 9,
+      "description": "A light-blue shirt.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "navigation-8_element_53_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "navigation-8_element_56_highlighted.png",
+      "parent": 10,
+      "description": "A blue triangle of hair on a person's head.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_56_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "navigation-8_element_59_highlighted.png",
+      "parent": 11,
+      "description": "A white earbud.",
+      "color": "rgba(255, 201, 176, 1.0)",
+      "mask_path": "navigation-8_element_59_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "navigation-8_element_61_highlighted.png",
+      "parent": 12,
+      "description": "A pale peach coloured face with black short hair and black framed glasses.",
+      "color": "rgba(255, 201, 176, 1.0)",
+      "mask_path": "navigation-8_element_61_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "navigation-8_element_68_highlighted.png",
+      "parent": 13,
+      "description": "A peach coloured ear, positioned on the right side of the head.",
+      "color": "rgba(255, 201, 176, 1.0)",
+      "mask_path": "navigation-8_element_68_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "navigation-8_element_75_highlighted.png",
+      "parent": 14,
+      "description": "A dark-colored hand holding a mobile phone.",
+      "color": "rgba(255, 201, 176, 1.0)",
+      "mask_path": "navigation-8_element_75_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "navigation-8_element_77_highlighted.png",
+      "parent": 15,
+      "description": "A blue-ish gray, long shirt sleeve.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "navigation-8_element_77_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "navigation-8_element_21_highlighted.png",
+      "parent": 16,
+      "description": "A white border around a rectangular map.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_21_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "navigation-8_element_24_highlighted.png",
+      "parent": 17,
+      "description": "A small white circle on a blue line representing a road on the map.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_24_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "navigation-8_element_41_highlighted.png",
+      "parent": 17,
+      "description": "A light-blue map pin with a white interior, marking a location.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "navigation-8_element_41_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "navigation-8_element_79_highlighted.png",
+      "parent": 21,
+      "description": "A light colored vertical part of a pants leg.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_79_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "navigation-8_element_58_highlighted.png",
+      "parent": 23,
+      "description": "The outline of a person's neck.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_58_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "navigation-8_element_63_highlighted.png",
+      "parent": 26,
+      "description": "The right blue eye of a smiling face.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_63_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "navigation-8_element_64_highlighted.png",
+      "parent": 26,
+      "description": "The left blue eye of a smiling face.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_64_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "navigation-8_element_65_highlighted.png",
+      "parent": 26,
+      "description": "A blue spot on the right side of the nose, possibly a highlight.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_65_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "navigation-8_element_66_highlighted.png",
+      "parent": 26,
+      "description": "A blue light reflecting off the upper part of the left eyebrow.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_66_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "navigation-8_element_67_highlighted.png",
+      "parent": 26,
+      "description": "A small, blue highlight on the right eyebrow.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_67_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "navigation-8_element_70_highlighted.png",
+      "parent": 26,
+      "description": "A smiling mouth with blue lips.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_70_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "navigation-8_element_40_highlighted.png",
+      "parent": 30,
+      "description": "The dark blue border of a map.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_40_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "navigation-8_element_57_highlighted.png",
+      "parent": 34,
+      "description": "Dark skin tone of a person's face.",
+      "color": "rgba(255, 201, 176, 1.0)",
+      "mask_path": "navigation-8_element_57_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "navigation-8_element_23_highlighted.png",
+      "parent": 41,
+      "description": "A light blue winding road on a map.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "navigation-8_element_23_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "navigation-8_element_25_highlighted.png",
+      "parent": 43,
+      "description": "A small white circle on a blue line representing a road on the map.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_25_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "navigation-8_element_27_highlighted.png",
+      "parent": 43,
+      "description": "A series of short, dashed white lines on a road, indicating a path.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_27_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "navigation-8_element_28_highlighted.png",
+      "parent": 43,
+      "description": "A small white circle on a blue line representing a road on the map.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_28_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "navigation-8_element_30_highlighted.png",
+      "parent": 43,
+      "description": "Two small white rectangles on the soles of the shoes.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_30_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "navigation-8_element_32_highlighted.png",
+      "parent": 43,
+      "description": "Three white dashed lines on a dark road.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_32_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "navigation-8_element_33_highlighted.png",
+      "parent": 43,
+      "description": "A single white dashed line on a dark road.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_33_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "navigation-8_element_37_highlighted.png",
+      "parent": 43,
+      "description": "A blue area on a map",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_37_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "navigation-8_element_38_highlighted.png",
+      "parent": 43,
+      "description": "The dark blue border of a map.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_38_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "navigation-8_element_39_highlighted.png",
+      "parent": 43,
+      "description": "A blue region on a map.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_39_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "navigation-8_element_74_highlighted.png",
+      "parent": 43,
+      "description": "A blue shoe.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_74_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "navigation-8_element_72_highlighted.png",
+      "parent": 47,
+      "description": "A blue shoe.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "navigation-8_element_72_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "navigation-8_element_34_highlighted.png",
+      "parent": 50,
+      "description": "A green surface on a map.",
+      "color": "rgba(112, 204, 64, 1.0)",
+      "mask_path": "navigation-8_element_34_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "navigation-8_element_35_highlighted.png",
+      "parent": 51,
+      "description": "A yellow region of a map.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "navigation-8_element_35_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "navigation-8_element_36_highlighted.png",
+      "parent": 52,
+      "description": "A brown region on a map.",
+      "color": "rgba(245, 97, 50, 1.0)",
+      "mask_path": "navigation-8_element_36_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "navigation-8_element_73_highlighted.png",
+      "parent": 53,
+      "description": "A bright blue heel of a shoe.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "navigation-8_element_73_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "navigation-8_element_71_highlighted.png",
+      "parent": 54,
+      "description": "A bright blue corner of a shoe.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "navigation-8_element_71_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "navigation-8_element_31_highlighted.png",
+      "parent": 55,
+      "description": "A white dashed line on a dark road.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_31_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "navigation-8_element_26_highlighted.png",
+      "parent": 56,
+      "description": "A small white circle on a blue line representing a road on the map.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_26_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "navigation-8_element_29_highlighted.png",
+      "parent": 57,
+      "description": "A small white rectangle on the sole of a shoe.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "navigation-8_element_29_highlighted.png"
+    }
+  ]
+}

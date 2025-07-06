@@ -1,0 +1,564 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full noodles-82",
+      "parent": -1,
+      "description": "A bowl of noodles with eggs, being lifted with chopsticks, sits on a green surface next to a small potted plant.",
+      "color": "rgba(244, 179, 34, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Item_2_highlighted.png",
+      "parent": 0,
+      "description": "A light blue bowl, likely ceramic, containing noodles and two halves of a boiled egg.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "noodles-82_element_278_highlighted.png",
+      "parent": 0,
+      "description": "A green placemat in the shape of a rounded diamond, placed under the bowl.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_278_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Layer 10_highlighted.png",
+      "parent": 1,
+      "description": "Strands of steaming, yellow noodles held between two chopsticks.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "Layer 10_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Layer 9_highlighted.png",
+      "parent": 1,
+      "description": "A square-shaped, dark green placemat.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "Layer 9_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Item_1_highlighted.png",
+      "parent": 2,
+      "description": "A flat, green, square-shaped placemat, angled slightly.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Layer 7_highlighted.png",
+      "parent": 3,
+      "description": "Two parallel, brown chopsticks placed above a bowl.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "Layer 7_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Layer 8_highlighted.png",
+      "parent": 3,
+      "description": "Strands of steaming, yellow noodles held between two chopsticks.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "Layer 8_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "noodles-82_element_279_highlighted.png",
+      "parent": 4,
+      "description": "A small, cylindrical, dark-blue plant pot with three green leaves.",
+      "color": null,
+      "mask_path": "noodles-82_element_279_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "noodles-82_element_280_highlighted.png",
+      "parent": 4,
+      "description": "The lower half of a blue bowl, tapering to a smaller, circular base.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "noodles-82_element_280_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "noodles-82_element_281_highlighted.png",
+      "parent": 4,
+      "description": "A blue-grey bowl with food inside, sitting on a placemat.",
+      "color": null,
+      "mask_path": "noodles-82_element_281_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "noodles-82_element_283_highlighted.png",
+      "parent": 4,
+      "description": "The top edge of a dark-blue noodle bowl.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "noodles-82_element_283_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "Item_3_highlighted.png",
+      "parent": 5,
+      "description": "A small, light blue, round plant pot with green leaves.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Layer 5_highlighted.png",
+      "parent": 6,
+      "description": "The square, green, flat surface where the bowl and plant sit.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "Layer 5_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "noodles-82_element_299_highlighted.png",
+      "parent": 6,
+      "description": "Orange-brown chopsticks holding noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_299_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "noodles-82_element_301_highlighted.png",
+      "parent": 7,
+      "description": "Yellow noodles held by chopsticks.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_301_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "noodles-82_element_302_highlighted.png",
+      "parent": 7,
+      "description": "Yellow noodles held by chopsticks.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "noodles-82_element_302_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "noodles-82_element_303_highlighted.png",
+      "parent": 7,
+      "description": "Part of some yellow noodles held by chopsticks.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_303_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "noodles-82_element_309_highlighted.png",
+      "parent": 10,
+      "description": "A sliced, hard-boiled egg in a bowl of noodles.",
+      "color": null,
+      "mask_path": "noodles-82_element_309_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "noodles-82_element_282_highlighted.png",
+      "parent": 11,
+      "description": "A thin, reddish-orange rim bordering the top of a bowl.",
+      "color": "rgba(226, 131, 98, 1.0)",
+      "mask_path": "noodles-82_element_282_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "noodles-82_element_304_highlighted.png",
+      "parent": 11,
+      "description": "White steam rising from noodle soup.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "noodles-82_element_304_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "noodles-82_element_332_highlighted.png",
+      "parent": 12,
+      "description": "A cylindrical light blue pot holding a plant.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "noodles-82_element_332_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "noodles-82_element_333_highlighted.png",
+      "parent": 12,
+      "description": "A thin, upright plant stem",
+      "color": null,
+      "mask_path": "noodles-82_element_333_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "noodles-82_element_334_highlighted.png",
+      "parent": 12,
+      "description": "A single pointy green leaf.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_334_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "noodles-82_element_335_highlighted.png",
+      "parent": 12,
+      "description": "A single green leaf.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_335_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "noodles-82_element_336_highlighted.png",
+      "parent": 12,
+      "description": "A single green leaf.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_336_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "noodles-82_element_337_highlighted.png",
+      "parent": 12,
+      "description": "A single green leaf.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_337_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "noodles-82_element_300_highlighted.png",
+      "parent": 13,
+      "description": "End of an orange-brown chopstick.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_300_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "Layer 6_highlighted.png",
+      "parent": 14,
+      "description": "A square, green, flat surface where the bowl and plant sit.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "Layer 6_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "noodles-82_element_324_highlighted.png",
+      "parent": 15,
+      "description": "A small, round, dark orange piece of food inside the bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_324_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "noodles-82_element_284_highlighted.png",
+      "parent": 19,
+      "description": "The contents of a blue-grey noodle bowl, including broth, noodles, and onions.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "noodles-82_element_284_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "noodles-82_element_285_highlighted.png",
+      "parent": 19,
+      "description": "A portion of the food inside the bowl, including a pale-yellow broth with onions.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "noodles-82_element_285_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "noodles-82_element_286_highlighted.png",
+      "parent": 19,
+      "description": "An illuminated slice of onion and the broth, inside the bowl.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "noodles-82_element_286_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "noodles-82_element_290_highlighted.png",
+      "parent": 19,
+      "description": "A small clump of yellow noodles is nestled within the bowl.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "noodles-82_element_290_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "noodles-82_element_293_highlighted.png",
+      "parent": 19,
+      "description": "A yellow noodle sits within the bowl.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_293_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "noodles-82_element_294_highlighted.png",
+      "parent": 19,
+      "description": "A single yellow noodle strand sits within the bowl.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_294_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "noodles-82_element_331_highlighted.png",
+      "parent": 19,
+      "description": "A white wispy curl rising from a bowl of noodles.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "noodles-82_element_331_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "noodles-82_element_319_highlighted.png",
+      "parent": 20,
+      "description": "A small, round, green piece of vegetable in a bowl of noodles.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_319_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "noodles-82_element_292_highlighted.png",
+      "parent": 31,
+      "description": "A small group of yellow noodles is nestled within the bowl.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_292_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "noodles-82_element_295_highlighted.png",
+      "parent": 32,
+      "description": "A small clump of yellow noodles is in the bowl.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_295_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "noodles-82_element_306_highlighted.png",
+      "parent": 32,
+      "description": "Part of a hard-boiled egg in noodle soup.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "noodles-82_element_306_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "noodles-82_element_320_highlighted.png",
+      "parent": 32,
+      "description": "A small, round, green piece of vegetable in a bowl of noodles.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_320_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "noodles-82_element_328_highlighted.png",
+      "parent": 32,
+      "description": "A light brown noodle inside of a bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_328_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "noodles-82_element_310_highlighted.png",
+      "parent": 34,
+      "description": "A sliced, hard-boiled egg in a bowl of noodles.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "noodles-82_element_310_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "noodles-82_element_291_highlighted.png",
+      "parent": 35,
+      "description": "Some yellow noodles are in a bowl.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "noodles-82_element_291_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "noodles-82_element_313_highlighted.png",
+      "parent": 35,
+      "description": "A green garnish, possibly scallion, in a bowl of noodles.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_313_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "noodles-82_element_316_highlighted.png",
+      "parent": 35,
+      "description": "A green garnish, possibly scallion, in a bowl of noodles.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_316_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "noodles-82_element_321_highlighted.png",
+      "parent": 36,
+      "description": "A small, round, dark orange piece of food inside the bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_321_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "noodles-82_element_322_highlighted.png",
+      "parent": 36,
+      "description": "A small, round, dark orange piece of food inside the bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_322_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "noodles-82_element_287_highlighted.png",
+      "parent": 39,
+      "description": "A single illuminated spot of pale-yellow broth.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "noodles-82_element_287_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "noodles-82_element_289_highlighted.png",
+      "parent": 39,
+      "description": "A yellow circular onion slice is visible in the bowl of noodles.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "noodles-82_element_289_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "noodles-82_element_305_highlighted.png",
+      "parent": 40,
+      "description": "Part of a hard-boiled egg in noodle soup.",
+      "color": null,
+      "mask_path": "noodles-82_element_305_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "noodles-82_element_307_highlighted.png",
+      "parent": 40,
+      "description": "The yolk of a hard boiled egg in noodle soup.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_307_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "noodles-82_element_311_highlighted.png",
+      "parent": 43,
+      "description": "A golden yolk of a sliced, hard-boiled egg in a bowl of noodles.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_311_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "noodles-82_element_296_highlighted.png",
+      "parent": 44,
+      "description": "A yellow noodle is visible in the bowl.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_296_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "noodles-82_element_297_highlighted.png",
+      "parent": 44,
+      "description": "A yellow circular yolk is in the bowl.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_297_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "noodles-82_element_298_highlighted.png",
+      "parent": 44,
+      "description": "The edge of a blue ceramic bowl containing noodle soup.",
+      "color": "rgba(244, 179, 34, 1.0)",
+      "mask_path": "noodles-82_element_298_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "noodles-82_element_314_highlighted.png",
+      "parent": 44,
+      "description": "A green garnish, possibly scallion, in a bowl of noodles.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_314_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "noodles-82_element_317_highlighted.png",
+      "parent": 44,
+      "description": "A green garnish, possibly scallion, in a bowl of noodles.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_317_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "noodles-82_element_318_highlighted.png",
+      "parent": 44,
+      "description": "A small, round, green piece of vegetable in a bowl of noodles.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_318_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "noodles-82_element_323_highlighted.png",
+      "parent": 44,
+      "description": "A small, round, dark orange piece of food inside the bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_323_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "noodles-82_element_325_highlighted.png",
+      "parent": 44,
+      "description": "A small, round, dark orange piece of food inside the bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_325_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "noodles-82_element_330_highlighted.png",
+      "parent": 44,
+      "description": "A small orange dot inside a bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_330_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "noodles-82_element_329_highlighted.png",
+      "parent": 45,
+      "description": "A small orange dot inside a bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_329_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "noodles-82_element_308_highlighted.png",
+      "parent": 52,
+      "description": "A sliced, hard-boiled egg in a bowl of noodles.",
+      "color": "rgba(255, 242, 212, 1.0)",
+      "mask_path": "noodles-82_element_308_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "noodles-82_element_312_highlighted.png",
+      "parent": 53,
+      "description": "A sliced, hard-boiled egg in a bowl of noodles.",
+      "color": "rgba(255, 242, 212, 1.0)",
+      "mask_path": "noodles-82_element_312_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "noodles-82_element_326_highlighted.png",
+      "parent": 55,
+      "description": "A small, round, dark orange piece of food inside the bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_326_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "noodles-82_element_327_highlighted.png",
+      "parent": 55,
+      "description": "A small, round, dark orange piece of food inside the bowl of noodles.",
+      "color": "rgba(153, 79, 49, 1.0)",
+      "mask_path": "noodles-82_element_327_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "noodles-82_element_315_highlighted.png",
+      "parent": 56,
+      "description": "A green garnish, possibly scallion, in a bowl of noodles.",
+      "color": "rgba(85, 130, 61, 1.0)",
+      "mask_path": "noodles-82_element_315_highlighted.png"
+    },
+    {
+      "id": 69,
+      "filename": "noodles-82_element_288_highlighted.png",
+      "parent": 68,
+      "description": "A pair of light brown wooden chopsticks are positioned above the bowl, holding up some yellow noodles.",
+      "color": "rgba(254, 211, 55, 1.0)",
+      "mask_path": "noodles-82_element_288_highlighted.png"
+    }
+  ]
+}

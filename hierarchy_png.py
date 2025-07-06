@@ -74,7 +74,6 @@ def parse_svg_color_to_rgba(color: str) -> str | None:
         return None
     return None  # fallback
 
-
 def extract_svg_fill_color(svg_path: Path) -> str | None:
     try:
         tree = ET.parse(svg_path)
@@ -158,31 +157,10 @@ def extract_svg_fill_color(svg_path: Path) -> str | None:
         print(f"⚠️ Failed to parse {svg_path.name}: {e}")
         return None
 
-def parse_polygon_from_png(png_path: Path):
-    image = cv2.imread(str(png_path), cv2.IMREAD_UNCHANGED)
-    if image is None:
-        return None
-    gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    # _, binary = cv2.threshold(gray, 1, 255, cv2.THRESH_BINARY)
-    _, binary = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
-
-    contours, _ = cv2.findContours(binary, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
-    if not contours:
-        return None
-    largest = max(contours, key=cv2.contourArea)
-    coords = [(int(pt[0][0]), int(pt[0][1])) for pt in largest]
-    polygon = Polygon(coords).buffer(0)
-
-    # real pixel area from mask
-    pixel_area = np.count_nonzero(binary)
-
-    return polygon, pixel_area
-
 def load_png_segments(png_folder: Path, svg_segments_root: Path, svg_segments_root_plus: Path, selected_folder: str):
     segments = []
 
-    full_name = png_folder.parent.name
-    fallback_dir = Path("outputs") / FALLBACK_WHITE_DIR 
+    full_name = png_folder.parent.name 
     # Add full SVG color segment
     full_svg_path = Path("inputs") / selected_folder / f"{full_name}.svg"
     full_color = extract_svg_fill_color(full_svg_path) if full_svg_path and full_svg_path.exists() else None
@@ -196,6 +174,7 @@ def load_png_segments(png_folder: Path, svg_segments_root: Path, svg_segments_ro
         "parent": -1  # root
     })
 
+    fallback_dir = Path("outputs") / full_name / FALLBACK_WHITE_DIR
     # Process individual PNG segments
     for idx, png_path in enumerate(sorted(png_folder.glob("*.png"), key=lambda p: extract_index_from_filename(p.name)), start=1):
         if "full" in png_path.name.lower():
@@ -207,14 +186,20 @@ def load_png_segments(png_folder: Path, svg_segments_root: Path, svg_segments_ro
         _, binary = cv2.threshold(gray, 10, 255, cv2.THRESH_BINARY)
 
         white_ratio = np.count_nonzero(binary) / (binary.shape[0] * binary.shape[1])
-        if white_ratio < 0.05 and not any(k in png_path.name for k in ["Layer", "Item"]):
-            fallback_png = fallback_dir / png_path.name
-            if fallback_png.exists():
-                print(f"🔁 Using fallback PNG for: {png_path.name}")
-                png_path = fallback_png
-                image = cv2.imread(str(png_path), cv2.IMREAD_UNCHANGED)
-                gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-                _, binary = cv2.threshold(gray, 10, 255, cv2.THRESH_BINARY)
+        # if white_ratio < 0.05 and not any(k in png_path.name for k in ["Layer", "Item"]):
+        is_named_element = any(k in png_path.name for k in ["Layer", "Item"])
+        
+        # Check for small visible area, fallback only if name isn't meaningful
+        fallback_png = fallback_dir / png_path.name
+        use_fallback = white_ratio < 0.05 and not is_named_element and fallback_png.exists()
+        if use_fallback:
+            png_path = fallback_png
+            image = cv2.imread(str(png_path), cv2.IMREAD_UNCHANGED)
+            if image is None:
+                print(f"❌ Could not load fallback image: {fallback_png}")
+                continue
+            gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+            _, binary = cv2.threshold(gray, 10, 255, cv2.THRESH_BINARY)
 
         contours, _ = cv2.findContours(binary, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
         if not contours:
@@ -222,7 +207,22 @@ def load_png_segments(png_folder: Path, svg_segments_root: Path, svg_segments_ro
 
         largest = max(contours, key=cv2.contourArea)
         coords = [(int(pt[0][0]), int(pt[0][1])) for pt in largest]
-        polygon = Polygon(coords).buffer(0)
+
+        # Ensure there are at least 3 distinct points
+        if len(coords) < 3:
+            print(f"⚠️ Skipping {png_path.name} — not enough points to form a polygon.")
+            continue
+
+        # Ensure it's closed
+        if coords[0] != coords[-1]:
+            coords.append(coords[0])
+
+        try:
+            polygon = Polygon(coords).buffer(0)
+        except Exception as e:
+            print(f"❌ Failed to create polygon for {png_path.name}: {e}")
+            continue
+
         pixel_area = np.count_nonzero(binary)
         x, y, w, h = cv2.boundingRect(binary)
 
@@ -287,32 +287,9 @@ def build_hierarchy_bbox(segments, margin=5):
 
     return segments
 
-def load_gemini_responses(group_name: str):
-    response_path = RESPONSES_DIR / group_name / "response.json"
-    
-    if not response_path.exists():
-        print(f"❌ No response.json found at {response_path}")
-        return []
-
-    with open(response_path) as f:
-        try:
-            responses = json.load(f)
-        except json.JSONDecodeError:
-            print(f"❌ Invalid JSON format in {response_path}")
-            return []
-
-    result = []
-    for entry in responses:
-        result.append({
-            "mask_path": entry.get("id"),           # filename of the PNG
-            "description": entry.get("description") # descriptive text
-        })
-
-    return result
-
 def export_hierarchy_json(segments, output_path: Path, group_name: str):
-    response_path = RESPONSES_DIR / group_name / "response.json"
-    metadata_path = RESPONSES_DIR / group_name / "scene_metadata.json"
+    response_path = Path("outputs") / group_name / RESPONSES_DIR  / "response.json"
+    metadata_path = Path("outputs") / group_name / RESPONSES_DIR  / "scene_metadata.json"
 
     # Load Gemini response data
     gemini_data = []
@@ -415,48 +392,6 @@ def export_hierarchy_json(segments, output_path: Path, group_name: str):
         "global_style": global_style,
         "scene": new_scene
     }
- 
-    # Add full image as root
-    # full_segment = next((s for s in segments if s["filename"] == f"Full {group_name}"), None)
-    # result.append({
-    #     "id": 0,
-    #     "filename": f"Full {group_name}",
-    #     "parent": -1,
-    #     "description": description,
-    #     "color": full_segment.get("color") if full_segment else None
-    # })
-
-    # # Sort segments
-    # sorted_segments = sorted(segments, key=sort_key)
-
-    # # Assign new IDs
-    # id_mapping = {seg["id"]: new_id for new_id, seg in enumerate(sorted_segments, start=1)}
-
-    # for seg in sorted_segments:
-    #     old_id = seg["id"]
-    #     seg["id"] = id_mapping[old_id]
-    #     seg["parent"] = id_mapping.get(seg["parent"], 0) if seg["parent"] != 0 else 0
-
-
-    # for seg in sorted_segments:
-    #     key = seg["filename"]
-    #     if "full" in key.lower():
-    #         continue
-    #     gemini = gemini_index.get(key, {})
-    #     color_value = seg.get("color")
-    #     result.append({
-    #         "id": seg["id"],
-    #         "filename": seg["filename"],
-    #         "parent": seg["parent"],
-    #         "mask_path": gemini.get("mask_path"),
-    #         "description": gemini.get("description"),
-    #         "color": color_value,
-    #     })
-
-    # final_output = {
-    #     "global_style": global_style,
-    #     "scene": result
-    # }
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w") as f:
@@ -506,7 +441,7 @@ def main():
             print(f"⚠️ No valid segments found for {svg_id}")
             continue
         
-        print(f"LEN:  {len(segments)}")
+        print(f"segments length:  {len(segments)}")
         segments_with_parents = build_hierarchy_bbox(segments)
         output_path = base_output / "hierarchy_output" / f"{svg_id}_hierarchy.json"
         export_hierarchy_json(segments_with_parents, output_path, svg_id)

@@ -1,0 +1,900 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full target-39",
+      "parent": -1,
+      "description": "A person is practicing archery, aiming at a blue target in a field with plants.",
+      "color": "rgba(15, 39, 65, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Layer 1_Item_1_highlighted.png",
+      "parent": 0,
+      "description": "A rectangular, olive-green grassy area.",
+      "color": "rgba(133, 153, 16, 1.0)",
+      "mask_path": "Layer 1_Item_1_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Layer 66_highlighted.png",
+      "parent": 0,
+      "description": "The blue string of a bow, held by an archer.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 66_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Layer 67_highlighted.png",
+      "parent": 0,
+      "description": "A cluster of yellow-green leafy plants.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 67_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Layer 68_highlighted.png",
+      "parent": 0,
+      "description": "A collection of bright yellow and green leafy plants.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 68_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Layer 69_highlighted.png",
+      "parent": 0,
+      "description": "A light blue circular target supported by a thin gray stand.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 69_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "target-39_element_80_highlighted.png",
+      "parent": 1,
+      "description": "A flat, olive green ground surface, apparently an archery field.",
+      "color": "rgba(133, 153, 16, 1.0)",
+      "mask_path": "target-39_element_80_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Layer 1_Item_10_highlighted.png",
+      "parent": 2,
+      "description": "The gray round base of a target stand.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "Layer 1_Item_10_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "Layer 1_Item_11_highlighted.png",
+      "parent": 2,
+      "description": "The archer's left foot.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "Layer 1_Item_11_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "Layer 1_Item_13_highlighted.png",
+      "parent": 2,
+      "description": "Part of the archer's pants.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_13_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "Layer 1_Item_14_highlighted.png",
+      "parent": 2,
+      "description": "Light blue trousers, part of the archer's clothing.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_14_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "Layer 1_Item_8_highlighted.png",
+      "parent": 2,
+      "description": "The visible orange part of a person's sock.",
+      "color": "rgba(160, 66, 29, 1.0)",
+      "mask_path": "Layer 1_Item_8_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "Layer 1_Item_9_highlighted.png",
+      "parent": 2,
+      "description": "A round archery target with multiple concentric dark blue rings, mounted on a gray stand.",
+      "color": "rgba(160, 66, 29, 1.0)",
+      "mask_path": "Layer 1_Item_9_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Layer 65_highlighted.png",
+      "parent": 2,
+      "description": "A light-blue bow and arrow in the process of being fired by the archer.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 65_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "target-39_element_84_highlighted.png",
+      "parent": 2,
+      "description": "A blue sock being worn.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_84_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "target-39_element_87_highlighted.png",
+      "parent": 2,
+      "description": "The white fabric of a shirt, likely made of cotton.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "target-39_element_87_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "target-39_element_88_highlighted.png",
+      "parent": 2,
+      "description": "Orange hair, indicating this is likely the person's head.",
+      "color": "rgba(160, 66, 29, 1.0)",
+      "mask_path": "target-39_element_88_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "target-39_element_92_highlighted.png",
+      "parent": 2,
+      "description": "A hand holding a drawn bow.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "target-39_element_92_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "target-39_element_94_highlighted.png",
+      "parent": 2,
+      "description": "A dark blue shoe.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_94_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "Layer 1_Item_30_highlighted.png",
+      "parent": 3,
+      "description": "A cluster of bright yellow-green leafy plants.",
+      "color": "rgba(206, 195, 0, 1.0)",
+      "mask_path": "Layer 1_Item_30_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "Layer 1_Item_32_highlighted.png",
+      "parent": 3,
+      "description": "A bright yellow blob of unclear form, possibly representing fire or a marker.",
+      "color": "rgba(207, 226, 23, 1.0)",
+      "mask_path": "Layer 1_Item_32_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "Layer 70_highlighted.png",
+      "parent": 3,
+      "description": "A bright yellow stylized leaf with a visible vein.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 70_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "Layer 72_highlighted.png",
+      "parent": 3,
+      "description": "A bright yellow, stylized plant leaf.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 72_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "target-39_element_106_highlighted.png",
+      "parent": 3,
+      "description": "A tall, stylized, yellow-green plant leaf.",
+      "color": "rgba(154, 188, 12, 1.0)",
+      "mask_path": "target-39_element_106_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "Layer 1_Item_36_highlighted.png",
+      "parent": 4,
+      "description": "A yellow foliage detail in front of an archery target.",
+      "color": "rgba(206, 195, 0, 1.0)",
+      "mask_path": "Layer 1_Item_36_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "Layer 1_Item_38_highlighted.png",
+      "parent": 4,
+      "description": "A bright yellow arrow-shaped impact on an archery target.",
+      "color": "rgba(207, 226, 23, 1.0)",
+      "mask_path": "Layer 1_Item_38_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "Layer 74_highlighted.png",
+      "parent": 4,
+      "description": "The neon yellow impact of an arrow on a target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 74_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "target-39_element_112_highlighted.png",
+      "parent": 4,
+      "description": "The visible area is a stylized, bright green flame shape.",
+      "color": "rgba(154, 188, 12, 1.0)",
+      "mask_path": "target-39_element_112_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "Layer 1_Item_52_highlighted.png",
+      "parent": 5,
+      "description": "A white support stand for a target.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 1_Item_52_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "Layer 77_highlighted.png",
+      "parent": 5,
+      "description": "A light blue circular target supported by a thin gray stand.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 77_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "Layer 78_highlighted.png",
+      "parent": 5,
+      "description": "A gray cylindrical pole supporting an archery target.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 78_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "Layer 80_highlighted.png",
+      "parent": 5,
+      "description": "A circular, white base supporting the archery target.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "Layer 80_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "target-39_element_83_highlighted.png",
+      "parent": 8,
+      "description": "The sole of a black shoe or boot.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "target-39_element_83_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "target-39_element_85_highlighted.png",
+      "parent": 9,
+      "description": "The light blue fabric of a pair of pants or trousers.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "target-39_element_85_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "target-39_element_86_highlighted.png",
+      "parent": 10,
+      "description": "A person's light blue trouser leg.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "target-39_element_86_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "target-39_element_82_highlighted.png",
+      "parent": 11,
+      "description": "A dark green leaf, possibly on an outdoor plant.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "target-39_element_82_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "Layer 1_Item_23_highlighted.png",
+      "parent": 13,
+      "description": "The light blue string of a drawn bow.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_23_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "Layer 1_Item_25_highlighted.png",
+      "parent": 13,
+      "description": "A round archery target with multiple concentric dark blue rings, mounted on a gray stand.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_25_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "target-39_element_96_highlighted.png",
+      "parent": 13,
+      "description": "The blue string of a bow, pulled back and taut.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_96_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "Layer 1_Item_12_highlighted.png",
+      "parent": 14,
+      "description": "The sole of a blue shoe of a person aiming at an archery target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_12_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "Layer 1_Item_15_highlighted.png",
+      "parent": 15,
+      "description": "The white fabric of an archer's long-sleeved shirt.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 1_Item_15_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "Layer 1_Item_16_highlighted.png",
+      "parent": 16,
+      "description": "The archer's auburn hair.",
+      "color": "rgba(160, 66, 29, 1.0)",
+      "mask_path": "Layer 1_Item_16_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "Layer 1_Item_20_highlighted.png",
+      "parent": 17,
+      "description": "A white shoulder protector on a person using a bow and arrow.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 1_Item_20_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "Layer 1_Item_22_highlighted.png",
+      "parent": 18,
+      "description": "A light blue sock on the person's left foot.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_22_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "target-39_element_102_highlighted.png",
+      "parent": 19,
+      "description": "A tall, stylized, yellow-green plant leaf.",
+      "color": "rgba(206, 195, 0, 1.0)",
+      "mask_path": "target-39_element_102_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "target-39_element_104_highlighted.png",
+      "parent": 20,
+      "description": "A tall, stylized, yellow-green plant leaf.",
+      "color": "rgba(207, 226, 23, 1.0)",
+      "mask_path": "target-39_element_104_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "Layer 71_highlighted.png",
+      "parent": 23,
+      "description": "A set of two slightly curved, bright green leaves.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 71_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "target-39_element_108_highlighted.png",
+      "parent": 24,
+      "description": "A tall, stylized, yellow-green plant leaf.",
+      "color": "rgba(206, 195, 0, 1.0)",
+      "mask_path": "target-39_element_108_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "Layer 1_Item_39_highlighted.png",
+      "parent": 25,
+      "description": "A blue arrow that has hit the bullseye of a target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_39_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "target-39_element_110_highlighted.png",
+      "parent": 25,
+      "description": "The visible area is a yellow, stylized depiction of fire.",
+      "color": "rgba(207, 226, 23, 1.0)",
+      "mask_path": "target-39_element_110_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "Layer 1_Item_40_highlighted.png",
+      "parent": 27,
+      "description": "A bright green, stylized plant leaf.",
+      "color": "rgba(154, 188, 12, 1.0)",
+      "mask_path": "Layer 1_Item_40_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "Layer 73_highlighted.png",
+      "parent": 27,
+      "description": "A yellow-green leafy bush.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 73_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "Layer 1_Item_53_highlighted.png",
+      "parent": 28,
+      "description": "A dark blue archery target with concentric circles, standing on a gray pole and base.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "Layer 1_Item_53_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "target-39_element_117_highlighted.png",
+      "parent": 28,
+      "description": "The visible area is a white, vertical pole supporting the circular target.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "target-39_element_117_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "Layer 1_Item_54_highlighted.png",
+      "parent": 29,
+      "description": "A bright blue archery target, round in shape.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_54_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "Layer 1_Item_56_highlighted.png",
+      "parent": 29,
+      "description": "A bright cyan circular archery target with concentric circles.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_56_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "target-39_element_120_highlighted.png",
+      "parent": 29,
+      "description": "A light blue, circular archery target.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "target-39_element_120_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "Layer 1_Item_50_highlighted.png",
+      "parent": 31,
+      "description": "The grey base of a target stand.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "Layer 1_Item_50_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "Layer 1_Item_51_highlighted.png",
+      "parent": 31,
+      "description": "A light grey circular base supporting the archery target.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 1_Item_51_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "target-39_element_116_highlighted.png",
+      "parent": 31,
+      "description": "The visible area is a white, vertical pole connecting the target to the ground.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "target-39_element_116_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "target-39_element_95_highlighted.png",
+      "parent": 36,
+      "description": "A curved, blue bow being held by an archer.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_95_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "target-39_element_97_highlighted.png",
+      "parent": 37,
+      "description": "The tip of an arrow aimed at a target",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_97_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "Layer 1_Item_24_highlighted.png",
+      "parent": 38,
+      "description": "A blue line representing an archery bow string.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_24_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "target-39_element_101_highlighted.png",
+      "parent": 40,
+      "description": "The lower left leg of a person wearing blue trousers and black shoes.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "target-39_element_101_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "target-39_element_98_highlighted.png",
+      "parent": 40,
+      "description": "A person's dark-colored torso wearing a greyish shirt",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "target-39_element_98_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "target-39_element_90_highlighted.png",
+      "parent": 41,
+      "description": "A dark circular target with concentric circles, mounted on a grey stand, designed for archery.",
+      "color": "rgba(160, 66, 29, 1.0)",
+      "mask_path": "target-39_element_90_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "target-39_element_100_highlighted.png",
+      "parent": 42,
+      "description": "A grey circular target with concentric rings on a metal stand.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "target-39_element_100_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "target-39_element_103_highlighted.png",
+      "parent": 44,
+      "description": "A tall, stylized, blue-green plant leaf.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_103_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "target-39_element_105_highlighted.png",
+      "parent": 45,
+      "description": "A tall, stylized, blue-green plant leaf.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_105_highlighted.png"
+    },
+    {
+      "id": 69,
+      "filename": "Layer 1_Item_34_highlighted.png",
+      "parent": 46,
+      "description": "A bright green, stylized plant leaf.",
+      "color": "rgba(154, 188, 12, 1.0)",
+      "mask_path": "Layer 1_Item_34_highlighted.png"
+    },
+    {
+      "id": 70,
+      "filename": "target-39_element_109_highlighted.png",
+      "parent": 47,
+      "description": "A tall, stylized, blue-green plant leaf.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_109_highlighted.png"
+    },
+    {
+      "id": 71,
+      "filename": "target-39_element_111_highlighted.png",
+      "parent": 49,
+      "description": "The visible area is a thin blue curve representing the path of an arrow toward a target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_111_highlighted.png"
+    },
+    {
+      "id": 72,
+      "filename": "target-39_element_113_highlighted.png",
+      "parent": 50,
+      "description": "The visible area is a thin blue arc representing the path of an arrow toward a target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_113_highlighted.png"
+    },
+    {
+      "id": 73,
+      "filename": "target-39_element_118_highlighted.png",
+      "parent": 52,
+      "description": "The visible area is a gray, cylindrical pole supporting the target.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "target-39_element_118_highlighted.png"
+    },
+    {
+      "id": 74,
+      "filename": "Layer 1_Item_55_highlighted.png",
+      "parent": 54,
+      "description": "The dark blue face of a target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_55_highlighted.png"
+    },
+    {
+      "id": 75,
+      "filename": "Layer 1_Item_59_highlighted.png",
+      "parent": 55,
+      "description": "A light-blue circular archery target with a dark gray border, elevated on a gray stand.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_59_highlighted.png"
+    },
+    {
+      "id": 76,
+      "filename": "target-39_element_121_highlighted.png",
+      "parent": 55,
+      "description": "The interior dark blue face of a circular archery target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_121_highlighted.png"
+    },
+    {
+      "id": 77,
+      "filename": "target-39_element_115_highlighted.png",
+      "parent": 57,
+      "description": "The visible area is a bright gray circular base that supports the target.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "target-39_element_115_highlighted.png"
+    },
+    {
+      "id": 78,
+      "filename": "target-39_element_81_highlighted.png",
+      "parent": 61,
+      "description": "A dark blue circular target with concentric circles.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "target-39_element_81_highlighted.png"
+    },
+    {
+      "id": 79,
+      "filename": "target-39_element_93_highlighted.png",
+      "parent": 61,
+      "description": "The top half of a light-colored arrow, pulled back on a bowstring.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "target-39_element_93_highlighted.png"
+    },
+    {
+      "id": 80,
+      "filename": "Layer 1_Item_29_highlighted.png",
+      "parent": 63,
+      "description": "A blue and gray circular archery target with concentric rings.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "Layer 1_Item_29_highlighted.png"
+    },
+    {
+      "id": 81,
+      "filename": "Layer 1_Item_26_highlighted.png",
+      "parent": 64,
+      "description": "A blue and gray circular archery target with concentric rings.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "Layer 1_Item_26_highlighted.png"
+    },
+    {
+      "id": 82,
+      "filename": "Layer 1_Item_18_highlighted.png",
+      "parent": 65,
+      "description": "A round archery target with multiple dark blue concentric rings, mounted on a gray stand.",
+      "color": "rgba(160, 66, 29, 1.0)",
+      "mask_path": "Layer 1_Item_18_highlighted.png"
+    },
+    {
+      "id": 83,
+      "filename": "Layer 1_Item_28_highlighted.png",
+      "parent": 66,
+      "description": "A blue and gray circular archery target with concentric rings.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "Layer 1_Item_28_highlighted.png"
+    },
+    {
+      "id": 84,
+      "filename": "Layer 1_Item_31_highlighted.png",
+      "parent": 67,
+      "description": "A blue and gray circular archery target with concentric rings.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_31_highlighted.png"
+    },
+    {
+      "id": 85,
+      "filename": "Layer 1_Item_33_highlighted.png",
+      "parent": 68,
+      "description": "A round archery target with multiple concentric dark blue rings, mounted on a gray stand.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_33_highlighted.png"
+    },
+    {
+      "id": 86,
+      "filename": "target-39_element_107_highlighted.png",
+      "parent": 69,
+      "description": "A tall, stylized, blue-green plant leaf.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_107_highlighted.png"
+    },
+    {
+      "id": 87,
+      "filename": "Layer 1_Item_37_highlighted.png",
+      "parent": 70,
+      "description": "A long thin blue streak on a leafy plant.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_37_highlighted.png"
+    },
+    {
+      "id": 88,
+      "filename": "Layer 1_Item_41_highlighted.png",
+      "parent": 72,
+      "description": "A single, light blue, stylized plant leaf.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_41_highlighted.png"
+    },
+    {
+      "id": 89,
+      "filename": "target-39_element_119_highlighted.png",
+      "parent": 74,
+      "description": "The visible area is a grayish cylindrical pole holding the target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_119_highlighted.png"
+    },
+    {
+      "id": 90,
+      "filename": "Layer 1_Item_48_highlighted.png",
+      "parent": 75,
+      "description": "The blue center of an archery target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_48_highlighted.png"
+    },
+    {
+      "id": 91,
+      "filename": "target-39_element_114_highlighted.png",
+      "parent": 77,
+      "description": "The visible area is a dark-gray circular base that supports the target.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "target-39_element_114_highlighted.png"
+    },
+    {
+      "id": 92,
+      "filename": "Layer 1_Item_6_highlighted.png",
+      "parent": 78,
+      "description": "A human hand holding an arrow.",
+      "color": "rgba(160, 66, 29, 1.0)",
+      "mask_path": "Layer 1_Item_6_highlighted.png"
+    },
+    {
+      "id": 93,
+      "filename": "Layer 1_Item_7_highlighted.png",
+      "parent": 78,
+      "description": "The archer's right hand.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "Layer 1_Item_7_highlighted.png"
+    },
+    {
+      "id": 94,
+      "filename": "Layer 1_Item_21_highlighted.png",
+      "parent": 79,
+      "description": "The white upper arm and shoulder of a archer.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 1_Item_21_highlighted.png"
+    },
+    {
+      "id": 95,
+      "filename": "Layer 1_Item_17_highlighted.png",
+      "parent": 82,
+      "description": "A round target with concentric rings, mounted on a gray pole and base.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "Layer 1_Item_17_highlighted.png"
+    },
+    {
+      "id": 96,
+      "filename": "target-39_element_89_highlighted.png",
+      "parent": 82,
+      "description": "A person's dark hair.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "target-39_element_89_highlighted.png"
+    },
+    {
+      "id": 97,
+      "filename": "Layer 1_Item_35_highlighted.png",
+      "parent": 86,
+      "description": "A thin blue line on the edges of a bush.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_35_highlighted.png"
+    },
+    {
+      "id": 98,
+      "filename": "Layer 1_Item_58_highlighted.png",
+      "parent": 90,
+      "description": "A circular archery target, pale blue in the center, surrounded by a black ring and supported by a gray stand.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_58_highlighted.png"
+    },
+    {
+      "id": 99,
+      "filename": "Layer 1_Item_49_highlighted.png",
+      "parent": 91,
+      "description": "The grey base of a target stand.",
+      "color": "rgba(124, 124, 124, 1.0)",
+      "mask_path": "Layer 1_Item_49_highlighted.png"
+    },
+    {
+      "id": 100,
+      "filename": "target-39_element_99_highlighted.png",
+      "parent": 93,
+      "description": "The tip of the arrow near the bow string is colored orange, ready to be shot.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "target-39_element_99_highlighted.png"
+    },
+    {
+      "id": 101,
+      "filename": "target-39_element_91_highlighted.png",
+      "parent": 95,
+      "description": "A dark brown head, presumably of a person",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "target-39_element_91_highlighted.png"
+    },
+    {
+      "id": 102,
+      "filename": "Layer 1_Item_47_highlighted.png",
+      "parent": 98,
+      "description": "The dark blue inner circle of an archery target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_47_highlighted.png"
+    },
+    {
+      "id": 103,
+      "filename": "Layer 1_Item_27_highlighted.png",
+      "parent": 100,
+      "description": "A bright yellow dot at the end of an arrow shaft, near the archer's hand.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "Layer 1_Item_27_highlighted.png"
+    },
+    {
+      "id": 104,
+      "filename": "Layer 1_Item_19_highlighted.png",
+      "parent": 101,
+      "description": "The face of a person pulling a bow.",
+      "color": "rgba(255, 178, 136, 1.0)",
+      "mask_path": "Layer 1_Item_19_highlighted.png"
+    },
+    {
+      "id": 105,
+      "filename": "target-39_element_122_highlighted.png",
+      "parent": 102,
+      "description": "A central ring on the archery target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_122_highlighted.png"
+    },
+    {
+      "id": 106,
+      "filename": "Layer 1_Item_62_highlighted.png",
+      "parent": 105,
+      "description": "A circular archery target, pale blue in the center, surrounded by a dark ring and supported by a gray stand.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_62_highlighted.png"
+    },
+    {
+      "id": 107,
+      "filename": "Layer 1_Item_45_highlighted.png",
+      "parent": 106,
+      "description": "A blue and gray circular archery target with concentric rings.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_45_highlighted.png"
+    },
+    {
+      "id": 108,
+      "filename": "Layer 1_Item_44_highlighted.png",
+      "parent": 107,
+      "description": "The dark blue center of a bullseye target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_44_highlighted.png"
+    },
+    {
+      "id": 109,
+      "filename": "Layer 1_Item_63_highlighted.png",
+      "parent": 108,
+      "description": "A glowing bullseye on a target.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_63_highlighted.png"
+    },
+    {
+      "id": 110,
+      "filename": "target-39_element_123_highlighted.png",
+      "parent": 108,
+      "description": "The innermost, circular ring of a dark archery target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "target-39_element_123_highlighted.png"
+    },
+    {
+      "id": 111,
+      "filename": "Layer 1_Item_42_highlighted.png",
+      "parent": 109,
+      "description": "The bullseye on an archery target.",
+      "color": "rgba(15, 39, 65, 1.0)",
+      "mask_path": "Layer 1_Item_42_highlighted.png"
+    }
+  ]
+}

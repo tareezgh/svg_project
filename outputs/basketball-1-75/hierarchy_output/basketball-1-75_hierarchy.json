@@ -1,0 +1,508 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full basketball-1-75",
+      "parent": -1,
+      "description": "An isometric illustration of a person dribbling a basketball on an outdoor basketball court.",
+      "color": "rgba(251, 147, 40, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Layer 5_highlighted.png",
+      "parent": 0,
+      "description": "A orange basketball hoop.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "Layer 5_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "basketball-1-75_element_124_highlighted.png",
+      "parent": 0,
+      "description": "An orange, rectangular surface with a curved dark blue court painted on it, appearing to be a basketball court.",
+      "color": "rgba(221, 111, 49, 1.0)",
+      "mask_path": "basketball-1-75_element_124_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "basketball-1-75_element_129_highlighted.png",
+      "parent": 1,
+      "description": "A light pink rectangle on the basketball court behind the hoop, possibly to mark the region behind the hoop.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_129_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "basketball-1-75_element_130_highlighted.png",
+      "parent": 1,
+      "description": "A tall gray pole, which is part of the basketball hoop support.",
+      "color": "rgba(65, 46, 50, 1.0)",
+      "mask_path": "basketball-1-75_element_130_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "basketball-1-75_element_133_highlighted.png",
+      "parent": 1,
+      "description": "A light pink support pole which is part of the basketball hoop structure.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_133_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "basketball-1-75_element_134_highlighted.png",
+      "parent": 1,
+      "description": "A rectangular basketball backboard with a glowing blue outline.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "basketball-1-75_element_134_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Item_1_highlighted.png",
+      "parent": 2,
+      "description": "A blue rectangular area on a basketball court.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "basketball-1-75_element_128_highlighted.png",
+      "parent": 3,
+      "description": "The bottom part of the basketball hoop support, which appears to be made of black metal.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_128_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "basketball-1-75_element_131_highlighted.png",
+      "parent": 5,
+      "description": "A light pink straight line marking the edge of the basketball court.",
+      "color": "rgba(65, 46, 50, 1.0)",
+      "mask_path": "basketball-1-75_element_131_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "basketball-1-75_element_132_highlighted.png",
+      "parent": 5,
+      "description": "A blue backboard used as a target for shooting the basketball, with an orange wire net hanging below.",
+      "color": "rgba(65, 46, 50, 1.0)",
+      "mask_path": "basketball-1-75_element_132_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "basketball-1-75_element_135_highlighted.png",
+      "parent": 6,
+      "description": "A basketball net made of orange woven material.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "basketball-1-75_element_135_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "Item_2_highlighted.png",
+      "parent": 7,
+      "description": "A small, round, brown basketball being dribbled by a person.",
+      "color": "rgba(237, 178, 159, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Item_3_highlighted.png",
+      "parent": 7,
+      "description": "A single green leaf on a leafy plant.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "Layer 10_highlighted.png",
+      "parent": 7,
+      "description": "A two-toned green leaf.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "Layer 10_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "Layer 11_highlighted.png",
+      "parent": 7,
+      "description": "A single green leaf on a leafy plant.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "Layer 11_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "Layer 7_highlighted.png",
+      "parent": 7,
+      "description": "A single green leaf on a leafy plant.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "Layer 7_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "Layer 8_highlighted.png",
+      "parent": 7,
+      "description": "A single green leaf on a leafy plant.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "Layer 8_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "basketball-1-75_element_125_highlighted.png",
+      "parent": 7,
+      "description": "A turquoise rectangular region on the basketball court that indicates a key area.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "basketball-1-75_element_125_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "basketball-1-75_element_136_highlighted.png",
+      "parent": 11,
+      "description": "A rectangular metal frame supporting a basketball backboard and net.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "basketball-1-75_element_136_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "Layer 6_highlighted.png",
+      "parent": 12,
+      "description": "A round orange basketball.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "Layer 6_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "basketball-1-75_element_146_highlighted.png",
+      "parent": 12,
+      "description": "Part of a white calf, of a basketball player.",
+      "color": "rgba(237, 178, 159, 1.0)",
+      "mask_path": "basketball-1-75_element_146_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "basketball-1-75_element_147_highlighted.png",
+      "parent": 12,
+      "description": "A pair of light blue basketball shorts.",
+      "color": "rgba(60, 146, 160, 1.0)",
+      "mask_path": "basketball-1-75_element_147_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "basketball-1-75_element_150_highlighted.png",
+      "parent": 12,
+      "description": "Pink hair on the head of a basketball player.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_150_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "basketball-1-75_element_152_highlighted.png",
+      "parent": 12,
+      "description": "A basketball in the hand of a basketball player.",
+      "color": "rgba(237, 178, 159, 1.0)",
+      "mask_path": "basketball-1-75_element_152_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "basketball-1-75_element_163_highlighted.png",
+      "parent": 12,
+      "description": "An orange basketball.",
+      "color": "rgba(237, 178, 159, 1.0)",
+      "mask_path": "basketball-1-75_element_163_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "basketball-1-75_element_164_highlighted.png",
+      "parent": 12,
+      "description": "A light blue t-shirt on a person.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "basketball-1-75_element_164_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "basketball-1-75_element_165_highlighted.png",
+      "parent": 12,
+      "description": "A person's pink shoe.",
+      "color": "rgba(65, 46, 50, 1.0)",
+      "mask_path": "basketball-1-75_element_165_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "basketball-1-75_element_168_highlighted.png",
+      "parent": 13,
+      "description": "A small green leaf of a bush.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "basketball-1-75_element_168_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "basketball-1-75_element_169_highlighted.png",
+      "parent": 13,
+      "description": "The blue vein of a bush.",
+      "color": "rgba(5, 56, 85, 1.0)",
+      "mask_path": "basketball-1-75_element_169_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "basketball-1-75_element_172_highlighted.png",
+      "parent": 14,
+      "description": "A bright green leaf of a bush.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "basketball-1-75_element_172_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "basketball-1-75_element_173_highlighted.png",
+      "parent": 14,
+      "description": "The dark blue, vertical stem of a plant.",
+      "color": "rgba(5, 56, 85, 1.0)",
+      "mask_path": "basketball-1-75_element_173_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "basketball-1-75_element_176_highlighted.png",
+      "parent": 15,
+      "description": "Two green leaves on a plant.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "basketball-1-75_element_176_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "basketball-1-75_element_177_highlighted.png",
+      "parent": 15,
+      "description": "Part of a dark blue leaf on a plant.",
+      "color": "rgba(5, 56, 85, 1.0)",
+      "mask_path": "basketball-1-75_element_177_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "basketball-1-75_element_166_highlighted.png",
+      "parent": 16,
+      "description": "The green leaf of a bush.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "basketball-1-75_element_166_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "basketball-1-75_element_167_highlighted.png",
+      "parent": 16,
+      "description": "The blue textured trunk of a plant.",
+      "color": "rgba(5, 56, 85, 1.0)",
+      "mask_path": "basketball-1-75_element_167_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "basketball-1-75_element_170_highlighted.png",
+      "parent": 17,
+      "description": "A vibrant green leaf on a plant.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "basketball-1-75_element_170_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "basketball-1-75_element_171_highlighted.png",
+      "parent": 17,
+      "description": "A dark blue, textured plant stalk.",
+      "color": "rgba(5, 56, 85, 1.0)",
+      "mask_path": "basketball-1-75_element_171_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "basketball-1-75_element_126_highlighted.png",
+      "parent": 18,
+      "description": "A circular court marking on the basketball court, which appears to be for free throws.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_126_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "basketball-1-75_element_127_highlighted.png",
+      "parent": 18,
+      "description": "A straight light pink line marking the boundary of the basketball court.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_127_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "basketball-1-75_element_137_highlighted.png",
+      "parent": 19,
+      "description": "The simple rectangular frame of a basketball backboard.",
+      "color": "rgba(242, 242, 242, 1.0)",
+      "mask_path": "basketball-1-75_element_137_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "basketball-1-75_element_140_highlighted.png",
+      "parent": 19,
+      "description": "A basketball net made of woven material.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "basketball-1-75_element_140_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "basketball-1-75_element_142_highlighted.png",
+      "parent": 19,
+      "description": "An orange basketball.",
+      "color": "rgba(221, 111, 49, 1.0)",
+      "mask_path": "basketball-1-75_element_142_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "basketball-1-75_element_162_highlighted.png",
+      "parent": 20,
+      "description": "An orange basketball.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_162_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "basketball-1-75_element_145_highlighted.png",
+      "parent": 21,
+      "description": "A pink heel of a shoe on a basketball player.",
+      "color": "rgba(65, 46, 50, 1.0)",
+      "mask_path": "basketball-1-75_element_145_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "basketball-1-75_element_148_highlighted.png",
+      "parent": 23,
+      "description": "The back of a sleeveless basketball top.",
+      "color": "rgba(237, 178, 159, 1.0)",
+      "mask_path": "basketball-1-75_element_148_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "basketball-1-75_element_149_highlighted.png",
+      "parent": 23,
+      "description": "The back of a sleeveless basketball top.",
+      "color": "rgba(237, 178, 159, 1.0)",
+      "mask_path": "basketball-1-75_element_149_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "basketball-1-75_element_151_highlighted.png",
+      "parent": 26,
+      "description": "The white highlight of an upper arm.",
+      "color": "rgba(237, 178, 159, 1.0)",
+      "mask_path": "basketball-1-75_element_151_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "basketball-1-75_element_143_highlighted.png",
+      "parent": 27,
+      "description": "A basketball net.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_143_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "Layer 9_highlighted.png",
+      "parent": 39,
+      "description": "A single, dark green leaf on a plant.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "Layer 9_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "basketball-1-75_element_141_highlighted.png",
+      "parent": 42,
+      "description": "An orange basketball net made of interwoven strings.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "basketball-1-75_element_141_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "basketball-1-75_element_161_highlighted.png",
+      "parent": 43,
+      "description": "An orange basketball.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_161_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "basketball-1-75_element_144_highlighted.png",
+      "parent": 44,
+      "description": "An orange net, part of a basketball hoop.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_144_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "basketball-1-75_element_174_highlighted.png",
+      "parent": 49,
+      "description": "A single, green leaf on a plant.",
+      "color": "rgba(102, 198, 82, 1.0)",
+      "mask_path": "basketball-1-75_element_174_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "basketball-1-75_element_175_highlighted.png",
+      "parent": 49,
+      "description": "Part of a narrow, blue-colored leaf of a plant.",
+      "color": "rgba(5, 56, 85, 1.0)",
+      "mask_path": "basketball-1-75_element_175_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "basketball-1-75_element_138_highlighted.png",
+      "parent": 50,
+      "description": "A basketball backboard.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_138_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "basketball-1-75_element_153_highlighted.png",
+      "parent": 51,
+      "description": "An orange basketball in motion.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "basketball-1-75_element_153_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "basketball-1-75_element_156_highlighted.png",
+      "parent": 51,
+      "description": "An orange basketball.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "basketball-1-75_element_156_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "basketball-1-75_element_139_highlighted.png",
+      "parent": 55,
+      "description": "A basketball backboard.",
+      "color": "rgba(46, 25, 32, 1.0)",
+      "mask_path": "basketball-1-75_element_139_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "basketball-1-75_element_154_highlighted.png",
+      "parent": 56,
+      "description": "An orange basketball.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "basketball-1-75_element_154_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "basketball-1-75_element_157_highlighted.png",
+      "parent": 56,
+      "description": "An orange basketball.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "basketball-1-75_element_157_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "basketball-1-75_element_159_highlighted.png",
+      "parent": 60,
+      "description": "An orange basketball.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "basketball-1-75_element_159_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "basketball-1-75_element_158_highlighted.png",
+      "parent": 61,
+      "description": "An orange basketball.",
+      "color": "rgba(251, 147, 40, 1.0)",
+      "mask_path": "basketball-1-75_element_158_highlighted.png"
+    }
+  ]
+}

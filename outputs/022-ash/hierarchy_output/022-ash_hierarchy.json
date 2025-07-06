@@ -1,0 +1,268 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full 022-ash",
+      "parent": -1,
+      "description": "A computer screen displays a flowchart diagram with rectangular and square shapes connected by lines.",
+      "color": "rgba(196, 226, 255, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Layer 19_highlighted.png",
+      "parent": 0,
+      "description": "A light grey computer screen.",
+      "color": "rgba(159, 172, 186, 1.0)",
+      "mask_path": "Layer 19_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "022-ash_element_4_highlighted.png",
+      "parent": 1,
+      "description": "Light gray edging of a monitor screen.",
+      "color": "rgba(141, 156, 168, 1.0)",
+      "mask_path": "022-ash_element_4_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "022-ash_element_7_highlighted.png",
+      "parent": 1,
+      "description": "A light grey, rectangular base of a computer monitor.",
+      "color": "rgba(159, 172, 186, 1.0)",
+      "mask_path": "022-ash_element_7_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Item_1_highlighted.png",
+      "parent": 1,
+      "description": "A light gray computer stand.",
+      "color": "rgba(197, 211, 221, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Layer 16_highlighted.png",
+      "parent": 1,
+      "description": "A grey monitor stand.",
+      "color": "rgba(182, 196, 207, 1.0)",
+      "mask_path": "Layer 16_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Item_3_highlighted.png",
+      "parent": 2,
+      "description": "A large, rectangular, light-gray screen.",
+      "color": "rgba(159, 172, 186, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Item_4_highlighted.png",
+      "parent": 2,
+      "description": "The curved edge of a grey monitor screen.",
+      "color": "rgba(141, 156, 168, 1.0)",
+      "mask_path": "Item_4_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "Layer 17_highlighted.png",
+      "parent": 2,
+      "description": "A rectangular, light-gray screen.",
+      "color": "rgba(141, 156, 168, 1.0)",
+      "mask_path": "Layer 17_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "Item_7_highlighted.png",
+      "parent": 3,
+      "description": "A light gray rectangular keyboard stand in front of the monitor.",
+      "color": "rgba(159, 172, 186, 1.0)",
+      "mask_path": "Item_7_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "022-ash_element_1_highlighted.png",
+      "parent": 4,
+      "description": "A light gray rectangular base of a computer monitor.",
+      "color": "rgba(197, 211, 221, 1.0)",
+      "mask_path": "022-ash_element_1_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "Item_2_highlighted.png",
+      "parent": 4,
+      "description": "A light-gray stand supporting the monitor.",
+      "color": "rgba(182, 196, 207, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "022-ash_element_3_highlighted.png",
+      "parent": 6,
+      "description": "A light grey frame, part of a computer monitor.",
+      "color": "rgba(159, 172, 186, 1.0)",
+      "mask_path": "022-ash_element_3_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Item_5_highlighted.png",
+      "parent": 6,
+      "description": "A rectangular, light-blue screen.",
+      "color": "rgba(234, 246, 255, 1.0)",
+      "mask_path": "Item_5_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "022-ash_element_2_highlighted.png",
+      "parent": 11,
+      "description": "A light grey stand supporting a computer monitor.",
+      "color": "rgba(182, 196, 207, 1.0)",
+      "mask_path": "022-ash_element_2_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "022-ash_element_8_highlighted.png",
+      "parent": 11,
+      "description": "A white power light on a computer monitor.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "022-ash_element_8_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "022-ash_element_5_highlighted.png",
+      "parent": 13,
+      "description": "A light colored screen on a computer monitor, displaying three horizontal bars and a graph-like image.",
+      "color": "rgba(234, 246, 255, 1.0)",
+      "mask_path": "022-ash_element_5_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "022-ash_element_6_highlighted.png",
+      "parent": 13,
+      "description": "A white curved section on the corner of a monitor screen.",
+      "color": "rgba(216, 236, 254, 1.0)",
+      "mask_path": "022-ash_element_6_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "Item_8_highlighted.png",
+      "parent": 15,
+      "description": "A round white dot on the front of the monitor.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_8_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "022-ash_element_14_highlighted.png",
+      "parent": 16,
+      "description": "A light blue rectangle on the screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "022-ash_element_14_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "Layer 18_highlighted.png",
+      "parent": 16,
+      "description": "A dark-grey horizontal bar on the screen.",
+      "color": "rgba(196, 226, 255, 1.0)",
+      "mask_path": "Layer 18_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "Item_6_highlighted.png",
+      "parent": 17,
+      "description": "A light blue area on the computer screen, appearing to show a peeling edge.",
+      "color": "rgba(216, 236, 254, 1.0)",
+      "mask_path": "Item_6_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "Item_14_highlighted.png",
+      "parent": 19,
+      "description": "A light-blue rectangular bar representing data on the screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "Item_14_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "022-ash_element_10_highlighted.png",
+      "parent": 20,
+      "description": "A light blue rectangular bar on a computer monitor screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "022-ash_element_10_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "022-ash_element_11_highlighted.png",
+      "parent": 20,
+      "description": "A small, light blue square on the computer screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "022-ash_element_11_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "022-ash_element_12_highlighted.png",
+      "parent": 20,
+      "description": "A small, light blue square on the screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "022-ash_element_12_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "022-ash_element_13_highlighted.png",
+      "parent": 20,
+      "description": "A light blue rectangle on the computer screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "022-ash_element_13_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "Item_9_highlighted.png",
+      "parent": 20,
+      "description": "A series of interconnected light blue lines and nodes on the screen, forming a diagram.",
+      "color": "rgba(196, 226, 255, 1.0)",
+      "mask_path": "Item_9_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "Item_10_highlighted.png",
+      "parent": 23,
+      "description": "A light blue rectangle on the computer screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "Item_10_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "Item_11_highlighted.png",
+      "parent": 24,
+      "description": "A light-blue square, part of a diagram on a screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "Item_11_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "Item_12_highlighted.png",
+      "parent": 25,
+      "description": "A light-blue square, part of a diagram on a screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "Item_12_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "Item_13_highlighted.png",
+      "parent": 26,
+      "description": "A light-blue rectangular bar representing data on the screen.",
+      "color": "rgba(96, 183, 255, 1.0)",
+      "mask_path": "Item_13_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "022-ash_element_9_highlighted.png",
+      "parent": 27,
+      "description": "A light blue graph-like image on a monitor screen.",
+      "color": "rgba(196, 226, 255, 1.0)",
+      "mask_path": "022-ash_element_9_highlighted.png"
+    }
+  ]
+}

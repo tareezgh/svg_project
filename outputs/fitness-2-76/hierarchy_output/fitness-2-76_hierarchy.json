@@ -1,0 +1,348 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full fitness-2-76",
+      "parent": -1,
+      "description": "A woman is exercising with resistance bands on a yoga mat.",
+      "color": "rgba(22, 45, 113, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Item_2_highlighted.png",
+      "parent": 0,
+      "description": "A light blue exercise mat.",
+      "color": "rgba(37, 52, 121, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "fitness-2-76_element_1_highlighted.png",
+      "parent": 0,
+      "description": "An orange square mat",
+      "color": "rgba(255, 145, 46, 1.0)",
+      "mask_path": "fitness-2-76_element_1_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "fitness-2-76_element_83_highlighted.png",
+      "parent": 0,
+      "description": "A bright orange square mat placed on the floor, with rounded edges.",
+      "color": "rgba(255, 145, 46, 1.0)",
+      "mask_path": "fitness-2-76_element_83_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "fitness-2-76_element_101_highlighted.png",
+      "parent": 1,
+      "description": "A grey scrunchie holding the hair bun.",
+      "color": "rgba(63, 65, 68, 1.0)",
+      "mask_path": "fitness-2-76_element_101_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "fitness-2-76_element_102_highlighted.png",
+      "parent": 1,
+      "description": "A pink arm.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_102_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "fitness-2-76_element_10_highlighted.png",
+      "parent": 1,
+      "description": "A dark-green heel of a shoe.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_10_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "fitness-2-76_element_12_highlighted.png",
+      "parent": 1,
+      "description": "A bright green sock, part of workout attire.",
+      "color": "rgba(117, 191, 52, 1.0)",
+      "mask_path": "fitness-2-76_element_12_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "fitness-2-76_element_13_highlighted.png",
+      "parent": 1,
+      "description": "A thin black resistance band held by the person to increase the challenge of the exercise.",
+      "color": "rgba(37, 52, 121, 1.0)",
+      "mask_path": "fitness-2-76_element_13_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "fitness-2-76_element_14_highlighted.png",
+      "parent": 1,
+      "description": "A pair of blue athletic pants worn for exercising.",
+      "color": "rgba(28, 59, 163, 1.0)",
+      "mask_path": "fitness-2-76_element_14_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "fitness-2-76_element_15_highlighted.png",
+      "parent": 1,
+      "description": "A light blue athletic tank top.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "fitness-2-76_element_15_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "fitness-2-76_element_17_highlighted.png",
+      "parent": 1,
+      "description": "A hair bun, part of the person's hairstyle for working out.",
+      "color": "rgba(63, 65, 68, 1.0)",
+      "mask_path": "fitness-2-76_element_17_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "fitness-2-76_element_19_highlighted.png",
+      "parent": 1,
+      "description": "A hair tie, part of the person's hairstyle.",
+      "color": "rgba(63, 65, 68, 1.0)",
+      "mask_path": "fitness-2-76_element_19_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "fitness-2-76_element_20_highlighted.png",
+      "parent": 1,
+      "description": "An arm, part of a person's body, working out.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_20_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "fitness-2-76_element_4_highlighted.png",
+      "parent": 1,
+      "description": "The toes of a dark-green shoe",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_4_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "fitness-2-76_element_6_highlighted.png",
+      "parent": 1,
+      "description": "A bright yellow-green shoe",
+      "color": "rgba(117, 191, 52, 1.0)",
+      "mask_path": "fitness-2-76_element_6_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "fitness-2-76_element_7_highlighted.png",
+      "parent": 1,
+      "description": "The blue side panel of dark workout leggings",
+      "color": "rgba(22, 55, 145, 1.0)",
+      "mask_path": "fitness-2-76_element_7_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "fitness-2-76_element_86_highlighted.png",
+      "parent": 1,
+      "description": "The white sole of a green shoe.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_86_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "fitness-2-76_element_88_highlighted.png",
+      "parent": 1,
+      "description": "The sole of a green shoe.",
+      "color": "rgba(117, 191, 52, 1.0)",
+      "mask_path": "fitness-2-76_element_88_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "fitness-2-76_element_89_highlighted.png",
+      "parent": 1,
+      "description": "The person's dark blue shorts.",
+      "color": "rgba(22, 55, 145, 1.0)",
+      "mask_path": "fitness-2-76_element_89_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "fitness-2-76_element_8_highlighted.png",
+      "parent": 1,
+      "description": "A light-pink arm reaching up and holding a resistance band",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_8_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "fitness-2-76_element_90_highlighted.png",
+      "parent": 1,
+      "description": "The upper arm of the person.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_90_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "fitness-2-76_element_92_highlighted.png",
+      "parent": 1,
+      "description": "The front of a green shoe.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_92_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "fitness-2-76_element_94_highlighted.png",
+      "parent": 1,
+      "description": "A green sock.",
+      "color": "rgba(117, 191, 52, 1.0)",
+      "mask_path": "fitness-2-76_element_94_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "fitness-2-76_element_95_highlighted.png",
+      "parent": 1,
+      "description": "A thin blue resistance band.",
+      "color": "rgba(37, 52, 121, 1.0)",
+      "mask_path": "fitness-2-76_element_95_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "fitness-2-76_element_96_highlighted.png",
+      "parent": 1,
+      "description": "A pair of blue leggings.",
+      "color": "rgba(28, 59, 163, 1.0)",
+      "mask_path": "fitness-2-76_element_96_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "fitness-2-76_element_97_highlighted.png",
+      "parent": 1,
+      "description": "A light blue tank top.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "fitness-2-76_element_97_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "fitness-2-76_element_99_highlighted.png",
+      "parent": 1,
+      "description": "A white hair bun.",
+      "color": "rgba(63, 65, 68, 1.0)",
+      "mask_path": "fitness-2-76_element_99_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "Item_1_highlighted.png",
+      "parent": 2,
+      "description": "An orange mat placed under a person exercising.",
+      "color": "rgba(255, 145, 46, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "fitness-2-76_element_11_highlighted.png",
+      "parent": 7,
+      "description": "A green athletic shoe with a blue sole, worn during exercise.",
+      "color": "rgba(22, 45, 113, 1.0)",
+      "mask_path": "fitness-2-76_element_11_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "fitness-2-76_element_93_highlighted.png",
+      "parent": 7,
+      "description": "A pair of green athletic shoes with a blue sole.",
+      "color": "rgba(22, 45, 113, 1.0)",
+      "mask_path": "fitness-2-76_element_93_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "fitness-2-76_element_16_highlighted.png",
+      "parent": 10,
+      "description": "A dark teal tank top worn during exercise.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_16_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "fitness-2-76_element_91_highlighted.png",
+      "parent": 10,
+      "description": "A single strand of a dark blue resistance band.",
+      "color": "rgba(37, 52, 121, 1.0)",
+      "mask_path": "fitness-2-76_element_91_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "fitness-2-76_element_98_highlighted.png",
+      "parent": 10,
+      "description": "A dark green t-shirt.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_98_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "fitness-2-76_element_9_highlighted.png",
+      "parent": 10,
+      "description": "A thin, dark-blue resistance band that extends from the hands to the feet",
+      "color": "rgba(37, 52, 121, 1.0)",
+      "mask_path": "fitness-2-76_element_9_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "fitness-2-76_element_100_highlighted.png",
+      "parent": 11,
+      "description": "A pink ear.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_100_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "fitness-2-76_element_18_highlighted.png",
+      "parent": 11,
+      "description": "A face, part of a person's body, exercising.",
+      "color": "rgba(255, 205, 192, 1.0)",
+      "mask_path": "fitness-2-76_element_18_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "fitness-2-76_element_3_highlighted.png",
+      "parent": 13,
+      "description": "A light-blue resistance band being held by the hands.",
+      "color": "rgba(37, 52, 121, 1.0)",
+      "mask_path": "fitness-2-76_element_3_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "fitness-2-76_element_85_highlighted.png",
+      "parent": 13,
+      "description": "A light blue resistance band handle being held by the person's hands.",
+      "color": "rgba(37, 52, 121, 1.0)",
+      "mask_path": "fitness-2-76_element_85_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "fitness-2-76_element_5_highlighted.png",
+      "parent": 15,
+      "description": "The blue side stripe of a dark pair of sports leggings",
+      "color": "rgba(22, 45, 113, 1.0)",
+      "mask_path": "fitness-2-76_element_5_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "fitness-2-76_element_87_highlighted.png",
+      "parent": 15,
+      "description": "The teal laces of the left shoe.",
+      "color": "rgba(22, 45, 113, 1.0)",
+      "mask_path": "fitness-2-76_element_87_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "fitness-2-76_element_2_highlighted.png",
+      "parent": 20,
+      "description": "A green yoga mat.",
+      "color": "rgba(22, 45, 113, 1.0)",
+      "mask_path": "fitness-2-76_element_2_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "fitness-2-76_element_84_highlighted.png",
+      "parent": 20,
+      "description": "A blue-green rectangular mat laid flat on the floor.",
+      "color": "rgba(22, 45, 113, 1.0)",
+      "mask_path": "fitness-2-76_element_84_highlighted.png"
+    }
+  ]
+}

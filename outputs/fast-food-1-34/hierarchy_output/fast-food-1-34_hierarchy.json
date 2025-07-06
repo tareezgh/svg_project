@@ -1,0 +1,1316 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full fast-food-1-34",
+      "parent": -1,
+      "description": "A meal of a burger on a plate, fries in a box, and a drink with a straw is displayed on a peach-colored surface.",
+      "color": "rgba(153, 206, 69, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Item_1_Item_129_highlighted.png",
+      "parent": 0,
+      "description": "A flat, peach-colored table surface.",
+      "color": "rgba(255, 168, 125, 1.0)",
+      "mask_path": "Item_1_Item_129_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Layer 140_highlighted.png",
+      "parent": 0,
+      "description": "A light-blue plastic drink cup with a white lid and a gray straw.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Layer 140_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "fast-food-1-34_element_1_highlighted.png",
+      "parent": 1,
+      "description": "A pale orange tray with rounded corners.",
+      "color": "rgba(255, 168, 125, 1.0)",
+      "mask_path": "fast-food-1-34_element_1_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "fast-food-1-34_element_10_highlighted.png",
+      "parent": 2,
+      "description": "A black drinking straw.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_10_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "fast-food-1-34_element_2_highlighted.png",
+      "parent": 2,
+      "description": "A cylindrical blue drink container with a lid and a drinking straw.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "fast-food-1-34_element_2_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "fast-food-1-34_element_3_highlighted.png",
+      "parent": 2,
+      "description": "A brown hamburger sitting on a blue plate.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_3_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "fast-food-1-34_element_5_highlighted.png",
+      "parent": 2,
+      "description": "A partially visible blue plate.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_5_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "fast-food-1-34_element_6_highlighted.png",
+      "parent": 2,
+      "description": "The white rim of a dark drink container.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_6_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "Item_3_Item_100_highlighted.png",
+      "parent": 3,
+      "description": "A golden-yellow french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_100_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "Item_3_Item_109_highlighted.png",
+      "parent": 3,
+      "description": "An elongated beige french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_109_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "Item_3_Item_69_highlighted.png",
+      "parent": 3,
+      "description": "A golden french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_69_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "Item_3_Item_71_highlighted.png",
+      "parent": 3,
+      "description": "A single french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_71_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Item_3_Item_77_highlighted.png",
+      "parent": 3,
+      "description": "A yellow French fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_77_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "Item_3_Item_79_highlighted.png",
+      "parent": 3,
+      "description": "A single yellow French fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_79_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "Item_3_Item_81_highlighted.png",
+      "parent": 3,
+      "description": "A single yellow french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_81_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "Item_3_Item_82_highlighted.png",
+      "parent": 3,
+      "description": "A pair of adjacent, bright-yellow french fries protrude from a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_82_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "Item_3_Item_84_highlighted.png",
+      "parent": 3,
+      "description": "A single yellow French fry, sticking out higher than the other fries in the red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_84_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "Item_3_Item_88_highlighted.png",
+      "parent": 3,
+      "description": "A single, bright yellow french fry sticking out from a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_88_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "Item_3_Item_90_highlighted.png",
+      "parent": 3,
+      "description": "A single french fry standing vertically.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_90_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "Item_3_Item_93_highlighted.png",
+      "parent": 3,
+      "description": "A golden-yellow french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_93_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "Item_3_Item_94_highlighted.png",
+      "parent": 3,
+      "description": "A single yellow french fry in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_94_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "Item_3_Item_95_highlighted.png",
+      "parent": 3,
+      "description": "A single yellow french fry sticking out of the red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_95_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "Item_3_Item_99_highlighted.png",
+      "parent": 3,
+      "description": "A single french fry is standing up in a red cardboard container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_99_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "Item_4_Item_59_highlighted.png",
+      "parent": 3,
+      "description": "An orange burger bun.",
+      "color": "rgba(244, 143, 59, 1.0)",
+      "mask_path": "Item_4_Item_59_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "Layer 139_highlighted.png",
+      "parent": 3,
+      "description": "A light blue, circular plate.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 139_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "fast-food-1-34_element_36_highlighted.png",
+      "parent": 3,
+      "description": "The wavy blue edge of the cup's lid.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_36_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "fast-food-1-34_element_40_highlighted.png",
+      "parent": 3,
+      "description": "A red, cuboid paper container that holds fries.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "fast-food-1-34_element_40_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "fast-food-1-34_element_11_highlighted.png",
+      "parent": 4,
+      "description": "A round brown burger bun with sesame seeds.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_11_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "fast-food-1-34_element_4_highlighted.png",
+      "parent": 7,
+      "description": "A maroon container filled with french fries.",
+      "color": "rgba(212, 163, 151, 1.0)",
+      "mask_path": "fast-food-1-34_element_4_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "fast-food-1-34_element_7_highlighted.png",
+      "parent": 8,
+      "description": "Several yellow french fries inside a maroon container.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_7_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "fast-food-1-34_element_37_highlighted.png",
+      "parent": 10,
+      "description": "The front side of the red french fries container.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_37_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "Item_3_Item_83_highlighted.png",
+      "parent": 11,
+      "description": "An elongated beige french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_83_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "Item_3_Item_89_highlighted.png",
+      "parent": 14,
+      "description": "One yellow french fry inside the red box.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_89_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "fast-food-1-34_element_31_highlighted.png",
+      "parent": 16,
+      "description": "A round beef burger on a blue plate with sesame seeds on top of the bun.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_31_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "Item_3_Item_85_highlighted.png",
+      "parent": 17,
+      "description": "A bright-yellow french fry protrudes from a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_85_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "Item_3_Item_87_highlighted.png",
+      "parent": 18,
+      "description": "A single, bright yellow french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_87_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "fast-food-1-34_element_24_highlighted.png",
+      "parent": 20,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_24_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "Item_3_Item_73_highlighted.png",
+      "parent": 21,
+      "description": "A single french fry in a box.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_73_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "fast-food-1-34_element_34_highlighted.png",
+      "parent": 21,
+      "description": "A square-shaped, brown table.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_34_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "Item_3_Item_86_highlighted.png",
+      "parent": 22,
+      "description": "One yellow french fry inside the red box.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_86_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "fast-food-1-34_element_26_highlighted.png",
+      "parent": 22,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_26_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "fast-food-1-34_element_73_highlighted.png",
+      "parent": 24,
+      "description": "The tan-colored top bun of the burger is round.",
+      "color": "rgba(244, 143, 59, 1.0)",
+      "mask_path": "fast-food-1-34_element_73_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "fast-food-1-34_element_74_highlighted.png",
+      "parent": 24,
+      "description": "The burger on the plate includes green lettuce.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_74_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "Item_4_Item_24_highlighted.png",
+      "parent": 25,
+      "description": "A slice of green lettuce sticking out of the burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_24_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "Item_4_Item_4_highlighted.png",
+      "parent": 25,
+      "description": "A slice of green pickle inside of a hamburger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_4_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "Item_4_Item_5_highlighted.png",
+      "parent": 25,
+      "description": "A pale green pickle slice inside a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_5_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "Item_4_Item_6_highlighted.png",
+      "parent": 25,
+      "description": "Part of a leaf of lettuce in the burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_6_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "fast-food-1-34_element_41_highlighted.png",
+      "parent": 25,
+      "description": "The entire hamburger with sesame seeds on top, as well as parts of the salad, tomatoes and cheese that peek out of the sides.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_41_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "fast-food-1-34_element_42_highlighted.png",
+      "parent": 25,
+      "description": "The rim of a blue plate.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "fast-food-1-34_element_42_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "Item_3_Item_92_highlighted.png",
+      "parent": 26,
+      "description": "A single, tan french fry in a red box.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_92_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "Item_3_Item_98_highlighted.png",
+      "parent": 26,
+      "description": "A yellow French fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_98_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "Item_3_Item_111_highlighted.png",
+      "parent": 27,
+      "description": "A bright-red rectangular container holds french fries.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "Item_3_Item_111_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "fast-food-1-34_element_9_highlighted.png",
+      "parent": 29,
+      "description": "The bun on top of a hamburger.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_9_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "fast-food-1-34_element_8_highlighted.png",
+      "parent": 30,
+      "description": "A white dot on the straw.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_8_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "fast-food-1-34_element_38_highlighted.png",
+      "parent": 31,
+      "description": "One golden-colored french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_38_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "Item_3_Item_91_highlighted.png",
+      "parent": 32,
+      "description": "A golden french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_91_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "Item_3_Item_96_highlighted.png",
+      "parent": 32,
+      "description": "A yellow French fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_96_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "fast-food-1-34_element_17_highlighted.png",
+      "parent": 33,
+      "description": "The top of the drink lid with a black straw.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_17_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "fast-food-1-34_element_18_highlighted.png",
+      "parent": 34,
+      "description": "A long, thin, yellow french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_18_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "fast-food-1-34_element_32_highlighted.png",
+      "parent": 35,
+      "description": "A wavy-sided blue paper cup with a white lid and black drinking straw.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_32_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "fast-food-1-34_element_22_highlighted.png",
+      "parent": 36,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_22_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "fast-food-1-34_element_13_highlighted.png",
+      "parent": 37,
+      "description": "Green lettuce leaves inside the burger.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_13_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "Item_3_Item_110_highlighted.png",
+      "parent": 38,
+      "description": "An elongated beige french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_110_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "fast-food-1-34_element_30_highlighted.png",
+      "parent": 38,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_30_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "Item_3_Item_75_highlighted.png",
+      "parent": 40,
+      "description": "A thin, yellow french fry, sitting upright among other fries.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_75_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "fast-food-1-34_element_16_highlighted.png",
+      "parent": 41,
+      "description": "A red slice of tomato inside the burger.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_16_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "Item_4_Item_65_highlighted.png",
+      "parent": 42,
+      "description": "A small, circular, bright-white spot is on the top bun of a hamburger.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_65_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "Item_4_Item_7_highlighted.png",
+      "parent": 42,
+      "description": "A bright green pickle slice on a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_7_highlighted.png"
+    },
+    {
+      "id": 69,
+      "filename": "fast-food-1-34_element_79_highlighted.png",
+      "parent": 42,
+      "description": "A small sesame seed sits on top of the burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_79_highlighted.png"
+    },
+    {
+      "id": 70,
+      "filename": "Item_4_Item_23_highlighted.png",
+      "parent": 43,
+      "description": "A light green pickle slice.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_23_highlighted.png"
+    },
+    {
+      "id": 71,
+      "filename": "Item_4_Item_61_highlighted.png",
+      "parent": 43,
+      "description": "A sesame seed on the bun of the burger.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_61_highlighted.png"
+    },
+    {
+      "id": 72,
+      "filename": "fast-food-1-34_element_75_highlighted.png",
+      "parent": 43,
+      "description": "A small sesame seed sits on top of the burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_75_highlighted.png"
+    },
+    {
+      "id": 73,
+      "filename": "Item_4_Item_33_highlighted.png",
+      "parent": 44,
+      "description": "A straight green line through the hamburger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_33_highlighted.png"
+    },
+    {
+      "id": 74,
+      "filename": "Item_4_Item_34_highlighted.png",
+      "parent": 44,
+      "description": "A light-green pickle slice, part of a burger",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_34_highlighted.png"
+    },
+    {
+      "id": 75,
+      "filename": "Item_4_Item_13_highlighted.png",
+      "parent": 45,
+      "description": "A small green pickle slice on top of a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_13_highlighted.png"
+    },
+    {
+      "id": 76,
+      "filename": "Item_4_Item_14_highlighted.png",
+      "parent": 45,
+      "description": "A pale green pickle slice inside a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_14_highlighted.png"
+    },
+    {
+      "id": 77,
+      "filename": "Item_4_Item_49_highlighted.png",
+      "parent": 45,
+      "description": "A red circle on the hamburger bun.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "Item_4_Item_49_highlighted.png"
+    },
+    {
+      "id": 78,
+      "filename": "fast-food-1-34_element_46_highlighted.png",
+      "parent": 45,
+      "description": "A green piece of lettuce sticking out from a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_46_highlighted.png"
+    },
+    {
+      "id": 79,
+      "filename": "Item_4_Item_15_highlighted.png",
+      "parent": 46,
+      "description": "A green piece of lettuce sticking out of a hamburger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_15_highlighted.png"
+    },
+    {
+      "id": 80,
+      "filename": "fast-food-1-34_element_47_highlighted.png",
+      "parent": 46,
+      "description": "Lettuce sticking out from the side of a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_47_highlighted.png"
+    },
+    {
+      "id": 81,
+      "filename": "Item_4_Item_62_highlighted.png",
+      "parent": 47,
+      "description": "A small, circular, bright-white spot is on the top bun of a hamburger.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_62_highlighted.png"
+    },
+    {
+      "id": 82,
+      "filename": "Item_4_Item_67_highlighted.png",
+      "parent": 47,
+      "description": "A sesame seed atop a bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_67_highlighted.png"
+    },
+    {
+      "id": 83,
+      "filename": "fast-food-1-34_element_48_highlighted.png",
+      "parent": 47,
+      "description": "A sliver of lettuce in a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_48_highlighted.png"
+    },
+    {
+      "id": 84,
+      "filename": "fast-food-1-34_element_76_highlighted.png",
+      "parent": 47,
+      "description": "A small sesame seed sits on top of the burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_76_highlighted.png"
+    },
+    {
+      "id": 85,
+      "filename": "fast-food-1-34_element_81_highlighted.png",
+      "parent": 47,
+      "description": "A small white dot that is on the top burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_81_highlighted.png"
+    },
+    {
+      "id": 86,
+      "filename": "Item_4_Item_1_highlighted.png",
+      "parent": 49,
+      "description": "The circular, orange cheese slice of a burger.",
+      "color": "rgba(244, 143, 59, 1.0)",
+      "mask_path": "Item_4_Item_1_highlighted.png"
+    },
+    {
+      "id": 87,
+      "filename": "fast-food-1-34_element_43_highlighted.png",
+      "parent": 49,
+      "description": "The top burger bun.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_43_highlighted.png"
+    },
+    {
+      "id": 88,
+      "filename": "fast-food-1-34_element_29_highlighted.png",
+      "parent": 50,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_29_highlighted.png"
+    },
+    {
+      "id": 89,
+      "filename": "Item_3_Item_97_highlighted.png",
+      "parent": 52,
+      "description": "A long, thin, rectangular french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_97_highlighted.png"
+    },
+    {
+      "id": 90,
+      "filename": "fast-food-1-34_element_35_highlighted.png",
+      "parent": 56,
+      "description": "The sesame seeds on top of the burger bun.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_35_highlighted.png"
+    },
+    {
+      "id": 91,
+      "filename": "fast-food-1-34_element_27_highlighted.png",
+      "parent": 57,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_27_highlighted.png"
+    },
+    {
+      "id": 92,
+      "filename": "fast-food-1-34_element_23_highlighted.png",
+      "parent": 58,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_23_highlighted.png"
+    },
+    {
+      "id": 93,
+      "filename": "fast-food-1-34_element_12_highlighted.png",
+      "parent": 59,
+      "description": "A light blue plate.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_12_highlighted.png"
+    },
+    {
+      "id": 94,
+      "filename": "fast-food-1-34_element_20_highlighted.png",
+      "parent": 60,
+      "description": "A long, thin, yellow french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_20_highlighted.png"
+    },
+    {
+      "id": 95,
+      "filename": "fast-food-1-34_element_25_highlighted.png",
+      "parent": 60,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_25_highlighted.png"
+    },
+    {
+      "id": 96,
+      "filename": "fast-food-1-34_element_33_highlighted.png",
+      "parent": 61,
+      "description": "A red paper container filled with golden fries.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_33_highlighted.png"
+    },
+    {
+      "id": 97,
+      "filename": "Item_3_Item_101_highlighted.png",
+      "parent": 63,
+      "description": "A single, tan french fry in a red box.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_3_Item_101_highlighted.png"
+    },
+    {
+      "id": 98,
+      "filename": "fast-food-1-34_element_39_highlighted.png",
+      "parent": 63,
+      "description": "One golden french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_39_highlighted.png"
+    },
+    {
+      "id": 99,
+      "filename": "fast-food-1-34_element_14_highlighted.png",
+      "parent": 64,
+      "description": "The brown meat patty inside the burger.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_14_highlighted.png"
+    },
+    {
+      "id": 100,
+      "filename": "Item_4_Item_12_highlighted.png",
+      "parent": 68,
+      "description": "A green slice of a pickle is in the middle of a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_12_highlighted.png"
+    },
+    {
+      "id": 101,
+      "filename": "fast-food-1-34_element_49_highlighted.png",
+      "parent": 68,
+      "description": "The top of lettuce on the burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_49_highlighted.png"
+    },
+    {
+      "id": 102,
+      "filename": "Item_4_Item_26_highlighted.png",
+      "parent": 70,
+      "description": "A pale green pickle slice inside a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_26_highlighted.png"
+    },
+    {
+      "id": 103,
+      "filename": "Item_4_Item_32_highlighted.png",
+      "parent": 70,
+      "description": "A bright green slice of pickle sticking out of a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_32_highlighted.png"
+    },
+    {
+      "id": 104,
+      "filename": "Item_4_Item_46_highlighted.png",
+      "parent": 70,
+      "description": "A red circle on the hamburger bun.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "Item_4_Item_46_highlighted.png"
+    },
+    {
+      "id": 105,
+      "filename": "fast-food-1-34_element_54_highlighted.png",
+      "parent": 70,
+      "description": "A light-green pickle slice inside a burger",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_54_highlighted.png"
+    },
+    {
+      "id": 106,
+      "filename": "Item_4_Item_41_highlighted.png",
+      "parent": 73,
+      "description": "A bright-green slice is visible inside the hamburger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_41_highlighted.png"
+    },
+    {
+      "id": 107,
+      "filename": "fast-food-1-34_element_59_highlighted.png",
+      "parent": 74,
+      "description": "A slice of light green pepper inside the burger",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_59_highlighted.png"
+    },
+    {
+      "id": 108,
+      "filename": "fast-food-1-34_element_78_highlighted.png",
+      "parent": 74,
+      "description": "A small sesame seed sits on top of the burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_78_highlighted.png"
+    },
+    {
+      "id": 109,
+      "filename": "Item_4_Item_52_highlighted.png",
+      "parent": 76,
+      "description": "A green pickle slice inside of a hamburger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_52_highlighted.png"
+    },
+    {
+      "id": 110,
+      "filename": "Item_4_Item_48_highlighted.png",
+      "parent": 77,
+      "description": "A curved section of the tomato slice on a burger.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "Item_4_Item_48_highlighted.png"
+    },
+    {
+      "id": 111,
+      "filename": "fast-food-1-34_element_51_highlighted.png",
+      "parent": 80,
+      "description": "A brown wooden surface on which food is placed",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_51_highlighted.png"
+    },
+    {
+      "id": 112,
+      "filename": "Item_4_Item_28_highlighted.png",
+      "parent": 81,
+      "description": "The top bun of a hamburger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_28_highlighted.png"
+    },
+    {
+      "id": 113,
+      "filename": "Item_4_Item_9_highlighted.png",
+      "parent": 81,
+      "description": "A small, bright yellow dot on the hamburger bun.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_9_highlighted.png"
+    },
+    {
+      "id": 114,
+      "filename": "Item_4_Item_25_highlighted.png",
+      "parent": 86,
+      "description": "A thin bright-green slice is visible inside the hamburger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_25_highlighted.png"
+    },
+    {
+      "id": 115,
+      "filename": "Item_4_Item_2_highlighted.png",
+      "parent": 86,
+      "description": "A thick red tomato slice inside the burger.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "Item_4_Item_2_highlighted.png"
+    },
+    {
+      "id": 116,
+      "filename": "Item_4_Item_35_highlighted.png",
+      "parent": 86,
+      "description": "A light green plastic toothpick.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_35_highlighted.png"
+    },
+    {
+      "id": 117,
+      "filename": "fast-food-1-34_element_44_highlighted.png",
+      "parent": 86,
+      "description": "The interior of a burger: part of the salad, tomatoes, and a layer of cheese.",
+      "color": "rgba(244, 143, 59, 1.0)",
+      "mask_path": "fast-food-1-34_element_44_highlighted.png"
+    },
+    {
+      "id": 118,
+      "filename": "fast-food-1-34_element_19_highlighted.png",
+      "parent": 90,
+      "description": "A long, thin, yellow french fry.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_19_highlighted.png"
+    },
+    {
+      "id": 119,
+      "filename": "fast-food-1-34_element_28_highlighted.png",
+      "parent": 90,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_28_highlighted.png"
+    },
+    {
+      "id": 120,
+      "filename": "fast-food-1-34_element_15_highlighted.png",
+      "parent": 94,
+      "description": "A yellow slice of cheese inside the burger.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_15_highlighted.png"
+    },
+    {
+      "id": 121,
+      "filename": "Item_4_Item_8_highlighted.png",
+      "parent": 100,
+      "description": "A slice of light green onion in the burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_8_highlighted.png"
+    },
+    {
+      "id": 122,
+      "filename": "Item_4_Item_31_highlighted.png",
+      "parent": 102,
+      "description": "A slice of green pickle inside of a hamburger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_31_highlighted.png"
+    },
+    {
+      "id": 123,
+      "filename": "Item_4_Item_68_highlighted.png",
+      "parent": 103,
+      "description": "A sesame seed on the upper bun of a burger.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_68_highlighted.png"
+    },
+    {
+      "id": 124,
+      "filename": "fast-food-1-34_element_82_highlighted.png",
+      "parent": 103,
+      "description": "A brown burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_82_highlighted.png"
+    },
+    {
+      "id": 125,
+      "filename": "fast-food-1-34_element_57_highlighted.png",
+      "parent": 104,
+      "description": "A slice of light green pepper inside the burger",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_57_highlighted.png"
+    },
+    {
+      "id": 126,
+      "filename": "fast-food-1-34_element_62_highlighted.png",
+      "parent": 104,
+      "description": "The top bun of a hamburger.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_62_highlighted.png"
+    },
+    {
+      "id": 127,
+      "filename": "fast-food-1-34_element_63_highlighted.png",
+      "parent": 104,
+      "description": "A curved slice of tomato inside a hamburger.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "fast-food-1-34_element_63_highlighted.png"
+    },
+    {
+      "id": 128,
+      "filename": "Item_4_Item_43_highlighted.png",
+      "parent": 106,
+      "description": "A white onion slice protrudes from a burger.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_43_highlighted.png"
+    },
+    {
+      "id": 129,
+      "filename": "Item_4_Item_64_highlighted.png",
+      "parent": 108,
+      "description": "A small white dot that is on the top burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_64_highlighted.png"
+    },
+    {
+      "id": 130,
+      "filename": "Item_4_Item_54_highlighted.png",
+      "parent": 109,
+      "description": "A portion of a pale green lettuce leaf inside of the hamburger.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_54_highlighted.png"
+    },
+    {
+      "id": 131,
+      "filename": "fast-food-1-34_element_67_highlighted.png",
+      "parent": 110,
+      "description": "A red cardboard box holding french fries.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_67_highlighted.png"
+    },
+    {
+      "id": 132,
+      "filename": "fast-food-1-34_element_56_highlighted.png",
+      "parent": 114,
+      "description": "A bright-red tomato slice inside a burger",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_56_highlighted.png"
+    },
+    {
+      "id": 133,
+      "filename": "Item_4_Item_22_highlighted.png",
+      "parent": 115,
+      "description": "A bright-yellow cheese slice lies inside the hamburger.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "Item_4_Item_22_highlighted.png"
+    },
+    {
+      "id": 134,
+      "filename": "fast-food-1-34_element_45_highlighted.png",
+      "parent": 115,
+      "description": "A small area of the burger bun.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_45_highlighted.png"
+    },
+    {
+      "id": 135,
+      "filename": "Item_4_Item_16_highlighted.png",
+      "parent": 116,
+      "description": "A green toothpick stuck into the burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_16_highlighted.png"
+    },
+    {
+      "id": 136,
+      "filename": "Item_4_Item_29_highlighted.png",
+      "parent": 116,
+      "description": "A white toothpick skewering the burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_29_highlighted.png"
+    },
+    {
+      "id": 137,
+      "filename": "fast-food-1-34_element_21_highlighted.png",
+      "parent": 120,
+      "description": "A yellow french fry, part of a larger serving in a red container.",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_21_highlighted.png"
+    },
+    {
+      "id": 138,
+      "filename": "Item_4_Item_66_highlighted.png",
+      "parent": 121,
+      "description": "A white sesame seed on the hamburger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_66_highlighted.png"
+    },
+    {
+      "id": 139,
+      "filename": "fast-food-1-34_element_50_highlighted.png",
+      "parent": 121,
+      "description": "Lettuce sticking out of the burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_50_highlighted.png"
+    },
+    {
+      "id": 140,
+      "filename": "fast-food-1-34_element_80_highlighted.png",
+      "parent": 121,
+      "description": "A small sesame seed sits on top of the burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_80_highlighted.png"
+    },
+    {
+      "id": 141,
+      "filename": "Item_4_Item_27_highlighted.png",
+      "parent": 122,
+      "description": "A small, circular green lettuce leaf sticking out from the burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_27_highlighted.png"
+    },
+    {
+      "id": 142,
+      "filename": "Item_4_Item_44_highlighted.png",
+      "parent": 127,
+      "description": "A curved slice of a red tomato within a burger.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "Item_4_Item_44_highlighted.png"
+    },
+    {
+      "id": 143,
+      "filename": "fast-food-1-34_element_64_highlighted.png",
+      "parent": 127,
+      "description": "A blue plate holding a hamburger.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_64_highlighted.png"
+    },
+    {
+      "id": 144,
+      "filename": "fast-food-1-34_element_60_highlighted.png",
+      "parent": 128,
+      "description": "A brown burger bun top",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_60_highlighted.png"
+    },
+    {
+      "id": 145,
+      "filename": "fast-food-1-34_element_68_highlighted.png",
+      "parent": 130,
+      "description": "Golden brown french fries sticking out of a red cardboard box.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_68_highlighted.png"
+    },
+    {
+      "id": 146,
+      "filename": "fast-food-1-34_element_66_highlighted.png",
+      "parent": 131,
+      "description": "A paper cup with a straw.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_66_highlighted.png"
+    },
+    {
+      "id": 147,
+      "filename": "fast-food-1-34_element_53_highlighted.png",
+      "parent": 133,
+      "description": "A bright-yellow cheese slice inside a burger",
+      "color": "rgba(251, 193, 68, 1.0)",
+      "mask_path": "fast-food-1-34_element_53_highlighted.png"
+    },
+    {
+      "id": 148,
+      "filename": "Item_4_Item_10_highlighted.png",
+      "parent": 135,
+      "description": "A thin, light green toothpick, inserted into the top bun of a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_10_highlighted.png"
+    },
+    {
+      "id": 149,
+      "filename": "Item_4_Item_63_highlighted.png",
+      "parent": 141,
+      "description": "A sesame seed on the burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "Item_4_Item_63_highlighted.png"
+    },
+    {
+      "id": 150,
+      "filename": "fast-food-1-34_element_77_highlighted.png",
+      "parent": 141,
+      "description": "A small sesame seed sits on top of the burger bun.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_77_highlighted.png"
+    },
+    {
+      "id": 151,
+      "filename": "fast-food-1-34_element_58_highlighted.png",
+      "parent": 144,
+      "description": "A bright-red tomato slice inside the burger",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_58_highlighted.png"
+    },
+    {
+      "id": 152,
+      "filename": "fast-food-1-34_element_61_highlighted.png",
+      "parent": 144,
+      "description": "The brown surface of a square wooden table.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_61_highlighted.png"
+    },
+    {
+      "id": 153,
+      "filename": "fast-food-1-34_element_69_highlighted.png",
+      "parent": 145,
+      "description": "A slice of white cheese inside a hamburger.",
+      "color": "rgba(255, 255, 242, 1.0)",
+      "mask_path": "fast-food-1-34_element_69_highlighted.png"
+    },
+    {
+      "id": 154,
+      "filename": "fast-food-1-34_element_65_highlighted.png",
+      "parent": 146,
+      "description": "Another curved slice of tomato inside a hamburger.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "fast-food-1-34_element_65_highlighted.png"
+    },
+    {
+      "id": 155,
+      "filename": "Item_4_Item_57_highlighted.png",
+      "parent": 147,
+      "description": "A red tomato slice, part of a burger",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "Item_4_Item_57_highlighted.png"
+    },
+    {
+      "id": 156,
+      "filename": "fast-food-1-34_element_55_highlighted.png",
+      "parent": 147,
+      "description": "A slice of light green pepper inside the burger",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "fast-food-1-34_element_55_highlighted.png"
+    },
+    {
+      "id": 157,
+      "filename": "Item_4_Item_55_highlighted.png",
+      "parent": 155,
+      "description": "A red slice of tomato inside a hamburger.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "Item_4_Item_55_highlighted.png"
+    },
+    {
+      "id": 158,
+      "filename": "fast-food-1-34_element_70_highlighted.png",
+      "parent": 157,
+      "description": "A slice of cheese inside a hamburger.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_70_highlighted.png"
+    },
+    {
+      "id": 159,
+      "filename": "fast-food-1-34_element_52_highlighted.png",
+      "parent": 158,
+      "description": "A blue cup with a straw",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_52_highlighted.png"
+    },
+    {
+      "id": 160,
+      "filename": "fast-food-1-34_element_71_highlighted.png",
+      "parent": 158,
+      "description": "A slice of bright red tomato is visible inside the burger.",
+      "color": "rgba(255, 38, 36, 1.0)",
+      "mask_path": "fast-food-1-34_element_71_highlighted.png"
+    },
+    {
+      "id": 161,
+      "filename": "fast-food-1-34_element_72_highlighted.png",
+      "parent": 160,
+      "description": "The slice of cheese peeking out from under the burger is yellow.",
+      "color": null,
+      "mask_path": "fast-food-1-34_element_72_highlighted.png"
+    },
+    {
+      "id": 162,
+      "filename": "Item_4_Item_11_highlighted.png",
+      "parent": 161,
+      "description": "A slice of tomato, cheese, and lettuce inside of a burger on a plate.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_11_highlighted.png"
+    },
+    {
+      "id": 163,
+      "filename": "Item_4_Item_30_highlighted.png",
+      "parent": 161,
+      "description": "A slice of tomato inside a burger.",
+      "color": "rgba(153, 206, 69, 1.0)",
+      "mask_path": "Item_4_Item_30_highlighted.png"
+    }
+  ]
+}

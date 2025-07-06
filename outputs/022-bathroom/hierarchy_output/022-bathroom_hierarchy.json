@@ -1,0 +1,164 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full 022-bathroom",
+      "parent": -1,
+      "description": "A vector image of a fist with an arrow indicating a rotating motion.",
+      "color": "rgba(249, 207, 172, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "022-bathroom_element_11_highlighted.png",
+      "parent": 0,
+      "description": "A darkened hand with a curved red arrow above it.",
+      "color": "rgba(239, 103, 103, 1.0)",
+      "mask_path": "022-bathroom_element_11_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "022-bathroom_element_9_highlighted.png",
+      "parent": 0,
+      "description": "The bottom part of a sink with water coming from a faucet.",
+      "color": null,
+      "mask_path": "022-bathroom_element_9_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Item_11_highlighted.png",
+      "parent": 1,
+      "description": "A darkened hand with clearly defined knuckles and fingers with a curved red arrow above it.",
+      "color": "rgba(239, 103, 103, 1.0)",
+      "mask_path": "Item_11_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Item_1_highlighted.png",
+      "parent": 2,
+      "description": "A pale hand with a curved brown arrow above it.",
+      "color": "rgba(249, 207, 172, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Item_3_highlighted.png",
+      "parent": 4,
+      "description": "The bottom half of a stylized hand",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Item_5_highlighted.png",
+      "parent": 4,
+      "description": "The pale index finger of a darkened hand bent sharply with a curved brown arrow above it.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "Item_5_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Layer 13_highlighted.png",
+      "parent": 4,
+      "description": "A pale hand with clearly defined knuckles, a curved brown arrow above it.",
+      "color": "rgba(249, 207, 172, 1.0)",
+      "mask_path": "Layer 13_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "022-bathroom_element_3_highlighted.png",
+      "parent": 5,
+      "description": "The base of a hand in a fist with light skin tone, and the beginning of palm lines.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "022-bathroom_element_3_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "022-bathroom_element_5_highlighted.png",
+      "parent": 6,
+      "description": "The end of a fingertip, light skin tone.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "022-bathroom_element_5_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "022-bathroom_element_1_highlighted.png",
+      "parent": 7,
+      "description": "A hand in a fist, with a patch of skin tone on the lower edge.",
+      "color": "rgba(249, 207, 172, 1.0)",
+      "mask_path": "022-bathroom_element_1_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "Item_8_highlighted.png",
+      "parent": 7,
+      "description": "The pale index finger of a darkened hand bent slightly with a curved brown arrow above it.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "Item_8_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "022-bathroom_element_10_highlighted.png",
+      "parent": 10,
+      "description": "A hand in a fist shape.",
+      "color": null,
+      "mask_path": "022-bathroom_element_10_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Item_4_highlighted.png",
+      "parent": 10,
+      "description": "The top of the index finger of a stylized hand",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "Item_4_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "Item_6_highlighted.png",
+      "parent": 10,
+      "description": "The pale index finger of a darkened hand with a curved brown arrow above it.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "Item_6_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "Item_7_highlighted.png",
+      "parent": 10,
+      "description": "The pale middle finger of a darkened hand with a curved brown arrow above it.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "Item_7_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "022-bathroom_element_8_highlighted.png",
+      "parent": 11,
+      "description": "A small section of skin between the fingers.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "022-bathroom_element_8_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "022-bathroom_element_4_highlighted.png",
+      "parent": 13,
+      "description": "The end of a curved finger, light skin tone.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "022-bathroom_element_4_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "022-bathroom_element_6_highlighted.png",
+      "parent": 14,
+      "description": "A section of skin between the fingers.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "022-bathroom_element_6_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "022-bathroom_element_7_highlighted.png",
+      "parent": 15,
+      "description": "A section of skin between the fingers.",
+      "color": "rgba(255, 228, 204, 1.0)",
+      "mask_path": "022-bathroom_element_7_highlighted.png"
+    }
+  ]
+}

@@ -1,0 +1,878 @@
+[
+  {
+    "id": "paris-93_element_178_highlighted.png",
+    "description": "An orange square."
+  },
+  {
+    "id": "paris-93_element_179_highlighted.png",
+    "description": "A small blue dot on the dark ground."
+  },
+  {
+    "id": "paris-93_element_180_highlighted.png",
+    "description": "An orange square."
+  },
+  {
+    "id": "paris-93_element_181_highlighted.png",
+    "description": "An orange square."
+  },
+  {
+    "id": "paris-93_element_182_highlighted.png",
+    "description": "A small blue dot on the dark ground."
+  },
+  {
+    "id": "paris-93_element_183_highlighted.png",
+    "description": "A small blue dot on the dark ground."
+  },
+  {
+    "id": "paris-93_element_184_highlighted.png",
+    "description": "A thin blue line bordering a dark landmass."
+  },
+  {
+    "id": "paris-93_element_185_highlighted.png",
+    "description": "A vertical blue line bordering a dark landmass."
+  },
+  {
+    "id": "paris-93_element_186_highlighted.png",
+    "description": "A thin vertical blue line along the edge of a dark region."
+  },
+  {
+    "id": "paris-93_element_187_highlighted.png",
+    "description": "A blue vertical line on a dark block."
+  },
+  {
+    "id": "paris-93_element_188_highlighted.png",
+    "description": "A thin strip of light blue, seemingly emanating from within a dark rectangular object."
+  },
+  {
+    "id": "paris-93_element_189_highlighted.png",
+    "description": "A thin strip of light blue, seemingly emanating from within a dark rectangular object."
+  },
+  {
+    "id": "paris-93_element_190_highlighted.png",
+    "description": "Dark grey, rectangular shape."
+  },
+  {
+    "id": "paris-93_element_191_highlighted.png",
+    "description": "A small rectangle with a blue light inside."
+  },
+  {
+    "id": "paris-93_element_192_highlighted.png",
+    "description": "A thin strip of light blue, seemingly emanating from within a dark rectangular object."
+  },
+  {
+    "id": "paris-93_element_193_highlighted.png",
+    "description": "A grey rectangular shape with a blue lit line."
+  },
+  {
+    "id": "paris-93_element_194_highlighted.png",
+    "description": "A rectangular prism with a vertical blue stripe."
+  },
+  {
+    "id": "paris-93_element_195_highlighted.png",
+    "description": "A dark, rectangular block."
+  },
+  {
+    "id": "paris-93_element_196_highlighted.png",
+    "description": "A small, blue and white object with a curved top, sitting on top of a dark block."
+  },
+  {
+    "id": "paris-93_element_197_highlighted.png",
+    "description": "A small dark rectangle with a vertical blue stripe in the middle."
+  },
+  {
+    "id": "paris-93_element_198_highlighted.png",
+    "description": "A dark brown, ground-level flat base"
+  },
+  {
+    "id": "paris-93_element_199_highlighted.png",
+    "description": "A small, teal, rectangular window in the Eiffel tower"
+  },
+  {
+    "id": "paris-93_element_200_highlighted.png",
+    "description": "A dark brown, ground-level flat base"
+  },
+  {
+    "id": "paris-93_element_201_highlighted.png",
+    "description": "A dark brown, ground-level flat base"
+  },
+  {
+    "id": "paris-93_element_202_highlighted.png",
+    "description": "A small, teal rectangular window on a building"
+  },
+  {
+    "id": "paris-93_element_203_highlighted.png",
+    "description": "A small, teal rectangular window on a building"
+  },
+  {
+    "id": "paris-93_element_204_highlighted.png",
+    "description": "A dark brown, ground-level flat base"
+  },
+  {
+    "id": "paris-93_element_205_highlighted.png",
+    "description": "A small, teal rectangular window in the Eiffel tower"
+  },
+  {
+    "id": "paris-93_element_206_highlighted.png",
+    "description": "A small, teal triangular element on France"
+  },
+  {
+    "id": "paris-93_element_207_highlighted.png",
+    "description": "A dark brown, ground-level flat base"
+  },
+  {
+    "id": "paris-93_element_208_highlighted.png",
+    "description": "An area of brown ground."
+  },
+  {
+    "id": "paris-93_element_209_highlighted.png",
+    "description": "A small, rectangular, light blue object."
+  },
+  {
+    "id": "paris-93_element_210_highlighted.png",
+    "description": "A small, irregularly shaped blue area."
+  },
+  {
+    "id": "paris-93_element_211_highlighted.png",
+    "description": "A tiny blue rectangle."
+  },
+  {
+    "id": "paris-93_element_212_highlighted.png",
+    "description": "A tall rectangular blue block."
+  },
+  {
+    "id": "paris-93_element_213_highlighted.png",
+    "description": "A thin, rectangular blue section."
+  },
+  {
+    "id": "paris-93_element_214_highlighted.png",
+    "description": "A large, curved, light blue area."
+  },
+  {
+    "id": "paris-93_element_215_highlighted.png",
+    "description": "A brown ground surface."
+  },
+  {
+    "id": "paris-93_element_216_highlighted.png",
+    "description": "A narrow, vertical blue area."
+  },
+  {
+    "id": "paris-93_element_217_highlighted.png",
+    "description": "A blue, vertical waterfall shape."
+  },
+  {
+    "id": "paris-93_element_218_highlighted.png",
+    "description": "An area of brown ground."
+  },
+  {
+    "id": "paris-93_element_219_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_220_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_221_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_222_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_223_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_224_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_225_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_226_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_227_highlighted.png",
+    "description": "A light blue section of a river."
+  },
+  {
+    "id": "paris-93_element_228_highlighted.png",
+    "description": "A narrow vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_229_highlighted.png",
+    "description": "A narrow vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_230_highlighted.png",
+    "description": "A narrow vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_231_highlighted.png",
+    "description": "A narrow vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_232_highlighted.png",
+    "description": "A small white spot, representing a light source or point of interest, located on the darker landmass structure."
+  },
+  {
+    "id": "paris-93_element_233_highlighted.png",
+    "description": "A narrow vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_234_highlighted.png",
+    "description": "A narrow vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_235_highlighted.png",
+    "description": "A wide vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_236_highlighted.png",
+    "description": "A narrow vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_237_highlighted.png",
+    "description": "A narrow vertical blue highlight representing a doorway or opening in the landmass structure."
+  },
+  {
+    "id": "paris-93_element_238_highlighted.png",
+    "description": "A dark brown, almost orange, square tile, which is the base for the displayed map"
+  },
+  {
+    "id": "paris-93_element_239_highlighted.png",
+    "description": "A dark brown, almost orange, square tile, which is the base for the displayed map"
+  },
+  {
+    "id": "paris-93_element_240_highlighted.png",
+    "description": "A blue, straight, vertical river in the middle of the scene"
+  },
+  {
+    "id": "paris-93_element_241_highlighted.png",
+    "description": "A wide, blue, straight, vertical river in the middle of the scene"
+  },
+  {
+    "id": "paris-93_element_242_highlighted.png",
+    "description": "A blue, straight, vertical river in the middle of the scene"
+  },
+  {
+    "id": "paris-93_element_243_highlighted.png",
+    "description": "A wide, blue, straight, vertical river in the middle of the scene"
+  },
+  {
+    "id": "paris-93_element_244_highlighted.png",
+    "description": "A thin, blue, straight, vertical river in the middle of the scene"
+  },
+  {
+    "id": "paris-93_element_245_highlighted.png",
+    "description": "A light blue region representing the shape of France, on which famous buildings of Paris stand"
+  },
+  {
+    "id": "paris-93_element_246_highlighted.png",
+    "description": "An orange glow from within the base of the Eiffel Tower"
+  },
+  {
+    "id": "paris-93_element_247_highlighted.png",
+    "description": "An orange glow from within the base of the Eiffel Tower"
+  },
+  {
+    "id": "paris-93_element_248_highlighted.png",
+    "description": "The lower arches of the Eiffel Tower are highlighted in a blue color."
+  },
+  {
+    "id": "paris-93_element_249_highlighted.png",
+    "description": "A ring is highlighted on the lower section of the Eiffel Tower"
+  },
+  {
+    "id": "paris-93_element_250_highlighted.png",
+    "description": "A section of the Eiffel Tower is highlighted"
+  },
+  {
+    "id": "paris-93_element_251_highlighted.png",
+    "description": "The very top spike of the Eiffel Tower is highlighted in blue."
+  },
+  {
+    "id": "paris-93_element_252_highlighted.png",
+    "description": "A large section near the middle of the Eiffel Tower's base is highlighted"
+  },
+  {
+    "id": "paris-93_element_253_highlighted.png",
+    "description": "A section of the Eiffel Tower is highlighted"
+  },
+  {
+    "id": "paris-93_element_254_highlighted.png",
+    "description": "The base legs of the Eiffel Tower are highlighted."
+  },
+  {
+    "id": "paris-93_element_255_highlighted.png",
+    "description": "The middle support beams of the Eiffel Tower are highlighted"
+  },
+  {
+    "id": "paris-93_element_256_highlighted.png",
+    "description": "The top support beams of the Eiffel Tower are highlighted."
+  },
+  {
+    "id": "paris-93_element_257_highlighted.png",
+    "description": "A section of the Eiffel Tower is highlighted"
+  },
+  {
+    "id": "paris-93_element_258_highlighted.png",
+    "description": "A bright blue, stylized rendering of an archway detail of the Eiffel Tower."
+  },
+  {
+    "id": "paris-93_element_259_highlighted.png",
+    "description": "The golden tip of the Eiffel Tower."
+  },
+  {
+    "id": "paris-93_element_260_highlighted.png",
+    "description": "A bright blue circle at the very top of the Eiffel Tower."
+  },
+  {
+    "id": "paris-93_element_261_highlighted.png",
+    "description": "The golden tip of the Eiffel Tower."
+  },
+  {
+    "id": "paris-93_element_262_highlighted.png",
+    "description": "A bright blue circle at the very top of the Eiffel Tower."
+  },
+  {
+    "id": "paris-93_element_263_highlighted.png",
+    "description": "The golden tip of the Eiffel Tower."
+  },
+  {
+    "id": "paris-93_element_264_highlighted.png",
+    "description": "The golden tip of the Eiffel Tower."
+  },
+  {
+    "id": "paris-93_element_265_highlighted.png",
+    "description": "A bright blue, stylized window detail of a building."
+  },
+  {
+    "id": "paris-93_element_266_highlighted.png",
+    "description": "A bright blue, stylized window detail of a building."
+  },
+  {
+    "id": "paris-93_element_267_highlighted.png",
+    "description": "A bright blue, stylized window detail of a building."
+  },
+  {
+    "id": "paris-93_element_268_highlighted.png",
+    "description": "A flat tan surface."
+  },
+  {
+    "id": "paris-93_element_269_highlighted.png",
+    "description": "The light blue facade of a building with arched windows."
+  },
+  {
+    "id": "paris-93_element_270_highlighted.png",
+    "description": "A long, light blue rectangle on top of a building."
+  },
+  {
+    "id": "paris-93_element_271_highlighted.png",
+    "description": "A flat tan surface."
+  },
+  {
+    "id": "paris-93_element_272_highlighted.png",
+    "description": "A long, light blue rectangle on top of a building."
+  },
+  {
+    "id": "paris-93_element_273_highlighted.png",
+    "description": "A flat tan surface."
+  },
+  {
+    "id": "paris-93_element_274_highlighted.png",
+    "description": "A flat tan surface."
+  },
+  {
+    "id": "paris-93_element_275_highlighted.png",
+    "description": "A long, light blue rectangle on top of a building."
+  },
+  {
+    "id": "paris-93_element_276_highlighted.png",
+    "description": "A flat tan surface."
+  },
+  {
+    "id": "paris-93_element_277_highlighted.png",
+    "description": "A flat tan surface."
+  },
+  {
+    "id": "Item_2_Item_96_highlighted.png",
+    "description": "A brown isometric floor"
+  },
+  {
+    "id": "Item_2_Item_108_highlighted.png",
+    "description": "A blue opening through a dark landmass"
+  },
+  {
+    "id": "Item_2_Item_77_highlighted.png",
+    "description": "A blue, vertical line representing water"
+  },
+  {
+    "id": "Item_3_Item_25_highlighted.png",
+    "description": "A bright blue archway on the dark Eiffel tower"
+  },
+  {
+    "id": "Item_2_Item_53_highlighted.png",
+    "description": "A blue rectangle on a dark block"
+  },
+  {
+    "id": "Item_2_Item_111_highlighted.png",
+    "description": "A blue area on a dark landmass"
+  },
+  {
+    "id": "Item_2_Item_61_highlighted.png",
+    "description": "A light blue angular shape on a dark block"
+  },
+  {
+    "id": "Item_3_Item_33_highlighted.png",
+    "description": "A bright blue angular shape on the dark Eiffel tower"
+  },
+  {
+    "id": "Item_1_highlighted.png",
+    "description": "No highlighted region"
+  },
+  {
+    "id": "Item_2_Item_80_highlighted.png",
+    "description": "A blue, vertical line representing water"
+  },
+  {
+    "id": "Item_2_Item_107_highlighted.png",
+    "description": "A blue rectangle within an architectural structure, possibly a doorway or window."
+  },
+  {
+    "id": "Item_2_Item_99_highlighted.png",
+    "description": "Part of the edge of a continent."
+  },
+  {
+    "id": "Item_2_Item_78_highlighted.png",
+    "description": "Part of the edge of a continent."
+  },
+  {
+    "id": "Item_4_Item_11_highlighted.png",
+    "description": "A blue, rectangular roof section on a building."
+  },
+  {
+    "id": "Item_2_Item_45_highlighted.png",
+    "description": "Part of the edge of a continent."
+  },
+  {
+    "id": "Item_2_Item_42_highlighted.png",
+    "description": "Part of the edge of a continent."
+  },
+  {
+    "id": "Item_4_Item_16_highlighted.png",
+    "description": "A blue, rectangular rooftop section on a building."
+  },
+  {
+    "id": "Item_2_Item_100_highlighted.png",
+    "description": "Part of the edge of a continent."
+  },
+  {
+    "id": "Item_4_Item_7_highlighted.png",
+    "description": "A small blue rectangle on the side of a building."
+  },
+  {
+    "id": "Item_2_Item_87_highlighted.png",
+    "description": "Part of the edge of a continent."
+  },
+  {
+    "id": "Item_3_Item_34_highlighted.png",
+    "description": "A single brightly lit rectangular window on a building."
+  },
+  {
+    "id": "Item_2_Item_66_highlighted.png",
+    "description": "A thin vertical blue line, appearing as a mast or flag pole."
+  },
+  {
+    "id": "Item_2_Item_88_highlighted.png",
+    "description": "A thin vertical blue line, likely a landmark feature on the map."
+  },
+  {
+    "id": "Item_3_Item_41_highlighted.png",
+    "description": "A gold spire atop a tower."
+  },
+  {
+    "id": "Item_2_Item_69_highlighted.png",
+    "description": "A thin vertical line, possibly a pole or architectural feature."
+  },
+  {
+    "id": "Item_2_Item_54_highlighted.png",
+    "description": "A small portion of a building facade, revealing a geometric arch-like structure."
+  },
+  {
+    "id": "Item_3_Item_22_highlighted.png",
+    "description": "The front of the Eiffel Tower, showing a cross section of the arches."
+  },
+  {
+    "id": "Item_2_Item_70_highlighted.png",
+    "description": "A vertical, rectangular blue line, likely indicating a notable landmark or monument."
+  },
+  {
+    "id": "Item_4_Item_19_highlighted.png",
+    "description": "A long horizontal window on a structure"
+  },
+  {
+    "id": "Item_4_Item_8_highlighted.png",
+    "description": "A part of the facade of the Eiffel tower, with visible support beams."
+  },
+  {
+    "id": "Item_2_Item_91_highlighted.png",
+    "description": "A blue rectangular shape, possibly a window, on the side of a dark building."
+  },
+  {
+    "id": "Item_4_Item_6_highlighted.png",
+    "description": "The brownish-orange surface of a diamond-shaped platform."
+  },
+  {
+    "id": "Item_2_Item_101_highlighted.png",
+    "description": "A blue, vertical segment of what appears to be a river or body of water."
+  },
+  {
+    "id": "Item_2_Item_43_highlighted.png",
+    "description": "A blue stripe on the side of what appears to be a landmass."
+  },
+  {
+    "id": "Item_4_Item_17_highlighted.png",
+    "description": "The flat blue roof of a gray building."
+  },
+  {
+    "id": "Item_3_Item_35_highlighted.png",
+    "description": "A blue outline highlighting structural elements of the tower."
+  },
+  {
+    "id": "Item_1_Item_114_highlighted.png",
+    "description": "A diamond-shaped, orange base."
+  },
+  {
+    "id": "Item_2_Item_67_highlighted.png",
+    "description": "A blue rectangular shape, perhaps a window, on the side of a building."
+  },
+  {
+    "id": "Item_2_Item_86_highlighted.png",
+    "description": "A blue, vertical section that resembles a body of water."
+  },
+  {
+    "id": "Item_2_Item_68_highlighted.png",
+    "description": "Two vertical blue lines on the face of a building."
+  },
+  {
+    "id": "Item_2_Item_55_highlighted.png",
+    "description": "The rectangular side of a building or structure, possibly a wall, with a vertical blue stripe."
+  },
+  {
+    "id": "Item_2_Item_89_highlighted.png",
+    "description": "A vertical, rectangular blue patch on the side of a dark building that seems to be a section of a map-like design."
+  },
+  {
+    "id": "Item_3_Item_40_highlighted.png",
+    "description": "The illuminated tip of a tall, metallic-looking tower."
+  },
+  {
+    "id": "Item_4_Item_9_highlighted.png",
+    "description": "The tower of a tower-like structure"
+  },
+  {
+    "id": "Item_2_Item_90_highlighted.png",
+    "description": "A vertical blue patch on the side of land, seemingly representing a body of water on a map of France."
+  },
+  {
+    "id": "Item_3_Item_23_highlighted.png",
+    "description": "A lit area at the base of a tower."
+  },
+  {
+    "id": "Item_2_Item_71_highlighted.png",
+    "description": "A bright blue, vertical stripe on the side of a dark structure, possibly part of a map design."
+  },
+  {
+    "id": "Item_4_Item_18_highlighted.png",
+    "description": "Part of the rooftop of a rectangular building."
+  },
+  {
+    "id": "Item_2_Item_76_highlighted.png",
+    "description": "A light blue, rectangular area on the side of a map of France, possibly indicating water or a region."
+  },
+  {
+    "id": "Item_3_Item_24_highlighted.png",
+    "description": "A golden-colored area at the base of a tower-like structure."
+  },
+  {
+    "id": "Item_2_Item_97_highlighted.png",
+    "description": "A brownish-orange ground area"
+  },
+  {
+    "id": "Item_2_Item_109_highlighted.png",
+    "description": "A brownish-orange ground area"
+  },
+  {
+    "id": "Item_2_Item_110_highlighted.png",
+    "description": "A vertical blue line within the shape of France"
+  },
+  {
+    "id": "Item_2_Item_52_highlighted.png",
+    "description": "A rectangular block with a thin blue stripe on the side"
+  },
+  {
+    "id": "Item_2_Item_81_highlighted.png",
+    "description": "A blue water area that borders France."
+  },
+  {
+    "id": "Item_2_Item_60_highlighted.png",
+    "description": "A brownish-orange ground area"
+  },
+  {
+    "id": "Item_3_Item_32_highlighted.png",
+    "description": "The spire of the Eiffel tower is illuminated in blue."
+  },
+  {
+    "id": "Item_2_Item_79_highlighted.png",
+    "description": "A small rectangular blue area marking the edge of the country"
+  },
+  {
+    "id": "Item_4_Item_10_highlighted.png",
+    "description": "A blue section with arches and columns, part of a building."
+  },
+  {
+    "id": "Item_2_Item_44_highlighted.png",
+    "description": "A small blue vertical line on the edge of the France shape"
+  },
+  {
+    "id": "Item_2_Item_106_highlighted.png",
+    "description": "A segment of a dark-colored square tower with an inward cut along the upper side"
+  },
+  {
+    "id": "Item_4_Item_1_highlighted.png",
+    "description": "A brown surface serving as the ground for a city landscape."
+  },
+  {
+    "id": "Item_2_Item_98_highlighted.png",
+    "description": "A tall, light blue rectangular shaft positioned vertically"
+  },
+  {
+    "id": "Item_3_Item_37_highlighted.png",
+    "description": "A bright blue point at the very top of the Eiffel tower"
+  },
+  {
+    "id": "Item_2_Item_65_highlighted.png",
+    "description": "A small piece of a dark rectangular tower"
+  },
+  {
+    "id": "Item_2_Item_58_highlighted.png",
+    "description": "A rectangular bar with two vertical lines on a surface."
+  },
+  {
+    "id": "Item_2_Item_84_highlighted.png",
+    "description": "A tall, wide, blue waterfall."
+  },
+  {
+    "id": "Item_4_Item_4_highlighted.png",
+    "description": "A portion of a dark-colored surface"
+  },
+  {
+    "id": "Item_2_Item_103_highlighted.png",
+    "description": "A bright blue rectangular waterfall"
+  },
+  {
+    "id": "Item_4_Item_15_highlighted.png",
+    "description": "A bright blue light on top of a dark, rectangular building."
+  },
+  {
+    "id": "Item_2_Item_92_highlighted.png",
+    "description": "The edge of a brown platform."
+  },
+  {
+    "id": "Item_3_Item_21_highlighted.png",
+    "description": "The top of the Eiffel Tower."
+  },
+  {
+    "id": "Item_2_Item_73_highlighted.png",
+    "description": "A vertical blue stripe representing the River Seine."
+  },
+  {
+    "id": "Item_2_Item_57_highlighted.png",
+    "description": "A small fragment of a blue wall on a building."
+  },
+  {
+    "id": "Item_3_Item_38_highlighted.png",
+    "description": "A gold tip of the Eiffel Tower."
+  },
+  {
+    "id": "Item_2_Item_112_highlighted.png",
+    "description": "A vertical blue stripe representing the River Seine."
+  },
+  {
+    "id": "Layer 1_highlighted.png",
+    "description": "The Eiffel Tower."
+  },
+  {
+    "id": "Item_2_Item_50_highlighted.png",
+    "description": "A thin, vertical, blue line depicting a river."
+  },
+  {
+    "id": "Item_2_Item_74_highlighted.png",
+    "description": "A small flag."
+  },
+  {
+    "id": "Item_2_Item_49_highlighted.png",
+    "description": "A thin, vertical, blue line depicting a river."
+  },
+  {
+    "id": "Item_3_Item_26_highlighted.png",
+    "description": "A gold horizontal band, part of the Eiffel Tower model."
+  },
+  {
+    "id": "Item_2_Item_95_highlighted.png",
+    "description": "A short, blue, vertical strip on the side of a land mass."
+  },
+  {
+    "id": "Item_3_Item_29_highlighted.png",
+    "description": "A light-blue square in the middle of the Eiffel Tower model."
+  },
+  {
+    "id": "Item_2_Item_46_highlighted.png",
+    "description": "A short, blue, vertical strip on the side of a land mass."
+  },
+  {
+    "id": "Item_4_Item_12_highlighted.png",
+    "description": "A rectangular light-blue strip on the top-left building on the land mass."
+  },
+  {
+    "id": "Item_2_Item_104_highlighted.png",
+    "description": "A short, blue, vertical strip on the side of a land mass."
+  },
+  {
+    "id": "Item_4_Item_3_highlighted.png",
+    "description": "A small dark piece of stone or rock on the right side."
+  },
+  {
+    "id": "Item_2_Item_83_highlighted.png",
+    "description": "A short, blue, vertical strip on the side of a land mass."
+  },
+  {
+    "id": "Item_2_Item_62_highlighted.png",
+    "description": "A blue rectangle on the right-most stone."
+  },
+  {
+    "id": "Item_2_highlighted.png",
+    "description": "A small dark piece of stone or rock on the right side."
+  },
+  {
+    "id": "Item_3_Item_30_highlighted.png",
+    "description": "A section of the Eiffel tower, with a golden light emanating from within."
+  },
+  {
+    "id": "Item_2_Item_51_highlighted.png",
+    "description": "A small, rectangular blue building or structure."
+  },
+  {
+    "id": "Item_2_Item_113_highlighted.png",
+    "description": "A light blue silhouette of what appears to be a country."
+  },
+  {
+    "id": "Item_2_Item_94_highlighted.png",
+    "description": "A rectangular blue flag."
+  },
+  {
+    "id": "Item_2_Item_75_highlighted.png",
+    "description": "The blue edge of the land mass."
+  },
+  {
+    "id": "Item_2_Item_48_highlighted.png",
+    "description": "A narrow blue sliver outlining a section of the landmass."
+  },
+  {
+    "id": "Item_3_Item_27_highlighted.png",
+    "description": "A yellow section at the top of the Eiffel tower."
+  },
+  {
+    "id": "Item_4_Item_2_highlighted.png",
+    "description": "A small grey block."
+  },
+  {
+    "id": "Item_2_Item_105_highlighted.png",
+    "description": "A thin blue vertical line along the coast of the landmass."
+  },
+  {
+    "id": "Item_3_Item_28_highlighted.png",
+    "description": "The top of the Eiffel tower, highlighted in light blue."
+  },
+  {
+    "id": "Item_2_Item_47_highlighted.png",
+    "description": "The light-brown tile floor."
+  },
+  {
+    "id": "Item_4_Item_13_highlighted.png",
+    "description": "A gray building on the platform."
+  },
+  {
+    "id": "Item_2_Item_63_highlighted.png",
+    "description": "A tall blue vertical beam on a gray building."
+  },
+  {
+    "id": "Item_3_highlighted.png",
+    "description": "The dark gray-blue landmass platform."
+  },
+  {
+    "id": "Item_3_Item_31_highlighted.png",
+    "description": "A cyan arch-shaped section of the Eiffel tower."
+  },
+  {
+    "id": "Item_2_Item_82_highlighted.png",
+    "description": "A portion of the landmass."
+  },
+  {
+    "id": "Item_2_Item_85_highlighted.png",
+    "description": "A blue vertical segment of a landmass."
+  },
+  {
+    "id": "Item_3_Item_36_highlighted.png",
+    "description": "The lamp at the top of the Eiffel tower."
+  },
+  {
+    "id": "Item_4_highlighted.png",
+    "description": "A rectangular gray structure."
+  },
+  {
+    "id": "Item_2_Item_64_highlighted.png",
+    "description": "A tall blue vertical segment of the Eiffel tower."
+  },
+  {
+    "id": "Item_2_Item_59_highlighted.png",
+    "description": "A rectangular column with a bright blue line running vertically through its center."
+  },
+  {
+    "id": "Item_4_Item_14_highlighted.png",
+    "description": "A bright blue rectangle on a dark building."
+  },
+  {
+    "id": "Item_2_Item_102_highlighted.png",
+    "description": "A rectangular blue patch on the side of a land mass, possibly representing a lake or river."
+  },
+  {
+    "id": "Item_4_Item_5_highlighted.png",
+    "description": "A vertically rectangular window, illuminated with blue light."
+  },
+  {
+    "id": "Item_3_Item_20_highlighted.png",
+    "description": "A structural piece of the Eiffel Tower, a light gray color."
+  },
+  {
+    "id": "Item_2_Item_72_highlighted.png",
+    "description": "A thin, vertical blue line along the side of a building."
+  },
+  {
+    "id": "Item_2_Item_93_highlighted.png",
+    "description": "A body of water bordering the landmass, highlighted in light blue."
+  },
+  {
+    "id": "Item_2_Item_56_highlighted.png",
+    "description": "A glowing blue rectangular object."
+  },
+  {
+    "id": "Item_3_Item_39_highlighted.png",
+    "description": "A small, glowing blue dot at the top of the Eiffel Tower."
+  }
+]
