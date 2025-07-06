@@ -70,56 +70,6 @@ def add_black_overlay(svg_root, highlighted_group, opacity=0.9):
     svg_root.append(overlay)
     svg_root.append(highlighted_group)
 
-def save_highlight_on_black_background(
-    segment_root: ET.Element,
-    original_root: ET.Element,
-    svg_id: str,
-    selected_folder: str,
-    segment_file_stem: str
-):
-    """
-    Save a highlighted segment with solid black background (no transparency or overlay).
-    Saved under: outputs/<svg_id>/highlighted_svgs_no_overlay/
-    """
-    output_dir = Path("outputs") / svg_id / "highlighted_svgs_no_overlay"
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    svg_ns = 'http://www.w3.org/2000/svg'
-    new_svg = ET.Element(original_root.tag, original_root.attrib)
-
-    for defs in original_root.findall(f'.//{{{svg_ns}}}defs'):
-        new_svg.append(defs)
-
-    black_rect = ET.Element(f'{{{svg_ns}}}rect', {
-        'x': '0',
-        'y': '0',
-        'width': '100%',
-        'height': '100%',
-        'fill': 'black'
-    })
-    new_svg.append(black_rect)
-
-    highlight_group = ET.Element(f'{{{svg_ns}}}g', {'id': 'highlighted-segment'})
-    for child in list(segment_root):
-        if child.tag.endswith('defs'):
-            continue
-
-        outer = ET.Element(child.tag, child.attrib.copy())
-
-        original_style = child.attrib.get('style', '')
-        style_parts = [kv for kv in original_style.split(';') if not kv.strip().startswith('stroke')]
-        child.attrib['style'] = ';'.join(style_parts)
-
-        highlight_group.append(outer)
-        highlight_group.append(child)
-
-    new_svg.append(highlight_group)
-
-    output_path = output_dir / f"{segment_file_stem}_highlighted.svg"
-    try:
-        ET.ElementTree(new_svg).write(output_path)
-    except Exception as e:
-        tqdm.write(f"⚠️ Failed to write black overlay version: {output_path}: {e}")
 
 def convert_full_svg_to_png(originals_dir, selected_folder, svg_id):
     """
@@ -215,6 +165,48 @@ def load_original_svg(originals_dir, selected_folder, svg_id):
         print(f"⚠️ Failed to parse original SVG {svg_id}: {e}")
         return None
 
+def extract_visible_elements(segment_root):
+    """
+    Extract visible elements from a segment root, handling both regular and plus folder structures.
+    Returns a list of visible elements.
+    """
+    visible_elements = []
+    
+    # Check if this is a plus folder structure (multiple groups with display:none)
+    has_plus_structure = False
+    for child in segment_root:
+        if child.tag.endswith('defs'):
+            continue
+        if child.tag.endswith('g') and 'style' in child.attrib:
+            style = child.attrib['style']
+            if 'display:none' in style:
+                has_plus_structure = True
+                break
+    
+    if has_plus_structure:
+        # Plus folder structure: find the group that should be visible
+        for child in segment_root:
+            if child.tag.endswith('defs'):
+                continue
+            if child.tag.endswith('g'):
+                style = child.attrib.get('style', '')
+                # Look for groups that are NOT display:none
+                if 'display:none' not in style:
+                    # This is the visible group, extract its children
+                    for grandchild in child:
+                        if grandchild.tag.endswith('defs'):
+                            continue
+                        visible_elements.append(grandchild)
+                    break
+    else:
+        # Regular structure: all direct children are visible
+        for child in list(segment_root):
+            if child.tag.endswith('defs'):
+                continue
+            visible_elements.append(child)
+    
+    return visible_elements
+
 def process_segment_file(segment_file, original_root, svg_id, selected_folder, highlighted_dir, white_dir, no_overlay_dir):
     try:
         segment_tree = ET.parse(segment_file)
@@ -229,7 +221,7 @@ def process_segment_file(segment_file, original_root, svg_id, selected_folder, h
     ET.ElementTree(combined_svg).write(highlighted_path)
 
     # Create no-overlay version
-    save_highlight_on_black_background(segment_root, original_root, svg_id, selected_folder, segment_file.stem)
+    create_combined_svg_with_black_background(segment_root, original_root, svg_id, selected_folder, segment_file.stem)
 
     # Create white mask version
     white_svg = create_white_mask_svg(original_root, segment_root)
@@ -246,18 +238,68 @@ def create_combined_svg_with_overlay(original_root, segment_root):
             combined_svg.append(child)
 
     highlighted_group = ET.Element(f'{{{svg_ns}}}g', {'id': 'highlighted-segment'})
-    for child in list(segment_root):
-        if child.tag.endswith('defs'):
-            continue
-        outer = ET.Element(child.tag, child.attrib.copy())
-        style = child.attrib.get('style', '')
+    visible_elements = extract_visible_elements(segment_root)
+    
+    for elem in visible_elements:
+        outer = ET.Element(elem.tag, elem.attrib.copy())
+        style = elem.attrib.get('style', '')
         clean_style = ';'.join(kv for kv in style.split(';') if not kv.strip().startswith('stroke')).strip(';')
-        child.attrib['style'] = clean_style
+        elem.attrib['style'] = clean_style
         highlighted_group.append(outer)
-        highlighted_group.append(child)
+        highlighted_group.append(elem)
 
     add_black_overlay(combined_svg, highlighted_group)
     return combined_svg
+
+def create_combined_svg_with_black_background(
+    segment_root: ET.Element,
+    original_root: ET.Element,
+    svg_id: str,
+    selected_folder: str,
+    segment_file_stem: str
+):
+    """
+    Save a highlighted segment with solid black background (no transparency or overlay).
+    Saved under: outputs/<svg_id>/highlighted_svgs_no_overlay/
+    """
+    output_dir = Path("outputs") / svg_id / "highlighted_svgs_no_overlay"
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    svg_ns = 'http://www.w3.org/2000/svg'
+    new_svg = ET.Element(original_root.tag, original_root.attrib)
+
+    for defs in original_root.findall(f'.//{{{svg_ns}}}defs'):
+        new_svg.append(defs)
+
+    black_rect = ET.Element(f'{{{svg_ns}}}rect', {
+        'x': '0',
+        'y': '0',
+        'width': '100%',
+        'height': '100%',
+        'fill': 'black'
+    })
+    new_svg.append(black_rect)
+
+    highlight_group = ET.Element(f'{{{svg_ns}}}g', {'id': 'highlighted-segment'})
+    visible_elements = extract_visible_elements(segment_root)
+    
+    for elem in visible_elements:
+        outer = ET.Element(elem.tag, elem.attrib.copy())
+
+        original_style = elem.attrib.get('style', '')
+        style_parts = [kv for kv in original_style.split(';') if not kv.strip().startswith('stroke')]
+        elem.attrib['style'] = ';'.join(style_parts)
+
+        highlight_group.append(outer)
+        highlight_group.append(elem)
+
+    new_svg.append(highlight_group)
+
+    output_path = output_dir / f"{segment_file_stem}_highlighted.svg"
+    try:
+        ET.ElementTree(new_svg).write(output_path)
+    except Exception as e:
+        tqdm.write(f"⚠️ Failed to write black overlay version: {output_path}: {e}")
 
 def create_white_mask_svg(original_root, segment_root):
     svg_ns = 'http://www.w3.org/2000/svg'
@@ -271,10 +313,12 @@ def create_white_mask_svg(original_root, segment_root):
         'id': 'white-shapes',
         'style': 'display:inline;opacity:1'
     })
-    for child in list(segment_root):
-        if child.tag.endswith('defs'):
-            continue
-        white_shape = ET.Element(child.tag, child.attrib.copy())
+    
+    visible_elements = extract_visible_elements(segment_root)
+    
+    # Create white shapes from visible elements
+    for elem in visible_elements:
+        white_shape = ET.Element(elem.tag, elem.attrib.copy())
         white_shape.attrib.pop('stroke', None)
         white_shape.attrib['fill'] = 'white'
         white_shape.attrib['style'] = 'fill:white;display:inline;opacity:1'
