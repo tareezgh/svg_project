@@ -1,0 +1,7 @@
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 500 500" style="width: 188px;" xml:space="preserve" data-imageid="production-line-3" imageName="Production Line" class="illustrations_image"><svg:rect x="0" y="0" width="100%" height="100%" fill="black" /><svg:g id="highlighted-segment"><svg:g id="box-2_production-line-3" style="" /><svg:g id="box-2_production-line-3" style="">
+		<svg:rect x="235.5" y="258" style="fill:#FFBC0E;" width="67.5" height="63.9" />
+		<svg:path style="fill:#093F68;" d="M302.9,323.8h-67.5c-1,0-1.8-0.8-1.8-1.8l0,0v-64c0-1,0.8-1.8,1.8-1.8l0,0h67.5    c1,0,1.8,0.8,1.8,1.8l0,0v63.9C304.8,322.9,304,323.8,302.9,323.8C303,323.8,302.9,323.8,302.9,323.8z M237.3,320.1h63.8v-60.3    h-63.8V320.1z" />
+		<svg:rect x="262.9" y="258" style="fill:#F56132;" width="12.6" height="20" />
+		<svg:path style="fill:#093F68;" d="M275.5,279.9h-12.6c-1,0-1.8-0.8-1.8-1.8V258c0-1,0.8-1.8,1.8-1.8l0,0h12.6c1,0,1.8,0.8,1.8,1.8    l0,0v20C277.4,279,276.6,279.9,275.5,279.9L275.5,279.9z M264.7,276.2h8.9v-16.4h-8.9V276.2z" />
+	</svg:g>
+</svg:g></svg:svg>

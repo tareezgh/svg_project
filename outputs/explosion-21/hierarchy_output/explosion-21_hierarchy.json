@@ -1,0 +1,820 @@
+{
+  "global_style": "cartoon-style vector",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full explosion-21",
+      "parent": -1,
+      "description": "A stylized image of a mushroom cloud with rings around it, set against a light blue background.",
+      "color": null
+    },
+    {
+      "id": 1,
+      "filename": "Item_1_highlighted.png",
+      "parent": 0,
+      "description": "A dark teal background shape.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Layer 79_highlighted.png",
+      "parent": 1,
+      "description": "A bright teal, cloud-like shape with streaks extending upward.",
+      "color": "rgba(0, 0, 0, 1.0)",
+      "mask_path": "Layer 79_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Layer 80_highlighted.png",
+      "parent": 1,
+      "description": "The light blue lower cloud of the explosion, with several spikes projecting outwards.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 80_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "explosion-21_element_355_highlighted.png",
+      "parent": 1,
+      "description": "A blue rounded shape indicating the sky.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_355_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "explosion-21_element_356_highlighted.png",
+      "parent": 1,
+      "description": "A blue area suggesting ground, likely the result of an explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_356_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Item_35_highlighted.png",
+      "parent": 2,
+      "description": "A column of blue material falling from an explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_35_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Item_38_highlighted.png",
+      "parent": 2,
+      "description": "A stream of light blue light coming from above the explosion.",
+      "color": "rgba(0, 0, 0, 1.0)",
+      "mask_path": "Item_38_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "Item_10_highlighted.png",
+      "parent": 3,
+      "description": "A bright blue cloud at the base of an explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_10_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "Item_3_highlighted.png",
+      "parent": 3,
+      "description": "A blue burst.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "Item_4_highlighted.png",
+      "parent": 3,
+      "description": "A vertical cyan streak emerging from a dark cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_4_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "Item_5_highlighted.png",
+      "parent": 3,
+      "description": "A thin diagonal section from an explosion plume.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_5_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "Item_6_highlighted.png",
+      "parent": 3,
+      "description": "A single, light blue streak emanating from the central plume.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_6_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Item_8_highlighted.png",
+      "parent": 3,
+      "description": "A long spike shape.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_8_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "Item_9_highlighted.png",
+      "parent": 3,
+      "description": "A light blue spike emanating from the central plume.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_9_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "explosion-21_element_364_highlighted.png",
+      "parent": 3,
+      "description": "A small blue shape, likely part of the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_364_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "Item_40_highlighted.png",
+      "parent": 4,
+      "description": "A stylized, fluffy teal cloud at the top of a larger cloud formation.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_40_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "Layer 78_highlighted.png",
+      "parent": 4,
+      "description": "A cloud formation with a flat top surrounded by a dark ring.",
+      "color": "rgba(0, 0, 0, 1.0)",
+      "mask_path": "Layer 78_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "explosion-21_element_385_highlighted.png",
+      "parent": 4,
+      "description": "A bright blue ring above a dark explosion cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_385_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "Layer 75_highlighted.png",
+      "parent": 5,
+      "description": "A cyan-colored band at the very bottom of the image.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 75_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "Item_22_highlighted.png",
+      "parent": 6,
+      "description": "A small bright blue splash in the middle of a dark explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_22_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "Item_39_highlighted.png",
+      "parent": 6,
+      "description": "A blue cloud shape.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_39_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "explosion-21_element_377_highlighted.png",
+      "parent": 6,
+      "description": "A long, light blue column.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_377_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "explosion-21_element_378_highlighted.png",
+      "parent": 6,
+      "description": "A small, arrow-shaped light blue form.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_378_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "Item_11_highlighted.png",
+      "parent": 8,
+      "description": "A compact, stylized teal cloud at the center.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_11_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "Item_17_highlighted.png",
+      "parent": 8,
+      "description": "A set of irregular, curved waves at the base of the central explosion plume.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_17_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "explosion-21_element_357_highlighted.png",
+      "parent": 10,
+      "description": "A blue line emanating from the center of the blast.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_357_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "explosion-21_element_374_highlighted.png",
+      "parent": 12,
+      "description": "A spike of energy on the left side of the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_374_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "explosion-21_element_363_highlighted.png",
+      "parent": 13,
+      "description": "A small splash of blue, likely representing a particle or droplet of water.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_363_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "explosion-21_element_375_highlighted.png",
+      "parent": 13,
+      "description": "A small, vertically-oriented blue teardrop shape.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_375_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "Item_16_highlighted.png",
+      "parent": 15,
+      "description": "A small droplet shape.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_16_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "explosion-21_element_380_highlighted.png",
+      "parent": 16,
+      "description": "A cloud shape of a light blue color.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_380_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "explosion-21_element_386_highlighted.png",
+      "parent": 16,
+      "description": "An arc of bright blue clouds floating above a dark explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_386_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "Item_47_highlighted.png",
+      "parent": 17,
+      "description": "A stylized teal cloud atop a larger cloud formation.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_47_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "Item_52_highlighted.png",
+      "parent": 18,
+      "description": "A flat, circular cyan ring above a cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_52_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "Layer 76_highlighted.png",
+      "parent": 18,
+      "description": "A light blue ring above a dark cloud.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 76_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "Item_65_highlighted.png",
+      "parent": 19,
+      "description": "A bright blue ring at the base of the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_65_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "Layer 77_highlighted.png",
+      "parent": 19,
+      "description": "A light blue ring with multiple layers at the base of the explosion.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 77_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "explosion-21_element_366_highlighted.png",
+      "parent": 19,
+      "description": "The base of a mushroom cloud, resembling spilled water.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_366_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "explosion-21_element_395_highlighted.png",
+      "parent": 19,
+      "description": "A bright blue ring at the base of the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_395_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "explosion-21_element_367_highlighted.png",
+      "parent": 20,
+      "description": "A spark in the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_367_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "explosion-21_element_379_highlighted.png",
+      "parent": 21,
+      "description": "Two small, light blue, bat-shaped objects.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_379_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "Item_7_highlighted.png",
+      "parent": 22,
+      "description": "A light beam.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_7_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "explosion-21_element_376_highlighted.png",
+      "parent": 22,
+      "description": "A small, vertically-oriented light blue rectangle.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_376_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "explosion-21_element_389_highlighted.png",
+      "parent": 22,
+      "description": "A bright blue cloud forming after a dark explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_389_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "explosion-21_element_359_highlighted.png",
+      "parent": 24,
+      "description": "A cluster of blue shapes and blobs within the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_359_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "explosion-21_element_360_highlighted.png",
+      "parent": 24,
+      "description": "A large light-blue area in the lower center indicating the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_360_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "explosion-21_element_365_highlighted.png",
+      "parent": 25,
+      "description": "The eye of a cartoon monster.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_365_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "explosion-21_element_362_highlighted.png",
+      "parent": 26,
+      "description": "A single small blue dot in the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_362_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "Item_32_highlighted.png",
+      "parent": 27,
+      "description": "A small droplet shape.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_32_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "Item_15_highlighted.png",
+      "parent": 28,
+      "description": "A blue raindrop.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_15_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "Item_33_highlighted.png",
+      "parent": 29,
+      "description": "A small, light blue splash emanating from the central plume.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_33_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "Item_53_highlighted.png",
+      "parent": 32,
+      "description": "The lower part of an upper cloud from an explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_53_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "explosion-21_element_382_highlighted.png",
+      "parent": 33,
+      "description": "A cloud of light blue color, partially obscured by a circular disk.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_382_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "explosion-21_element_384_highlighted.png",
+      "parent": 33,
+      "description": "A small light-blue rectangle.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_384_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "explosion-21_element_387_highlighted.png",
+      "parent": 34,
+      "description": "A bright blue ring above a dark explosion cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_387_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "Item_67_highlighted.png",
+      "parent": 36,
+      "description": "A white line around the bottom of the explosion",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_67_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "Item_19_highlighted.png",
+      "parent": 38,
+      "description": "A row of fluffy, stylized teal waves or clouds at the bottom of the scene.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_19_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "explosion-21_element_358_highlighted.png",
+      "parent": 42,
+      "description": "A small blue shape in the middle of the blast.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_358_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "Item_34_highlighted.png",
+      "parent": 43,
+      "description": "A bright blue flame-like splash at the top of a dark explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_34_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "Item_59_highlighted.png",
+      "parent": 44,
+      "description": "A small, thin, bright teal streak piercing the central cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_59_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "Item_13_highlighted.png",
+      "parent": 45,
+      "description": "A pair of light blue clouds",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_13_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "Item_25_highlighted.png",
+      "parent": 45,
+      "description": "A small light blue highlight in the center of the dark central plume.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_25_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "explosion-21_element_368_highlighted.png",
+      "parent": 45,
+      "description": "A feather in the cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_368_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "explosion-21_element_381_highlighted.png",
+      "parent": 45,
+      "description": "Two small light blue cloud shapes.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_381_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "explosion-21_element_372_highlighted.png",
+      "parent": 47,
+      "description": "The left eye of a cartoon monster.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_372_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "Item_14_highlighted.png",
+      "parent": 48,
+      "description": "A tiny section of explosion material.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_14_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "Item_49_highlighted.png",
+      "parent": 53,
+      "description": "A small cloud at the top of the explosion.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_49_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "Item_50_highlighted.png",
+      "parent": 53,
+      "description": "A semi-circular light blue highlight at the top of the dark central cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_50_highlighted.png"
+    },
+    {
+      "id": 69,
+      "filename": "Item_51_highlighted.png",
+      "parent": 54,
+      "description": "A small blob-shaped cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_51_highlighted.png"
+    },
+    {
+      "id": 70,
+      "filename": "Item_54_highlighted.png",
+      "parent": 55,
+      "description": "A light blue ring",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_54_highlighted.png"
+    },
+    {
+      "id": 71,
+      "filename": "Item_68_highlighted.png",
+      "parent": 56,
+      "description": "A white ring.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_68_highlighted.png"
+    },
+    {
+      "id": 72,
+      "filename": "explosion-21_element_361_highlighted.png",
+      "parent": 61,
+      "description": "Two small blue splashes, likely representing debris or water.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_361_highlighted.png"
+    },
+    {
+      "id": 73,
+      "filename": "explosion-21_element_369_highlighted.png",
+      "parent": 62,
+      "description": "The right eye of the monster.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_369_highlighted.png"
+    },
+    {
+      "id": 74,
+      "filename": "Item_23_highlighted.png",
+      "parent": 63,
+      "description": "A single, stylized teal bird flying through the central cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_23_highlighted.png"
+    },
+    {
+      "id": 75,
+      "filename": "Item_45_highlighted.png",
+      "parent": 64,
+      "description": "A cloud-shaped cluster of explosion material.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_45_highlighted.png"
+    },
+    {
+      "id": 76,
+      "filename": "Item_28_highlighted.png",
+      "parent": 65,
+      "description": "A blue shape.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_28_highlighted.png"
+    },
+    {
+      "id": 77,
+      "filename": "explosion-21_element_383_highlighted.png",
+      "parent": 68,
+      "description": "A small blue circle.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_383_highlighted.png"
+    },
+    {
+      "id": 78,
+      "filename": "Item_56_highlighted.png",
+      "parent": 70,
+      "description": "A bright white ring floating above the rest of the cloud formation.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_56_highlighted.png"
+    },
+    {
+      "id": 79,
+      "filename": "Item_57_highlighted.png",
+      "parent": 70,
+      "description": "A ring-shaped cloud at the top of the explosion cloud.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_57_highlighted.png"
+    },
+    {
+      "id": 80,
+      "filename": "explosion-21_element_388_highlighted.png",
+      "parent": 70,
+      "description": "A glowing blue ring sits atop a cloud forming after an explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_388_highlighted.png"
+    },
+    {
+      "id": 81,
+      "filename": "Item_29_highlighted.png",
+      "parent": 71,
+      "description": "A section of a lower ring from an explosion",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_29_highlighted.png"
+    },
+    {
+      "id": 82,
+      "filename": "Item_30_highlighted.png",
+      "parent": 71,
+      "description": "A section of a lower ring from an explosion",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_30_highlighted.png"
+    },
+    {
+      "id": 83,
+      "filename": "Item_31_highlighted.png",
+      "parent": 71,
+      "description": "A small, thin blue ring on the base of a cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_31_highlighted.png"
+    },
+    {
+      "id": 84,
+      "filename": "explosion-21_element_370_highlighted.png",
+      "parent": 71,
+      "description": "A curved line in the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_370_highlighted.png"
+    },
+    {
+      "id": 85,
+      "filename": "explosion-21_element_371_highlighted.png",
+      "parent": 71,
+      "description": "The pupil of a cartoon monster.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_371_highlighted.png"
+    },
+    {
+      "id": 86,
+      "filename": "Item_24_highlighted.png",
+      "parent": 75,
+      "description": "Two stylized, symmetrical teal birds fly through the central cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_24_highlighted.png"
+    },
+    {
+      "id": 87,
+      "filename": "explosion-21_element_390_highlighted.png",
+      "parent": 75,
+      "description": "A small area of bright blue cloud within a larger explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_390_highlighted.png"
+    },
+    {
+      "id": 88,
+      "filename": "explosion-21_element_392_highlighted.png",
+      "parent": 75,
+      "description": "A small puff of bright blue smoke emerging from a larger dark explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_392_highlighted.png"
+    },
+    {
+      "id": 89,
+      "filename": "explosion-21_element_393_highlighted.png",
+      "parent": 75,
+      "description": "A curved bright blue wisp of smoke from an explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_393_highlighted.png"
+    },
+    {
+      "id": 90,
+      "filename": "explosion-21_element_394_highlighted.png",
+      "parent": 75,
+      "description": "A small bright blue cloud emerging from a dark explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_394_highlighted.png"
+    },
+    {
+      "id": 91,
+      "filename": "Item_55_highlighted.png",
+      "parent": 80,
+      "description": "A blue ring.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_55_highlighted.png"
+    },
+    {
+      "id": 92,
+      "filename": "explosion-21_element_373_highlighted.png",
+      "parent": 83,
+      "description": "A spark on the right side of the explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_373_highlighted.png"
+    },
+    {
+      "id": 93,
+      "filename": "Item_26_highlighted.png",
+      "parent": 84,
+      "description": "A small section of a ring forming in an explosion",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_26_highlighted.png"
+    },
+    {
+      "id": 94,
+      "filename": "Item_27_highlighted.png",
+      "parent": 85,
+      "description": "A small, glowing cyan point within a cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_27_highlighted.png"
+    },
+    {
+      "id": 95,
+      "filename": "explosion-21_element_391_highlighted.png",
+      "parent": 86,
+      "description": "Two curved bright blue clouds emerging from a larger dark explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "explosion-21_element_391_highlighted.png"
+    },
+    {
+      "id": 96,
+      "filename": "Item_60_highlighted.png",
+      "parent": 87,
+      "description": "A cyan crescent shape amidst a cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_60_highlighted.png"
+    },
+    {
+      "id": 97,
+      "filename": "Item_62_highlighted.png",
+      "parent": 88,
+      "description": "A small, light blue highlight in the center of the dark plume.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_62_highlighted.png"
+    },
+    {
+      "id": 98,
+      "filename": "Item_63_highlighted.png",
+      "parent": 89,
+      "description": "A crescent-shaped cloud.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_63_highlighted.png"
+    },
+    {
+      "id": 99,
+      "filename": "Item_64_highlighted.png",
+      "parent": 90,
+      "description": "A small, stylized, teal streak, possibly representing a bird's eye.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_64_highlighted.png"
+    },
+    {
+      "id": 100,
+      "filename": "Item_58_highlighted.png",
+      "parent": 91,
+      "description": "A ring-shaped cloud at the top of the explosion cloud.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_58_highlighted.png"
+    },
+    {
+      "id": 101,
+      "filename": "Item_61_highlighted.png",
+      "parent": 95,
+      "description": "A small segment within the cloud of an explosion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_61_highlighted.png"
+    }
+  ]
+}

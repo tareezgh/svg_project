@@ -1,2 +1,2 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0.0 0.0 200.0 200.0" height="200.0px" width="200.0px"><ns0:rect x="0" y="0" width="100%" height="100%" fill="black" /><ns0:g id="highlighted-segment"><ns0:path style="fill:#C5D3DD" d="M137.986,184.002H62.014l15.103-44.526h45.766L137.986,184.002z" /><ns0:path style="fill:#C5D3DD" d="M137.986,184.002H62.014l15.103-44.526h45.766L137.986,184.002z" />
-</ns0:g></ns0:svg>
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0.0 0.0 200.0 200.0" height="200.0px" width="200.0px"><svg:rect x="0" y="0" width="100%" height="100%" fill="black" /><svg:g id="highlighted-segment"><svg:path style="fill:#C5D3DD" d="M137.986,184.002H62.014l15.103-44.526h45.766L137.986,184.002z" /><svg:path style="fill:#C5D3DD" d="M137.986,184.002H62.014l15.103-44.526h45.766L137.986,184.002z" />
+</svg:g></svg:svg>

@@ -105,6 +105,72 @@ class SVGSegmenter:
             return False
         return True
 
+    # not used but could get. the full body in arm image
+    def process_svg_file1(self, svg_path: str, output_dir: str):
+        try:
+            tree = ET.parse(svg_path)
+            root = tree.getroot()
+            base_filename = os.path.splitext(os.path.basename(svg_path))[0]
+            segment_dir = os.path.join(output_dir, base_filename, "segmented_svgs")
+            os.makedirs(segment_dir, exist_ok=True)
+            style_element = self.extract_styles(root)
+
+            elements = []
+            for element in root.findall('.//svg:*', self.SVG_NS):
+                tag = element.tag.split('}')[-1]
+                if tag not in self.SHAPE_ELEMENTS:
+                    continue
+                if not self.passes_filters(element, style_element):
+                    continue
+                poly = self.parse_element_to_shapely(element)
+                if poly and not poly.is_empty:
+                    elements.append({'element': element, 'polygon': poly})
+
+            for idx, item in enumerate(elements):
+                element = item['element']
+                polygon = item['polygon']
+
+                # Build a mask only from upper elements that cover ≥ 70% of this polygon
+                occluding_polygons = []
+                for upper_item in elements[idx+1:]:
+                    upper_poly = upper_item['polygon']
+                    if not upper_poly or not upper_poly.intersects(polygon):
+                        continue
+                    intersection = upper_poly.intersection(polygon)
+                    if intersection.is_empty:
+                        continue
+                    coverage_ratio = intersection.area / polygon.area
+                    if coverage_ratio >= 0.7:
+                        occluding_polygons.append(upper_poly)
+
+                # Apply the occlusion mask
+                if occluding_polygons:
+                    mask = unary_union(occluding_polygons)
+                    if mask.covers(polygon):
+                        logging.info(f"Skipping fully covered element: {element.get('id', 'unknown')}")
+                        continue
+                    polygon = polygon.difference(mask)
+
+                if polygon.is_empty or polygon.area < 1e-3:
+                    continue
+
+                # Create new SVG with the visible portion of the shape
+                new_svg = self.create_svg_template(root)
+                if style_element is not None:
+                    new_svg.append(style_element)
+                new_element = ET.fromstring(ET.tostring(element))
+                new_element.tag = f"{{{self.SVG_NS['svg']}}}path"
+                new_element.set('id', self.generate_unique_id('element'))
+                new_element.set('d', self.polygon_to_pathdata(polygon))
+                new_svg.append(new_element)
+
+                filename = re.sub(r'[<>:"/\\|?*]', '_', f"{base_filename}_{new_element.get('id')}.svg")
+                filepath = os.path.join(segment_dir, filename)
+                ET.ElementTree(new_svg).write(filepath, encoding='utf-8', xml_declaration=True)
+
+        except Exception as e:
+            logging.error(f"Error processing {svg_path}: {e}")
+
     def process_svg_file(self, svg_path: str, output_dir: str):
         try:
             tree = ET.parse(svg_path)

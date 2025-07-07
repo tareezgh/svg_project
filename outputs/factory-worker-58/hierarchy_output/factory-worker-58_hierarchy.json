@@ -1,0 +1,732 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full factory-worker-58",
+      "parent": -1,
+      "description": "An isometric view shows three workers packing boxes on a conveyor belt production line.",
+      "color": "rgba(71, 62, 57, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "factory-worker-58_element_129_highlighted.png",
+      "parent": 0,
+      "description": "A light blue surface that covers the floor.",
+      "color": "rgba(74, 164, 232, 1.0)",
+      "mask_path": "factory-worker-58_element_129_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "factory-worker-58_element_145_highlighted.png",
+      "parent": 0,
+      "description": "A vertical wooden support of an overhead structure",
+      "color": "rgba(237, 164, 33, 1.0)",
+      "mask_path": "factory-worker-58_element_145_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "factory-worker-58_element_146_highlighted.png",
+      "parent": 0,
+      "description": "A vertical wooden support of an overhead structure.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_146_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "factory-worker-58_element_147_highlighted.png",
+      "parent": 0,
+      "description": "The horizontal beam with a small, circular object attached on top of a wooden structure.",
+      "color": "rgba(237, 164, 33, 1.0)",
+      "mask_path": "factory-worker-58_element_147_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "factory-worker-58_element_148_highlighted.png",
+      "parent": 0,
+      "description": "The horizontal beam with a small, circular object attached on top of a wooden structure.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_148_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "factory-worker-58_element_149_highlighted.png",
+      "parent": 0,
+      "description": "A tall, rectangular yellow post, part of a standing frame.",
+      "color": "rgba(237, 164, 33, 1.0)",
+      "mask_path": "factory-worker-58_element_149_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "factory-worker-58_element_155_highlighted.png",
+      "parent": 0,
+      "description": "A horizontal yellow beam, part of an overhead frame.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_155_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "factory-worker-58_element_135_highlighted.png",
+      "parent": 1,
+      "description": "The worker's white ankle.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_135_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "factory-worker-58_element_136_highlighted.png",
+      "parent": 1,
+      "description": "A worker's white ankle.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_136_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "factory-worker-58_element_137_highlighted.png",
+      "parent": 1,
+      "description": "The front edge of a table where a worker is standing.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_137_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "factory-worker-58_element_139_highlighted.png",
+      "parent": 1,
+      "description": "A brown pot holding a plant with red and green leaves.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_139_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "factory-worker-58_element_140_highlighted.png",
+      "parent": 1,
+      "description": "A brown cardboard box",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_140_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "factory-worker-58_element_144_highlighted.png",
+      "parent": 1,
+      "description": "A blue work table used by factory workers to package boxes.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "factory-worker-58_element_144_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "factory-worker-58_element_210_highlighted.png",
+      "parent": 1,
+      "description": "The top half of a red cylindrical pot.",
+      "color": "rgba(224, 83, 66, 1.0)",
+      "mask_path": "factory-worker-58_element_210_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "factory-worker-58_element_211_highlighted.png",
+      "parent": 1,
+      "description": "A brown, cylindrical plant pot.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_211_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "factory-worker-58_element_212_highlighted.png",
+      "parent": 1,
+      "description": "The surface of a small round, red clay pot.",
+      "color": "rgba(224, 83, 66, 1.0)",
+      "mask_path": "factory-worker-58_element_212_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "factory-worker-58_element_213_highlighted.png",
+      "parent": 1,
+      "description": "A brown leaf of a potted plant.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_213_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "factory-worker-58_element_214_highlighted.png",
+      "parent": 1,
+      "description": "A pair of green leaves from a potted plant.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_214_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "factory-worker-58_element_216_highlighted.png",
+      "parent": 1,
+      "description": "A brown colored tip of a plant leaf.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_216_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "factory-worker-58_element_217_highlighted.png",
+      "parent": 1,
+      "description": "Two bright green leaves of a potted plant.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_217_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "factory-worker-58_element_218_highlighted.png",
+      "parent": 1,
+      "description": "A long brown plant stem.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_218_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "factory-worker-58_element_151_highlighted.png",
+      "parent": 4,
+      "description": "A small, round red light, part of an overhead frame.",
+      "color": "rgba(224, 83, 66, 1.0)",
+      "mask_path": "factory-worker-58_element_151_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "factory-worker-58_element_156_highlighted.png",
+      "parent": 4,
+      "description": "A small, round red light, part of an overhead frame.",
+      "color": "rgba(224, 83, 66, 1.0)",
+      "mask_path": "factory-worker-58_element_156_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "factory-worker-58_element_153_highlighted.png",
+      "parent": 5,
+      "description": "A small, round red light, part of an overhead frame.",
+      "color": "rgba(224, 83, 66, 1.0)",
+      "mask_path": "factory-worker-58_element_153_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "factory-worker-58_element_150_highlighted.png",
+      "parent": 6,
+      "description": "A shorter, rectangular yellow post, part of a standing frame.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_150_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "factory-worker-58_element_143_highlighted.png",
+      "parent": 13,
+      "description": "A brown cardboard box.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_143_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "factory-worker-58_element_201_highlighted.png",
+      "parent": 13,
+      "description": "A white apron on a factory worker.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_201_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "factory-worker-58_element_207_highlighted.png",
+      "parent": 13,
+      "description": "The dark colored rim of a head cover, likely worn by a factory worker.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_207_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "factory-worker-58_element_208_highlighted.png",
+      "parent": 13,
+      "description": "The top of a dark colored head cover, likely worn by a factory worker.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_208_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "factory-worker-58_element_215_highlighted.png",
+      "parent": 18,
+      "description": "A curved green leaf of a plant in a pot.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_215_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "factory-worker-58_element_152_highlighted.png",
+      "parent": 22,
+      "description": "A horizontal yellow beam, part of an overhead frame.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_152_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "factory-worker-58_element_157_highlighted.png",
+      "parent": 23,
+      "description": "A horizontal yellow beam, part of an overhead frame.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_157_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "factory-worker-58_element_154_highlighted.png",
+      "parent": 24,
+      "description": "A horizontal yellow beam, part of an overhead frame.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_154_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "factory-worker-58_element_130_highlighted.png",
+      "parent": 26,
+      "description": "A brown pot for a plant.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_130_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "factory-worker-58_element_131_highlighted.png",
+      "parent": 26,
+      "description": "A white hat atop a worker's head.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_131_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "factory-worker-58_element_132_highlighted.png",
+      "parent": 26,
+      "description": "A white edge of the table where the worker stands.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_132_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "factory-worker-58_element_138_highlighted.png",
+      "parent": 26,
+      "description": "The side leg of a table.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_138_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "factory-worker-58_element_141_highlighted.png",
+      "parent": 26,
+      "description": "The white leg of a blue table.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_141_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "factory-worker-58_element_142_highlighted.png",
+      "parent": 26,
+      "description": "A brown cardboard box.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_142_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "factory-worker-58_element_158_highlighted.png",
+      "parent": 26,
+      "description": "A horizontal yellow beam, part of an overhead frame.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_158_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "factory-worker-58_element_159_highlighted.png",
+      "parent": 26,
+      "description": "A stack of gold bars inside an open cardboard box.",
+      "color": "rgba(237, 164, 33, 1.0)",
+      "mask_path": "factory-worker-58_element_159_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "factory-worker-58_element_162_highlighted.png",
+      "parent": 26,
+      "description": "A cardboard box on a blue table.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_162_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "factory-worker-58_element_163_highlighted.png",
+      "parent": 26,
+      "description": "A stack of gold bars inside an open cardboard box.",
+      "color": "rgba(237, 164, 33, 1.0)",
+      "mask_path": "factory-worker-58_element_163_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "factory-worker-58_element_165_highlighted.png",
+      "parent": 26,
+      "description": "The corner of an open cardboard box, placed on a blue table.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_165_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "factory-worker-58_element_166_highlighted.png",
+      "parent": 26,
+      "description": "A cardboard box on a blue table.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_166_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "factory-worker-58_element_167_highlighted.png",
+      "parent": 26,
+      "description": "A stack of gold bars inside an open cardboard box.",
+      "color": "rgba(237, 164, 33, 1.0)",
+      "mask_path": "factory-worker-58_element_167_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "factory-worker-58_element_170_highlighted.png",
+      "parent": 26,
+      "description": "The factory worker's right arm",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_170_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "factory-worker-58_element_174_highlighted.png",
+      "parent": 26,
+      "description": "A white apron.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_174_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "factory-worker-58_element_176_highlighted.png",
+      "parent": 26,
+      "description": "The worker's arm.",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_176_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "factory-worker-58_element_180_highlighted.png",
+      "parent": 26,
+      "description": "The flat surface of a teal-colored table.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_180_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "factory-worker-58_element_181_highlighted.png",
+      "parent": 26,
+      "description": "A white chef's hat atop a factory worker's head.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_181_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "factory-worker-58_element_183_highlighted.png",
+      "parent": 26,
+      "description": "The white of the worker's forearm, implying movement.",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_183_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "factory-worker-58_element_186_highlighted.png",
+      "parent": 26,
+      "description": "The top of the green shirt on the factory worker.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_186_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "factory-worker-58_element_187_highlighted.png",
+      "parent": 26,
+      "description": "The side of a white chef's apron.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_187_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "factory-worker-58_element_189_highlighted.png",
+      "parent": 26,
+      "description": "A pale human hand.",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_189_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "factory-worker-58_element_193_highlighted.png",
+      "parent": 26,
+      "description": "A worker's yellow face and neck.",
+      "color": "rgba(237, 164, 33, 1.0)",
+      "mask_path": "factory-worker-58_element_193_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "factory-worker-58_element_194_highlighted.png",
+      "parent": 26,
+      "description": "A worker's white hat.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_194_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "factory-worker-58_element_197_highlighted.png",
+      "parent": 26,
+      "description": "A worker's pale right hand.",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_197_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "factory-worker-58_element_205_highlighted.png",
+      "parent": 26,
+      "description": "The bare hand of a factory worker, likely skin.",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_205_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "factory-worker-58_element_133_highlighted.png",
+      "parent": 27,
+      "description": "The vertical stripe of a worker's apron.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_133_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "factory-worker-58_element_198_highlighted.png",
+      "parent": 27,
+      "description": "The corner of a brown cardboard box.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_198_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "factory-worker-58_element_199_highlighted.png",
+      "parent": 27,
+      "description": "A light-green high-visibility vest worn by a factory worker.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_199_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "factory-worker-58_element_200_highlighted.png",
+      "parent": 27,
+      "description": "The top of a dark-colored head cover, presumably worn by a factory worker.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_200_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "factory-worker-58_element_203_highlighted.png",
+      "parent": 28,
+      "description": "The rim of a dark head cover, likely worn by a factory worker.",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_203_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "factory-worker-58_element_209_highlighted.png",
+      "parent": 28,
+      "description": "A potted plant with two tall green leaves.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_209_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "factory-worker-58_element_160_highlighted.png",
+      "parent": 40,
+      "description": "A cardboard box on a blue table.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_160_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "factory-worker-58_element_161_highlighted.png",
+      "parent": 40,
+      "description": "A cardboard box on a blue table.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_161_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "factory-worker-58_element_164_highlighted.png",
+      "parent": 42,
+      "description": "A cardboard box on a blue table.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_164_highlighted.png"
+    },
+    {
+      "id": 69,
+      "filename": "factory-worker-58_element_168_highlighted.png",
+      "parent": 45,
+      "description": "A cardboard box on a blue table.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_168_highlighted.png"
+    },
+    {
+      "id": 70,
+      "filename": "factory-worker-58_element_169_highlighted.png",
+      "parent": 45,
+      "description": "A brown cardboard box.",
+      "color": "rgba(117, 76, 36, 1.0)",
+      "mask_path": "factory-worker-58_element_169_highlighted.png"
+    },
+    {
+      "id": 71,
+      "filename": "factory-worker-58_element_171_highlighted.png",
+      "parent": 48,
+      "description": "A worker's arm",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_171_highlighted.png"
+    },
+    {
+      "id": 72,
+      "filename": "factory-worker-58_element_172_highlighted.png",
+      "parent": 48,
+      "description": "A worker's apron and shirt.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_172_highlighted.png"
+    },
+    {
+      "id": 73,
+      "filename": "factory-worker-58_element_179_highlighted.png",
+      "parent": 50,
+      "description": "The top face and a corner of a brown cardboard box.",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_179_highlighted.png"
+    },
+    {
+      "id": 74,
+      "filename": "factory-worker-58_element_182_highlighted.png",
+      "parent": 50,
+      "description": "The top face and a corner of a brown cardboard box.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_182_highlighted.png"
+    },
+    {
+      "id": 75,
+      "filename": "factory-worker-58_element_134_highlighted.png",
+      "parent": 52,
+      "description": "The edge of a green worker shirt.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_134_highlighted.png"
+    },
+    {
+      "id": 76,
+      "filename": "factory-worker-58_element_184_highlighted.png",
+      "parent": 54,
+      "description": "The white cloth of the worker's apron.",
+      "color": "rgba(224, 214, 205, 1.0)",
+      "mask_path": "factory-worker-58_element_184_highlighted.png"
+    },
+    {
+      "id": 77,
+      "filename": "factory-worker-58_element_185_highlighted.png",
+      "parent": 54,
+      "description": "A thin band of yellow fabric across the factory worker's shoulder.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_185_highlighted.png"
+    },
+    {
+      "id": 78,
+      "filename": "factory-worker-58_element_192_highlighted.png",
+      "parent": 56,
+      "description": "A worker's pale face.",
+      "color": "rgba(255, 200, 169, 1.0)",
+      "mask_path": "factory-worker-58_element_192_highlighted.png"
+    },
+    {
+      "id": 79,
+      "filename": "factory-worker-58_element_195_highlighted.png",
+      "parent": 56,
+      "description": "The side of a brown cardboard box.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_195_highlighted.png"
+    },
+    {
+      "id": 80,
+      "filename": "factory-worker-58_element_196_highlighted.png",
+      "parent": 62,
+      "description": "A worker's white ponytail.",
+      "color": "rgba(71, 62, 57, 1.0)",
+      "mask_path": "factory-worker-58_element_196_highlighted.png"
+    },
+    {
+      "id": 81,
+      "filename": "factory-worker-58_element_204_highlighted.png",
+      "parent": 62,
+      "description": "The dark colored rim of a head cover, likely worn by a factory worker.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_204_highlighted.png"
+    },
+    {
+      "id": 82,
+      "filename": "factory-worker-58_element_206_highlighted.png",
+      "parent": 62,
+      "description": "A high-visibility band worn around the upper arm of a factory worker, likely green.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_206_highlighted.png"
+    },
+    {
+      "id": 83,
+      "filename": "factory-worker-58_element_202_highlighted.png",
+      "parent": 64,
+      "description": "The dark colored rim of a head cover, likely worn by a factory worker.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_202_highlighted.png"
+    },
+    {
+      "id": 84,
+      "filename": "factory-worker-58_element_173_highlighted.png",
+      "parent": 72,
+      "description": "A worker's shoulder",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_173_highlighted.png"
+    },
+    {
+      "id": 85,
+      "filename": "factory-worker-58_element_175_highlighted.png",
+      "parent": 72,
+      "description": "A worker's headwear.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_175_highlighted.png"
+    },
+    {
+      "id": 86,
+      "filename": "factory-worker-58_element_177_highlighted.png",
+      "parent": 72,
+      "description": "The worker's badge on the shoulder.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_177_highlighted.png"
+    },
+    {
+      "id": 87,
+      "filename": "factory-worker-58_element_178_highlighted.png",
+      "parent": 73,
+      "description": "Part of a cardboard box.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_178_highlighted.png"
+    },
+    {
+      "id": 88,
+      "filename": "factory-worker-58_element_188_highlighted.png",
+      "parent": 77,
+      "description": "The flat surface of a teal-colored table.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_188_highlighted.png"
+    },
+    {
+      "id": 89,
+      "filename": "factory-worker-58_element_190_highlighted.png",
+      "parent": 77,
+      "description": "A worker's neon yellow sleeve.",
+      "color": "rgba(162, 198, 9, 1.0)",
+      "mask_path": "factory-worker-58_element_190_highlighted.png"
+    },
+    {
+      "id": 90,
+      "filename": "factory-worker-58_element_191_highlighted.png",
+      "parent": 78,
+      "description": "The side of a brown cardboard box.",
+      "color": "rgba(58, 57, 53, 1.0)",
+      "mask_path": "factory-worker-58_element_191_highlighted.png"
+    }
+  ]
+}

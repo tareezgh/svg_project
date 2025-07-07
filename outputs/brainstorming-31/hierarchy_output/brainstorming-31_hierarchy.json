@@ -1,0 +1,516 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full brainstorming-31",
+      "parent": -1,
+      "description": "A lightbulb containing a brain is surrounded by atom-like orbits, speech bubbles and dots.",
+      "color": "rgba(209, 211, 212, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "brainstorming-31_element_273_highlighted.png",
+      "parent": 0,
+      "description": "A light-blue lightbulb shape with a brain inside.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "brainstorming-31_element_273_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "brainstorming-31_element_275_highlighted.png",
+      "parent": 0,
+      "description": "A set of dark grey horizontal rings which are part of a lightbulb's screw base.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "brainstorming-31_element_275_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "brainstorming-31_element_277_highlighted.png",
+      "parent": 0,
+      "description": "A set of dark grey horizontal rings which are part of the lightbulb's screw base.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "brainstorming-31_element_277_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "brainstorming-31_element_279_highlighted.png",
+      "parent": 0,
+      "description": "A set of dark grey horizontal rings which are part of the lightbulb's screw base.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "brainstorming-31_element_279_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "brainstorming-31_element_281_highlighted.png",
+      "parent": 0,
+      "description": "A set of dark grey horizontal rings which are part of the lightbulb's screw base.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "brainstorming-31_element_281_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "brainstorming-31_element_283_highlighted.png",
+      "parent": 0,
+      "description": "The lightbulb's glass surrounding the brain",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "brainstorming-31_element_283_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "brainstorming-31_element_304_highlighted.png",
+      "parent": 0,
+      "description": "A curved, tan line that forms part of a larger orbiting shape around a lightbulb.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "brainstorming-31_element_304_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "brainstorming-31_element_305_highlighted.png",
+      "parent": 0,
+      "description": "A curved, tan line that forms part of a larger orbiting shape around a lightbulb.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "brainstorming-31_element_305_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "brainstorming-31_element_307_highlighted.png",
+      "parent": 0,
+      "description": "A small, white dot, possibly a star, near one of two orbiting shapes.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_307_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "brainstorming-31_element_310_highlighted.png",
+      "parent": 0,
+      "description": "A small, white dot, possibly a star, near one of two orbiting shapes.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_310_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "brainstorming-31_element_311_highlighted.png",
+      "parent": 0,
+      "description": "A small, white dot, possibly a star, near one of two orbiting shapes.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_311_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "brainstorming-31_element_313_highlighted.png",
+      "parent": 0,
+      "description": "A small, white circular dot.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_313_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "brainstorming-31_element_315_highlighted.png",
+      "parent": 0,
+      "description": "A small, white circular dot.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_315_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "brainstorming-31_element_316_highlighted.png",
+      "parent": 0,
+      "description": "A small, white circular dot.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_316_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "brainstorming-31_element_318_highlighted.png",
+      "parent": 0,
+      "description": "A grey speech bubble.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_318_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "brainstorming-31_element_320_highlighted.png",
+      "parent": 0,
+      "description": "A grey speech bubble.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_320_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "brainstorming-31_element_322_highlighted.png",
+      "parent": 0,
+      "description": "A white square speech bubble.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_322_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "brainstorming-31_element_324_highlighted.png",
+      "parent": 0,
+      "description": "A small, gray, cartoon cloud shape.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_324_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "brainstorming-31_element_284_highlighted.png",
+      "parent": 1,
+      "description": "Half of the brain inside the lightbulb",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_284_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "brainstorming-31_element_294_highlighted.png",
+      "parent": 1,
+      "description": "The white right hemisphere of a brain within a lightbulb.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_294_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "brainstorming-31_element_274_highlighted.png",
+      "parent": 2,
+      "description": "A set of horizontal white rings which are part of the lightbulb's screw base.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_274_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "brainstorming-31_element_276_highlighted.png",
+      "parent": 3,
+      "description": "A set of horizontal white rings which are part of the lightbulb's screw base.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_276_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "brainstorming-31_element_278_highlighted.png",
+      "parent": 4,
+      "description": "A set of horizontal white rings which are part of the lightbulb's screw base.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_278_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "brainstorming-31_element_280_highlighted.png",
+      "parent": 5,
+      "description": "A set of horizontal white rings which are part of the lightbulb's screw base.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_280_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "brainstorming-31_element_282_highlighted.png",
+      "parent": 6,
+      "description": "A set of dark grey horizontal rings which are part of the lightbulb's screw base.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "brainstorming-31_element_282_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "brainstorming-31_element_306_highlighted.png",
+      "parent": 7,
+      "description": "A small, white dot, possibly a star, near one of two orbiting shapes.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_306_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "brainstorming-31_element_308_highlighted.png",
+      "parent": 7,
+      "description": "A small, white dot, possibly a star, near one of two orbiting shapes.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_308_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "brainstorming-31_element_309_highlighted.png",
+      "parent": 7,
+      "description": "A small, white dot, possibly a star, near one of two orbiting shapes.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_309_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "brainstorming-31_element_312_highlighted.png",
+      "parent": 7,
+      "description": "A small, white dot, possibly a star, on the upper right of a lightbulb.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_312_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "brainstorming-31_element_314_highlighted.png",
+      "parent": 7,
+      "description": "A small, white circular dot.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_314_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "brainstorming-31_element_317_highlighted.png",
+      "parent": 15,
+      "description": "A white speech bubble with a line through it.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_317_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "brainstorming-31_element_319_highlighted.png",
+      "parent": 16,
+      "description": "A white speech bubble containing three horizontal lines.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_319_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "brainstorming-31_element_321_highlighted.png",
+      "parent": 17,
+      "description": "A white square speech bubble.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_321_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "brainstorming-31_element_323_highlighted.png",
+      "parent": 18,
+      "description": "A white cartoon cloud with an eraser deleting part of it.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_323_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "brainstorming-31_element_285_highlighted.png",
+      "parent": 19,
+      "description": "A curved line on the brain",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_285_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "brainstorming-31_element_286_highlighted.png",
+      "parent": 19,
+      "description": "A curved line on the brain",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_286_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "brainstorming-31_element_287_highlighted.png",
+      "parent": 19,
+      "description": "A curved line on the brain",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_287_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "brainstorming-31_element_288_highlighted.png",
+      "parent": 19,
+      "description": "A curved line on the brain",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_288_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "brainstorming-31_element_289_highlighted.png",
+      "parent": 19,
+      "description": "A curved line on the brain",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_289_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "brainstorming-31_element_290_highlighted.png",
+      "parent": 19,
+      "description": "A curved line on the brain",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_290_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "brainstorming-31_element_291_highlighted.png",
+      "parent": 19,
+      "description": "A small curved line on the brain",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_291_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "brainstorming-31_element_292_highlighted.png",
+      "parent": 19,
+      "description": "A curved line on the brain",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_292_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "brainstorming-31_element_293_highlighted.png",
+      "parent": 19,
+      "description": "A white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_293_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "brainstorming-31_element_295_highlighted.png",
+      "parent": 20,
+      "description": "A white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_295_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "brainstorming-31_element_296_highlighted.png",
+      "parent": 20,
+      "description": "A white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_296_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "brainstorming-31_element_297_highlighted.png",
+      "parent": 20,
+      "description": "A white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_297_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "brainstorming-31_element_298_highlighted.png",
+      "parent": 20,
+      "description": "A white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_298_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "brainstorming-31_element_299_highlighted.png",
+      "parent": 20,
+      "description": "A white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_299_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "brainstorming-31_element_300_highlighted.png",
+      "parent": 20,
+      "description": "A white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_300_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "brainstorming-31_element_301_highlighted.png",
+      "parent": 20,
+      "description": "A small white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_301_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "brainstorming-31_element_302_highlighted.png",
+      "parent": 20,
+      "description": "A white curved line within a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_302_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "brainstorming-31_element_303_highlighted.png",
+      "parent": 20,
+      "description": "A small, white dot, possibly a reflection, on the blue glass of a lightbulb shape containing a brain illustration.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "brainstorming-31_element_303_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "brainstorming-31_element_325_highlighted.png",
+      "parent": 31,
+      "description": "A dark gray speech bubble with smaller dots in it.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_325_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "brainstorming-31_element_326_highlighted.png",
+      "parent": 31,
+      "description": "A dark gray speech bubble with a dot pattern inside.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_326_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "brainstorming-31_element_327_highlighted.png",
+      "parent": 32,
+      "description": "A gray speech bubble with a horizontal line inside, representing a thought.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_327_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "brainstorming-31_element_328_highlighted.png",
+      "parent": 32,
+      "description": "A dark gray speech bubble with a hyphen inside.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_328_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "brainstorming-31_element_329_highlighted.png",
+      "parent": 33,
+      "description": "A gray speech bubble containing a short horizontal line.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_329_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "brainstorming-31_element_330_highlighted.png",
+      "parent": 33,
+      "description": "A gray speech bubble with a short horizontal line inside.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_330_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "brainstorming-31_element_331_highlighted.png",
+      "parent": 33,
+      "description": "A gray speech bubble with a small horizontal line inside.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_331_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "brainstorming-31_element_332_highlighted.png",
+      "parent": 33,
+      "description": "A dark gray speech bubble with a white horizontal line in it.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_332_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "brainstorming-31_element_333_highlighted.png",
+      "parent": 34,
+      "description": "A dark blue lightbulb shape, featuring an internal outline of a brain and horizontal line detail",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_333_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "brainstorming-31_element_334_highlighted.png",
+      "parent": 34,
+      "description": "A dark gray brain graphic inside a stylized lightbulb shape, with a visible outline of brain lobes",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_334_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "brainstorming-31_element_335_highlighted.png",
+      "parent": 34,
+      "description": "A gray speech bubble, apparently attached to a thought cloud.",
+      "color": "rgba(209, 211, 212, 1.0)",
+      "mask_path": "brainstorming-31_element_335_highlighted.png"
+    }
+  ]
+}

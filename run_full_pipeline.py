@@ -24,6 +24,8 @@ from consts import DEFAULT_PROMPT
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+OUTPUT_ROOT = Path("outputs")
+
 def select_input_folder():
     """Let user select a folder from inputs/"""
     base_input_dir = Path('./inputs')
@@ -62,7 +64,7 @@ def step1_svg_segmentation(selected_folder):
     print("="*60)
     
     input_dir = Path("inputs") / selected_folder
-    output_dir = Path("outputs")
+    output_dir = OUTPUT_ROOT
     
     if not input_dir.exists():
         logging.error(f"Input directory not found: {input_dir}")
@@ -86,7 +88,7 @@ def step2_highlight_segments(selected_folder):
     print("="*60)
     
     inputs_dir = Path("inputs")
-    outputs_dir = Path("outputs")
+    outputs_dir = OUTPUT_ROOT
     
     selected_input_path = inputs_dir / selected_folder
     svg_files = list(selected_input_path.glob("*.svg"))
@@ -105,7 +107,7 @@ def step2_highlight_segments(selected_folder):
             # Check if segmented folders exist
             segment_sources = []
             
-            seg_dir = Path("outputs") / svg_id / "segmented_svgs"
+            seg_dir = OUTPUT_ROOT / svg_id / "segmented_svgs"
             if seg_dir.exists() and any(seg_dir.iterdir()):
                 segment_sources.append(seg_dir)
             
@@ -125,7 +127,7 @@ def step2_highlight_segments(selected_folder):
             )
             
             # Convert SVGs to PNGs
-            base_output = Path("outputs") / svg_id
+            base_output = OUTPUT_ROOT / svg_id
             convert_svg_folder(base_output / "highlighted_svgs", base_output / "highlighted_pngs")
             convert_svg_folder(base_output / "highlighted_svgs_no_overlay", base_output / "highlighted_pngs_no_overlay")
             convert_svg_folder(base_output / "white_svgs", base_output / "white_pngs")
@@ -152,7 +154,7 @@ def step3_send_to_gemini(selected_folder):
     print("="*60)
     
     inputs_dir = Path("inputs")
-    outputs_dir = Path("outputs")
+    outputs_dir = OUTPUT_ROOT
     
     selected_input_path = inputs_dir / selected_folder
     svg_files = list(selected_input_path.glob("*.svg"))
@@ -191,7 +193,7 @@ def step4_build_hierarchy(selected_folder):
     print("="*60)
     
     inputs_dir = Path("inputs")
-    outputs_dir = Path("outputs")
+    outputs_dir = OUTPUT_ROOT
     
     selected_input_path = inputs_dir / selected_folder
     svg_files = list(selected_input_path.glob("*.svg"))

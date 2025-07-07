@@ -1,0 +1,276 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full recycling-4-19",
+      "parent": -1,
+      "description": "The image depicts a recycling cycle around a tree, showing items like paper, plastic bags, cardboard boxes, cans, and apples in a circular motion.",
+      "color": null
+    },
+    {
+      "id": 1,
+      "filename": "recycling-4-19_element_336_highlighted.png",
+      "parent": 0,
+      "description": "The image shows a collection of different recycling items in a circular pattern, including paper, a tree, plastic bags, and a glass bottle.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_336_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Item_1_highlighted.png",
+      "parent": 1,
+      "description": "A teal organic shape contains images of recycling options, including paper, bags, boxes, bottles, apples, cans and trees.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Item_3_highlighted.png",
+      "parent": 2,
+      "description": "A crushed, cylindrical aluminum can.",
+      "color": "rgba(1, 1, 1, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Item_4_highlighted.png",
+      "parent": 2,
+      "description": "A bitten apple with a leaf.",
+      "color": "rgba(1, 1, 1, 1.0)",
+      "mask_path": "Item_4_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Item_7_highlighted.png",
+      "parent": 2,
+      "description": "A light blue cardboard box, part of the recycling chain.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_7_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Item_8_highlighted.png",
+      "parent": 2,
+      "description": "The light blue crown of a tree.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "Item_8_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Item_9_highlighted.png",
+      "parent": 2,
+      "description": "Two sheets of light blue paper with lines, appearing to be recyclable paper.",
+      "color": "rgba(1, 1, 1, 1.0)",
+      "mask_path": "Item_9_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "recycling-4-19_element_337_highlighted.png",
+      "parent": 2,
+      "description": "A clear plastic bottle for recycling.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_337_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "recycling-4-19_element_343_highlighted.png",
+      "parent": 2,
+      "description": "A recycling arrow.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_343_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "recycling-4-19_element_344_highlighted.png",
+      "parent": 2,
+      "description": "A recycling arrow.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_344_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "recycling-4-19_element_345_highlighted.png",
+      "parent": 2,
+      "description": "A recycling arrow.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_345_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "recycling-4-19_element_346_highlighted.png",
+      "parent": 2,
+      "description": "A light blue curved arrow points to a gray plastic bag.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_346_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "recycling-4-19_element_347_highlighted.png",
+      "parent": 2,
+      "description": "A light blue curved arrow points to a stack of gray papers.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_347_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "recycling-4-19_element_348_highlighted.png",
+      "parent": 2,
+      "description": "A light blue curved arrow points to a gray apple.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_348_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "recycling-4-19_element_350_highlighted.png",
+      "parent": 2,
+      "description": "A light blue plastic bag.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_350_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "recycling-4-19_element_338_highlighted.png",
+      "parent": 3,
+      "description": "A crushed, silver aluminum can for recycling.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_338_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "recycling-4-19_element_339_highlighted.png",
+      "parent": 3,
+      "description": "The top of a crushed silver can.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_339_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "recycling-4-19_element_341_highlighted.png",
+      "parent": 4,
+      "description": "A small piece of an apple core, where the stem was.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_341_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "recycling-4-19_element_342_highlighted.png",
+      "parent": 4,
+      "description": "A half-eaten apple.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_342_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "recycling-4-19_element_352_highlighted.png",
+      "parent": 6,
+      "description": "A small light blue tree.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_352_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "recycling-4-19_element_353_highlighted.png",
+      "parent": 6,
+      "description": "No description available.",
+      "color": "rgba(35, 31, 32, 1.0)",
+      "mask_path": "recycling-4-19_element_353_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "recycling-4-19_element_354_highlighted.png",
+      "parent": 7,
+      "description": "A stack of light blue papers.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_354_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "Item_2_highlighted.png",
+      "parent": 8,
+      "description": "A light blue plastic bottle.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "Layer 14_highlighted.png",
+      "parent": 9,
+      "description": "A blue recycling arrow pointing toward a tin can.",
+      "color": "rgba(1, 1, 1, 1.0)",
+      "mask_path": "Layer 14_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "Layer 15_highlighted.png",
+      "parent": 10,
+      "description": "A recycling arrow pointing to a plastic bottle.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 15_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "Layer 16_highlighted.png",
+      "parent": 11,
+      "description": "A cardboard box.",
+      "color": "rgba(1, 1, 1, 1.0)",
+      "mask_path": "Layer 16_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "Layer 11_highlighted.png",
+      "parent": 12,
+      "description": "A translucent plastic grocery bag.",
+      "color": "rgba(1, 1, 1, 1.0)",
+      "mask_path": "Layer 11_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "Layer 12_highlighted.png",
+      "parent": 13,
+      "description": "A light blue recycling arrow that points to a paper.",
+      "color": "rgba(1, 1, 1, 1.0)",
+      "mask_path": "Layer 12_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "Layer 13_highlighted.png",
+      "parent": 14,
+      "description": "A blue recycling arrow pointing towards an apple.",
+      "color": "rgba(1, 1, 1, 1.0)",
+      "mask_path": "Layer 13_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "Item_6_highlighted.png",
+      "parent": 15,
+      "description": "A white plastic bag with handles, part of the recycling chain.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Item_6_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "recycling-4-19_element_340_highlighted.png",
+      "parent": 17,
+      "description": "A partially visible crushed aluminum can.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_340_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "recycling-4-19_element_349_highlighted.png",
+      "parent": 19,
+      "description": "A gray apple core with a light blue portion.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "recycling-4-19_element_349_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "recycling-4-19_element_351_highlighted.png",
+      "parent": 30,
+      "description": "No description available.",
+      "color": null,
+      "mask_path": "recycling-4-19_element_351_highlighted.png"
+    }
+  ]
+}

@@ -8,6 +8,8 @@ from tqdm import tqdm
 from convert_svg_highlights_to_png import convert_svg_folder
 from collections import defaultdict
 
+OUTPUT_ROOT = Path("outputs")
+
 def find_original_svg(originals_dir, svg_id):
     """
     Search the parent directory of originals_dir for the original SVG file.
@@ -100,7 +102,7 @@ def convert_full_svg_to_png(originals_dir, selected_folder, svg_id):
 
 
 def highlight_segments(originals_dir, selected_folder, svg_id):
-    base_output = Path("outputs") / svg_id
+    base_output = OUTPUT_ROOT / svg_id
     highlighted_dir, white_dir, no_overlay_dir = prepare_output_dirs(base_output)
     
     segment_files = collect_segment_files(svg_id, base_output)
@@ -262,7 +264,7 @@ def create_combined_svg_with_black_background(
     Save a highlighted segment with solid black background (no transparency or overlay).
     Saved under: outputs/<svg_id>/highlighted_svgs_no_overlay/
     """
-    output_dir = Path("outputs") / svg_id / "highlighted_svgs_no_overlay"
+    output_dir = OUTPUT_ROOT / svg_id / "highlighted_svgs_no_overlay"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     svg_ns = 'http://www.w3.org/2000/svg'
@@ -366,7 +368,7 @@ def main():
         # Check if segmented folders exist
         segment_sources = []
 
-        seg_dir = Path("outputs") / svg_id / "segmented_svgs"
+        seg_dir = OUTPUT_ROOT / svg_id / "segmented_svgs"
         if seg_dir.exists() and any(seg_dir.iterdir()):
             segment_sources.append(seg_dir)
 
@@ -386,7 +388,7 @@ def main():
             svg_id=svg_id                     
         )
 
-        base_output = Path("outputs") / svg_id
+        base_output = OUTPUT_ROOT / svg_id
 
         convert_svg_folder(base_output / "highlighted_svgs", base_output / "highlighted_pngs")
         convert_svg_folder(base_output / "highlighted_svgs_no_overlay", base_output / "highlighted_pngs_no_overlay")

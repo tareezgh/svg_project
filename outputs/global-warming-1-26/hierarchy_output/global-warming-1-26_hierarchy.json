@@ -1,0 +1,332 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full global-warming-1-26",
+      "parent": -1,
+      "description": "A cartoonish cityscape with factories emitting smoke is set atop a gray, clouded globe. A yellow car is in front of the factory.",
+      "color": "rgba(230, 230, 230, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Item_1_highlighted.png",
+      "parent": 0,
+      "description": "A yellow car parked outside a building.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Item_2_highlighted.png",
+      "parent": 0,
+      "description": "The light-gray surface of a sphere-like land mass with white-gray mottling.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Layer 10_highlighted.png",
+      "parent": 1,
+      "description": "A light blue smokestack emitting white smoke.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 10_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Layer 11_highlighted.png",
+      "parent": 1,
+      "description": "A yellow circle, positioned as the sun.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "Layer 11_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Layer 4_highlighted.png",
+      "parent": 1,
+      "description": "A gray building.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 4_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Layer 5_highlighted.png",
+      "parent": 1,
+      "description": "A light blue skyscraper with a pointed roof and square windows.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 5_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Layer 9_highlighted.png",
+      "parent": 1,
+      "description": "A light blue smokestack emitting white and dark gray smoke.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 9_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "global-warming-1-26_element_1_highlighted.png",
+      "parent": 1,
+      "description": "A round, yellow sun.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "global-warming-1-26_element_1_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "global-warming-1-26_element_25_highlighted.png",
+      "parent": 2,
+      "description": "A white landmass on a globe.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "global-warming-1-26_element_25_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "global-warming-1-26_element_30_highlighted.png",
+      "parent": 2,
+      "description": "A light grey area of land on a globe.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "global-warming-1-26_element_30_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "global-warming-1-26_element_24_highlighted.png",
+      "parent": 3,
+      "description": "A plume of white smoke coming from a factory chimney.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "global-warming-1-26_element_24_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "Layer 6_highlighted.png",
+      "parent": 5,
+      "description": "A blue building with a white roof and a yellow light in the window.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "Layer 6_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Layer 7_highlighted.png",
+      "parent": 5,
+      "description": "A light blue building with a dark blue door.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 7_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "global-warming-1-26_element_10_highlighted.png",
+      "parent": 6,
+      "description": "A small, illuminated white square suggesting a window.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_10_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "global-warming-1-26_element_11_highlighted.png",
+      "parent": 6,
+      "description": "A lit square window, part of a high rise building",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_11_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "global-warming-1-26_element_12_highlighted.png",
+      "parent": 6,
+      "description": "A rectangular window on a building, partially lit",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_12_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "global-warming-1-26_element_13_highlighted.png",
+      "parent": 6,
+      "description": "A small, yellow, stylized vehicle",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_13_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "global-warming-1-26_element_2_highlighted.png",
+      "parent": 7,
+      "description": "A plume of gray and black smoke.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "global-warming-1-26_element_2_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "global-warming-1-26_element_26_highlighted.png",
+      "parent": 9,
+      "description": "A light grey section of a globe.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "global-warming-1-26_element_26_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "global-warming-1-26_element_27_highlighted.png",
+      "parent": 9,
+      "description": "A light grey landmass on a globe.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "global-warming-1-26_element_27_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "global-warming-1-26_element_28_highlighted.png",
+      "parent": 9,
+      "description": "A small, light grey circle on a globe.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "global-warming-1-26_element_28_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "global-warming-1-26_element_29_highlighted.png",
+      "parent": 9,
+      "description": "A small light grey circle on the globe.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "global-warming-1-26_element_29_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "global-warming-1-26_element_3_highlighted.png",
+      "parent": 12,
+      "description": "A boxy, blue building.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "global-warming-1-26_element_3_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "global-warming-1-26_element_6_highlighted.png",
+      "parent": 12,
+      "description": "A white horizontal stripe on a dark structure, likely indicating a window.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_6_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "Layer 8_highlighted.png",
+      "parent": 13,
+      "description": "A yellow car with visible headlights.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "Layer 8_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "global-warming-1-26_element_4_highlighted.png",
+      "parent": 13,
+      "description": "A small, square, blue structure.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "global-warming-1-26_element_4_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "global-warming-1-26_element_8_highlighted.png",
+      "parent": 13,
+      "description": "A small, illuminated white square suggesting a window.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_8_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "global-warming-1-26_element_9_highlighted.png",
+      "parent": 13,
+      "description": "A small, illuminated white square suggesting a window.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_9_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "global-warming-1-26_element_5_highlighted.png",
+      "parent": 23,
+      "description": "A small, white rectangle suggesting a door or opening.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_5_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "global-warming-1-26_element_7_highlighted.png",
+      "parent": 23,
+      "description": "A small, illuminated yellow square suggesting a window.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "global-warming-1-26_element_7_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "global-warming-1-26_element_14_highlighted.png",
+      "parent": 25,
+      "description": "A yellow, four-door vehicle",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "global-warming-1-26_element_14_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "global-warming-1-26_element_15_highlighted.png",
+      "parent": 25,
+      "description": "A blue wheel on a yellow car",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "global-warming-1-26_element_15_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "global-warming-1-26_element_17_highlighted.png",
+      "parent": 25,
+      "description": "A blue rear wheel on a yellow car",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "global-warming-1-26_element_17_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "global-warming-1-26_element_18_highlighted.png",
+      "parent": 31,
+      "description": "A white roof on a olive car",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_18_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "global-warming-1-26_element_19_highlighted.png",
+      "parent": 31,
+      "description": "A white car window roof on an olive car",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_19_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "global-warming-1-26_element_20_highlighted.png",
+      "parent": 31,
+      "description": "A blue rear window on an olive car",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "global-warming-1-26_element_20_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "global-warming-1-26_element_21_highlighted.png",
+      "parent": 31,
+      "description": "A yellow, four-door car with a circular white headlight.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_21_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "global-warming-1-26_element_22_highlighted.png",
+      "parent": 31,
+      "description": "A lit square window on the side of a building.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_22_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "global-warming-1-26_element_16_highlighted.png",
+      "parent": 32,
+      "description": "A white headlight on a yellow car",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_16_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "global-warming-1-26_element_23_highlighted.png",
+      "parent": 33,
+      "description": "A round white headlight on a car.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "global-warming-1-26_element_23_highlighted.png"
+    }
+  ]
+}

@@ -1,134 +1,190 @@
 [
   {
     "id": "022-ash_element_1_highlighted.png",
-    "description": "A light gray rectangular base of a computer monitor."
+    "description": "The grey-blue base of a computer monitor stand."
   },
   {
     "id": "022-ash_element_2_highlighted.png",
-    "description": "A light grey stand supporting a computer monitor."
+    "description": "The light grey-blue base of a computer monitor stand."
   },
   {
     "id": "022-ash_element_3_highlighted.png",
-    "description": "A light grey frame, part of a computer monitor."
+    "description": "The light grey-blue frame of a computer monitor."
   },
   {
     "id": "022-ash_element_4_highlighted.png",
-    "description": "Light gray edging of a monitor screen."
+    "description": "The light grey-blue frame of a computer monitor."
   },
   {
     "id": "022-ash_element_5_highlighted.png",
-    "description": "A light colored screen on a computer monitor, displaying three horizontal bars and a graph-like image."
+    "description": "The bright white screen display of a computer monitor, showing horizontal bars connected by diagonal lines and squares."
   },
   {
     "id": "022-ash_element_6_highlighted.png",
-    "description": "A white curved section on the corner of a monitor screen."
+    "description": "The bright white side of a computer monitor screen."
   },
   {
     "id": "022-ash_element_7_highlighted.png",
-    "description": "A light grey, rectangular base of a computer monitor."
+    "description": "The grey-blue base of a computer monitor stand."
   },
   {
     "id": "022-ash_element_8_highlighted.png",
-    "description": "A white power light on a computer monitor."
+    "description": "A small white dot, representing the power light on a computer monitor."
   },
   {
     "id": "022-ash_element_9_highlighted.png",
-    "description": "A light blue graph-like image on a monitor screen."
+    "description": "The light blue lines and squares on a computer monitor display, arranged diagonally and connected to horizontal bars."
   },
   {
     "id": "022-ash_element_10_highlighted.png",
-    "description": "A light blue rectangular bar on a computer monitor screen."
+    "description": "A light blue horizontal bar on a computer monitor screen."
   },
   {
     "id": "022-ash_element_11_highlighted.png",
-    "description": "A small, light blue square on the computer screen."
+    "description": "A light-blue square on a computer screen."
   },
   {
     "id": "022-ash_element_12_highlighted.png",
-    "description": "A small, light blue square on the screen."
+    "description": "A light-blue square on a computer screen."
   },
   {
     "id": "022-ash_element_13_highlighted.png",
-    "description": "A light blue rectangle on the computer screen."
+    "description": "A light-blue rectangular button on a computer screen."
   },
   {
     "id": "022-ash_element_14_highlighted.png",
-    "description": "A light blue rectangle on the screen."
+    "description": "A light-blue rectangular button on a computer screen."
+  },
+  {
+    "id": "022-ash_element_33_highlighted.png",
+    "description": "The light gray base of a computer monitor."
+  },
+  {
+    "id": "022-ash_element_34_highlighted.png",
+    "description": "The light gray stand of a computer monitor."
+  },
+  {
+    "id": "022-ash_element_35_highlighted.png",
+    "description": "A large portion of the light-gray computer screen."
+  },
+  {
+    "id": "022-ash_element_36_highlighted.png",
+    "description": "The light gray border of a computer screen."
+  },
+  {
+    "id": "022-ash_element_37_highlighted.png",
+    "description": "The white screen of a computer monitor."
+  },
+  {
+    "id": "022-ash_element_38_highlighted.png",
+    "description": "The bright gray top-right corner of a computer screen."
+  },
+  {
+    "id": "022-ash_element_39_highlighted.png",
+    "description": "A gray rectangular monitor stand."
+  },
+  {
+    "id": "022-ash_element_40_highlighted.png",
+    "description": "A white circular light indicator in the center of a monitor's bezel."
+  },
+  {
+    "id": "022-ash_element_41_highlighted.png",
+    "description": "A light-blue, abstract schematic or circuit displayed on a monitor screen."
+  },
+  {
+    "id": "022-ash_element_42_highlighted.png",
+    "description": "A rectangular light blue display box on a monitor screen."
+  },
+  {
+    "id": "022-ash_element_43_highlighted.png",
+    "description": "A light-blue square displayed on a monitor screen."
+  },
+  {
+    "id": "022-ash_element_44_highlighted.png",
+    "description": "A light-blue square displayed on a monitor screen."
+  },
+  {
+    "id": "022-ash_element_45_highlighted.png",
+    "description": "A rectangular light blue display box on a monitor screen."
+  },
+  {
+    "id": "022-ash_element_46_highlighted.png",
+    "description": "A rectangular light blue display box on a monitor screen."
   },
   {
     "id": "Item_1_highlighted.png",
-    "description": "A light gray computer stand."
+    "description": "A gray rectangular monitor stand."
   },
   {
     "id": "Item_10_highlighted.png",
-    "description": "A light blue rectangle on the computer screen."
+    "description": "A rectangular light blue display box on a monitor screen."
   },
   {
     "id": "Item_6_highlighted.png",
-    "description": "A light blue area on the computer screen, appearing to show a peeling edge."
+    "description": "A pale blue area taking up the upper right of the computer screen, curving as if peeling away."
   },
   {
     "id": "Item_9_highlighted.png",
-    "description": "A series of interconnected light blue lines and nodes on the screen, forming a diagram."
+    "description": "A network of light blue lines connecting rectangles on the computer screen."
   },
   {
     "id": "Item_7_highlighted.png",
-    "description": "A light gray rectangular keyboard stand in front of the monitor."
+    "description": "The pale grey base of the monitor."
   },
   {
     "id": "Item_8_highlighted.png",
-    "description": "A round white dot on the front of the monitor."
+    "description": "A small white circle at the bottom center of the monitor, likely a power indicator."
   },
   {
     "id": "Item_11_highlighted.png",
-    "description": "A light-blue square, part of a diagram on a screen."
+    "description": "A small blue square on the right side of the computer screen, part of a network diagram."
   },
   {
     "id": "Item_5_highlighted.png",
-    "description": "A rectangular, light-blue screen."
+    "description": "A blank white computer screen."
   },
   {
     "id": "Layer 17_highlighted.png",
-    "description": "A rectangular, light-gray screen."
+    "description": "The blank white computer screen."
   },
   {
     "id": "Item_14_highlighted.png",
-    "description": "A light-blue rectangular bar representing data on the screen."
+    "description": "A blue rectangle on the left side of the computer screen, part of an interface."
   },
   {
     "id": "Layer 18_highlighted.png",
-    "description": "A dark-grey horizontal bar on the screen."
+    "description": "A short dark grey rectangle at the bottom left of the screen, part of a list or diagram."
   },
   {
     "id": "Layer 1_highlighted.png",
-    "description": "N/A"
+    "description": "The darkened, smooth surface of the monitor's screen."
   },
   {
     "id": "Item_13_highlighted.png",
-    "description": "A light-blue rectangular bar representing data on the screen."
+    "description": "A bright blue rectangle representing a selected element on the screen."
   },
   {
     "id": "Item_2_highlighted.png",
-    "description": "A light-gray stand supporting the monitor."
+    "description": "A light gray monitor stand, trapezoidal in shape."
   },
   {
     "id": "Item_3_highlighted.png",
-    "description": "A large, rectangular, light-gray screen."
+    "description": "A pale gray computer screen."
   },
   {
     "id": "Item_12_highlighted.png",
-    "description": "A light-blue square, part of a diagram on a screen."
+    "description": "A small, bright blue square connected to a line on the screen."
   },
   {
     "id": "Layer 16_highlighted.png",
-    "description": "A grey monitor stand."
+    "description": "A light gray monitor stand, trapezoidal in shape."
   },
   {
     "id": "Item_4_highlighted.png",
-    "description": "The curved edge of a grey monitor screen."
+    "description": "The light gray curved bezel around the monitor screen."
   },
   {
     "id": "Layer 19_highlighted.png",
-    "description": "A light grey computer screen."
+    "description": "A large, off-white and pale blue computer screen."
   }
 ]

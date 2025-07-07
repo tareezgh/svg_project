@@ -1,0 +1,556 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full pipeline-31",
+      "parent": -1,
+      "description": "An illustration of a complex pipe system with a construction zone and a cone.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "pipeline-31_element_61_highlighted.png",
+      "parent": 0,
+      "description": "A flat, peach-colored platform serving as the base for the piping structure.",
+      "color": "rgba(234, 194, 167, 1.0)",
+      "mask_path": "pipeline-31_element_61_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "pipeline-31_element_76_highlighted.png",
+      "parent": 0,
+      "description": "A set of glowing blue pipes that form the upper section of the pipeline.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "pipeline-31_element_76_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "pipeline-31_element_123_highlighted.png",
+      "parent": 1,
+      "description": "An orange traffic cone.",
+      "color": "rgba(223, 93, 0, 1.0)",
+      "mask_path": "pipeline-31_element_123_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "pipeline-31_element_124_highlighted.png",
+      "parent": 1,
+      "description": "The top half of an orange traffic cone.",
+      "color": "rgba(255, 133, 34, 1.0)",
+      "mask_path": "pipeline-31_element_124_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "pipeline-31_element_74_highlighted.png",
+      "parent": 1,
+      "description": "The edge of an orange pipe emerges from the ground and connects to a dark pipe.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_74_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "pipeline-31_element_77_highlighted.png",
+      "parent": 1,
+      "description": "A long stretch of glowing blue pipe winds through the pipeline network.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "pipeline-31_element_77_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "pipeline-31_element_113_highlighted.png",
+      "parent": 2,
+      "description": "A section of dark teal metal pipe with a black coupling.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_113_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "pipeline-31_element_75_highlighted.png",
+      "parent": 2,
+      "description": "A curved orange section of the pipeline connects two gray sections.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_75_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "pipeline-31_element_79_highlighted.png",
+      "parent": 2,
+      "description": "A short segment of blue pipe sitting atop a tall, dark gray pipe.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_79_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "pipeline-31_element_83_highlighted.png",
+      "parent": 2,
+      "description": "The top section of a construction pylon.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_83_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "pipeline-31_element_84_highlighted.png",
+      "parent": 2,
+      "description": "A metallic blue pipe section that rises vertically.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_84_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "pipeline-31_element_93_highlighted.png",
+      "parent": 2,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_93_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "pipeline-31_element_122_highlighted.png",
+      "parent": 3,
+      "description": "The top edge of an orange traffic cone.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_122_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "pipeline-31_element_125_highlighted.png",
+      "parent": 4,
+      "description": "The top of a white traffic cone.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "pipeline-31_element_125_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "pipeline-31_element_126_highlighted.png",
+      "parent": 4,
+      "description": "A white traffic cone.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "pipeline-31_element_126_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "pipeline-31_element_127_highlighted.png",
+      "parent": 4,
+      "description": "An orange traffic cone.",
+      "color": "rgba(255, 133, 34, 1.0)",
+      "mask_path": "pipeline-31_element_127_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "pipeline-31_element_120_highlighted.png",
+      "parent": 5,
+      "description": "A light blue section of pipe disappearing into a small hole in the ground.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "pipeline-31_element_120_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "pipeline-31_element_105_highlighted.png",
+      "parent": 6,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_105_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "pipeline-31_element_107_highlighted.png",
+      "parent": 6,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_107_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "pipeline-31_element_109_highlighted.png",
+      "parent": 6,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_109_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "pipeline-31_element_111_highlighted.png",
+      "parent": 6,
+      "description": "A section of dark teal metal pipe with a black coupling.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_111_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "pipeline-31_element_112_highlighted.png",
+      "parent": 6,
+      "description": "A section of dark teal metal pipe with a black coupling.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_112_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "pipeline-31_element_115_highlighted.png",
+      "parent": 6,
+      "description": "A short vertical dark teal pipe with a lighter blue band.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_115_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "pipeline-31_element_117_highlighted.png",
+      "parent": 6,
+      "description": "A short vertical dark teal pipe with a lighter blue band.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_117_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "pipeline-31_element_62_highlighted.png",
+      "parent": 6,
+      "description": "A horizontal, brown, rectangular beam supported by vertical posts.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_62_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "pipeline-31_element_65_highlighted.png",
+      "parent": 6,
+      "description": "A vertical support pillar.",
+      "color": "rgba(223, 93, 0, 1.0)",
+      "mask_path": "pipeline-31_element_65_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "pipeline-31_element_68_highlighted.png",
+      "parent": 6,
+      "description": "A vertical support pole.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_68_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "pipeline-31_element_71_highlighted.png",
+      "parent": 6,
+      "description": "A section of orange pipe connecting two dark pipes.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_71_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "pipeline-31_element_72_highlighted.png",
+      "parent": 6,
+      "description": "An orange pipe segment at the bottom, attached to the gray pipes.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_72_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "pipeline-31_element_73_highlighted.png",
+      "parent": 6,
+      "description": "A short, vertical segment of orange pipe connecting to a larger dark pipe.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_73_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "pipeline-31_element_78_highlighted.png",
+      "parent": 6,
+      "description": "A short glowing blue segment of pipe connecting at a 90-degree angle with other darker pipes.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "pipeline-31_element_78_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "pipeline-31_element_81_highlighted.png",
+      "parent": 6,
+      "description": "The upper section of a metallic blue pipe, part of a larger network.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_81_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "pipeline-31_element_89_highlighted.png",
+      "parent": 6,
+      "description": "A short section of horizontal metallic blue pipe within a larger network.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_89_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "pipeline-31_element_91_highlighted.png",
+      "parent": 6,
+      "description": "A curved section of dark pipe with a thin, light blue band.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_91_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "pipeline-31_element_95_highlighted.png",
+      "parent": 6,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_95_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "pipeline-31_element_97_highlighted.png",
+      "parent": 6,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_97_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "pipeline-31_element_98_highlighted.png",
+      "parent": 6,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_98_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "pipeline-31_element_114_highlighted.png",
+      "parent": 7,
+      "description": "A section of dark teal metal pipe with a black coupling.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_114_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "pipeline-31_element_119_highlighted.png",
+      "parent": 8,
+      "description": "A light blue section of pipe at ground level within a small hole.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "pipeline-31_element_119_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "pipeline-31_element_80_highlighted.png",
+      "parent": 9,
+      "description": "A short segment of blue pipe sitting atop a tall, dark gray pipe.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_80_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "pipeline-31_element_94_highlighted.png",
+      "parent": 12,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_94_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "pipeline-31_element_128_highlighted.png",
+      "parent": 16,
+      "description": "The top of an orange traffic cone.",
+      "color": "rgba(255, 159, 87, 1.0)",
+      "mask_path": "pipeline-31_element_128_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "pipeline-31_element_106_highlighted.png",
+      "parent": 18,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_106_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "pipeline-31_element_108_highlighted.png",
+      "parent": 19,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_108_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "pipeline-31_element_110_highlighted.png",
+      "parent": 20,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_110_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "pipeline-31_element_116_highlighted.png",
+      "parent": 23,
+      "description": "A short vertical dark teal pipe with a lighter blue band.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_116_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "pipeline-31_element_118_highlighted.png",
+      "parent": 24,
+      "description": "A short vertical dark teal pipe with a lighter blue band.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_118_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "pipeline-31_element_69_highlighted.png",
+      "parent": 25,
+      "description": "A horizontal, rectangular beam supported by vertical posts.",
+      "color": "rgba(255, 133, 34, 1.0)",
+      "mask_path": "pipeline-31_element_69_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "pipeline-31_element_66_highlighted.png",
+      "parent": 26,
+      "description": "A post fixed to the floor, acting as a support for the structure above.",
+      "color": "rgba(255, 133, 34, 1.0)",
+      "mask_path": "pipeline-31_element_66_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "pipeline-31_element_121_highlighted.png",
+      "parent": 28,
+      "description": "A blue drop of liquid leaking from a pipe.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "pipeline-31_element_121_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "pipeline-31_element_102_highlighted.png",
+      "parent": 31,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_102_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "pipeline-31_element_103_highlighted.png",
+      "parent": 31,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_103_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "pipeline-31_element_104_highlighted.png",
+      "parent": 31,
+      "description": "A grey metallic pipe segment that is connected to other pipes, part of a larger pipe network.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_104_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "pipeline-31_element_63_highlighted.png",
+      "parent": 31,
+      "description": "A small, suspended rectangular block connected to the overhead structure.",
+      "color": "rgba(223, 93, 0, 1.0)",
+      "mask_path": "pipeline-31_element_63_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "pipeline-31_element_70_highlighted.png",
+      "parent": 31,
+      "description": "A flat, rectangular block hanging from a structure above.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_70_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "pipeline-31_element_85_highlighted.png",
+      "parent": 31,
+      "description": "A small section of metallic blue pipe, part of a longer pipeline.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_85_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "pipeline-31_element_87_highlighted.png",
+      "parent": 31,
+      "description": "A metallic blue pipe section that connects horizontally into a vertical segment.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_87_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "pipeline-31_element_99_highlighted.png",
+      "parent": 31,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_99_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "pipeline-31_element_82_highlighted.png",
+      "parent": 32,
+      "description": "A light brown support structure, appearing to be wooden, for the elevated pipeline.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_82_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "pipeline-31_element_90_highlighted.png",
+      "parent": 33,
+      "description": "A curved metallic blue pipe section in the middle of the pipeline.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_90_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "pipeline-31_element_92_highlighted.png",
+      "parent": 34,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_92_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "pipeline-31_element_96_highlighted.png",
+      "parent": 35,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_96_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "pipeline-31_element_67_highlighted.png",
+      "parent": 48,
+      "description": "A vertical structural support pole.",
+      "color": "rgba(109, 50, 9, 1.0)",
+      "mask_path": "pipeline-31_element_67_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "pipeline-31_element_64_highlighted.png",
+      "parent": 54,
+      "description": "A flat, rectangular block hanging from a structure above.",
+      "color": "rgba(255, 133, 34, 1.0)",
+      "mask_path": "pipeline-31_element_64_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "pipeline-31_element_101_highlighted.png",
+      "parent": 55,
+      "description": "A small blue circular element on a grey metallic pipe, part of a larger pipe network.",
+      "color": "rgba(23, 75, 107, 1.0)",
+      "mask_path": "pipeline-31_element_101_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "pipeline-31_element_86_highlighted.png",
+      "parent": 56,
+      "description": "A curved section of metallic blue pipe in the middle of the pipeline network.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_86_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "pipeline-31_element_88_highlighted.png",
+      "parent": 57,
+      "description": "The base of a metallic blue pipe where it connects to the ground.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_88_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "pipeline-31_element_100_highlighted.png",
+      "parent": 58,
+      "description": "A dark pipe with a thin, light blue band.",
+      "color": "rgba(8, 40, 63, 1.0)",
+      "mask_path": "pipeline-31_element_100_highlighted.png"
+    }
+  ]
+}

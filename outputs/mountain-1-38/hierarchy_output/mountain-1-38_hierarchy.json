@@ -1,0 +1,260 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full mountain-1-38",
+      "parent": -1,
+      "description": "A desert landscape with cacti, a blue mountain, and a yellow sun against a pale gray background.",
+      "color": "rgba(104, 225, 253, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": " 0390 mountain 1_highlighted.png",
+      "parent": 0,
+      "description": "No description available.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": " 0390 mountain 1_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Item_1_highlighted.png",
+      "parent": 0,
+      "description": "A large, grey shape in a landscape scene.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Layer 9_highlighted.png",
+      "parent": 0,
+      "description": "A gray background that fills a stylized arch.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 9_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "mountain-1-38_element_60_highlighted.png",
+      "parent": 0,
+      "description": "A dark blue strip of ground at the foot of the mountains.",
+      "color": "rgba(36, 40, 91, 1.0)",
+      "mask_path": "mountain-1-38_element_60_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "mountain-1-38_element_44_highlighted.png",
+      "parent": 2,
+      "description": "An opaque gray sun.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "mountain-1-38_element_44_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Item_2_highlighted.png",
+      "parent": 5,
+      "description": "Three white cacti of slightly different sizes and shapes.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Layer 7_highlighted.png",
+      "parent": 5,
+      "description": "Light blue flat mountain formation with sheer cliff faces, likely rock.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 7_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "Layer 8_highlighted.png",
+      "parent": 5,
+      "description": "The white outlines of a desert landscape with mountains.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 8_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "mountain-1-38_element_45_highlighted.png",
+      "parent": 5,
+      "description": "A yellow full moon.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "mountain-1-38_element_45_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "mountain-1-38_element_47_highlighted.png",
+      "parent": 5,
+      "description": "A small, light gray cloud.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "mountain-1-38_element_47_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "mountain-1-38_element_48_highlighted.png",
+      "parent": 5,
+      "description": "A small, light gray cloud.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "mountain-1-38_element_48_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "mountain-1-38_element_49_highlighted.png",
+      "parent": 5,
+      "description": "A small, light gray cloud.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "mountain-1-38_element_49_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Layer 6_highlighted.png",
+      "parent": 6,
+      "description": "A white cactus with one central stalk and two arms on each side.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "Layer 6_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "mountain-1-38_element_56_highlighted.png",
+      "parent": 6,
+      "description": "The dark green, textured base of the mountains.",
+      "color": "rgba(0, 0, 1, 1.0)",
+      "mask_path": "mountain-1-38_element_56_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "mountain-1-38_element_57_highlighted.png",
+      "parent": 6,
+      "description": "A tall, light grey cactus.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "mountain-1-38_element_57_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "mountain-1-38_element_58_highlighted.png",
+      "parent": 6,
+      "description": "A central, light grey cactus.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "mountain-1-38_element_58_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "mountain-1-38_element_59_highlighted.png",
+      "parent": 6,
+      "description": "A thin, light grey cactus.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "mountain-1-38_element_59_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "mountain-1-38_element_46_highlighted.png",
+      "parent": 7,
+      "description": "A small, light gray cloud.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "mountain-1-38_element_46_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "mountain-1-38_element_51_highlighted.png",
+      "parent": 7,
+      "description": "Light blue mountains and cactuses in a desert scene.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "mountain-1-38_element_51_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "mountain-1-38_element_50_highlighted.png",
+      "parent": 8,
+      "description": "Light gray cactuses, buttes, and mountains in a desert scene.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "mountain-1-38_element_50_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "Layer 14_highlighted.png",
+      "parent": 9,
+      "description": "A yellow circle in the sky, representing the sun or moon.",
+      "color": "rgba(255, 210, 0, 1.0)",
+      "mask_path": "Layer 14_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "Layer 11_highlighted.png",
+      "parent": 10,
+      "description": "A light gray, puffy cloud.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 11_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "Layer 13_highlighted.png",
+      "parent": 11,
+      "description": "A small white cloud.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 13_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "Layer 12_highlighted.png",
+      "parent": 12,
+      "description": "A light gray, puffy cloud.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 12_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "Layer 4_highlighted.png",
+      "parent": 15,
+      "description": "A brown cactus with one central stalk and two arms on each side.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "Layer 4_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "Layer 5_highlighted.png",
+      "parent": 16,
+      "description": "A white cactus with one central stalk and two arms on each side.",
+      "color": "rgba(165, 165, 165, 1.0)",
+      "mask_path": "Layer 5_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "Layer 10_highlighted.png",
+      "parent": 18,
+      "description": "A light gray, puffy cloud.",
+      "color": "rgba(230, 230, 230, 1.0)",
+      "mask_path": "Layer 10_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "mountain-1-38_element_52_highlighted.png",
+      "parent": 19,
+      "description": "A dark teal cactus.",
+      "color": "rgba(0, 0, 1, 1.0)",
+      "mask_path": "mountain-1-38_element_52_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "mountain-1-38_element_53_highlighted.png",
+      "parent": 19,
+      "description": "A dark teal cactus.",
+      "color": "rgba(0, 0, 1, 1.0)",
+      "mask_path": "mountain-1-38_element_53_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "mountain-1-38_element_54_highlighted.png",
+      "parent": 19,
+      "description": "A grey, thin cactus.",
+      "color": "rgba(0, 0, 1, 1.0)",
+      "mask_path": "mountain-1-38_element_54_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "mountain-1-38_element_55_highlighted.png",
+      "parent": 20,
+      "description": "A short red cactus in a dry landscape.",
+      "color": "rgba(0, 0, 1, 1.0)",
+      "mask_path": "mountain-1-38_element_55_highlighted.png"
+    }
+  ]
+}

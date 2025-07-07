@@ -1,0 +1,3500 @@
+{
+  "global_style": "isometric vector illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full toronto-61",
+      "parent": -1,
+      "description": "An isometric view of Canada's province of Ontario. In the foreground is the Toronto skyline with the CN Tower, some skyscrapers, and office buildings. The landmass sits on a brown background representing the surrounding area.",
+      "color": "rgba(229, 225, 225, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "Layer 309_highlighted.png",
+      "parent": 0,
+      "description": "A tall tower with a spire on top.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 309_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "toronto-61_element_1_highlighted.png",
+      "parent": 0,
+      "description": "An orange square surface",
+      "color": "rgba(157, 96, 42, 1.0)",
+      "mask_path": "toronto-61_element_1_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "Layer 1_Item_133_highlighted.png",
+      "parent": 1,
+      "description": "A vertical shaft of the tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_133_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Layer 1_Item_137_highlighted.png",
+      "parent": 1,
+      "description": "The upper portion of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_137_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Layer 1_Item_141_highlighted.png",
+      "parent": 1,
+      "description": "A spherical top of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_141_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Layer 1_Item_142_highlighted.png",
+      "parent": 1,
+      "description": "The ball at the top of a tower.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "Layer 1_Item_142_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Layer 1_Item_145_highlighted.png",
+      "parent": 1,
+      "description": "A light blue, sphere-shaped top to a tall, dark tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_145_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "Layer 1_Item_146_highlighted.png",
+      "parent": 1,
+      "description": "A spherical top of a tower.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "Layer 1_Item_146_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "Layer 1_Item_147_highlighted.png",
+      "parent": 1,
+      "description": "The top part of a tower with a bulb shape and a spire.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_147_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "toronto-61_element_121_highlighted.png",
+      "parent": 1,
+      "description": "A glowing turquoise sphere at the top of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_121_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "toronto-61_element_125_highlighted.png",
+      "parent": 1,
+      "description": "The tip of a thin, dark spire at the top of a tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_125_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "Layer 1_Item_1_highlighted.png",
+      "parent": 2,
+      "description": "A flat, brown-colored land area shaped like a parallelogram.",
+      "color": "rgba(157, 96, 42, 1.0)",
+      "mask_path": "Layer 1_Item_1_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "Layer 1_Item_135_highlighted.png",
+      "parent": 3,
+      "description": "A tall cylindrical tower, wider at the base, tapering to a point.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "Layer 1_Item_135_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "toronto-61_element_116_highlighted.png",
+      "parent": 4,
+      "description": "A vertical beam running through the darkened CN Tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_116_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "toronto-61_element_119_highlighted.png",
+      "parent": 6,
+      "description": "A darkened spherical structure atop the CN Tower in the diorama.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "toronto-61_element_119_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "toronto-61_element_122_highlighted.png",
+      "parent": 7,
+      "description": "A white sphere atop a tower.",
+      "color": "rgba(255, 255, 255, 1.0)",
+      "mask_path": "toronto-61_element_122_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "toronto-61_element_123_highlighted.png",
+      "parent": 9,
+      "description": "A glowing turquoise section below the top of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_123_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "Layer 1_Item_144_highlighted.png",
+      "parent": 10,
+      "description": "A round, bright blue sphere at the top of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_144_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "Layer 1_Item_149_highlighted.png",
+      "parent": 11,
+      "description": "A tall spire atop a circular structure.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_149_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "Layer 304_highlighted.png",
+      "parent": 12,
+      "description": "A grey and white landscape, possibly a map.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "Layer 304_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "Layer 306_highlighted.png",
+      "parent": 12,
+      "description": "A tall modern building with many light blue square windows",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 306_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "Layer 1_Item_136_highlighted.png",
+      "parent": 13,
+      "description": "A very tall cylindrical tower with antenna and spherical top.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_136_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "Layer 1_Item_134_highlighted.png",
+      "parent": 14,
+      "description": "The slightly lit middle section of the tall tower structure.",
+      "color": "rgba(166, 145, 109, 1.0)",
+      "mask_path": "Layer 1_Item_134_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "Layer 1_Item_140_highlighted.png",
+      "parent": 14,
+      "description": "Part of a dark communication tower.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "Layer 1_Item_140_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "toronto-61_element_21_highlighted.png",
+      "parent": 14,
+      "description": "A flat, square, dark brown ground.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_21_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "toronto-61_element_40_highlighted.png",
+      "parent": 14,
+      "description": "A tiny white flag on the side of the tall tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_40_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "toronto-61_element_120_highlighted.png",
+      "parent": 15,
+      "description": "A spherical observation deck atop the CN Tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_120_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "Layer 1_Item_148_highlighted.png",
+      "parent": 17,
+      "description": "A light blue spherical light on top of a high tower",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_148_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "toronto-61_element_126_highlighted.png",
+      "parent": 17,
+      "description": "A glowing turquoise shape under a sphere on the tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_126_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "toronto-61_element_101_highlighted.png",
+      "parent": 20,
+      "description": "A rectangular doorway into the city.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_101_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "toronto-61_element_102_highlighted.png",
+      "parent": 20,
+      "description": "A flat, angular extension of the city.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_102_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "toronto-61_element_103_highlighted.png",
+      "parent": 20,
+      "description": "A wide region next to the waterfront.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_103_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "toronto-61_element_104_highlighted.png",
+      "parent": 20,
+      "description": "A nearly square part of the waterfront.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_104_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "toronto-61_element_106_highlighted.png",
+      "parent": 20,
+      "description": "A jagged section near a tall tower.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "toronto-61_element_106_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "toronto-61_element_112_highlighted.png",
+      "parent": 20,
+      "description": "A light-colored region representing land.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "toronto-61_element_112_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "Layer 1_Item_223_highlighted.png",
+      "parent": 21,
+      "description": "The illuminated top half of a tall, rectangular building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_223_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "Layer 1_Item_225_highlighted.png",
+      "parent": 21,
+      "description": "A long, thin blue building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_225_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "Layer 1_Item_226_highlighted.png",
+      "parent": 21,
+      "description": "A white rectangular block atop a rectangular building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_226_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "Layer 1_Item_260_highlighted.png",
+      "parent": 21,
+      "description": "A lit portion of the taller building on the right",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_260_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "Layer 1_Item_261_highlighted.png",
+      "parent": 21,
+      "description": "The top floor of a blue building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_261_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "Layer 1_Item_262_highlighted.png",
+      "parent": 21,
+      "description": "A dark blue-gray building with a single glowing panel.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_262_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "toronto-61_element_197_highlighted.png",
+      "parent": 21,
+      "description": "The top of a rectangular building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_197_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "toronto-61_element_229_highlighted.png",
+      "parent": 21,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_229_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "toronto-61_element_230_highlighted.png",
+      "parent": 21,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_230_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "toronto-61_element_233_highlighted.png",
+      "parent": 21,
+      "description": "A rectangular skyscraper.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_233_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "toronto-61_element_114_highlighted.png",
+      "parent": 22,
+      "description": "A darkened city plan as part of a diorama.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "toronto-61_element_114_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "toronto-61_element_118_highlighted.png",
+      "parent": 24,
+      "description": "The dark vertical beam passes through the CN Tower's structure.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "toronto-61_element_118_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "toronto-61_element_109_highlighted.png",
+      "parent": 26,
+      "description": "A very small coastal region.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "toronto-61_element_109_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "toronto-61_element_25_highlighted.png",
+      "parent": 26,
+      "description": "A small, rectangular, dark building roof.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_25_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "Layer 1_Item_143_highlighted.png",
+      "parent": 27,
+      "description": "A turquoise-colored ring around a spherical structure atop a tall, thin tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_143_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "toronto-61_element_124_highlighted.png",
+      "parent": 28,
+      "description": "A glowing, small, turquoise ring at the top of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_124_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "Layer 1_Item_150_highlighted.png",
+      "parent": 29,
+      "description": "The lighted top of a tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_150_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "toronto-61_element_16_highlighted.png",
+      "parent": 34,
+      "description": "A small white rectangle on the surface of the map.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_16_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "toronto-61_element_2_highlighted.png",
+      "parent": 34,
+      "description": "An orange square surface",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_2_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "Layer 305_highlighted.png",
+      "parent": 35,
+      "description": "A rectangular skyscraper with many light blue window panes.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 305_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "Layer 307_highlighted.png",
+      "parent": 35,
+      "description": "A stacked building with lighted square windows.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 307_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "Layer 308_highlighted.png",
+      "parent": 35,
+      "description": "A tall, rectangular, light blue building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 308_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "toronto-61_element_100_highlighted.png",
+      "parent": 35,
+      "description": "A flat, grey corner segment.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_100_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "toronto-61_element_105_highlighted.png",
+      "parent": 35,
+      "description": "A few small, irregular islands.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "toronto-61_element_105_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "toronto-61_element_108_highlighted.png",
+      "parent": 35,
+      "description": "Some land connecting buildings.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "toronto-61_element_108_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "toronto-61_element_110_highlighted.png",
+      "parent": 35,
+      "description": "A small piece of land on the coast.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "toronto-61_element_110_highlighted.png"
+    },
+    {
+      "id": 62,
+      "filename": "toronto-61_element_111_highlighted.png",
+      "parent": 35,
+      "description": "The white region depicts a portion of a landmass.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "toronto-61_element_111_highlighted.png"
+    },
+    {
+      "id": 63,
+      "filename": "toronto-61_element_14_highlighted.png",
+      "parent": 35,
+      "description": "Three light-grey tall buildings attached together",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_14_highlighted.png"
+    },
+    {
+      "id": 64,
+      "filename": "toronto-61_element_18_highlighted.png",
+      "parent": 35,
+      "description": "Light grey tops of buildings.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_18_highlighted.png"
+    },
+    {
+      "id": 65,
+      "filename": "toronto-61_element_20_highlighted.png",
+      "parent": 35,
+      "description": "A small white square on top of a taller building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_20_highlighted.png"
+    },
+    {
+      "id": 66,
+      "filename": "toronto-61_element_24_highlighted.png",
+      "parent": 35,
+      "description": "A small, light grey, vaguely heart-shaped region of land near a tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_24_highlighted.png"
+    },
+    {
+      "id": 67,
+      "filename": "toronto-61_element_28_highlighted.png",
+      "parent": 35,
+      "description": "A small, white coastal land.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_28_highlighted.png"
+    },
+    {
+      "id": 68,
+      "filename": "toronto-61_element_30_highlighted.png",
+      "parent": 35,
+      "description": "A small, grey triangular rooftop.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_30_highlighted.png"
+    },
+    {
+      "id": 69,
+      "filename": "toronto-61_element_39_highlighted.png",
+      "parent": 35,
+      "description": "A tiny white flag on the top of one of the square buildings.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_39_highlighted.png"
+    },
+    {
+      "id": 70,
+      "filename": "toronto-61_element_44_highlighted.png",
+      "parent": 35,
+      "description": "The roof of a short building, that forms a peaked roof shape.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_44_highlighted.png"
+    },
+    {
+      "id": 71,
+      "filename": "toronto-61_element_48_highlighted.png",
+      "parent": 35,
+      "description": "A small light area near the base of the tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_48_highlighted.png"
+    },
+    {
+      "id": 72,
+      "filename": "toronto-61_element_60_highlighted.png",
+      "parent": 35,
+      "description": "The corner of a tall building situated within the city.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_60_highlighted.png"
+    },
+    {
+      "id": 73,
+      "filename": "toronto-61_element_62_highlighted.png",
+      "parent": 35,
+      "description": "A light grey building with dark vertical stripes.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_62_highlighted.png"
+    },
+    {
+      "id": 74,
+      "filename": "toronto-61_element_67_highlighted.png",
+      "parent": 35,
+      "description": "A narrow light grey building with dark horizontal stripes.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_67_highlighted.png"
+    },
+    {
+      "id": 75,
+      "filename": "toronto-61_element_68_highlighted.png",
+      "parent": 35,
+      "description": "A small white flag.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_68_highlighted.png"
+    },
+    {
+      "id": 76,
+      "filename": "toronto-61_element_72_highlighted.png",
+      "parent": 35,
+      "description": "A light grey facade section of a building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_72_highlighted.png"
+    },
+    {
+      "id": 77,
+      "filename": "toronto-61_element_73_highlighted.png",
+      "parent": 35,
+      "description": "A light grey rooftop surface.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_73_highlighted.png"
+    },
+    {
+      "id": 78,
+      "filename": "toronto-61_element_78_highlighted.png",
+      "parent": 35,
+      "description": "A light grey, flat rooftop area.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_78_highlighted.png"
+    },
+    {
+      "id": 79,
+      "filename": "toronto-61_element_88_highlighted.png",
+      "parent": 35,
+      "description": "A white building on the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_88_highlighted.png"
+    },
+    {
+      "id": 80,
+      "filename": "toronto-61_element_89_highlighted.png",
+      "parent": 35,
+      "description": "A white building on the edge of the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_89_highlighted.png"
+    },
+    {
+      "id": 81,
+      "filename": "toronto-61_element_93_highlighted.png",
+      "parent": 35,
+      "description": "A small white land section.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_93_highlighted.png"
+    },
+    {
+      "id": 82,
+      "filename": "toronto-61_element_94_highlighted.png",
+      "parent": 35,
+      "description": "A portion of the flat land.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_94_highlighted.png"
+    },
+    {
+      "id": 83,
+      "filename": "toronto-61_element_95_highlighted.png",
+      "parent": 35,
+      "description": "A white land segment.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_95_highlighted.png"
+    },
+    {
+      "id": 84,
+      "filename": "toronto-61_element_98_highlighted.png",
+      "parent": 35,
+      "description": "A curved white line that forms part of the border.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_98_highlighted.png"
+    },
+    {
+      "id": 85,
+      "filename": "toronto-61_element_99_highlighted.png",
+      "parent": 35,
+      "description": "A corner section of the landmass",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_99_highlighted.png"
+    },
+    {
+      "id": 86,
+      "filename": "toronto-61_element_195_highlighted.png",
+      "parent": 36,
+      "description": "A series of rectangular buildings placed next to each other.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_195_highlighted.png"
+    },
+    {
+      "id": 87,
+      "filename": "toronto-61_element_196_highlighted.png",
+      "parent": 37,
+      "description": "The vertical windows on a rectangular building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_196_highlighted.png"
+    },
+    {
+      "id": 88,
+      "filename": "toronto-61_element_198_highlighted.png",
+      "parent": 38,
+      "description": "A group of rectangular structures next to each other.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_198_highlighted.png"
+    },
+    {
+      "id": 89,
+      "filename": "toronto-61_element_231_highlighted.png",
+      "parent": 39,
+      "description": "An orange area representing land.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_231_highlighted.png"
+    },
+    {
+      "id": 90,
+      "filename": "toronto-61_element_232_highlighted.png",
+      "parent": 40,
+      "description": "A tall, cylindrical tower with a round top.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_232_highlighted.png"
+    },
+    {
+      "id": 91,
+      "filename": "Layer 1_Item_258_highlighted.png",
+      "parent": 43,
+      "description": "The top part of a pair of stacked blue-gray buildings.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_258_highlighted.png"
+    },
+    {
+      "id": 92,
+      "filename": "Layer 1_Item_259_highlighted.png",
+      "parent": 44,
+      "description": "The top two illuminated windows of a rectangular dark building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_259_highlighted.png"
+    },
+    {
+      "id": 93,
+      "filename": "toronto-61_element_115_highlighted.png",
+      "parent": 46,
+      "description": "A vertical beam running from the base to the observation deck of the darkened CN Tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_115_highlighted.png"
+    },
+    {
+      "id": 94,
+      "filename": "toronto-61_element_49_highlighted.png",
+      "parent": 46,
+      "description": "A small light area near the base of the tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_49_highlighted.png"
+    },
+    {
+      "id": 95,
+      "filename": "Layer 1_Item_138_highlighted.png",
+      "parent": 47,
+      "description": "A narrow tower made of stacked rectangles, ascending into the sky.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_138_highlighted.png"
+    },
+    {
+      "id": 96,
+      "filename": "Layer 1_Item_139_highlighted.png",
+      "parent": 47,
+      "description": "The central column of a tower.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "Layer 1_Item_139_highlighted.png"
+    },
+    {
+      "id": 97,
+      "filename": "toronto-61_element_41_highlighted.png",
+      "parent": 48,
+      "description": "A small, round window near the top of a tall tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_41_highlighted.png"
+    },
+    {
+      "id": 98,
+      "filename": "toronto-61_element_61_highlighted.png",
+      "parent": 48,
+      "description": "A dark orange base.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_61_highlighted.png"
+    },
+    {
+      "id": 99,
+      "filename": "toronto-61_element_17_highlighted.png",
+      "parent": 53,
+      "description": "A tiny white triangle-like shape on the map.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_17_highlighted.png"
+    },
+    {
+      "id": 100,
+      "filename": "Layer 1_Item_263_highlighted.png",
+      "parent": 55,
+      "description": "A light blue rectangular tower.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_263_highlighted.png"
+    },
+    {
+      "id": 101,
+      "filename": "Layer 1_Item_265_highlighted.png",
+      "parent": 55,
+      "description": "The bright blue rectangular face of a skyscraper.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_265_highlighted.png"
+    },
+    {
+      "id": 102,
+      "filename": "Layer 1_Item_266_highlighted.png",
+      "parent": 55,
+      "description": "The top right corner of a tall, rectangular building, appearing to be part of a city skyline.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_266_highlighted.png"
+    },
+    {
+      "id": 103,
+      "filename": "Layer 1_Item_298_highlighted.png",
+      "parent": 55,
+      "description": "A rectangular window on the side of a dark building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_298_highlighted.png"
+    },
+    {
+      "id": 104,
+      "filename": "Layer 1_Item_302_highlighted.png",
+      "parent": 55,
+      "description": "The upper side of a building with windows.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_302_highlighted.png"
+    },
+    {
+      "id": 105,
+      "filename": "toronto-61_element_236_highlighted.png",
+      "parent": 55,
+      "description": "The top portion of a skyscraper, appearing white.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_236_highlighted.png"
+    },
+    {
+      "id": 106,
+      "filename": "toronto-61_element_268_highlighted.png",
+      "parent": 55,
+      "description": "A set of four rectangular skyscrapers.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_268_highlighted.png"
+    },
+    {
+      "id": 107,
+      "filename": "toronto-61_element_269_highlighted.png",
+      "parent": 55,
+      "description": "A glowing white dot.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_269_highlighted.png"
+    },
+    {
+      "id": 108,
+      "filename": "toronto-61_element_270_highlighted.png",
+      "parent": 55,
+      "description": "A set of four rectangular skyscrapers.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_270_highlighted.png"
+    },
+    {
+      "id": 109,
+      "filename": "toronto-61_element_271_highlighted.png",
+      "parent": 55,
+      "description": "A dark building, part of a city model.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_271_highlighted.png"
+    },
+    {
+      "id": 110,
+      "filename": "toronto-61_element_272_highlighted.png",
+      "parent": 55,
+      "description": "A dark building, part of a city model.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_272_highlighted.png"
+    },
+    {
+      "id": 111,
+      "filename": "Layer 1_Item_170_highlighted.png",
+      "parent": 56,
+      "description": "The side of a medium-rise building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_170_highlighted.png"
+    },
+    {
+      "id": 112,
+      "filename": "Layer 1_Item_172_highlighted.png",
+      "parent": 56,
+      "description": "The lit up side of a rectangular building",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_172_highlighted.png"
+    },
+    {
+      "id": 113,
+      "filename": "Layer 1_Item_173_highlighted.png",
+      "parent": 56,
+      "description": "A white building roof",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_173_highlighted.png"
+    },
+    {
+      "id": 114,
+      "filename": "Layer 1_Item_187_highlighted.png",
+      "parent": 56,
+      "description": "A lit up, square window pane on a dark building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_187_highlighted.png"
+    },
+    {
+      "id": 115,
+      "filename": "Layer 1_Item_189_highlighted.png",
+      "parent": 56,
+      "description": "A single glowing cyan square, presumably a window on a building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_189_highlighted.png"
+    },
+    {
+      "id": 116,
+      "filename": "Layer 1_Item_190_highlighted.png",
+      "parent": 56,
+      "description": "The top surface of a square, white building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_190_highlighted.png"
+    },
+    {
+      "id": 117,
+      "filename": "toronto-61_element_66_highlighted.png",
+      "parent": 56,
+      "description": "A rectangular white flag.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_66_highlighted.png"
+    },
+    {
+      "id": 118,
+      "filename": "Layer 1_Item_151_highlighted.png",
+      "parent": 57,
+      "description": "A long, thin, illuminated section of a building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_151_highlighted.png"
+    },
+    {
+      "id": 119,
+      "filename": "Layer 1_Item_152_highlighted.png",
+      "parent": 57,
+      "description": "A dark blue skyscraper with a lot of windows.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_152_highlighted.png"
+    },
+    {
+      "id": 120,
+      "filename": "Layer 1_Item_153_highlighted.png",
+      "parent": 57,
+      "description": "A light blue, rectangular high-rise building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_153_highlighted.png"
+    },
+    {
+      "id": 121,
+      "filename": "Layer 1_Item_157_highlighted.png",
+      "parent": 57,
+      "description": "The peak of a tall building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_157_highlighted.png"
+    },
+    {
+      "id": 122,
+      "filename": "Layer 1_Item_158_highlighted.png",
+      "parent": 57,
+      "description": "A dark bluish-gray skyscraper with a single bright white square light at the top corner, sitting on a dark, shaded surface.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_158_highlighted.png"
+    },
+    {
+      "id": 123,
+      "filename": "Layer 1_Item_159_highlighted.png",
+      "parent": 57,
+      "description": "A tall, blue-gray building with a glowing, white rectangular accent on its top floors.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_159_highlighted.png"
+    },
+    {
+      "id": 124,
+      "filename": "Layer 1_Item_161_highlighted.png",
+      "parent": 57,
+      "description": "A white chevron pattern on the side of a tall building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_161_highlighted.png"
+    },
+    {
+      "id": 125,
+      "filename": "Layer 1_Item_162_highlighted.png",
+      "parent": 57,
+      "description": "A bright, white section of a building's facade.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_162_highlighted.png"
+    },
+    {
+      "id": 126,
+      "filename": "Layer 1_Item_163_highlighted.png",
+      "parent": 57,
+      "description": "Two thin white lines on a tall building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_163_highlighted.png"
+    },
+    {
+      "id": 127,
+      "filename": "Layer 1_Item_164_highlighted.png",
+      "parent": 57,
+      "description": "A light blue stripe on a tall dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_164_highlighted.png"
+    },
+    {
+      "id": 128,
+      "filename": "Layer 1_Item_165_highlighted.png",
+      "parent": 57,
+      "description": "Two illuminated stripes near the top of a tall, dark building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_165_highlighted.png"
+    },
+    {
+      "id": 129,
+      "filename": "Layer 1_Item_166_highlighted.png",
+      "parent": 57,
+      "description": "A bright horizontal white line in the middle of a dark bluish-grey skyscraper.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_166_highlighted.png"
+    },
+    {
+      "id": 130,
+      "filename": "Layer 1_Item_168_highlighted.png",
+      "parent": 57,
+      "description": "A segment of a tall, light-grey building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_168_highlighted.png"
+    },
+    {
+      "id": 131,
+      "filename": "Layer 1_Item_169_highlighted.png",
+      "parent": 57,
+      "description": "A small white detail near the base of a tall building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_169_highlighted.png"
+    },
+    {
+      "id": 132,
+      "filename": "toronto-61_element_127_highlighted.png",
+      "parent": 57,
+      "description": "A dark sphere at the top of a tower.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_127_highlighted.png"
+    },
+    {
+      "id": 133,
+      "filename": "toronto-61_element_128_highlighted.png",
+      "parent": 57,
+      "description": "A blue rectangular office building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_128_highlighted.png"
+    },
+    {
+      "id": 134,
+      "filename": "toronto-61_element_132_highlighted.png",
+      "parent": 57,
+      "description": "A horizontal line on the top of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_132_highlighted.png"
+    },
+    {
+      "id": 135,
+      "filename": "toronto-61_element_133_highlighted.png",
+      "parent": 57,
+      "description": "A short horizontal line on the top of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_133_highlighted.png"
+    },
+    {
+      "id": 136,
+      "filename": "toronto-61_element_134_highlighted.png",
+      "parent": 57,
+      "description": "Two white vertical lines on a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_134_highlighted.png"
+    },
+    {
+      "id": 137,
+      "filename": "toronto-61_element_137_highlighted.png",
+      "parent": 57,
+      "description": "A white horizontal line on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_137_highlighted.png"
+    },
+    {
+      "id": 138,
+      "filename": "toronto-61_element_138_highlighted.png",
+      "parent": 57,
+      "description": "Two white vertical lines on the side of a building forming a v shape.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_138_highlighted.png"
+    },
+    {
+      "id": 139,
+      "filename": "toronto-61_element_139_highlighted.png",
+      "parent": 57,
+      "description": "A short horizontal white line on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_139_highlighted.png"
+    },
+    {
+      "id": 140,
+      "filename": "toronto-61_element_140_highlighted.png",
+      "parent": 57,
+      "description": "Two short white lines forming a \"v\" shape on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_140_highlighted.png"
+    },
+    {
+      "id": 141,
+      "filename": "toronto-61_element_143_highlighted.png",
+      "parent": 57,
+      "description": "A small, white, right-angled triangle marking the corner of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_143_highlighted.png"
+    },
+    {
+      "id": 142,
+      "filename": "toronto-61_element_144_highlighted.png",
+      "parent": 57,
+      "description": "A small, white, right-angled triangle marking the corner of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_144_highlighted.png"
+    },
+    {
+      "id": 143,
+      "filename": "Layer 1_Item_154_highlighted.png",
+      "parent": 60,
+      "description": "The entire flat roof of a skyscraper, rendered in bright white.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_154_highlighted.png"
+    },
+    {
+      "id": 144,
+      "filename": "toronto-61_element_11_highlighted.png",
+      "parent": 60,
+      "description": "An orange square.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_11_highlighted.png"
+    },
+    {
+      "id": 145,
+      "filename": "toronto-61_element_12_highlighted.png",
+      "parent": 60,
+      "description": "A small white rectangular shape on top of a square building",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_12_highlighted.png"
+    },
+    {
+      "id": 146,
+      "filename": "toronto-61_element_50_highlighted.png",
+      "parent": 60,
+      "description": "A small area of land near the base of the tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_50_highlighted.png"
+    },
+    {
+      "id": 147,
+      "filename": "toronto-61_element_64_highlighted.png",
+      "parent": 61,
+      "description": "A small white rectangular object.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_64_highlighted.png"
+    },
+    {
+      "id": 148,
+      "filename": "toronto-61_element_65_highlighted.png",
+      "parent": 61,
+      "description": "A section of dark grey land.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_65_highlighted.png"
+    },
+    {
+      "id": 149,
+      "filename": "toronto-61_element_59_highlighted.png",
+      "parent": 62,
+      "description": "A flat land region close to a tall tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_59_highlighted.png"
+    },
+    {
+      "id": 150,
+      "filename": "toronto-61_element_80_highlighted.png",
+      "parent": 62,
+      "description": "A small, white section of land.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_80_highlighted.png"
+    },
+    {
+      "id": 151,
+      "filename": "toronto-61_element_81_highlighted.png",
+      "parent": 62,
+      "description": "A white building on the coast of the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_81_highlighted.png"
+    },
+    {
+      "id": 152,
+      "filename": "toronto-61_element_87_highlighted.png",
+      "parent": 62,
+      "description": "A small white curved area on the edge of the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_87_highlighted.png"
+    },
+    {
+      "id": 153,
+      "filename": "toronto-61_element_35_highlighted.png",
+      "parent": 63,
+      "description": "A tiny white flag on the top of one of the square buildings.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_35_highlighted.png"
+    },
+    {
+      "id": 154,
+      "filename": "toronto-61_element_5_highlighted.png",
+      "parent": 63,
+      "description": "A small, vertical, rectangular white bar on a dark building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_5_highlighted.png"
+    },
+    {
+      "id": 155,
+      "filename": "toronto-61_element_31_highlighted.png",
+      "parent": 65,
+      "description": "A tiny white flag on a high-rise building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_31_highlighted.png"
+    },
+    {
+      "id": 156,
+      "filename": "toronto-61_element_29_highlighted.png",
+      "parent": 67,
+      "description": "A small, white region near the lake.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_29_highlighted.png"
+    },
+    {
+      "id": 157,
+      "filename": "toronto-61_element_37_highlighted.png",
+      "parent": 69,
+      "description": "A tiny white flag on the top of one of the square buildings.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_37_highlighted.png"
+    },
+    {
+      "id": 158,
+      "filename": "toronto-61_element_38_highlighted.png",
+      "parent": 69,
+      "description": "A tiny white flag on the top of one of the square buildings.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_38_highlighted.png"
+    },
+    {
+      "id": 159,
+      "filename": "toronto-61_element_75_highlighted.png",
+      "parent": 69,
+      "description": "A small white edge of a building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_75_highlighted.png"
+    },
+    {
+      "id": 160,
+      "filename": "Layer 1_Item_204_highlighted.png",
+      "parent": 70,
+      "description": "A rectangular window on the side of a dark building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_204_highlighted.png"
+    },
+    {
+      "id": 161,
+      "filename": "Layer 1_Item_206_highlighted.png",
+      "parent": 70,
+      "description": "A light blue square on the side of a dark skyscraper.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "Layer 1_Item_206_highlighted.png"
+    },
+    {
+      "id": 162,
+      "filename": "Layer 1_Item_207_highlighted.png",
+      "parent": 70,
+      "description": "The top window on the short middle building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_207_highlighted.png"
+    },
+    {
+      "id": 163,
+      "filename": "toronto-61_element_193_highlighted.png",
+      "parent": 70,
+      "description": "A small, pointed roof atop a building with a visible light.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "toronto-61_element_193_highlighted.png"
+    },
+    {
+      "id": 164,
+      "filename": "toronto-61_element_19_highlighted.png",
+      "parent": 70,
+      "description": "A small white rectangular shape on top of a square building",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_19_highlighted.png"
+    },
+    {
+      "id": 165,
+      "filename": "toronto-61_element_107_highlighted.png",
+      "parent": 71,
+      "description": "A small section of land next to a building.",
+      "color": "rgba(229, 225, 225, 1.0)",
+      "mask_path": "toronto-61_element_107_highlighted.png"
+    },
+    {
+      "id": 166,
+      "filename": "toronto-61_element_47_highlighted.png",
+      "parent": 71,
+      "description": "A short concrete column supporting the top of the tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_47_highlighted.png"
+    },
+    {
+      "id": 167,
+      "filename": "toronto-61_element_77_highlighted.png",
+      "parent": 72,
+      "description": "A section of the tower colored in light grey.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_77_highlighted.png"
+    },
+    {
+      "id": 168,
+      "filename": "toronto-61_element_51_highlighted.png",
+      "parent": 73,
+      "description": "A flat, brown, square surface beneath the city model.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_51_highlighted.png"
+    },
+    {
+      "id": 169,
+      "filename": "toronto-61_element_54_highlighted.png",
+      "parent": 73,
+      "description": "A short, white building that appears to be a skyscraper.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_54_highlighted.png"
+    },
+    {
+      "id": 170,
+      "filename": "toronto-61_element_92_highlighted.png",
+      "parent": 81,
+      "description": "A small white segment of the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_92_highlighted.png"
+    },
+    {
+      "id": 171,
+      "filename": "toronto-61_element_96_highlighted.png",
+      "parent": 81,
+      "description": "A thin white segment.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_96_highlighted.png"
+    },
+    {
+      "id": 172,
+      "filename": "toronto-61_element_97_highlighted.png",
+      "parent": 82,
+      "description": "A short, thin white line section of the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_97_highlighted.png"
+    },
+    {
+      "id": 173,
+      "filename": "toronto-61_element_91_highlighted.png",
+      "parent": 84,
+      "description": "A brown, flat, trapezoid base.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_91_highlighted.png"
+    },
+    {
+      "id": 174,
+      "filename": "Layer 1_Item_224_highlighted.png",
+      "parent": 86,
+      "description": "The rectangular roof of a building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_224_highlighted.png"
+    },
+    {
+      "id": 175,
+      "filename": "Layer 1_Item_227_highlighted.png",
+      "parent": 88,
+      "description": "A squat four-story building with two windows on the visible side.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_227_highlighted.png"
+    },
+    {
+      "id": 176,
+      "filename": "Layer 1_Item_242_highlighted.png",
+      "parent": 89,
+      "description": "A single lit window on a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_242_highlighted.png"
+    },
+    {
+      "id": 177,
+      "filename": "Layer 1_Item_256_highlighted.png",
+      "parent": 89,
+      "description": "A small rectangular window on the facade.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_256_highlighted.png"
+    },
+    {
+      "id": 178,
+      "filename": "Layer 1_Item_257_highlighted.png",
+      "parent": 89,
+      "description": "A white accent light on a tall, square building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_257_highlighted.png"
+    },
+    {
+      "id": 179,
+      "filename": "toronto-61_element_227_highlighted.png",
+      "parent": 89,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_227_highlighted.png"
+    },
+    {
+      "id": 180,
+      "filename": "Layer 1_Item_232_highlighted.png",
+      "parent": 91,
+      "description": "A building with a white window.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_232_highlighted.png"
+    },
+    {
+      "id": 181,
+      "filename": "Layer 1_Item_233_highlighted.png",
+      "parent": 91,
+      "description": "A small white square on the corner of a high rise",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_233_highlighted.png"
+    },
+    {
+      "id": 182,
+      "filename": "Layer 1_Item_236_highlighted.png",
+      "parent": 91,
+      "description": "A bright window on a dark blocky building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_236_highlighted.png"
+    },
+    {
+      "id": 183,
+      "filename": "Layer 1_Item_247_highlighted.png",
+      "parent": 91,
+      "description": "A pale dot on the side of a dark building, appearing as a light in a window.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_247_highlighted.png"
+    },
+    {
+      "id": 184,
+      "filename": "Layer 1_Item_248_highlighted.png",
+      "parent": 91,
+      "description": "A small window on the side of a tall building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_248_highlighted.png"
+    },
+    {
+      "id": 185,
+      "filename": "Layer 1_Item_250_highlighted.png",
+      "parent": 91,
+      "description": "A small white square on the corner of a high rise",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_250_highlighted.png"
+    },
+    {
+      "id": 186,
+      "filename": "Layer 1_Item_251_highlighted.png",
+      "parent": 91,
+      "description": "A rectangular building with repeating windows on the facade.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_251_highlighted.png"
+    },
+    {
+      "id": 187,
+      "filename": "toronto-61_element_10_highlighted.png",
+      "parent": 91,
+      "description": "A small, vertical, rectangular white bar on a dark building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_10_highlighted.png"
+    },
+    {
+      "id": 188,
+      "filename": "toronto-61_element_203_highlighted.png",
+      "parent": 91,
+      "description": "A dark building with several stories.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_203_highlighted.png"
+    },
+    {
+      "id": 189,
+      "filename": "toronto-61_element_218_highlighted.png",
+      "parent": 91,
+      "description": "The top edge of a modern, dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_218_highlighted.png"
+    },
+    {
+      "id": 190,
+      "filename": "toronto-61_element_221_highlighted.png",
+      "parent": 91,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_221_highlighted.png"
+    },
+    {
+      "id": 191,
+      "filename": "Layer 1_Item_239_highlighted.png",
+      "parent": 92,
+      "description": "The top of a dark, ridged building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_239_highlighted.png"
+    },
+    {
+      "id": 192,
+      "filename": "Layer 1_Item_253_highlighted.png",
+      "parent": 92,
+      "description": "A small, bright rectangular window in a dark grey building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_253_highlighted.png"
+    },
+    {
+      "id": 193,
+      "filename": "Layer 1_Item_254_highlighted.png",
+      "parent": 92,
+      "description": "A single light gray square on a dark structure.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_254_highlighted.png"
+    },
+    {
+      "id": 194,
+      "filename": "toronto-61_element_224_highlighted.png",
+      "parent": 92,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_224_highlighted.png"
+    },
+    {
+      "id": 195,
+      "filename": "toronto-61_element_34_highlighted.png",
+      "parent": 94,
+      "description": "A tiny white flag on a high-rise building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_34_highlighted.png"
+    },
+    {
+      "id": 196,
+      "filename": "toronto-61_element_117_highlighted.png",
+      "parent": 96,
+      "description": "A thin, vertical beam shining through the CN Tower's structure.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "toronto-61_element_117_highlighted.png"
+    },
+    {
+      "id": 197,
+      "filename": "toronto-61_element_55_highlighted.png",
+      "parent": 98,
+      "description": "A flat land area surrounding a tower building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_55_highlighted.png"
+    },
+    {
+      "id": 198,
+      "filename": "Layer 1_Item_264_highlighted.png",
+      "parent": 100,
+      "description": "The top edge of a flat, dark surface that serves as the base of a city.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_264_highlighted.png"
+    },
+    {
+      "id": 199,
+      "filename": "toronto-61_element_234_highlighted.png",
+      "parent": 100,
+      "description": "A small tower with a pitched roof, appearing to be part of a building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_234_highlighted.png"
+    },
+    {
+      "id": 200,
+      "filename": "toronto-61_element_235_highlighted.png",
+      "parent": 101,
+      "description": "The top floor of a modern skyscraper, lit in blue.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_235_highlighted.png"
+    },
+    {
+      "id": 201,
+      "filename": "toronto-61_element_237_highlighted.png",
+      "parent": 102,
+      "description": "The top portion of a skyscraper.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_237_highlighted.png"
+    },
+    {
+      "id": 202,
+      "filename": "toronto-61_element_9_highlighted.png",
+      "parent": 102,
+      "description": "A small, vertical, rectangular white bar on a dark building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_9_highlighted.png"
+    },
+    {
+      "id": 203,
+      "filename": "Layer 1_Item_241_highlighted.png",
+      "parent": 103,
+      "description": "A white pixel on a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_241_highlighted.png"
+    },
+    {
+      "id": 204,
+      "filename": "Layer 1_Item_273_highlighted.png",
+      "parent": 103,
+      "description": "A small white light on the side of a rectangular building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_273_highlighted.png"
+    },
+    {
+      "id": 205,
+      "filename": "Layer 1_Item_286_highlighted.png",
+      "parent": 103,
+      "description": "A small, bright rectangular window on a dark building with multiple windows.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_286_highlighted.png"
+    },
+    {
+      "id": 206,
+      "filename": "Layer 1_Item_288_highlighted.png",
+      "parent": 103,
+      "description": "A light gray square, likely a window on the dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_288_highlighted.png"
+    },
+    {
+      "id": 207,
+      "filename": "toronto-61_element_212_highlighted.png",
+      "parent": 103,
+      "description": "A window in a dark high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_212_highlighted.png"
+    },
+    {
+      "id": 208,
+      "filename": "toronto-61_element_243_highlighted.png",
+      "parent": 103,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_243_highlighted.png"
+    },
+    {
+      "id": 209,
+      "filename": "toronto-61_element_256_highlighted.png",
+      "parent": 103,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_256_highlighted.png"
+    },
+    {
+      "id": 210,
+      "filename": "toronto-61_element_258_highlighted.png",
+      "parent": 103,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_258_highlighted.png"
+    },
+    {
+      "id": 211,
+      "filename": "Layer 1_Item_299_highlighted.png",
+      "parent": 107,
+      "description": "A white spot on the side of a dark building, part of a city model.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_299_highlighted.png"
+    },
+    {
+      "id": 212,
+      "filename": "Layer 1_Item_300_highlighted.png",
+      "parent": 108,
+      "description": "The top of a tall antenna.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_300_highlighted.png"
+    },
+    {
+      "id": 213,
+      "filename": "Layer 1_Item_301_highlighted.png",
+      "parent": 109,
+      "description": "The lower story of the closest of two rectangular buildings",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_301_highlighted.png"
+    },
+    {
+      "id": 214,
+      "filename": "toronto-61_element_145_highlighted.png",
+      "parent": 111,
+      "description": "The end of a flat building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_145_highlighted.png"
+    },
+    {
+      "id": 215,
+      "filename": "toronto-61_element_146_highlighted.png",
+      "parent": 112,
+      "description": "A bright, flat surface of a tall building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_146_highlighted.png"
+    },
+    {
+      "id": 216,
+      "filename": "toronto-61_element_147_highlighted.png",
+      "parent": 113,
+      "description": "A thin, white rectangle marking the corner of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_147_highlighted.png"
+    },
+    {
+      "id": 217,
+      "filename": "toronto-61_element_148_highlighted.png",
+      "parent": 113,
+      "description": "The end of a flat building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_148_highlighted.png"
+    },
+    {
+      "id": 218,
+      "filename": "Layer 1_Item_188_highlighted.png",
+      "parent": 114,
+      "description": "The top of a rounded building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_188_highlighted.png"
+    },
+    {
+      "id": 219,
+      "filename": "toronto-61_element_162_highlighted.png",
+      "parent": 115,
+      "description": "A lit window of a dark building",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_162_highlighted.png"
+    },
+    {
+      "id": 220,
+      "filename": "toronto-61_element_163_highlighted.png",
+      "parent": 116,
+      "description": "A light stripe at the top of a dark building",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_163_highlighted.png"
+    },
+    {
+      "id": 221,
+      "filename": "toronto-61_element_164_highlighted.png",
+      "parent": 116,
+      "description": "A dark building with a flat roof",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_164_highlighted.png"
+    },
+    {
+      "id": 222,
+      "filename": "Layer 1_Item_201_highlighted.png",
+      "parent": 117,
+      "description": "A small square window in a grey building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_201_highlighted.png"
+    },
+    {
+      "id": 223,
+      "filename": "toronto-61_element_174_highlighted.png",
+      "parent": 117,
+      "description": "A dark building with a rectangular structure.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_174_highlighted.png"
+    },
+    {
+      "id": 224,
+      "filename": "toronto-61_element_71_highlighted.png",
+      "parent": 117,
+      "description": "An orange, square surface.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_71_highlighted.png"
+    },
+    {
+      "id": 225,
+      "filename": "Layer 1_Item_160_highlighted.png",
+      "parent": 124,
+      "description": "A white horizontal line on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_160_highlighted.png"
+    },
+    {
+      "id": 226,
+      "filename": "toronto-61_element_135_highlighted.png",
+      "parent": 124,
+      "description": "A horizontal white line on the side of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_135_highlighted.png"
+    },
+    {
+      "id": 227,
+      "filename": "toronto-61_element_136_highlighted.png",
+      "parent": 124,
+      "description": "Two white vertical lines on the side of a building, forming a \"v\".",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_136_highlighted.png"
+    },
+    {
+      "id": 228,
+      "filename": "toronto-61_element_141_highlighted.png",
+      "parent": 129,
+      "description": "A small, white, right-angled triangle marking the corner of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_141_highlighted.png"
+    },
+    {
+      "id": 229,
+      "filename": "Layer 1_Item_167_highlighted.png",
+      "parent": 130,
+      "description": "A white chevron-shaped symbol near the base of a tall, rectangular building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_167_highlighted.png"
+    },
+    {
+      "id": 230,
+      "filename": "toronto-61_element_142_highlighted.png",
+      "parent": 130,
+      "description": "A small, white, right-angled triangle marking the corner of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_142_highlighted.png"
+    },
+    {
+      "id": 231,
+      "filename": "Layer 1_Item_156_highlighted.png",
+      "parent": 143,
+      "description": "A small, rectangular, white roof of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "Layer 1_Item_156_highlighted.png"
+    },
+    {
+      "id": 232,
+      "filename": "toronto-61_element_129_highlighted.png",
+      "parent": 143,
+      "description": "A white chevron shape at the top of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_129_highlighted.png"
+    },
+    {
+      "id": 233,
+      "filename": "toronto-61_element_131_highlighted.png",
+      "parent": 143,
+      "description": "A white square on the top of a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_131_highlighted.png"
+    },
+    {
+      "id": 234,
+      "filename": "toronto-61_element_57_highlighted.png",
+      "parent": 147,
+      "description": "Flat land area on the city's coastal regions.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_57_highlighted.png"
+    },
+    {
+      "id": 235,
+      "filename": "toronto-61_element_63_highlighted.png",
+      "parent": 147,
+      "description": "A section of dark grey land.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_63_highlighted.png"
+    },
+    {
+      "id": 236,
+      "filename": "toronto-61_element_84_highlighted.png",
+      "parent": 149,
+      "description": "A white building near the coast of the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_84_highlighted.png"
+    },
+    {
+      "id": 237,
+      "filename": "toronto-61_element_83_highlighted.png",
+      "parent": 150,
+      "description": "A small white area near the coast of the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_83_highlighted.png"
+    },
+    {
+      "id": 238,
+      "filename": "toronto-61_element_85_highlighted.png",
+      "parent": 152,
+      "description": "A small white area near the coast of the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_85_highlighted.png"
+    },
+    {
+      "id": 239,
+      "filename": "toronto-61_element_90_highlighted.png",
+      "parent": 152,
+      "description": "A small white structure near the base of the tower on the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_90_highlighted.png"
+    },
+    {
+      "id": 240,
+      "filename": "toronto-61_element_4_highlighted.png",
+      "parent": 154,
+      "description": "A small, vertical, rectangular white bar on a dark building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_4_highlighted.png"
+    },
+    {
+      "id": 241,
+      "filename": "toronto-61_element_27_highlighted.png",
+      "parent": 155,
+      "description": "A small, white rectangular building window.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_27_highlighted.png"
+    },
+    {
+      "id": 242,
+      "filename": "Layer 1_Item_268_highlighted.png",
+      "parent": 157,
+      "description": "A flat, brownish rectangular surface depicting a landscape or cityscape.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_268_highlighted.png"
+    },
+    {
+      "id": 243,
+      "filename": "Layer 1_Item_271_highlighted.png",
+      "parent": 157,
+      "description": "A single lit window on a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_271_highlighted.png"
+    },
+    {
+      "id": 244,
+      "filename": "Layer 1_Item_274_highlighted.png",
+      "parent": 157,
+      "description": "A small white square on the side of a high rise",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_274_highlighted.png"
+    },
+    {
+      "id": 245,
+      "filename": "toronto-61_element_238_highlighted.png",
+      "parent": 157,
+      "description": "A single illuminated window on a modern skyscraper.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_238_highlighted.png"
+    },
+    {
+      "id": 246,
+      "filename": "toronto-61_element_241_highlighted.png",
+      "parent": 157,
+      "description": "An area of brownish surface on the map.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_241_highlighted.png"
+    },
+    {
+      "id": 247,
+      "filename": "toronto-61_element_244_highlighted.png",
+      "parent": 157,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_244_highlighted.png"
+    },
+    {
+      "id": 248,
+      "filename": "toronto-61_element_69_highlighted.png",
+      "parent": 159,
+      "description": "A dark orange base.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_69_highlighted.png"
+    },
+    {
+      "id": 249,
+      "filename": "Layer 1_Item_205_highlighted.png",
+      "parent": 160,
+      "description": "A collection of dark blue windows on a multi-tiered building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_205_highlighted.png"
+    },
+    {
+      "id": 250,
+      "filename": "toronto-61_element_178_highlighted.png",
+      "parent": 161,
+      "description": "One lit window on a building.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "toronto-61_element_178_highlighted.png"
+    },
+    {
+      "id": 251,
+      "filename": "toronto-61_element_179_highlighted.png",
+      "parent": 162,
+      "description": "A rooftop detail or antenna on a building.",
+      "color": "rgba(204, 204, 204, 1.0)",
+      "mask_path": "toronto-61_element_179_highlighted.png"
+    },
+    {
+      "id": 252,
+      "filename": "Layer 1_Item_221_highlighted.png",
+      "parent": 163,
+      "description": "A pale triangular piece placed on top of a dark building.",
+      "color": "rgba(57, 114, 111, 1.0)",
+      "mask_path": "Layer 1_Item_221_highlighted.png"
+    },
+    {
+      "id": 253,
+      "filename": "toronto-61_element_26_highlighted.png",
+      "parent": 165,
+      "description": "A small, bright reflection on the side of the dark tower.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_26_highlighted.png"
+    },
+    {
+      "id": 254,
+      "filename": "toronto-61_element_42_highlighted.png",
+      "parent": 165,
+      "description": "A small part of the shoreline.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_42_highlighted.png"
+    },
+    {
+      "id": 255,
+      "filename": "toronto-61_element_74_highlighted.png",
+      "parent": 167,
+      "description": "A light grey part of the tower's exterior.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_74_highlighted.png"
+    },
+    {
+      "id": 256,
+      "filename": "toronto-61_element_76_highlighted.png",
+      "parent": 167,
+      "description": "A section of the tower's exterior, colored white.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_76_highlighted.png"
+    },
+    {
+      "id": 257,
+      "filename": "toronto-61_element_53_highlighted.png",
+      "parent": 169,
+      "description": "A flat land area on the right side of the city map.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_53_highlighted.png"
+    },
+    {
+      "id": 258,
+      "filename": "Layer 1_Item_229_highlighted.png",
+      "parent": 175,
+      "description": "A single white window in a dark-blue building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_229_highlighted.png"
+    },
+    {
+      "id": 259,
+      "filename": "Layer 1_Item_230_highlighted.png",
+      "parent": 175,
+      "description": "A small, bright rectangular window in a dark grey building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_230_highlighted.png"
+    },
+    {
+      "id": 260,
+      "filename": "Layer 1_Item_244_highlighted.png",
+      "parent": 175,
+      "description": "A tiny white square at the corner of a tall, dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_244_highlighted.png"
+    },
+    {
+      "id": 261,
+      "filename": "Layer 1_Item_245_highlighted.png",
+      "parent": 175,
+      "description": "A white spot on the top of a dark building, part of a city model.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_245_highlighted.png"
+    },
+    {
+      "id": 262,
+      "filename": "toronto-61_element_200_highlighted.png",
+      "parent": 175,
+      "description": "Side of a rectangular building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_200_highlighted.png"
+    },
+    {
+      "id": 263,
+      "filename": "toronto-61_element_215_highlighted.png",
+      "parent": 175,
+      "description": "A window in a dark high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_215_highlighted.png"
+    },
+    {
+      "id": 264,
+      "filename": "toronto-61_element_213_highlighted.png",
+      "parent": 176,
+      "description": "A window in a dark high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_213_highlighted.png"
+    },
+    {
+      "id": 265,
+      "filename": "toronto-61_element_228_highlighted.png",
+      "parent": 176,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_228_highlighted.png"
+    },
+    {
+      "id": 266,
+      "filename": "Layer 1_Item_255_highlighted.png",
+      "parent": 177,
+      "description": "A small white highlight on the side of a blocky building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_255_highlighted.png"
+    },
+    {
+      "id": 267,
+      "filename": "toronto-61_element_226_highlighted.png",
+      "parent": 177,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_226_highlighted.png"
+    },
+    {
+      "id": 268,
+      "filename": "Layer 1_Item_231_highlighted.png",
+      "parent": 180,
+      "description": "A small, white square window on a skyscraper.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_231_highlighted.png"
+    },
+    {
+      "id": 269,
+      "filename": "toronto-61_element_202_highlighted.png",
+      "parent": 180,
+      "description": "A tall dark structure with a sphere shape on top and a spire.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_202_highlighted.png"
+    },
+    {
+      "id": 270,
+      "filename": "toronto-61_element_204_highlighted.png",
+      "parent": 181,
+      "description": "A small rectangular light on a tall building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_204_highlighted.png"
+    },
+    {
+      "id": 271,
+      "filename": "toronto-61_element_219_highlighted.png",
+      "parent": 181,
+      "description": "A window in a dark high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_219_highlighted.png"
+    },
+    {
+      "id": 272,
+      "filename": "toronto-61_element_207_highlighted.png",
+      "parent": 182,
+      "description": "A small white light on the side of a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_207_highlighted.png"
+    },
+    {
+      "id": 273,
+      "filename": "toronto-61_element_222_highlighted.png",
+      "parent": 182,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_222_highlighted.png"
+    },
+    {
+      "id": 274,
+      "filename": "Layer 1_Item_246_highlighted.png",
+      "parent": 183,
+      "description": "A small square window on a dark grey building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_246_highlighted.png"
+    },
+    {
+      "id": 275,
+      "filename": "toronto-61_element_217_highlighted.png",
+      "parent": 183,
+      "description": "A window in a dark high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_217_highlighted.png"
+    },
+    {
+      "id": 276,
+      "filename": "Layer 1_Item_249_highlighted.png",
+      "parent": 185,
+      "description": "A small white square on the corner of a high rise",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_249_highlighted.png"
+    },
+    {
+      "id": 277,
+      "filename": "toronto-61_element_220_highlighted.png",
+      "parent": 185,
+      "description": "The top edge of a modern, dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_220_highlighted.png"
+    },
+    {
+      "id": 278,
+      "filename": "Layer 1_Item_252_highlighted.png",
+      "parent": 192,
+      "description": "The very top corner of a tall, blocky building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_252_highlighted.png"
+    },
+    {
+      "id": 279,
+      "filename": "toronto-61_element_223_highlighted.png",
+      "parent": 192,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_223_highlighted.png"
+    },
+    {
+      "id": 280,
+      "filename": "toronto-61_element_225_highlighted.png",
+      "parent": 192,
+      "description": "The top edge of a boxy building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_225_highlighted.png"
+    },
+    {
+      "id": 281,
+      "filename": "toronto-61_element_210_highlighted.png",
+      "parent": 193,
+      "description": "A small white light on a dark tall building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_210_highlighted.png"
+    },
+    {
+      "id": 282,
+      "filename": "toronto-61_element_43_highlighted.png",
+      "parent": 197,
+      "description": "A small section of the island.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_43_highlighted.png"
+    },
+    {
+      "id": 283,
+      "filename": "Layer 1_Item_267_highlighted.png",
+      "parent": 201,
+      "description": "A dark, contoured surface representing land.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_267_highlighted.png"
+    },
+    {
+      "id": 284,
+      "filename": "Layer 1_Item_240_highlighted.png",
+      "parent": 205,
+      "description": "The very top of the rightmost building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_240_highlighted.png"
+    },
+    {
+      "id": 285,
+      "filename": "Layer 1_Item_287_highlighted.png",
+      "parent": 206,
+      "description": "A single white pixel on a rectangular building made of dark material.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_287_highlighted.png"
+    },
+    {
+      "id": 286,
+      "filename": "toronto-61_element_257_highlighted.png",
+      "parent": 206,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_257_highlighted.png"
+    },
+    {
+      "id": 287,
+      "filename": "Layer 1_Item_276_highlighted.png",
+      "parent": 211,
+      "description": "A small white square on the facade of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_276_highlighted.png"
+    },
+    {
+      "id": 288,
+      "filename": "Layer 1_Item_277_highlighted.png",
+      "parent": 211,
+      "description": "A small, bright rectangular window in a dark grey building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_277_highlighted.png"
+    },
+    {
+      "id": 289,
+      "filename": "Layer 1_Item_279_highlighted.png",
+      "parent": 211,
+      "description": "A bright speck on the side of one building, possibly representing a light within.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_279_highlighted.png"
+    },
+    {
+      "id": 290,
+      "filename": "Layer 1_Item_289_highlighted.png",
+      "parent": 211,
+      "description": "A small, white window on a skyscraper.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_289_highlighted.png"
+    },
+    {
+      "id": 291,
+      "filename": "Layer 1_Item_291_highlighted.png",
+      "parent": 211,
+      "description": "A short flat roof on top of a rectangular building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_291_highlighted.png"
+    },
+    {
+      "id": 292,
+      "filename": "Layer 1_Item_292_highlighted.png",
+      "parent": 211,
+      "description": "A tiny white light on a grey rectangular building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_292_highlighted.png"
+    },
+    {
+      "id": 293,
+      "filename": "Layer 1_Item_294_highlighted.png",
+      "parent": 211,
+      "description": "A white building block.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_294_highlighted.png"
+    },
+    {
+      "id": 294,
+      "filename": "toronto-61_element_246_highlighted.png",
+      "parent": 211,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_246_highlighted.png"
+    },
+    {
+      "id": 295,
+      "filename": "toronto-61_element_247_highlighted.png",
+      "parent": 211,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_247_highlighted.png"
+    },
+    {
+      "id": 296,
+      "filename": "toronto-61_element_249_highlighted.png",
+      "parent": 211,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_249_highlighted.png"
+    },
+    {
+      "id": 297,
+      "filename": "toronto-61_element_261_highlighted.png",
+      "parent": 211,
+      "description": "A dark brown ground plane, representing land.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_261_highlighted.png"
+    },
+    {
+      "id": 298,
+      "filename": "toronto-61_element_264_highlighted.png",
+      "parent": 211,
+      "description": "A set of four rectangular skyscrapers.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_264_highlighted.png"
+    },
+    {
+      "id": 299,
+      "filename": "Layer 1_Item_280_highlighted.png",
+      "parent": 213,
+      "description": "A small white square on the side of a building, likely a window.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_280_highlighted.png"
+    },
+    {
+      "id": 300,
+      "filename": "Layer 1_Item_282_highlighted.png",
+      "parent": 213,
+      "description": "A pale dot on the side of a dark building, appearing as a light in a window.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_282_highlighted.png"
+    },
+    {
+      "id": 301,
+      "filename": "Layer 1_Item_295_highlighted.png",
+      "parent": 213,
+      "description": "A small, almost invisible square of white, likely a window.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_295_highlighted.png"
+    },
+    {
+      "id": 302,
+      "filename": "Layer 1_Item_297_highlighted.png",
+      "parent": 213,
+      "description": "A small, white square on a dark skyscraper.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_297_highlighted.png"
+    },
+    {
+      "id": 303,
+      "filename": "toronto-61_element_250_highlighted.png",
+      "parent": 213,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_250_highlighted.png"
+    },
+    {
+      "id": 304,
+      "filename": "toronto-61_element_252_highlighted.png",
+      "parent": 213,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_252_highlighted.png"
+    },
+    {
+      "id": 305,
+      "filename": "toronto-61_element_265_highlighted.png",
+      "parent": 213,
+      "description": "A glowing white dot.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_265_highlighted.png"
+    },
+    {
+      "id": 306,
+      "filename": "toronto-61_element_267_highlighted.png",
+      "parent": 213,
+      "description": "A glowing white dot.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_267_highlighted.png"
+    },
+    {
+      "id": 307,
+      "filename": "Layer 1_Item_171_highlighted.png",
+      "parent": 214,
+      "description": "The top edge of a tall building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_171_highlighted.png"
+    },
+    {
+      "id": 308,
+      "filename": "Layer 1_Item_179_highlighted.png",
+      "parent": 215,
+      "description": "A small white square, likely a window on the side of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_179_highlighted.png"
+    },
+    {
+      "id": 309,
+      "filename": "toronto-61_element_152_highlighted.png",
+      "parent": 215,
+      "description": "A single window on the tower is lit up.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_152_highlighted.png"
+    },
+    {
+      "id": 310,
+      "filename": "toronto-61_element_153_highlighted.png",
+      "parent": 215,
+      "description": "A single window on the tower is lit up.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_153_highlighted.png"
+    },
+    {
+      "id": 311,
+      "filename": "Layer 1_Item_174_highlighted.png",
+      "parent": 216,
+      "description": "A building base with some surface details.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_174_highlighted.png"
+    },
+    {
+      "id": 312,
+      "filename": "toronto-61_element_161_highlighted.png",
+      "parent": 218,
+      "description": "An orange desk surface",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_161_highlighted.png"
+    },
+    {
+      "id": 313,
+      "filename": "Layer 1_Item_195_highlighted.png",
+      "parent": 219,
+      "description": "A small window on the side of a square building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_195_highlighted.png"
+    },
+    {
+      "id": 314,
+      "filename": "Layer 1_Item_196_highlighted.png",
+      "parent": 219,
+      "description": "A small, square, light-colored window on a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_196_highlighted.png"
+    },
+    {
+      "id": 315,
+      "filename": "toronto-61_element_149_highlighted.png",
+      "parent": 219,
+      "description": "A small, white, square window on a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_149_highlighted.png"
+    },
+    {
+      "id": 316,
+      "filename": "toronto-61_element_169_highlighted.png",
+      "parent": 219,
+      "description": "A lit window on a dark building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_169_highlighted.png"
+    },
+    {
+      "id": 317,
+      "filename": "Layer 1_Item_191_highlighted.png",
+      "parent": 220,
+      "description": "The tower's antenna.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_191_highlighted.png"
+    },
+    {
+      "id": 318,
+      "filename": "toronto-61_element_79_highlighted.png",
+      "parent": 225,
+      "description": "A light grey vertical building edge.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_79_highlighted.png"
+    },
+    {
+      "id": 319,
+      "filename": "toronto-61_element_82_highlighted.png",
+      "parent": 225,
+      "description": "A small white rectangular building on the landmass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_82_highlighted.png"
+    },
+    {
+      "id": 320,
+      "filename": "toronto-61_element_130_highlighted.png",
+      "parent": 231,
+      "description": "A gold chevron shape at the top of a building.",
+      "color": "rgba(166, 145, 109, 1.0)",
+      "mask_path": "toronto-61_element_130_highlighted.png"
+    },
+    {
+      "id": 321,
+      "filename": "toronto-61_element_52_highlighted.png",
+      "parent": 234,
+      "description": "A flat land area, part of the city's land mass.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_52_highlighted.png"
+    },
+    {
+      "id": 322,
+      "filename": "toronto-61_element_58_highlighted.png",
+      "parent": 234,
+      "description": "Flat area within the city's geographical limits.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_58_highlighted.png"
+    },
+    {
+      "id": 323,
+      "filename": "toronto-61_element_8_highlighted.png",
+      "parent": 240,
+      "description": "A small, vertical, rectangular white bar on a dark building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_8_highlighted.png"
+    },
+    {
+      "id": 324,
+      "filename": "Layer 1_Item_272_highlighted.png",
+      "parent": 243,
+      "description": "The corner of a tall building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_272_highlighted.png"
+    },
+    {
+      "id": 325,
+      "filename": "toronto-61_element_242_highlighted.png",
+      "parent": 243,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_242_highlighted.png"
+    },
+    {
+      "id": 326,
+      "filename": "toronto-61_element_177_highlighted.png",
+      "parent": 249,
+      "description": "A dark building with a rectangular structure.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_177_highlighted.png"
+    },
+    {
+      "id": 327,
+      "filename": "Layer 1_Item_222_highlighted.png",
+      "parent": 251,
+      "description": "A brown, flat surface resembling the ground, with an irregular outline.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_222_highlighted.png"
+    },
+    {
+      "id": 328,
+      "filename": "toronto-61_element_180_highlighted.png",
+      "parent": 251,
+      "description": "A dark building with a rectangular structure.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_180_highlighted.png"
+    },
+    {
+      "id": 329,
+      "filename": "toronto-61_element_194_highlighted.png",
+      "parent": 251,
+      "description": "The side of a rectangular building.",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "toronto-61_element_194_highlighted.png"
+    },
+    {
+      "id": 330,
+      "filename": "Layer 1_Item_210_highlighted.png",
+      "parent": 252,
+      "description": "A tiny white roof on top of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_210_highlighted.png"
+    },
+    {
+      "id": 331,
+      "filename": "toronto-61_element_182_highlighted.png",
+      "parent": 252,
+      "description": "A blue-grey tower with a spherical top and a tall, thin antenna.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_182_highlighted.png"
+    },
+    {
+      "id": 332,
+      "filename": "Layer 1_Item_228_highlighted.png",
+      "parent": 258,
+      "description": "The very top corner of a tall, blocky building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_228_highlighted.png"
+    },
+    {
+      "id": 333,
+      "filename": "toronto-61_element_199_highlighted.png",
+      "parent": 258,
+      "description": "A small lit square on the top of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_199_highlighted.png"
+    },
+    {
+      "id": 334,
+      "filename": "Layer 1_Item_243_highlighted.png",
+      "parent": 260,
+      "description": "The top of a dark, ridged building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_243_highlighted.png"
+    },
+    {
+      "id": 335,
+      "filename": "toronto-61_element_214_highlighted.png",
+      "parent": 260,
+      "description": "The top edge of a modern, dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_214_highlighted.png"
+    },
+    {
+      "id": 336,
+      "filename": "toronto-61_element_201_highlighted.png",
+      "parent": 261,
+      "description": "A brown surface representing land or ground.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_201_highlighted.png"
+    },
+    {
+      "id": 337,
+      "filename": "toronto-61_element_216_highlighted.png",
+      "parent": 261,
+      "description": "The top edge of a modern, dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_216_highlighted.png"
+    },
+    {
+      "id": 338,
+      "filename": "toronto-61_element_70_highlighted.png",
+      "parent": 282,
+      "description": "A section of dark grey land.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_70_highlighted.png"
+    },
+    {
+      "id": 339,
+      "filename": "Layer 1_Item_235_highlighted.png",
+      "parent": 283,
+      "description": "The white roof of a building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_235_highlighted.png"
+    },
+    {
+      "id": 340,
+      "filename": "Layer 1_Item_238_highlighted.png",
+      "parent": 283,
+      "description": "A white pixel on top of a dark rectangular building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_238_highlighted.png"
+    },
+    {
+      "id": 341,
+      "filename": "Layer 1_Item_270_highlighted.png",
+      "parent": 283,
+      "description": "A single light gray square, part of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_270_highlighted.png"
+    },
+    {
+      "id": 342,
+      "filename": "Layer 1_Item_283_highlighted.png",
+      "parent": 283,
+      "description": "A thin dot on the roof of a tall building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_283_highlighted.png"
+    },
+    {
+      "id": 343,
+      "filename": "Layer 1_Item_285_highlighted.png",
+      "parent": 283,
+      "description": "A top corner of a tall, dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_285_highlighted.png"
+    },
+    {
+      "id": 344,
+      "filename": "toronto-61_element_206_highlighted.png",
+      "parent": 283,
+      "description": "A small white light on a tall dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_206_highlighted.png"
+    },
+    {
+      "id": 345,
+      "filename": "toronto-61_element_209_highlighted.png",
+      "parent": 283,
+      "description": "A small rectangular light on a tall dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_209_highlighted.png"
+    },
+    {
+      "id": 346,
+      "filename": "toronto-61_element_240_highlighted.png",
+      "parent": 283,
+      "description": "The top corner of a skyscraper.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_240_highlighted.png"
+    },
+    {
+      "id": 347,
+      "filename": "toronto-61_element_253_highlighted.png",
+      "parent": 283,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_253_highlighted.png"
+    },
+    {
+      "id": 348,
+      "filename": "toronto-61_element_255_highlighted.png",
+      "parent": 283,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_255_highlighted.png"
+    },
+    {
+      "id": 349,
+      "filename": "Layer 1_Item_275_highlighted.png",
+      "parent": 287,
+      "description": "A small window on the side of a tall building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_275_highlighted.png"
+    },
+    {
+      "id": 350,
+      "filename": "toronto-61_element_245_highlighted.png",
+      "parent": 287,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_245_highlighted.png"
+    },
+    {
+      "id": 351,
+      "filename": "Layer 1_Item_278_highlighted.png",
+      "parent": 288,
+      "description": "A white spot on the side of a dark building, part of a city model.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_278_highlighted.png"
+    },
+    {
+      "id": 352,
+      "filename": "toronto-61_element_248_highlighted.png",
+      "parent": 288,
+      "description": "A small, rectangular high-rise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_248_highlighted.png"
+    },
+    {
+      "id": 353,
+      "filename": "toronto-61_element_259_highlighted.png",
+      "parent": 290,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_259_highlighted.png"
+    },
+    {
+      "id": 354,
+      "filename": "toronto-61_element_262_highlighted.png",
+      "parent": 292,
+      "description": "A set of four rectangular skyscrapers.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_262_highlighted.png"
+    },
+    {
+      "id": 355,
+      "filename": "Layer 1_Item_281_highlighted.png",
+      "parent": 299,
+      "description": "A bright speck on the side of one building, possibly representing a light within.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_281_highlighted.png"
+    },
+    {
+      "id": 356,
+      "filename": "toronto-61_element_251_highlighted.png",
+      "parent": 299,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_251_highlighted.png"
+    },
+    {
+      "id": 357,
+      "filename": "Layer 1_Item_296_highlighted.png",
+      "parent": 301,
+      "description": "A small section of flat land.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_296_highlighted.png"
+    },
+    {
+      "id": 358,
+      "filename": "toronto-61_element_266_highlighted.png",
+      "parent": 301,
+      "description": "A set of four rectangular skyscrapers.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_266_highlighted.png"
+    },
+    {
+      "id": 359,
+      "filename": "Layer 1_Item_184_highlighted.png",
+      "parent": 307,
+      "description": "A single illuminated window in the middle of a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_184_highlighted.png"
+    },
+    {
+      "id": 360,
+      "filename": "Layer 1_Item_186_highlighted.png",
+      "parent": 307,
+      "description": "A small, white, window on the side of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_186_highlighted.png"
+    },
+    {
+      "id": 361,
+      "filename": "toronto-61_element_160_highlighted.png",
+      "parent": 307,
+      "description": "The top of a dark tower is illuminated.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_160_highlighted.png"
+    },
+    {
+      "id": 362,
+      "filename": "Layer 1_Item_178_highlighted.png",
+      "parent": 308,
+      "description": "A square window in a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_178_highlighted.png"
+    },
+    {
+      "id": 363,
+      "filename": "Layer 1_Item_180_highlighted.png",
+      "parent": 308,
+      "description": "A light in a window of the stepped building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_180_highlighted.png"
+    },
+    {
+      "id": 364,
+      "filename": "toronto-61_element_154_highlighted.png",
+      "parent": 308,
+      "description": "A single window on the tower is lit up.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_154_highlighted.png"
+    },
+    {
+      "id": 365,
+      "filename": "Layer 1_Item_176_highlighted.png",
+      "parent": 311,
+      "description": "One window of a multi-story building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_176_highlighted.png"
+    },
+    {
+      "id": 366,
+      "filename": "Layer 1_Item_183_highlighted.png",
+      "parent": 311,
+      "description": "A pale dot on the side of a dark building, appearing as a light in a window.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_183_highlighted.png"
+    },
+    {
+      "id": 367,
+      "filename": "toronto-61_element_150_highlighted.png",
+      "parent": 311,
+      "description": "A small, white, square window on a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_150_highlighted.png"
+    },
+    {
+      "id": 368,
+      "filename": "toronto-61_element_157_highlighted.png",
+      "parent": 311,
+      "description": "The top of a dark tower is illuminated.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_157_highlighted.png"
+    },
+    {
+      "id": 369,
+      "filename": "Layer 1_Item_181_highlighted.png",
+      "parent": 312,
+      "description": "A dark blue building with a white window.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_181_highlighted.png"
+    },
+    {
+      "id": 370,
+      "filename": "Layer 1_Item_197_highlighted.png",
+      "parent": 312,
+      "description": "A small, bright rectangular window in a dark grey building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_197_highlighted.png"
+    },
+    {
+      "id": 371,
+      "filename": "Layer 1_Item_202_highlighted.png",
+      "parent": 312,
+      "description": "A white spot on the side of a dark building, part of a city model.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_202_highlighted.png"
+    },
+    {
+      "id": 372,
+      "filename": "toronto-61_element_170_highlighted.png",
+      "parent": 312,
+      "description": "A section of the top part of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_170_highlighted.png"
+    },
+    {
+      "id": 373,
+      "filename": "toronto-61_element_175_highlighted.png",
+      "parent": 312,
+      "description": "A dark building with a rectangular structure.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_175_highlighted.png"
+    },
+    {
+      "id": 374,
+      "filename": "toronto-61_element_168_highlighted.png",
+      "parent": 314,
+      "description": "An illuminated edge on a dark building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_168_highlighted.png"
+    },
+    {
+      "id": 375,
+      "filename": "Layer 1_Item_192_highlighted.png",
+      "parent": 317,
+      "description": "The side of a building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_192_highlighted.png"
+    },
+    {
+      "id": 376,
+      "filename": "Layer 1_Item_193_highlighted.png",
+      "parent": 317,
+      "description": "A tiny white light atop a grey building with multiple tiers",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_193_highlighted.png"
+    },
+    {
+      "id": 377,
+      "filename": "Layer 1_Item_194_highlighted.png",
+      "parent": 317,
+      "description": "A single light blue square window on a brownstone building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_194_highlighted.png"
+    },
+    {
+      "id": 378,
+      "filename": "Layer 1_Item_213_highlighted.png",
+      "parent": 317,
+      "description": "A light brown surface, possibly a table or base, seemingly made of solid material.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_213_highlighted.png"
+    },
+    {
+      "id": 379,
+      "filename": "toronto-61_element_165_highlighted.png",
+      "parent": 317,
+      "description": "The central upper part of a dark building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_165_highlighted.png"
+    },
+    {
+      "id": 380,
+      "filename": "toronto-61_element_166_highlighted.png",
+      "parent": 317,
+      "description": "A smaller, glowing section of a dark building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_166_highlighted.png"
+    },
+    {
+      "id": 381,
+      "filename": "Layer 1_Item_155_highlighted.png",
+      "parent": 320,
+      "description": "The pale triangular top of a high-rise building.",
+      "color": "rgba(166, 145, 109, 1.0)",
+      "mask_path": "Layer 1_Item_155_highlighted.png"
+    },
+    {
+      "id": 382,
+      "filename": "Layer 1_Item_198_highlighted.png",
+      "parent": 326,
+      "description": "A white spot on the side of a dark building, part of a city model.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_198_highlighted.png"
+    },
+    {
+      "id": 383,
+      "filename": "Layer 1_Item_199_highlighted.png",
+      "parent": 326,
+      "description": "An orange, square surface representing a terrain for the miniature city, which appears to be made of dark-colored material.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_199_highlighted.png"
+    },
+    {
+      "id": 384,
+      "filename": "Layer 1_Item_220_highlighted.png",
+      "parent": 326,
+      "description": "A light-colored square window on a dark, multi-story building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_220_highlighted.png"
+    },
+    {
+      "id": 385,
+      "filename": "toronto-61_element_171_highlighted.png",
+      "parent": 326,
+      "description": "A brown square representing land.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_171_highlighted.png"
+    },
+    {
+      "id": 386,
+      "filename": "toronto-61_element_172_highlighted.png",
+      "parent": 326,
+      "description": "A dark building with four windows.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_172_highlighted.png"
+    },
+    {
+      "id": 387,
+      "filename": "Layer 1_Item_209_highlighted.png",
+      "parent": 327,
+      "description": "A small white light at the roof of a grey building with multiple tiers",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_209_highlighted.png"
+    },
+    {
+      "id": 388,
+      "filename": "toronto-61_element_181_highlighted.png",
+      "parent": 327,
+      "description": "A flat, light-brown surface surrounding a miniature city model.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_181_highlighted.png"
+    },
+    {
+      "id": 389,
+      "filename": "Layer 1_Item_208_highlighted.png",
+      "parent": 328,
+      "description": "The side of a tall building",
+      "color": "rgba(30, 69, 73, 1.0)",
+      "mask_path": "Layer 1_Item_208_highlighted.png"
+    },
+    {
+      "id": 390,
+      "filename": "Layer 1_Item_234_highlighted.png",
+      "parent": 339,
+      "description": "A small, white light at the top of a grey rectangular building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_234_highlighted.png"
+    },
+    {
+      "id": 391,
+      "filename": "toronto-61_element_205_highlighted.png",
+      "parent": 339,
+      "description": "A small rectangular light on the side of a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_205_highlighted.png"
+    },
+    {
+      "id": 392,
+      "filename": "Layer 1_Item_237_highlighted.png",
+      "parent": 340,
+      "description": "A single, bright square on a tall building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_237_highlighted.png"
+    },
+    {
+      "id": 393,
+      "filename": "Layer 1_Item_269_highlighted.png",
+      "parent": 341,
+      "description": "A light gray square, on the upper part of a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_269_highlighted.png"
+    },
+    {
+      "id": 394,
+      "filename": "toronto-61_element_239_highlighted.png",
+      "parent": 341,
+      "description": "The side of a highrise building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_239_highlighted.png"
+    },
+    {
+      "id": 395,
+      "filename": "Layer 1_Item_284_highlighted.png",
+      "parent": 342,
+      "description": "A white pixel on a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_284_highlighted.png"
+    },
+    {
+      "id": 396,
+      "filename": "toronto-61_element_254_highlighted.png",
+      "parent": 342,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_254_highlighted.png"
+    },
+    {
+      "id": 397,
+      "filename": "Layer 1_Item_290_highlighted.png",
+      "parent": 353,
+      "description": "A single lit window on a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_290_highlighted.png"
+    },
+    {
+      "id": 398,
+      "filename": "toronto-61_element_260_highlighted.png",
+      "parent": 353,
+      "description": "A tiny spot of light-colored texture on an otherwise dark ground plane.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_260_highlighted.png"
+    },
+    {
+      "id": 399,
+      "filename": "Layer 1_Item_293_highlighted.png",
+      "parent": 354,
+      "description": "The side of a high-rise building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_293_highlighted.png"
+    },
+    {
+      "id": 400,
+      "filename": "toronto-61_element_263_highlighted.png",
+      "parent": 354,
+      "description": "A glowing white dot.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_263_highlighted.png"
+    },
+    {
+      "id": 401,
+      "filename": "Layer 1_Item_185_highlighted.png",
+      "parent": 359,
+      "description": "A small, square, glowing-white window on a multi-story blue-gray building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_185_highlighted.png"
+    },
+    {
+      "id": 402,
+      "filename": "toronto-61_element_158_highlighted.png",
+      "parent": 359,
+      "description": "The top of a dark tower is illuminated.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_158_highlighted.png"
+    },
+    {
+      "id": 403,
+      "filename": "toronto-61_element_159_highlighted.png",
+      "parent": 359,
+      "description": "A single window on the tower is lit up.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_159_highlighted.png"
+    },
+    {
+      "id": 404,
+      "filename": "Layer 1_Item_175_highlighted.png",
+      "parent": 365,
+      "description": "A small square window in a dark grey building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_175_highlighted.png"
+    },
+    {
+      "id": 405,
+      "filename": "Layer 1_Item_177_highlighted.png",
+      "parent": 365,
+      "description": "A small, square window on a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_177_highlighted.png"
+    },
+    {
+      "id": 406,
+      "filename": "toronto-61_element_151_highlighted.png",
+      "parent": 365,
+      "description": "A single window on the tower is lit up.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_151_highlighted.png"
+    },
+    {
+      "id": 407,
+      "filename": "Layer 1_Item_182_highlighted.png",
+      "parent": 369,
+      "description": "A small, square building with a lit-up square window on its side.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_182_highlighted.png"
+    },
+    {
+      "id": 408,
+      "filename": "toronto-61_element_155_highlighted.png",
+      "parent": 369,
+      "description": "The top of a dark tower is illuminated.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_155_highlighted.png"
+    },
+    {
+      "id": 409,
+      "filename": "toronto-61_element_156_highlighted.png",
+      "parent": 369,
+      "description": "A single window on the tower is lit up.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_156_highlighted.png"
+    },
+    {
+      "id": 410,
+      "filename": "Layer 1_Item_203_highlighted.png",
+      "parent": 371,
+      "description": "A small bright dot on a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_203_highlighted.png"
+    },
+    {
+      "id": 411,
+      "filename": "toronto-61_element_176_highlighted.png",
+      "parent": 371,
+      "description": "A dark building with four windows.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_176_highlighted.png"
+    },
+    {
+      "id": 412,
+      "filename": "Layer 1_Item_211_highlighted.png",
+      "parent": 378,
+      "description": "A white window on a building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_211_highlighted.png"
+    },
+    {
+      "id": 413,
+      "filename": "Layer 1_Item_212_highlighted.png",
+      "parent": 378,
+      "description": "A white rooftop detail on a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_212_highlighted.png"
+    },
+    {
+      "id": 414,
+      "filename": "Layer 1_Item_214_highlighted.png",
+      "parent": 378,
+      "description": "A white window on top of the roof of a gray building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_214_highlighted.png"
+    },
+    {
+      "id": 415,
+      "filename": "toronto-61_element_183_highlighted.png",
+      "parent": 378,
+      "description": "A dark blue-grey, rectangular building with multiple floors and a flat roof.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_183_highlighted.png"
+    },
+    {
+      "id": 416,
+      "filename": "toronto-61_element_184_highlighted.png",
+      "parent": 378,
+      "description": "A tiny, white highlight on the top of a dark building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_184_highlighted.png"
+    },
+    {
+      "id": 417,
+      "filename": "toronto-61_element_33_highlighted.png",
+      "parent": 381,
+      "description": "A tiny white flag on a high-rise building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_33_highlighted.png"
+    },
+    {
+      "id": 418,
+      "filename": "Layer 1_Item_200_highlighted.png",
+      "parent": 383,
+      "description": "A small window on the side of a square building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_200_highlighted.png"
+    },
+    {
+      "id": 419,
+      "filename": "Layer 1_Item_217_highlighted.png",
+      "parent": 389,
+      "description": "A window on top of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_217_highlighted.png"
+    },
+    {
+      "id": 420,
+      "filename": "toronto-61_element_185_highlighted.png",
+      "parent": 414,
+      "description": "A dark blue-grey building made of three stacked rectangular cubes, likely an office building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_185_highlighted.png"
+    },
+    {
+      "id": 421,
+      "filename": "toronto-61_element_186_highlighted.png",
+      "parent": 414,
+      "description": "A dark blue-grey structure comprising of many small rectangular cubes stacked next to each other.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_186_highlighted.png"
+    },
+    {
+      "id": 422,
+      "filename": "toronto-61_element_192_highlighted.png",
+      "parent": 414,
+      "description": "A slender tower with a sphere at the top and a thin spire, representing a tall landmark.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_192_highlighted.png"
+    },
+    {
+      "id": 423,
+      "filename": "toronto-61_element_22_highlighted.png",
+      "parent": 417,
+      "description": "A small, rectangular, dark building roof.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_22_highlighted.png"
+    },
+    {
+      "id": 424,
+      "filename": "toronto-61_element_32_highlighted.png",
+      "parent": 417,
+      "description": "A tiny white flag on a high-rise building.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_32_highlighted.png"
+    },
+    {
+      "id": 425,
+      "filename": "toronto-61_element_167_highlighted.png",
+      "parent": 418,
+      "description": "The top of a dark building",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_167_highlighted.png"
+    },
+    {
+      "id": 426,
+      "filename": "Layer 1_Item_215_highlighted.png",
+      "parent": 419,
+      "description": "A tiny, white square window on a building facade.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_215_highlighted.png"
+    },
+    {
+      "id": 427,
+      "filename": "Layer 1_Item_216_highlighted.png",
+      "parent": 419,
+      "description": "A light-colored tip of the roof of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_216_highlighted.png"
+    },
+    {
+      "id": 428,
+      "filename": "Layer 1_Item_218_highlighted.png",
+      "parent": 419,
+      "description": "A very small white dot on top of the building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_218_highlighted.png"
+    },
+    {
+      "id": 429,
+      "filename": "Layer 1_Item_219_highlighted.png",
+      "parent": 419,
+      "description": "A pale dot on the side of a dark building, appearing as a light in a window.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "Layer 1_Item_219_highlighted.png"
+    },
+    {
+      "id": 430,
+      "filename": "toronto-61_element_187_highlighted.png",
+      "parent": 419,
+      "description": "A dark blue-grey mass representing land, presumably an island.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_187_highlighted.png"
+    },
+    {
+      "id": 431,
+      "filename": "toronto-61_element_188_highlighted.png",
+      "parent": 419,
+      "description": "A dark blue-grey, multi-story building with a simple, geometric design.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_188_highlighted.png"
+    },
+    {
+      "id": 432,
+      "filename": "toronto-61_element_189_highlighted.png",
+      "parent": 419,
+      "description": "A dark blue-grey building, seemingly part of a group of similar structures in a city model.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_189_highlighted.png"
+    },
+    {
+      "id": 433,
+      "filename": "toronto-61_element_190_highlighted.png",
+      "parent": 419,
+      "description": "A dark, rectangular window on the side of a building.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_190_highlighted.png"
+    },
+    {
+      "id": 434,
+      "filename": "toronto-61_element_191_highlighted.png",
+      "parent": 419,
+      "description": "An brown isometric shape representing the ground.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_191_highlighted.png"
+    },
+    {
+      "id": 435,
+      "filename": "toronto-61_element_23_highlighted.png",
+      "parent": 423,
+      "description": "A small, rectangular, dark building window.",
+      "color": "rgba(112, 103, 103, 1.0)",
+      "mask_path": "toronto-61_element_23_highlighted.png"
+    },
+    {
+      "id": 436,
+      "filename": "toronto-61_element_173_highlighted.png",
+      "parent": 425,
+      "description": "A tall thin tower with a rounded top.",
+      "color": "rgba(224, 224, 224, 1.0)",
+      "mask_path": "toronto-61_element_173_highlighted.png"
+    }
+  ]
+}

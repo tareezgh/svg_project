@@ -1,0 +1,500 @@
+{
+  "global_style": "flat 2D illustration",
+  "scene": [
+    {
+      "id": 0,
+      "filename": "Full production-line-3",
+      "parent": -1,
+      "description": "A conveyor belt illustration shows a factory or warehouse setting with boxes being transported along a belt. A robotic arm is lifting one of the boxes.",
+      "color": "rgba(9, 63, 104, 1.0)"
+    },
+    {
+      "id": 1,
+      "filename": "production-line-3_element_36_highlighted.png",
+      "parent": 0,
+      "description": "The outline of the main support structure for a conveyor belt machine.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_36_highlighted.png"
+    },
+    {
+      "id": 2,
+      "filename": "Item_5_highlighted.png",
+      "parent": 1,
+      "description": "The entire light blue structure including the conveyor belt and the crane.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_5_highlighted.png"
+    },
+    {
+      "id": 3,
+      "filename": "production-line-3_element_35_highlighted.png",
+      "parent": 2,
+      "description": "The main vertical support column of a production line.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "production-line-3_element_35_highlighted.png"
+    },
+    {
+      "id": 4,
+      "filename": "Item_2_highlighted.png",
+      "parent": 3,
+      "description": "A yellow cardboard box with a red seal, sitting on a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_2_highlighted.png"
+    },
+    {
+      "id": 5,
+      "filename": "Item_3_highlighted.png",
+      "parent": 3,
+      "description": "A yellow cardboard box with a red seal, sitting on a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_3_highlighted.png"
+    },
+    {
+      "id": 6,
+      "filename": "Item_4_highlighted.png",
+      "parent": 3,
+      "description": "A white arrow pointing to the left, near a raised conveyor arm.",
+      "color": "rgba(223, 234, 239, 1.0)",
+      "mask_path": "Item_4_highlighted.png"
+    },
+    {
+      "id": 7,
+      "filename": "Layer 18_highlighted.png",
+      "parent": 3,
+      "description": "A black spherical component of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 18_highlighted.png"
+    },
+    {
+      "id": 8,
+      "filename": "Layer 19_highlighted.png",
+      "parent": 3,
+      "description": "A blue rectangular connector, used to lift a box on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 19_highlighted.png"
+    },
+    {
+      "id": 9,
+      "filename": "production-line-3_element_18_highlighted.png",
+      "parent": 3,
+      "description": "Blue metal mechanism that lifts the box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_18_highlighted.png"
+    },
+    {
+      "id": 10,
+      "filename": "production-line-3_element_22_highlighted.png",
+      "parent": 3,
+      "description": "A dark blue border on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_22_highlighted.png"
+    },
+    {
+      "id": 11,
+      "filename": "production-line-3_element_2_highlighted.png",
+      "parent": 3,
+      "description": "A dark blue cardboard box being lifted by a machine.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_2_highlighted.png"
+    },
+    {
+      "id": 12,
+      "filename": "production-line-3_element_38_highlighted.png",
+      "parent": 3,
+      "description": "The side panel of the production line machine.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_38_highlighted.png"
+    },
+    {
+      "id": 13,
+      "filename": "production-line-3_element_43_highlighted.png",
+      "parent": 3,
+      "description": "A blue line at the top of a machine.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_43_highlighted.png"
+    },
+    {
+      "id": 14,
+      "filename": "production-line-3_element_6_highlighted.png",
+      "parent": 4,
+      "description": "A blue outline on the top of a cardboard box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_6_highlighted.png"
+    },
+    {
+      "id": 15,
+      "filename": "production-line-3_element_10_highlighted.png",
+      "parent": 5,
+      "description": "A blue outline on the top of a cardboard box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_10_highlighted.png"
+    },
+    {
+      "id": 16,
+      "filename": "Layer 15_highlighted.png",
+      "parent": 6,
+      "description": "A white arrow indicating direction of movement above a conveyor belt.",
+      "color": "rgba(223, 234, 239, 1.0)",
+      "mask_path": "Layer 15_highlighted.png"
+    },
+    {
+      "id": 17,
+      "filename": "Layer 16_highlighted.png",
+      "parent": 6,
+      "description": "A white arrow pointing to the right, indicating the direction of the conveyor belt.",
+      "color": "rgba(223, 234, 239, 1.0)",
+      "mask_path": "Layer 16_highlighted.png"
+    },
+    {
+      "id": 18,
+      "filename": "production-line-3_element_17_highlighted.png",
+      "parent": 7,
+      "description": "The brown cardboard box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_17_highlighted.png"
+    },
+    {
+      "id": 19,
+      "filename": "production-line-3_element_20_highlighted.png",
+      "parent": 8,
+      "description": "Small blue metal block that connects metal part to frame.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_20_highlighted.png"
+    },
+    {
+      "id": 20,
+      "filename": "Layer 17_highlighted.png",
+      "parent": 9,
+      "description": "A blue hook mechanism above a conveyor belt, holding a package.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 17_highlighted.png"
+    },
+    {
+      "id": 21,
+      "filename": "production-line-3_element_21_highlighted.png",
+      "parent": 10,
+      "description": "The light blue conveyor belt, a component of the production line.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "production-line-3_element_21_highlighted.png"
+    },
+    {
+      "id": 22,
+      "filename": "Item_1_highlighted.png",
+      "parent": 11,
+      "description": "A yellow cardboard box with a blue outline, suspended by a crane.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Item_1_highlighted.png"
+    },
+    {
+      "id": 23,
+      "filename": "production-line-3_element_37_highlighted.png",
+      "parent": 12,
+      "description": "The side panel of the production line machine.",
+      "color": "rgba(104, 225, 253, 1.0)",
+      "mask_path": "production-line-3_element_37_highlighted.png"
+    },
+    {
+      "id": 24,
+      "filename": "production-line-3_element_5_highlighted.png",
+      "parent": 14,
+      "description": "A yellow cardboard box on the conveyor belt.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "production-line-3_element_5_highlighted.png"
+    },
+    {
+      "id": 25,
+      "filename": "production-line-3_element_9_highlighted.png",
+      "parent": 15,
+      "description": "A yellow cardboard box on the conveyor belt.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "production-line-3_element_9_highlighted.png"
+    },
+    {
+      "id": 26,
+      "filename": "production-line-3_element_13_highlighted.png",
+      "parent": 16,
+      "description": "A white arrow that indicates the direction in which products are moved.",
+      "color": "rgba(223, 234, 239, 1.0)",
+      "mask_path": "production-line-3_element_13_highlighted.png"
+    },
+    {
+      "id": 27,
+      "filename": "production-line-3_element_14_highlighted.png",
+      "parent": 16,
+      "description": "A white arrow that indicates the direction in which products are moved.",
+      "color": "rgba(223, 234, 239, 1.0)",
+      "mask_path": "production-line-3_element_14_highlighted.png"
+    },
+    {
+      "id": 28,
+      "filename": "production-line-3_element_15_highlighted.png",
+      "parent": 17,
+      "description": "A white arrow that indicates the direction in which products are moved.",
+      "color": "rgba(223, 234, 239, 1.0)",
+      "mask_path": "production-line-3_element_15_highlighted.png"
+    },
+    {
+      "id": 29,
+      "filename": "production-line-3_element_16_highlighted.png",
+      "parent": 17,
+      "description": "A white arrow that indicates the direction in which products are moved.",
+      "color": "rgba(223, 234, 239, 1.0)",
+      "mask_path": "production-line-3_element_16_highlighted.png"
+    },
+    {
+      "id": 30,
+      "filename": "production-line-3_element_19_highlighted.png",
+      "parent": 19,
+      "description": "Small blue metal block that connects metal part to frame.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_19_highlighted.png"
+    },
+    {
+      "id": 31,
+      "filename": "production-line-3_element_24_highlighted.png",
+      "parent": 21,
+      "description": "One dark blue roller on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_24_highlighted.png"
+    },
+    {
+      "id": 32,
+      "filename": "production-line-3_element_26_highlighted.png",
+      "parent": 21,
+      "description": "One dark blue roller on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_26_highlighted.png"
+    },
+    {
+      "id": 33,
+      "filename": "production-line-3_element_28_highlighted.png",
+      "parent": 21,
+      "description": "One dark blue roller on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_28_highlighted.png"
+    },
+    {
+      "id": 34,
+      "filename": "production-line-3_element_30_highlighted.png",
+      "parent": 21,
+      "description": "One dark blue roller on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_30_highlighted.png"
+    },
+    {
+      "id": 35,
+      "filename": "production-line-3_element_32_highlighted.png",
+      "parent": 21,
+      "description": "A circular conveyor belt component.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_32_highlighted.png"
+    },
+    {
+      "id": 36,
+      "filename": "production-line-3_element_34_highlighted.png",
+      "parent": 21,
+      "description": "A circular conveyor belt component.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_34_highlighted.png"
+    },
+    {
+      "id": 37,
+      "filename": "production-line-3_element_1_highlighted.png",
+      "parent": 22,
+      "description": "A yellow cardboard box being lifted by a machine.",
+      "color": "rgba(255, 188, 14, 1.0)",
+      "mask_path": "production-line-3_element_1_highlighted.png"
+    },
+    {
+      "id": 38,
+      "filename": "production-line-3_element_40_highlighted.png",
+      "parent": 23,
+      "description": "A blue indicator light on a control panel.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_40_highlighted.png"
+    },
+    {
+      "id": 39,
+      "filename": "production-line-3_element_42_highlighted.png",
+      "parent": 23,
+      "description": "A blue rectangular button on the side of a machine.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_42_highlighted.png"
+    },
+    {
+      "id": 40,
+      "filename": "production-line-3_element_8_highlighted.png",
+      "parent": 24,
+      "description": "A blue outline on the top of a cardboard box.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_8_highlighted.png"
+    },
+    {
+      "id": 41,
+      "filename": "production-line-3_element_12_highlighted.png",
+      "parent": 25,
+      "description": "A small rectangular section of the brown cardboard box being conveyed.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_12_highlighted.png"
+    },
+    {
+      "id": 42,
+      "filename": "Layer 12_highlighted.png",
+      "parent": 31,
+      "description": "A dark blue circle on a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 12_highlighted.png"
+    },
+    {
+      "id": 43,
+      "filename": "Layer 11_highlighted.png",
+      "parent": 32,
+      "description": "A blue spherical component of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 11_highlighted.png"
+    },
+    {
+      "id": 44,
+      "filename": "Layer 10_highlighted.png",
+      "parent": 33,
+      "description": "A blue spherical component of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 10_highlighted.png"
+    },
+    {
+      "id": 45,
+      "filename": "Layer 9_highlighted.png",
+      "parent": 34,
+      "description": "A blue spherical component of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 9_highlighted.png"
+    },
+    {
+      "id": 46,
+      "filename": "Layer 8_highlighted.png",
+      "parent": 35,
+      "description": "A blue spherical component of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 8_highlighted.png"
+    },
+    {
+      "id": 47,
+      "filename": "Layer 7_highlighted.png",
+      "parent": 36,
+      "description": "A blue wheel, part of a conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 7_highlighted.png"
+    },
+    {
+      "id": 48,
+      "filename": "production-line-3_element_4_highlighted.png",
+      "parent": 37,
+      "description": "A blue cardboard box being lifted by a machine.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_4_highlighted.png"
+    },
+    {
+      "id": 49,
+      "filename": "Layer 14_highlighted.png",
+      "parent": 38,
+      "description": "A green rectangular button on the side of a machine.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 14_highlighted.png"
+    },
+    {
+      "id": 50,
+      "filename": "Layer 13_highlighted.png",
+      "parent": 39,
+      "description": "An orange rectangular button on the side of a machine.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "Layer 13_highlighted.png"
+    },
+    {
+      "id": 51,
+      "filename": "production-line-3_element_7_highlighted.png",
+      "parent": 40,
+      "description": "A red outline on the top of a cardboard box.",
+      "color": "rgba(245, 97, 50, 1.0)",
+      "mask_path": "production-line-3_element_7_highlighted.png"
+    },
+    {
+      "id": 52,
+      "filename": "production-line-3_element_11_highlighted.png",
+      "parent": 41,
+      "description": "A small rectangular section of the brown cardboard box being conveyed.",
+      "color": "rgba(245, 97, 50, 1.0)",
+      "mask_path": "production-line-3_element_11_highlighted.png"
+    },
+    {
+      "id": 53,
+      "filename": "production-line-3_element_23_highlighted.png",
+      "parent": 42,
+      "description": "One dark blue roller on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_23_highlighted.png"
+    },
+    {
+      "id": 54,
+      "filename": "production-line-3_element_25_highlighted.png",
+      "parent": 43,
+      "description": "One dark blue roller on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_25_highlighted.png"
+    },
+    {
+      "id": 55,
+      "filename": "production-line-3_element_27_highlighted.png",
+      "parent": 44,
+      "description": "One dark blue roller on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_27_highlighted.png"
+    },
+    {
+      "id": 56,
+      "filename": "production-line-3_element_29_highlighted.png",
+      "parent": 45,
+      "description": "One dark blue roller on the conveyor belt.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_29_highlighted.png"
+    },
+    {
+      "id": 57,
+      "filename": "production-line-3_element_31_highlighted.png",
+      "parent": 46,
+      "description": "A circular conveyor belt component.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_31_highlighted.png"
+    },
+    {
+      "id": 58,
+      "filename": "production-line-3_element_33_highlighted.png",
+      "parent": 47,
+      "description": "A circular conveyor belt component.",
+      "color": "rgba(9, 63, 104, 1.0)",
+      "mask_path": "production-line-3_element_33_highlighted.png"
+    },
+    {
+      "id": 59,
+      "filename": "production-line-3_element_3_highlighted.png",
+      "parent": 48,
+      "description": "An orange cardboard box being lifted by a machine.",
+      "color": "rgba(245, 97, 50, 1.0)",
+      "mask_path": "production-line-3_element_3_highlighted.png"
+    },
+    {
+      "id": 60,
+      "filename": "production-line-3_element_39_highlighted.png",
+      "parent": 49,
+      "description": "A green indicator light on a control panel.",
+      "color": "rgba(112, 204, 64, 1.0)",
+      "mask_path": "production-line-3_element_39_highlighted.png"
+    },
+    {
+      "id": 61,
+      "filename": "production-line-3_element_41_highlighted.png",
+      "parent": 50,
+      "description": "An orange rectangular button on the side of a machine.",
+      "color": "rgba(245, 97, 50, 1.0)",
+      "mask_path": "production-line-3_element_41_highlighted.png"
+    }
+  ]
+}
